@@ -46,13 +46,22 @@ def generate_pairs(doc_path, max_chars=8000):
     print(f"  Generating pairs for: {doc_path.name} ({len(text):,} chars)")
     
     try:
+        # scale pairs by document length
+        word_count = len(text.split())
+        if word_count > 5000:
+            num_pairs = 20
+        elif word_count > 2000:
+            num_pairs = 15
+        else:
+            num_pairs = 10
+
         response = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=2000,
+            max_tokens=4000,
             system=SYSTEM_PROMPT,
             messages=[{
                 "role": "user",
-                "content": f"Generate 10 training pairs from this CRE document:\n\n{text}"
+                "content": f"Generate {num_pairs} training pairs from this CRE document:\n\n{text}"
             }]
         )
         
