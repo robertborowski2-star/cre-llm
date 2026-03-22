@@ -3,19 +3,41 @@ import json
 import pdfplumber
 from docx import Document
 from pathlib import Path
+import pytesseract
+from pdf2image import convert_from_path
 
 # ---- Paths ----
 RAW_DIR     = Path("data/raw")
 CLEANED_DIR = Path("data/cleaned")
 
-# ---- PDF Extractor ----
+# ---- PDF Extractor (with OCR fallback) ----
 def extract_pdf(path):
     text = ""
+    
+    # first try normal text extraction (fast)
     with pdfplumber.open(path) as pdf:
         for page in pdf.pages:
             page_text = page.extract_text()
             if page_text:
                 text += page_text + "\n"
+    
+    # if we got meaningful text, return it
+    if len(text.strip()) > 100:
+        return text.strip()
+    
+    # otherwise fall back to OCR (slower, for scanned PDFs)
+    print(f"  No text layer found, trying OCR...")
+    try:
+        images = convert_from_path(path, dpi=300)
+        for i, image in enumerate(images):
+            print(f"  OCR page {i+1}/{len(images)}...")
+            page_text = pytesseract.image_to_string(image)
+            if page_text:
+                text += page_text + "\n"
+    except Exception as e:
+        print(f"  OCR failed: {e}")
+        return ""
+    
     return text.strip()
 
 # ---- Word Extractor ----
@@ -108,7 +130,7 @@ def run():
     new_meta = []
     skipped  = 0
     for f in files:
-        if f.is_file():
+        if f.is_file() and not f.name.startswith('.'):
             # skip if already processed
             if f.name in already_done:
                 skipped += 1
