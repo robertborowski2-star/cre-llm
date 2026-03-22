@@ -5,3 +5,4 @@ __pycache__/
 data/raw/
 data/cleaned/
 data/training/
+.env
