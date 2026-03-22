@@ -90,28 +90,44 @@ def process_document(path):
 def run():
     CLEANED_DIR.mkdir(parents=True, exist_ok=True)
 
+    # load existing index if it exists
+    index_path = CLEANED_DIR / "index.json"
+    if index_path.exists():
+        existing = json.loads(index_path.read_text())
+        already_done = {m["filename"] for m in existing}
+    else:
+        existing = []
+        already_done = set()
+
     files = list(RAW_DIR.iterdir())
     if not files:
         print("No files found in data/raw/")
         print("Drop some PDFs or Word docs in there and run again.")
         return
 
-    all_meta = []
+    new_meta = []
+    skipped  = 0
     for f in files:
         if f.is_file():
+            # skip if already processed
+            if f.name in already_done:
+                skipped += 1
+                continue
             meta = process_document(f)
             if meta:
-                all_meta.append(meta)
+                new_meta.append(meta)
 
-    # save index of all processed docs
-    index_path = CLEANED_DIR / "index.json"
+    # merge with existing index
+    all_meta   = existing + new_meta
+    total_words = sum(m["words"] for m in all_meta)
+
+    # save updated index
     with open(index_path, "w") as f:
         json.dump(all_meta, f, indent=2)
 
-    total_words = sum(m["words"] for m in all_meta)
-    print(f"\n✓ Processed {len(all_meta)} documents")
-    print(f"✓ Total words: {total_words:,}")
+    print(f"\n✓ Skipped {skipped} already processed documents")
+    print(f"✓ Processed {len(new_meta)} new documents")
+    print(f"✓ Total corpus: {len(all_meta)} documents, {total_words:,} words")
     print(f"✓ Index saved to {index_path}")
-
 if __name__ == "__main__":
     run()
