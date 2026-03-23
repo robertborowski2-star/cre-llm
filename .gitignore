@@ -6,3 +6,12 @@ data/raw/
 data/cleaned/
 data/training/
 .env
+# Model weights and checkpoints
+models/
+*.safetensors
+*.pt
+*.bin
+*.pth
+
+# Duplicate files
+*\ 2.py
