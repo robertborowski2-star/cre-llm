@@ -1,0 +1,249 @@
+[COMPANY] | City | QX25 i f Q325
+Change text in f O
+Slide Master view
+Removing just four buildings—120 Victoria Street North, 25 Water Street
+NET ABSORPTION
+[PERSON], 345 King Street West, and 121–151 Charles Street—reduces the Space Line
+Do not place objects Do not place objects
+This Quarter Previous Quarter overall vacancy rate in [CITY] Kitchener by more than half, from
+above this line. above this line.
+38.5% to 18.2%. This demonstrates the significant impact that a small
+-30K -276K
+SF SF number of large properties have on the broader market vacancy rate.
+Moreover, the highest demand lies within the 1,000–6,000 square foot
+range, which currently represents only 4.4% of the total vacant space in
+ASKING NET RENT Paste as Text
+Downtown Kitchener. This pattern is consistent across multiple markets,
+Use paste as text to
+This Quarter Previous Quarter where the overall vacancy rate for spaces within this size range is just maintain the original
+formatting of the
+2.3%.
+template.
+$16.39 16.25
+PSF PSF
+Since the beginning of 2020, transactions involving spaces under 6,000 10pt Open Sans (Body)
+square feet have accounted for more than 85% of all lease deals 1.2 Multiple
+12pt After Paragraph
+completed within the [LOCATION] office market. This continued
+VACANCY
+demand for smaller, more flexible office spaces underscores a lasting shift
+in tenant preferences toward efficiency and adaptability in workspace
+This Quarter Previous Quarter
+design.
+16.2%YOY 16.0%YOY
+▪ The vacancy rate edged up marginally to 16.2% this quarter from 16.0%
+in the previous quarter, continuing an upward year-over-year trend.
+▪ This quarter also saw the sale of 3 fully occupied medical office
+SALES
+buildings (695, [COMPANY]) boasting a collective
+Sale Price Avg. Year-over-Year footprint of 33,389 square feet which sold for $9,050,850 (or $271 per
+square feet).
+$235 24%
+[COMPANY] and Forecast Text/Space Line
+Do run text beneath Do run text beneath
+this line. Q1 2021 – Q3 2025 Net Absorption New Supply Vacancy Rate this line.
+)F 500,000 25.0%
+y lp 300,000 20.0%
+S 15.0%
+w 100,000 a V
+e c
+N 10.0% a
+/ n -100,000 y c
+o 5.0% R
+itp
+r o -300,000 0.0%
+te -500,000 -5.0%
+N 1 1 1 1 2 2 2 2 3 3 3 3 4 4 4 4 5 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+'1 '2 '3 '4 '1 '2 '3 '4 '1 '2 '3 '4 '1 '2 '3 '4 '1 '2 '3
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Space Line Space Line
+Do not place objects [COMPANY] | [COMPANY] Q3 1 Do not place objects
+beneath this line. beneath this line.
+FFooootteerr LLaayyoouutt || RReeppoorrtt ttiittllee
+CChhaannggee tteexxtt iinn SSlliiddee MMaasstteerr vviieeww
+oorr ggoo ttoo ““IInnsseerrtt”” [PERSON] cchhoooossee [COMPANY] aanndd [PERSON] | City | QX25 c
+Change text in
+Q325
+O Market Overview
+Slide Master view
+[COMPANY] Growth* By Market | Q3 2024 – Q3 2025 Availability Rate by Market Q3 2024 – Q3 2025
+Space Line Space Line
+Do not place objects Do not place objects
+above this line. above this line.
+[CITY] 12% Cambridge 7.1%  from 6.6% Q3’24
+Kitchener -1%
+Kitchener 27.6%  from 21.8% Q3’24
+Waterloo 11%
+Paste as [PERSON] 16.2%  from 16.6% Q3’24
+Use paste as text to [PERSON]
+maintain the original
+formatting of the
+template. Soutwestern Ontario 7% [LOCATION] 19.7%  from 13.4% Q3’24
+10pt Open Sans (Body)
+1.2 Multiple *Weighted Average Asking Net Rent
+12pt After Paragraph 
+[PERSON] by Market Total Square Feet (SF) Vacancy Rate Breakdown by [PERSON] (SF) Paste Arrows into Table
+Use the arrow master to paste
+60%
+your arrows into the table in the
+correct size.
+50%
+10%
+14%
+40%
+[CITY] 1,661,624 SF
+16,690,212 SF Kitchener 5,714,881 SF 30%
+Total
+Inventory 34% Waterloo 6,992,820 SF 20%
+[PERSON] 2,320,887 SF
+42% 10%
+20K+ SF 10K-20[COMPANY][COMPANY]
+Rental Rates by Building Class
+$20 A A
+B B A B B
+$16
+C C A B C C
+$12 C
+[PERSON] Cambridge [PERSON] Ontario
+*Weighted Average Asking Net Rent PSF
+Space Line Space Line
+Do not place objects [COMPANY] | [COMPANY] Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+Waterloo
+Industry | City | QX25 c
+Change text in
+Q325
+O Market Statistics
+Slide Master view
+[COMPANY]. Avg.
+Total Vacant Available Available Available Net New Under Asking
+Space Line # of [COMPANY]
+Do not place objects Class Bldgs (SF) (SF) Rate (SF) ([CITY]) (SF) Rate (SF) ([CITY]) (SF) (PSF) Do not place objects
+above this line. above this line.
+A 1 87,070 8,934 10.3% 8,934 15,346 24,280 27.9% 0 0 0 $20.67
+w o B 5 185,780 9,972 5.4% 9,972 0 9,972 5.4% 0 0 0 $10.00
+w o C 1 24,000 0 0.0% 0 0 0 0.0% 0 0 0 $8.00
+e D
+d All 7 296,850 18,906 7.1% 18,906 15,346 34,252 12.5% 0 0 0 $13.41
+m A 13 629,844 33,425 5.3% 33,426 0 33,426 5.3% 30,377 0 0 $17.57
+a B 19 535,477 35,596 6.6% 35,370 3,000 38,370 7.2% -1,166 0 0 $13.13
+b u C 3 199,453 0 0.0% 11,189 0 11,189 5.6% 0 0 0 $11.33
+All 35 1,364,774 69,021 5.1% 79,985 3,000 82,985 6.1% 29,211 0 0 $14.39
+Total 42 1,661,624 87,927 5.3% 98,891 18,346 117,237 7.1% 29,211 0 0 $13.95
+A 12 1,309,551 412,238 31.5% 377,176 35,062 412,238 31.5% -22,433 0 0 $19.10
+w B 20 1,766,613 861,780 48.8% 876,357 13,512 889,869 50.4% -28,047 0 0 $15.74
+o C 11 375,909 56,225 15.0% 57,527 0 57,527 15.3% -6,105 0 0 $11.83
+e n All 43 3,452,073 1,330,243 38.5% 1,311,060 48,574 1,359,634 39.4% -56,585 0 0 $16.57
+c t A 14 508,677 88,844 17.5% 88,015 0 88,015 17.3% -829 0 0 $17.07
+a B 40 1,647,101 122,894 7.5% 104,930 20,220 125,150 7.6% -5,691 0 0 $14.46
+b u C 6 107,030 1,010 0.9% 4,169 0 4,169 3.9% 0 0 0 $14.61
+All 60 2,262,808 212,748 9.4% 197,114 20,220 217,334 7.5% -6,520 0 0 $15.74
+Total 103 5,714,881 1,542,991 27.0% 1,508,174 68,794 1,576,968 27.6% -63,105 0 0 $16.46
+A 6 1,064,406 29,677 2.8% 0 29,677 29,677 2.8% 0 0 0 $22.81
+w B 12 490,196 14,308 2.9% 9,330 6,827 16,157 3.3% 0 0 0 $17.17
+o C 1 19,600 0 0.0% 6,272 0 6,272 32.0% 0 0 0 $14.43
+o All 19 1,574,202 43,985 2.8% 15,602 36,504 52,106 3.3% 0 0 0 $19.54
+a A 42 3,595,230 590,227 16.4% 619,950 60,887 680,837 18.9% 10,739 0 0 $16.98
+a B 34 1,621,596 336,804 20.8% 384,008 0 384,008 23.7% -1,064 0 0 $15.87
+b u C 5 201,792 7,316 3.6% 9,530 4,512 14,042 7.0% 2,214 0 0 $10.10
+All 81 5,418,618 934,347 17.2% 1,013,488 65,399 1,078,887 19.9% 11,889 0 0 $16.52
+Total 100 6,992,820 978,332 14.0% 1,029,090 101,903 1,130,993 16.2% 11,889 0 0 $16.74
+[COMPANY] 245 14,369,325 2,609,250 18.2% 2,636,155 189,043 2,825,198 19.7% -22,005 0 0 $16.42
+Space Line Space Line
+Do not place objects [COMPANY] | [COMPANY] 3 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+Waterloo
+Industry | City | QX25 c
+Change text in
+Q325
+O Transaction Highlights
+Slide Master view
+A 1 24,740 0 0.0% 0 0 0 0.0% 0 0 0 $0.00
+w B 11 472,544 40,892 8.7% 40,892 0 40,892 8.7% 0 0 0 $15.24
+[PERSON] o tn Space Line
+Do not place objects w o C 4 66,474 0 0.0% 0 0 0 0.0% 0 0 0 $0.00 Do not place objects
+above this line. D above this line.
+h All 16 563,758 40,892 7.3% 40,892 0 40,892 7.3% 0 0 0 $15.24
+G A 27 1,156,623 35,127 3.0% 31,297 0 31,297 2.7% -16,930 0 0 $15.46
+a B 26 536,850 21,822 4.1% 31,824 6,041 37,865 7.1% 8,829 0 0 $16.70
+b u C 5 63,656 0 0.0% 0 0 0 0.0% 0 0 0 $0.00
+All 58 1,757,129 56,949 3.2% 63,121 6,041 69,162 3.9% -8,101 0 0 $15.93
+Total 74 2,320,887 97,841 4.2% 104,013 6,041 110,054 4.7% -8,101 0 0 $15.65
+Southwestern Ontario Total
+Total 319 16,690,212 2,707,091 16.2% 2,740,168 195,084 2,935,252 17.6% -30,106 0 0 $16.39
+Notable Lease Transactions
+Tenant Building Name / Address Market Lease Type Size (SF)
+Confidential 16 Andrew Street #203&204 Kitchener – [PERSON] 15,695
+Confidential 410 Albert Street #102 [COMPANY] 14,969
+To Change Picture
+Right-click on picture and Leased
+choose select from file
+2300 University Avenue East #200B
+or select one from the
+– 15,544 [CITY]
+[COMPANY] panel.
+To Change Picture
+Right-click on picture and
+choose select from file
+or select one from the
+[COMPANY] panel.
+[PERSON]
+Do not place objects [COMPANY] | [COMPANY] Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [COMPANY] of more than 20 dedicated research For more information on the
+specialists, supported by 20 market data [COMPANY], please contact:
+coordinators, our world-class research team
+continuously sources and analyzes data in every [PERSON]
+major market across Canada to ensure our clients
+Managing Director, Brokerage | Head of Research,
+receive the most accurate and powerful Southwestern Ontario Canada
+information to make critical decisions for their +[PHONE] +[PHONE]
+future. We are the industry cornerstone of [EMAIL] [EMAIL]
+authoritative statistics, forecasts and market
+commentary across Canada.
+[PERSON]
+Senior Director, Research Senior Lead, Research
+We have more than 20 years of comprehensive
+[COMPANY] | Canada Operations Specialist |
+market data, extensive research capabilities and
++[PHONE] Canada
+access to ‘live’ deal information - no other research [EMAIL] +[PHONE]
+firm in Canada can provide such a complete [EMAIL]
+commercial real estate research solution.
+Report Authors: Report Contributors:
+[PERSON] [PERSON]
+Core services:
+Research Analyst Executive Vice President,
++[PHONE] Broker
+• Predictive market research [EMAIL] +[PHONE]
+[EMAIL]
+• Reporting on key insights and trends
+[COMPANY] to the latest market data
+Report Contributors:
+[COMPANY]-driven locational intelligence and mapping
+[PERSON] Mark Pretty
+• Customized research engagements
+Senior Vice President, Vice President, Sales
+Sales Representative Representative
++[PHONE] +[PHONE]
+[EMAIL] [EMAIL]
+collierscanada.com/research
+collierscanada.com/research
+[COMPANY] | [COMPANY]
+305 King Street West, [PERSON] 606
+Kitchener, ON N2G 1B9
++[PHONE]
+Copyright © 2025. All rights reserved. [COMPANY], Brokerage.
+Information herein has been obtained from sources deemed reliable, however
+its accuracy cannot be guaranteed. The user is required to conduct their own
+due diligence and verification. This publication is the copyrighted property of
+Colliers and /or its licensor(s).

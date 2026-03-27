@@ -1,0 +1,237 @@
+[CITY]
+Industry | City | QX25 s Q425
+Change text in d
+[COMPANY] view n
+The [CITY] industrial market has experienced a period of contraction this
+NET ABSORPTION
+Space Line quarter, with market fundamentals softening following prior growth in Q3. Space Line
+Do not place objects Do not place objects
+This Quarter Previous Quarter Quarterly net absorption has declined to -300,088SF, driven by a
+above this line. above this line.
+combination of reduced leasing activity and the delivery of new large
+-300K 145k
+[COMPANY] spaces into the market. As a result overall availability increased to 4.65%,
+reflecting a more balanced supply-demand environment across the
+[CITY] market.
+[COMPANY] as Text
+Despite the rise in availability, pricing metrics have remained resilient.
+Use paste as text to
+Average net rents have increased to $10.82 PSF, indicating landlords are maintain the original
+Under Construction New Supply
+formatting of the
+remaining firm with rate expectations. Sale pricing has adjusted modestly,
+template.
+134[COMPANY]K SF with the overall average asking sale price reduced to $177.80, indicating a
+YTD market the remains active but is becoming increasingly more price 10pt Open Sans (Body)
+1.2 Multiple
+conscious.
+12pt After [COMPANY] (PSF)* Constriction activity remains measured, with more than ~100,000SF under
+construction and more than half a million square feet being added to
+This Quarter Previous Quarter
+[CITY]’s inventory in 2025 already. Near term absorption pressure is
+evident, the limited volume of new projects in that supply additions
+$10.82 $10.78
+remain manageable. Overall the [CITY] industrial market continues to
+exhibit stability, with current conditions reflecting a healthy correction
+rather than structural weakness.
+[COMPANY]
+This Quarter Previous Quarter $20.00
+$18.00
+4.65% 3.9%
+$16.00
+$14.00
+[COMPANY]
+$12.00
+Do run text beneath SALES Do run text beneath
+this line. $10.00 this line.
+Sale Price Avg. Previous Quarter
+$8.00
+$177.80 $195.50 $6.00 S ( y
+$4.00 u
+PSF PSF w a V
+$2.00 e c
+N a
+$0.00
+n y
+o R
+2022 2023 2024 2025 YTD
+itp
+r et
+[COMPANY] (NET PSF) t
+[COMPANY] (NET PSF)
+*Weighted Average
+Colliers Southwestern Ontario, Brokerage
+Space Line Space Line
+Do not place objects [COMPANY] | [CITY] Industrial 1 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+London
+Industry | City | QX25
+Change text in s u Q425
+d Market Overview
+Slide Master view n
+Market Overview (Continued) attract cost sensitive users and investors.
+The [LOCATION] submarket continues to represent one of the
+largest and most established industrial nodes in [CITY], The [LOCATION] submarket remains the smallest and tightest
+[PERSON]
+accounting for nearly half of the city’s total inventory. industrial node in [CITY]. Availability increased to 3.8%,
+Do not place objects Do not place objects
+above this line. Availability rose to approximately 5.1% in the last quarter with net absorption declining to an -20,000. Limited above this line.
+of 2025. Net absorption declined to -160,000, reflecting inventory and a lack of new construction continue to
+tenant consolidation and slower leasing activity. Despite constrain vacancy levels in this area. Net asking rents in
+softer demand, pricing remains elevated relative to the the [LOCATION] rose to $11.52PSF. Asking sale prices averages
+broader market. Net asking rents increased to $11.53 to $174.70 PSF, positioning the [LOCATION] as a stable, low
+PSF, reinforcing the [LOCATION]’s position as a premium volatility submarket characterized by limited
+industrial location. Asking sale prices also remain the transactional volume and consistent occupancy.
+highest among submarkets at approximately $217.60PSF,
+supported by the concentration of institutional quality While near term absorption has softened, the [CITY]
+assets and limited redevelopment opportunities. industrial market remains fundamentally sound. Rising
+availability has introduced greater tenant choice, yet
+The [LOCATION] submarket experienced the most pronounced pricing metrics indicate continued landlord confidence.
+shift in market conditions in the last quarter of 2025. With constrained construction pipelines and submarket
+Availability increased to approximately 4.5%, driven by specific demand drivers intact, the market is expected to
+largely new construction deliveries and negative net stabilize as leasing activity adjusts to current economic
+absorption of approximately-120,000SF. The completion conditions.
+of more than 560,000SF with more than 100,000SF under
+construction has outpaced tenant demand. With net
+Text/Space Line Text/Space Line
+asking rents showing a modest increase to $10.14PSF,
+Do run text beneath Do run text beneath
+this line. remaining competitive relative to other submarkets in this line.
+the city. Asking sale prices averaged $142.60PSF,
+reflecting a value-oriented profile that continues to
+Availability Rates by [PERSON] (%)
+Q3 2025 Q4 2025
+To Change Picture
+Right-click on picture and
+choose select from file
+or select one from the
+[COMPANY] panel. 2
+[LOCATION] North London Overall
+Development
+$3.2 billion investment by Norwegian firm [PERSON]
+to construct graphite processing plant in [CITY].
+140 Acre site size with phased development set to begin
+operations in 2028.
+[PERSON]
+Do not place objects [COMPANY] | [CITY] Industrial 2 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+London
+Industry | City | QX25
+Change text in s u Q425
+d [COMPANY] Master view n
+Notable Lease Transactions
+Space Line Space Line
+Do not place objects Do not place objects
+[COMPANY] (SF) Lease Type Landlord Tenant
+above this line. above this line.
+847 [COMPANY], Unit #Bldg. 3 126,284 Head Lease 847 Highbury Inc Confidential
+360 Exeter Rd, Unit #3 34,078 Head Lease 3600 [COMPANY] Confidential
+157-159 Stronach Cres 21,050 Head [COMPANY]
+90 Charterhouse NDB
+90 Charterhouse Cres, Uni #1-9 16,374 Head Lease Confidential
+Limited
+Notable Sales Transactions
+[COMPANY] (SF) Sale Price [PERSON]
+3392 Wonderland Rd S 216,107 $33,275,000 Old Oak Properties BlueStone Properties
+1173735 Ontario
+234 Exeter Rd 52,555 $6,150,000 234 [COMPANY]
+[COMPANY]Bennett Automotive
+Do run text beneath 78 [COMPANY] 20,224 $2,050,000 Group Inc. [PERSON] Do run text beneath
+this line. this line.
+2104 Jetstream Rd 9,470 $1,800,000 4Array [COMPANY]
+To Change Picture
+Building Name / Address Building Status Size (SF) Est. Completion Owner or Major Tenant / Developer
+Right-click on picture and
+choose select from file 1985 [PERSON] Rd Completed 558,550 [COMPANY]
+or select one from the
+[COMPANY] panel.
+2415 Innovation Dr Completed ~100,000 [COMPANY]1061 Hargrieve Rd Completed 43,160 Completed 1061 [COMPANY]
+Completed Under
+Construction
+558,550 SF ~2,000,000 SF
+Warehousing Gigafactory
+Facility
+End User: PowerCo
+Developer: [PERSON] ([COMPANY])
+[PERSON]
+Do not place objects [COMPANY] | [CITY] Industrial 3 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+London
+Industry | City | QX25
+Change text in s u Q425
+d [COMPANY]
+[COMPANY] view n
+[COMPANY]. Asking Under Completed
+Availability Availability Absorption Net Asking Sale Price Construction Construction
+Submarket Inventory (SF) Rate (%) ([CITY]) (SF) Rent (PSF) (PSF) ([CITY]) ([CITY])
+[PERSON]
+Do not place objects [LOCATION] 19,855,194 5.10% 1,012,600 -160,080 11.51 217.59 0 0 Do not place objects
+above this line. above this line.
+East 22,323,182 4.49% 1,005,500 -120,020 10.14 142.60 134,800 565,000
+North 1,433,457 3.80% 54,500 -19,988 11.22 174.69 0 0
+[COMPANY] 43,611,833 4.65% 2,072,600 -300,088 10.82 177.80 134,800 565,000
+Text/Space Line Text/Space Line
+Do run text beneath Do run text beneath
+this line. this line.
+To Change Picture
+Right-click on picture and
+choose select from file
+or select one from the
+[COMPANY] panel.
+[PERSON]
+Do not place objects [COMPANY] | [CITY] Industrial 4 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [COMPANY] of more than 20 dedicated research For more information on the
+[CITY] and [COMPANY],
+specialists, supported by 20 market data
+please contact:
+coordinators, our world-class research team
+continuously sources and analyzes data in every
+major market across Canada to ensure our clients [PERSON], [COMPANY], [PERSON]
+receive the most accurate and powerful President, Vice President,
+information to make critical decisions for their Broker of Record Sales Representative
++[PHONE] ext. 201 +[PHONE] ext. 203
+future. We are the industry cornerstone of
+[EMAIL] [EMAIL]
+authoritative statistics, forecasts and market
+commentary across Canada.
+[PERSON] [PERSON]
+We have more than 20 years of comprehensive
+Associate Vice President [PERSON]
+market data, extensive research capabilities and Sales Representative +[PHONE] ext. 222
+access to ‘live’ deal information - no other research +[PHONE] ext. 207 [EMAIL]
+[EMAIL]
+firm in Canada can provide such a complete
+commercial real estate research solution.
+Report Author:
+Core services: [PERSON], [COMPANY], MBA
+Sales Representative
+• Predictive market research +[PHONE] ext. 214
+[EMAIL]
+• Reporting on key insights and trends
+• Access to the latest market data
+[COMPANY]-driven locational intelligence and mapping
+[COMPANY] research engagements
+collierscanada.com/research
+collierscanada.com/research
+[COMPANY] | [COMPANY] | [COMPANY] 393 First Street, Suite 307,
+Ontario, [PERSON], [COMPANY], L9Y 1B3
+649 [CITY], +[PHONE]
+Ste. #200
+[CITY], ON, N6A 3Z2
+Copyright © 2025. All rights reserved. [PERSON], Brokerage
+Information herein has been obtained from sources deemed reliable, however +[PHONE]
+its accuracy cannot be guaranteed. The user is required to conduct their own
+due diligence and verification. This publication is the copyrighted property of
+Colliers and /or its licensor(s).

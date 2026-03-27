@@ -1,0 +1,199 @@
+[COMPANY] | City | QX25 s Q325
+Change text in
+[COMPANY] view n
+[COMPANY] surveyed 97 leasable industrial buildings of 5,000 square
+[PERSON] feet and above within the Greater Moncton Area (GMA). Owner-occupied [PERSON]
+Do not place objects Do not place objects
+Under Construction New Supply
+above this line. premises are not included in the market statistics. above this line.
+14K 26K
+SF SF The GMA industrial market maintained steady momentum through
+[PERSON], with vacancy declining to 10.3%, down from 11.2% in Q2. Both
+[PERSON] and [PERSON] saw minimal adjustments
+[COMPANY] (PSF) in vacancy this quarter. [PERSON] recorded the most [PERSON] as Text
+significant improvement, with vacancy dropping from 11.7% last quarter Use paste as text to
+maintain the original
+This Quarter Previous Quarter
+to 7.4% this quarter, nearly cutting the rate in half. Despite a rise in formatting of the
+vacancy to 6.9%, up from 3.2% last quarter, Dieppe Industrial Park template.
+$11.52 YOY $11.87 YOY
+remains the tightest market in the region, as the increase was tied to 10pt Open Sans (Body)
+a single large block of space coming available. Victory Park experienced 1.2 Multiple
+12pt After Paragraph
+a similar effect, with its previously full occupancy rate shifting to 12.5%
+[COMPANY] following a new availability.
+This Quarter Previous Quarter
+Average asking net rent is $11.52 per square foot this quarter, a modest
+decrease from $11.87 in Q2. However, rates remain higher year-over-year
+10.3% 11.2%
+([COMPANY]), up from $10.56 per square foot in Q3 2024. The movement in rents
+reflects variations in available inventory rather than a softening in
+100 YOY 380 YOY demand. Modern, high-quality facilities continue to command premium
+bps bps
+rates, while older properties remain competitive through pricing flexibility.
+▪ Vacancy declined 90 basis points quarter-over-quarter to 10.3%
+▪ Average asking net rent increased 9% [COMPANY] to $11.52 per square foot
+▪ Leasing activity remains steady, supported by demand from logistics,
+[COMPANY]
+warehousing, and manufacturing users
+Do run text beneath Historical Overview Do run text beneath
+this line. this line.
+Q1 2022 – Q3 2025
+14%
+12%
+ta 10% V
+R a
+y c 8% a c
+n n
+a c
+V 4% et a
+2 2 2 2 3 3 3 3 4 4 4 4 5 5 5
+2 2 2 2 2 2 2 2 2 2 2 2 2 2 2
+'1 '2 '3 '4 '1 '2 '3 '4 '1 '2 '3 '4 '1 '2 '3
+Q Q Q Q Q Q Q Q Q Q Q Q Q Q Q
+Space Line Space Line
+Do not place objects [COMPANY] | [PERSON] not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+Moncton
+Industry | City | QX25
+s Q325
+Change text in u
+d Market Overview
+Slide Master view n
+Market Outlook
+Space Line Space Line
+The GMA industrial market remains stable and continues [PERSON] is also expanding its industrial inventory, adding
+Do not place objects Do not place objects
+above this line. to grow, driven by strong demand from logistics, 12 new lots through the creation of [COMPANY], above this line.
+warehousing, and manufacturing users. The region’s targeting small and medium-sized enterprises.
+central location and direct access to major transportation
+routes reinforce its position as a strategic distribution hub While leasing activity remains steady, the supply of
+for [LOCATION]. modern industrial space is limited. Many existing
+buildings lack the efficiencies and sustainability features
+Canadian homeware brand Fable recently expanded with sought by today’s occupiers. This has led to increased
+Paste as Text a 23,000 square foot fulfillment facility at 450 [PERSON] owner-occupied and build-to-suit development, including
+Use paste as text to [COMPANY] in the Moncton Industrial Park, citing the city’s [COMPANY]’ new 78,000 square foot
+maintain the original
+logistical advantages and proximity to the Port of headquarters, which is targeting [COMPANY].
+formatting of the
+template. Montreal as key factors in its decision.
+Looking ahead, the [CITY] industrial market is
+10pt Open Sans (Body) Ongoing industrial land sales have prompted [PERSON] expected to maintain steady growth supported by new
+1.2 Multiple
+Industrial Development ([COMPANY]) to expand park boundaries development activity. In other [LOCATION] markets, such as
+12pt After Paragraph
+and open new serviced lots to meet demand. [COMPANY], [CITY], projects like [LOCATION]’
+recently completed its first sale at the new [PERSON] 60,000 square foot net-zero warehouse highlight the
+Court extension in Caledonia Industrial Park, totaling 4.99 growing focus on modern and efficient industrial design.
+Text/Space Line acres at $250,000 per acre. The buyer operates in the It will be interesting to see if landlords and developers [COMPANY]
+Do run text beneath trucking and warehousing sector, reflecting continued follow suit here as the market continues to evolve. Do run text beneath
+this line. this line.
+strength from logistics-based industries. The City of
+Vacancy Rate by Market Q3 2025 Vacant SF by Industrial Park By Market | Q3 2025
+[CITY] 16.0% Moncton Industrial 7.4%
+150,000 
+[CITY] West 22.4% Dieppe Industrial 6.9%
+126,830 
+122,786
+125,000
+Victory Park 12.5% GMA Total 10.3%
+100,000
+Paste Arrows into Table
+Under Construction by Market By Building Area (SF) Use the arrow master to paste
+75,000
+63,450 your arrows into the table in the
+62,100
+correct size.
+50,000
+14,080 SF 25,000
+Under Victory Park 13,000
+Construction
+[PERSON] Moncton Dieppe
+West Park Industrial Industrial
+100%
+Space Line Space Line
+Do not place objects [COMPANY] | [PERSON] 2 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+Moncton
+Industry | City | QX25
+s Q325
+Change text in u
+d [COMPANY] Master view n
+Moncton Greater Moncton
+[PERSON] Industrial Dieppe Area Total
+Space Line Space Line
+Do not place objects Number of Buildings 24 7 5 35 26 97 Do not place objects
+above this line. above this line.
+[COMPANY] (SF) 763,511 277,150 103,832 1,700,306 919,345 3,764,144
+[COMPANY] (SF) 122,786 62,100 13,000 126,830 49,950 374,666
+[COMPANY] (SF) 0 0 0 0 13,500 13,500
+[COMPANY] (SF) 122,786 62,100 13,000 126,830 63,450 388,166
+Vacancy Rate 16.0% 22.4% 12.5% 7.4% 6.9% 10.3%
+[COMPANY] (SF) 0 0 13,000 0 13,500 26,500
+Under Construction (SF) 0 0 14,080 0 0 14,080
+Notable Transactions
+Type Owner Building Name / Address Market Size (SF)
+[COMPANY]
+Do run text beneath [COMPANY] 255 [PERSON] 26,000 Do run text beneath
+this line. this line.
+[COMPANY]Lease 222 [PERSON] Moncton 11,409
+[COMPANY]
+[COMPANY] [COMPANY] Dieppe 5,000
+Notable Developments
+To Change Picture
+Building Est.
+Name/Address Market Building Status Size (SF) Completion Owner/Developer
+Right-click on picture and
+choose select from file
+or select one from the 200 Barker Street Victory Park Under Construction 14,080 TBD ACP Leasing
+[COMPANY] panel.
+[PERSON]
+Do not place objects [COMPANY] | [PERSON] 3 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [COMPANY] of more than 20 dedicated research For more information on the
+specialists, supported by 20 market data [PERSON], please contact:
+coordinators, our world-class research team
+continuously sources and analyzes data in every
+[PERSON]
+major market across Canada to ensure our clients
+Managing Director
+receive the most accurate and powerful
+[LOCATION]
+information to make critical decisions for their +[PHONE]
+future. We are the industry cornerstone of [EMAIL]
+authoritative statistics, forecasts and market
+commentary across Canada. Report Author:
+[COMPANY]
+We have more than 20 years of comprehensive
+market data, extensive research capabilities and Marketing Manager
+[COMPANY]
+access to ‘live’ deal information - no other research
+[LOCATION]
+firm in Canada can provide such a complete
++[PHONE]
+commercial real estate research solution. [EMAIL]
+Core services:
+• Predictive market research
+• Reporting on key insights and trends
+[COMPANY] to the latest market data
+[COMPANY]-driven locational intelligence and mapping
+[COMPANY] research engagements
+collierscanada.com/research
+collierscanada.com/research
+[COMPANY] | [CITY]
+[LOCATION]
+29 Victoria Street, Suite 101
+Moncton, [COMPANY], E1C 9J6
+Copyright © 2025. All rights reserved. [COMPANY]) Inc.
+Information herein has been obtained from sources deemed reliable, however
+its accuracy cannot be guaranteed. The user is required to conduct their own
+due diligence and verification. This publication is the copyrighted property of
+Colliers and /or its licensor(s).

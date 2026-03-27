@@ -1,0 +1,1267 @@
+[PERSON]
+Appraisal Report on:
+2220 Walkley Road
+Ottawa, Ontario
+Effective Date:
+December 19, 2025
+Report Date:
+December 23, 2025
+Prepared For:
+[COMPANY]
+2255 St. Laurent Blvd.
+Suite 340
+Ottawa, Ontario
+K1G 4K3
+www.juteaujohnsoncomba.com
+Phone: [PHONE]
+© 2025 [PERSON]
+December 23, 2025
+Reference No. 429-25-31
+[COMPANY]
+c/o 2220 Walkley Road Ltd
+Suite 370, 18 Louisa Street
+Ottawa, Ontario
+K1R 6L6
+Attention: Mr. [PERSON], Senior Analyst, Investments
+Dear Mr. [PERSON]:
+Re: [PERSON] on 2220 Walkley Road, Ottawa, Ontario
+In accordance with your request, we have inspected the above noted property in order to provide you with
+an estimate of the market value of the leased fee interest in the subject property, based on stabilized
+occupancy, as at the effective date of appraisal. The effective date of this appraisal report is December 19,
+2025, the date an inspection of the subject property was completed on. The appraisal report is based on the
+following key assumptions:
+(cid:60) the property is free and clear of any mortgage charges or other title encumbrances, unless otherwise
+indicated;
+(cid:60) the property and adjoining lands are free of environmental contaminates; and
+(cid:60) the leaseable areas outlined herein are correct.
+Based on our investigation and analysis of the relevant data, it is our opinion that the market value of the
+leased fee interest in the subject property based on stabilized occupancy, as at December 19, 2025, of:
+TWENTY-EIGHT MILLION TWO HUNDRED THOUSAND DOLLARS
+($28,200,000)
+. . ./2
+2255 [COMPANY], Suite 340, Ottawa, Ontario, [PERSON] 4K3
+Phone: [PHONE]
+[PERSON] Estate Appraisers & Consultants
+Page 2
+Reference No. 429-25-31
+December 23, 2025
+We have prepared this report for you and your associates for your information and guidance. It is not to
+be reproduced, in whole or in part, without the written consent of the undersigned. Neither our name nor
+the material submitted may be included in any prospectus, newspaper publicity or as part of any printed
+material, or used in offerings or representations in connection with the sale of securities or participation
+interests to the public, without our prior written consent. The report is only valid if it bears the original
+signature of the author.
+Our report providing details of the property and our method of valuation is attached. If we can be of further
+assistance in these or other matters, please do not hesitate to contact us.
+[SIGNATURE] COMBA INC
+[PERSON], [CITY], [COMPANY], P.App.
+Membership #[[COMPANY], Suite 340, Ottawa, Ontario, [PERSON] 4K3
+Phone: [PHONE]
+TABLE OF CONTENTS
+Letter of Transmittal
+Photographs of Subject Property
+Summary of Salient Facts and [COMPANY]................................. 1
+Scope of the Report........................................................... 3
+Terms of Reference............................................................ 4
+Identification of the [COMPANY] .................................................... 6
+Neighbourhood Description ..................................................... 7
+[COMPANY] .................................................................... 9
+Description of Improvements ................................................... 11
+Zoning..................................................................... 14
+Highest and Best Use ......................................................... 16
+Approaches to Value.......................................................... 18
+[COMPANY] ................................................... 19
+Discounted Cash Flow Method.................................................. 24
+[COMPANY]................................................... 29
+Reconciliation and Final Estimate of Value........................................ 31
+Assumptions, [COMPANY], Disclaimer and [COMPANY]............... 32
+[COMPANY]................................................................ 35
+MAPS AND PLANS
+Location Map Page 7
+[PERSON] 14
+ADDENDUM
+Appendix A Comparable Sales
+Ironwood Fund LP
+Appraisal Report on 2220 Walkley Road, Ottawa 1
+SUMMARY OF SALIENT FACTS AND
+IMPORTANT CONCLUSIONS
+Terms of Reference
+Purpose of [PERSON]: To estimate the current market value of the leased fee interest in
+the subject property based on the assumptions outlined in the
+covering letter of this report. Our value estimate is free and
+clear of mortgage or other encumbrances, unless otherwise
+indicated, and is subject to any assumptions and limiting
+conditions outlined herein.
+Authorized Use and User of Report: To assist the client in securing mortgage financing only. All
+other uses are denied. The authorized user of the report is
+[COMPANY]. All other users and/or parties are denied
+without written authorization to use this report from [PERSON]
+Johnson Comba Inc.
+[COMPANY] of Appraisal: December 19, 2025
+Date of Inspection: December 19, 2025
+[COMPANY]: 2220 Walkley Road, Ottawa
+Location: South side of Walkley Road, to the west of [COMPANY], in [COMPANY] in the east end of the
+City of Ottawa.
+Legal Description: Part of Lots A and 1, [COMPANY] (Rideau Front), being Parts
+1 to 4 on Plan 5R-12475, Except Parts 1, 3 and 4 on Plan 5R-
+13469, [CITY] to N459468, in [CITY]. ([COMPANY]) 04165-
+[PERSON]).
+Zoning: IL - Light Industrial Zone
+Site Area: 7.412 acres
+Improvements: A one and two-storey office building that was constructed in
+1989 and recently expanded and fully renovated into a good
+quality medical flex building.
+[PERSON] Area: 84,218 square feet
+Vacancy: The building fully occupied by three tenants.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 2
+Highest and Best Use: Continuation of the existing use.
+Valuation Parameters
+Direct Capitalization Method
+Net Operating Income: $1,438,956
+Vacancy Rate: 2.0%
+Capitalization Rate: 5.25%
+PV of Amortization Income: $798,030
+Market Value Estimate: $28,210,000
+Discounted Cash Flow Method
+Internal Rate of Return: 6.5%
+Terminal Capitalization Rate: 6.0%
+Market Value Estimate: $28,300,000
+Direct Comparison Approach
+Total Leaseable Area: 84,218 square feet
+Price Per Square Foot: $325.00
+PV of Amortization Income: $798,030
+Market Value Estimate: $28,170,000
+[COMPANY]: $28,200,000
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 3
+SCOPE OF THE REPORT
+The Scope of the Report describes the extent of the process of collecting, confirming and reporting data.
+In regard to the subject property, this involved the following.
+The appraisal commenced with a preliminary investigation undertaken to determine market trends,
+influences and other significant factors pertinent to the subject property. The property was inspected
+on December 19, 2025 together with the surrounding neighbourhood. The legal description was
+obtained through [COMPANY]. Site dimensions were taken from Plans
+5R-11231 and 5R-5507 and the site area was estimated using [PERSON] for [LOCATION] and the site
+dimensions that were taken from the Site Plan prepared by Annis, [PERSON], [PERSON] dated August
+28, 2000. The improvement description was based on a physical inspection of the property as well as
+information contained in our files. Zoning information was extracted from [CITY] Ottawa's
+[PERSON] By-law 2008-250. Gross leasable areas are based on the rent roll and leases
+provided by the client, and are assumed to be accurate. Market data sources included information
+contained in our files, the land registry office, and other appraisers, realtors or persons knowledgeable
+of the subject property marketplace. [COMPANY] office market surveys were reviewed.
+This comprehensive appraisal report complies with our understanding of the requirements of the
+Canadian Uniform Standards of Professional Appraisal Practice of [COMPANY].
+We did not complete technical investigations such as:
+# detailed inspections of the structure, roof or mechanical systems;
+# an environmental review of the property;
+# a survey of the site;
+# investigations into the bearing qualities of the soils.
+The analysis contained in this report relied on written and verbal information of market transactions.
+Data was obtained from a variety of sources we considered reliable. A concerted effort was made to
+verify the accuracy of the information contained herein. If information independently researched by the
+appraiser or provided by the client on the surface appeared to be reasonable, it was relied on as true and
+correct. No in-depth investigation was made into the parties to real estate transactions and audits were
+not performed on documents or information provided.
+Appraisers are not qualified in professional matters like land surveying, engineering, architecture and
+the law, nor are they qualified as building inspectors. Investigations into matters such as these do not
+form part of an appraiser's investigations. We have assumed that there are no hidden or unapparent
+conditions of the property, subsoil or structures that render it more or less valuable unless otherwise
+indicated. No responsibility is assumed for such conditions or for arranging for engineering studies that
+may be required to discover them. Where matters were observed that appeared unusual, they have been
+noted in this report. The services of experts in these fields are required to investigate the possibility that
+defects are present.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 4
+TERMS OF REFERENCE
+Purpose of Report
+The purpose of this appraisal is to estimate the market value of the leased fee interest in the subject
+property based on stabilized occupancy. Our value estimate is free and clear of mortgage or other
+encumbrances, unless otherwise indicated and are based on the following assumptions:
+(cid:60) the property is free and clear of any mortgage charges or other title encumbrances, unless
+otherwise indicated;
+(cid:60) the property and adjoining lands are free of environmental contaminates; and
+(cid:60) the leaseable areas outlined herein are correct.
+If any of the assumptions and limiting conditions contained within this report are proven to be incorrect,
+a change to our value conclusion may be warranted.
+Authorized Use and User of Appraisal
+The authorized use of this appraisal is to assist the client in securing first mortgage financing on the
+subject property. The authorized user of the report is [COMPANY] only. All other users and/or
+parties are denied.
+Definition of Market Value
+For the purpose of this appraisal, market value is defined as:
+The most probable price, as of a specified date, in cash, or in terms equivalent to cash, or in
+other precisely revealed terms, for which the specified property rights should sell after
+reasonable exposure in a competitive market under all conditions requisite to a fair sale, with
+the buyer and seller each acting prudently, knowledgeably, and for self-interest, assuming that
+neither is under duress.
+The foregoing definition was extracted from [COMPANY] Professional Appraisal
+Practice (CUSPAP) dated January 1, 2024.
+Definition of Exposure Time
+Exposure time, as per [COMPANY] Professional Appraisal Practice (CUSPAP)
+dated January 1, 2024, may be defined as follows:
+The estimated length of time the property interest being appraised would have been
+offered on the market before the hypothetical consummation of a sale at the estimated
+value on the effective date of the appraisal.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 5
+Exposure time is different for various types of real estate and under various market conditions. It should
+be noted that the overall concept of reasonable exposure encompasses not only adequate, sufficient and
+reasonable time but also adequate, sufficient and reasonable effort. Our valuation assumes an exposure
+time of six to nine months.
+Interests in the Property Being Appraised
+The interest being appraised is that of the leased fee interest, free and clear of mortgage [PERSON]
+encumbrances. The leased fee interest is defined in [COMPANY]: Fourth
+Edition” as:
+“An ownership interest held by a landlord with the rights of use and occupancy
+conveyed by lease to others. The rights of the lessor (the leased fee owner) and the
+lessee are specified by contract terms contained within the lease.
+Effective Date of Appraisal
+The effective date of appraisal is December 19, 2025.
+Date of Inspection
+An inspection of the subject property was undertaken on December 19, 2025.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 6
+IDENTIFICATION OF THE PROPERTY
+Municipal Address
+The municipal address for the subject is 2220 Walkley Road, Ottawa.
+Location
+The subject property is situated on the south side of Walkley Road, to the west of [COMPANY],
+in [COMPANY] in the east end of [CITY].
+Legal Description
+The subject property is legally described as being composed of Part of Lots A and 1, Concession 5
+(Rideau Front), being Parts 1 to 4 on Plan 5R-12475, Except Parts 1, 3 and 4 on Plan 5R-13469, Subject
+to N459468, in [CITY]. The subject is identified in [COMPANY] under Property
+Identification Number (PIN) 04165-0638(LT).
+The foregoing legal description was taken from [COMPANY] (an on-line service providing access to
+land registry data and updated regularly from the [COMPANY] data base - the automated land records
+management system for [CITY]). It is assumed to be correct, however, it should not be
+relied upon as accurate without first obtaining a qualified legal opinion. We have made no investigations
+into the title of the property. Further, the documents registered on title have not been read. This report
+has been prepared on the premise that the property is free and clear of all liens and encumbrances, unless
+otherwise indicated, and on the assumption that the improvements do not encroach on any adjoining
+lands.
+Three Year Sales History
+The property is currently registered to 2220 Walkley Road Limited who acquired the property from
+[COMPANY] on February 4, 2021 for a consideration of $18,250,000. We have
+not been made aware of any other transfers, offers, listings or agreements of purchase and sale affecting
+the property.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 7
+NEIGHBOURHOOD DESCRIPTION
+The subject property is situated on the south side of Walkley Road, to the west of [COMPANY],
+in [COMPANY], in the east end of [CITY]. A location map highlighting the
+subject property is provided below:
+[COMPANY] is a fairly central industrial/business park situated in the southeast end of the
+city. It benefits from good transportation linkages and access to the [PERSON] (the region’s main
+east/west thoroughfare). Access to the park is provided via Walkley Road, a four-lane, east/west arterial
+that has an interchange with Highway #417 approximately three kilometres to the east. [COMPANY] extends through the park and becomes a major north/south commercial arterial to the north.
+It also provides access to Highway #417 approximately 4.5 kilometres to the north. Conroy Road, to
+the west of the subject, is a major north/south arterial linking Walkley Road to the north with [COMPANY] to the south. It was widened to four lanes in 1999.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 8
+[COMPANY] was initiated in the mid-1980s by [CITY] and contains some 230
+acres of serviced industrial land. It was primarily zoned [COMPANY] which permits a variety
+of light industrial, office and commercial uses. Currently, the park comprises a variety of office, high
+technology, light industrial and some commercial uses. Buildings in the park typically range between
+20,000 and 50,000 square feet in size and sites generally range between two and five acres. In the past
+number of years there has been no speculative development within this neighbourhood. The most recent
+developments have been for owner occupants.
+[CITY] together with [COMPANY] constructed a new 100,000 square foot headquarters
+for the Paramedics on [PERSON] in 2004/2005. This facility is located to the west of Conroy Road.
+An office building with underground parking was constructed in 2007 at 2101 Thurston Drive just east
+of Conroy Road for [CITY]. The southwest corner of [CITY] and Walkley Roads
+was improved with a [PERSON], an [COMPANY] service station and a [CITY] Pizza restaurant in 2001.
+[PERSON]’s assembled the balance of the land and buildings surrounding these three free standing
+structures in 2002 and 2003 for the construction of a large format grocery store. The lands have since
+been sold to a residential developer. The former [COMPANY] building, located at 2310 St.
+Laurent Boulevard, to the immediate south of the subject, was renovated and demised into a six unit
+condominium development. Two additional 25,000 square foot two storey buildings were recently
+constructed in the rear yard and have a total of 40 units. [COMPANY] constructed
+a 4-storey 66,177 square foot owner occupied office building with 250 on site parking spaces at 1021
+[PERSON] in 2016, south of the subject.
+The subject property is located in the [LOCATION] office market as per [COMPANY]. The
+[LOCATION] office market is reported to comprise some 5,760,582 square feet of office space or some
+13.3% of the City's total inventory. Overall vacancy for the subject market is currently reported at
+10.3% which is down from Q4 2024 when it was reported at 10.9%. In the subject’s market, the
+weighted average net rental rate of $14.70 per square foot for Class “B” properties with a total weighted
+average gross rental rate of $31.61 per square foot. This indicates a weighted average figure for
+taxes/operating costs of $16.91 per square foot.
+According to [COMPANY], the industrial vacancy rate for [CITY] as at Q3 2025
+is 5.8%, up from 5.4% in Q4 2024 and further up from 2.8% in Q4 2023. The subject property is located
+in [COMPANY] sub-market, which is reported to comprise some 1,325,558 square feet of
+industrial space. Currently (Q3 2025), vacancy is reported at 7.2% for this sub-market and the weighted
+average net rent is reported by [COMPANY] at $16.18 per square foot. As of Q3 2025, Colliers
+and [COMPANY] reported weighted average asking net rents of $16.55 and $15.97 per square foot respectively
+in [LOCATION].
+In conclusion, the subject is situated within a light industrial/office park that is developed with a number
+of single tenant buildings that were constructed in the 1980s and early 1990s. There has been limited
+new speculative industrial/office development in the subject neighbourhood for a number of years which
+has resulted in fairly stable vacancy and increasing rental levels.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 9
+SITE DATA
+Location: South side of Walkley Road, to the west of [COMPANY], in [COMPANY] in the east end of the
+City of Ottawa.
+Municipal Address: 2220 Walkley Road, Ottawa
+Dimensions: - 467.19 feet of frontage along the south side of Walkley
+Road;
+- 692.71 +/- feet along the eastern property line;
+- 467.06 feet along the southern property line; and
+- 689.70 feet along the eastern property line.
+Site Area: 7.412 acres
+Configuration: Irregular
+Topography: The site is relatively flat and at grade with Walkley Road.
+However, it slopes gently from south to north and is below the
+grade of the properties to the south and west. There is a steep
+incline within the southwest corner.
+Improvements: The site is currently improved with paved surface parking for
+approximately 255 vehicles, sodding, shrubs, trees and
+interlocking stone walkways. The parking lot was recently
+resurfaced. The walkways, concrete curbing and landscaped
+beds were also updated.
+Adjoining Uses: The subject is located within [COMPANY] which
+comprises a variety of office/industrial buildings.
+Office/industrial buildings are located to the east, west and
+south of the subject property. To the north, on the north side of
+Walkley Road is a residential rental complex, a Metro grocery
+store and a gas station.
+Access: Vehicular ingress/egress is available from two entrances off of
+the south side of Walkley Road, one of which has traffic lights.
+Municipal Services: Full municipal services are currently available to the subject site
+including sanitary and storm sewers, municipal water,
+telephone, gas, hydro, garbage removal, fire and police
+protection.
+Environmental Concerns: An environmental audit has not been conducted in conjunction
+with the preparation of this report. It is assumed that hazardous
+substances do not exist. It should be clearly understood that we
+are not qualified to detect, test for, investigate, or otherwise
+ascertain the existence of such substances. As such, we do not
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 10
+assume any responsibility for their existence or any costs
+associated with their removal, correction, or treatment, in the
+event that they are found to exist on the subject property, or on
+adjacent lands. Further, it is assumed that soils are suitable to
+support the existing improvements.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 11
+DESCRIPTION OF IMPROVEMENTS
+The subject site is improved with a one and two-storey flex building that was constructed in 1989,
+however, just recently underwent a full renovation of the existing building and construction of a new
+1,000 square foot expansion. The building has a gross leasable area of 84,218 square feet of good quality
+medical flex space located on two levels that is demised into three tenant spaces, as follows:
+[PERSON] (sf)
+[COMPANY] 55,304
+[COMPANY] 20,914
+[COMPANY] 8,000
+Total Area: 84,218
+Construction Details
+Construction details of the subject building are briefly outlined as follows:
+Foundation: Reinforced concrete.
+Frame: Reinforced concrete.
+Roof: Flat, built-up tar and gravel roof on concrete deck. New roof in
+2020 and maintained through warranty. The roof is reported to
+be in very good condition.
+Exterior Cladding: Exterior cladding is a combination of precast concrete panels
+and glass.
+Addition: The new 1,000 square foot addition is located along the east side
+of the building. The addition comprises a [COMPANY] vault where
+external-beam radiation treatments will be administered to treat
+cancer. The equipment has not yet been installed.
+HVAC: Newer gas fired heating and cooling HVAC units that were
+replaced approximately five years ago and some newly installed
+units completed with the recent renovations. There are
+supplemental baseboard heaters provided on both levels.
+Fire Protection: The building contains smoke detectors, fire alarms and is fully
+sprinklered.
+Lighting: Combination of new LED and fluorescent ([COMPANY] and T8) light
+fixtures.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 12
+Windows: Double pane in anodized aluminum frames that were installed
+in 1993. Windows were resealed with the renovations and
+appear to be in good condition.
+Loading: There is a loading area along the east side of the building with
+two 8' x 7' dock level loading doors. A new at grade overhead
+loading door is located along the south side of the building.
+Washrooms: Several male and female washrooms are located in the building
+with each tenant having their own facilities. All washrooms are
+newly fit-up. [COMPANY] is afforded two two-piece
+washrooms and [COMPANY] has one two-piece
+washroom. [PERSON] has an extensive number of
+washrooms located on both levels of their unit. In addition,
+there is a large locker room equipped with showering and
+washroom facilities. There is also extensive plumbing/sinks
+throughout [PERSON].
+Vertical Access: The veterinarian space is the only unit on two levels. Within the
+space there is one original and one new elevator as well as two
+stairwells providing vertical movement. The original elevator
+has a 12 person/900 kilogram capacity while the newly installed
+elevator has a 25 person/1,185 kilogram capacity.
+Backup Generator: The building is also equipped with a newer backup generator for
+life safety.
+Layout/Finish: The Joffe Veterinarian space is located on the ground and
+second levels of the front portion of the building with the main
+entrance along the west elevation of the building and the rear
+loading and LINAC vault located along the east elevation. The
+unit comprises fully renovated/reconfigured good quality
+medical and office space. Finishes are mainly upgraded ceramic
+tile flooring, hospital standard PVC wall panels and open
+ceilings, The ground floor is demised into two reception/seating
+areas with a kitchenette and washroom facilities. This ground
+level is mainly for general care and emergency services while
+the upper level is fit-up for specialized services. Specialized
+rooms include [PERSON], MRI, surgical, ultrasound, lab space, [COMPANY],
+dental, among others. Both levels also benefit from kitchen
+space (including a large second floor lunch room with full
+kitchen), office space and consultation suites. High end finishes
+throughout including upgraded lighting and acoustically
+controlled common areas.
+PWGSC occupies 20,914 square feet of newly renovated good
+quality flex space on the ground level. Access to the unit is from
+the east elevation of the building. Finish comprises carpet
+flooring, a combination of acoustic tile and open ceilings, and
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 13
+painted drywall walls. They are also afforded access to one of
+the loading docks.
+The remaining 8,000 square feet of newly renovated ground
+floor space is leased to [COMPANY] Access to the unit
+is from the west elevation of the building. The unit is demised
+into a front showroom/office space and rear warehouse space
+that is also used for showroom/public access. The front area is
+finished with laminate and carpet tile flooring, drywall walls
+and acoustic tile ceiling. The rear warehouse has sealed concrete
+floors, drywall walls and open concrete ceiling. There is one
+new grade level overhead door.
+Summary
+In summary, the subject is improved with a one and two-storey 84,218 square foot medical flex building
+that was constructed in 1989 and has recently undergone extensive renovations and an expansion. The
+building is fully renovated into good quality medical flex space and is occupied by three tenants.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 14
+ZONING
+In accordance with the comprehensive Zoning By-Law, 2008-250 that was approved by [COMPANY]
+on June 25, 2008, the subject is designated IL.
+This is a Light Industrial zone the purpose of which is to:
+(cid:60)permit a wide range of low impact light industrial uses, as well as office and office-type uses in
+a campus-like industrial park setting, in accordance with the Employment Area designation of
+the Official Plan or, [COMPANY] designation where applicable;
+(cid:60)allow in certain [COMPANY] or General Urban Areas a variety of complementary uses
+such as recreational, health and fitness uses and service commercial (e.g. convenience store,
+personal service business, restaurant, automobile service station and gas bar), occupying small
+sites on individual pads or in groupings as part of a small plaza, to serve the employees of the
+Employment Area or General Urban Area, the general public in the immediate vicinity, and
+passing traffic;
+(cid:60)prohibit retail uses in areas designated as Employment Area but allow limited sample and
+showroom space that is secondary and subordinate to the primary use of buildings for the
+manufacturing or warehousing of the product;
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 15
+(cid:60)prohibit uses which are likely to generate noise, fumes, odours, or are hazardous or obnoxious;
+and
+(cid:60)provide development standards that would ensure compatibility between uses and would
+minimize the negative impact of the uses on adjacent non-industrial areas.
+Permitted uses in the Light Industrial Zone include a medical facility, office, research and development
+centre and warehouse, among others. A number of commercial uses are also permitted provided that
+the cumulative gross floor area does not exceed 25% of the lot area and each use does not exceed 3,229
+square feet. These uses include a bank, convenience store, personal service business and restaurant,
+among others.
+Zone requirements include the following:
+Minimum Lot Area: 21,528 square feet
+Minimum Lot Width: No minimum
+[COMPANY]: 65%
+Maximum Building Height: 36.08 feet if within 65.6 feet of a property line abutting a
+residential zone and 59.04 feet in all other cases.
+Minimum Front Yard: 24.6 feet
+Minimum Rear Yard: 49.2 feet if abutting a residential or institutional zone, 11.48
+feet if abutting a hydro or railway right-of-way and 24.6 feet
+in all other cases
+Minimum Side Yard: 49.2 feet if abutting a residential or institutional zone and
+24.6 feet in all other cases
+There is a maximum [COMPANY] of two times the site area and outdoor storage is prohibited.
+In summary, the subject site is zoned for a number of industrial and commercial uses and can be
+developed with a building equal to two times the site area. The existing improvements appear to
+represent permitted uses in accordance with the zoning by-law. A compliance report from the City
+would be required to verify that this is the case. Our appraisal assumes that the existing subject
+development complies with all land use regulations.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 16
+HIGHEST AND BEST USE
+Highest and Best Use may be defined as "that use from among reasonably probable and legal alternative
+uses, found to be physically possible, appropriately supported, financially feasible, and which results in
+the highest land value".
+Clearly flowing from these considerations is the fact that maximum land value requires maximum
+income to land. However, this infers a vacant site. When the site is improved, the integrated unit of land
+and building must be continued in the use for which the improvement was designed, adapted, or could
+readily be converted, so long as the land and buildings in combination have a higher market value than
+the land alone if vacant and available for a better use. It follows therefore that provided the subject
+improvements contribute value to the whole over and above the land value, any improvements as
+depreciated represent the [COMPANY] and Best Use of the site for the remainder of their economic life.
+The subject property is located on the south side of Walkley Road, to the west of [COMPANY],
+in [COMPANY] in the east end of [CITY]. [COMPANY] is one of
+the more desirable office/industrial parks in [CITY]. It is approximately ten kilometres
+southeast of Ottawa’s downtown core. It is serviced with good transportation linkages and has good
+access to the [PERSON] (the region’s main east/west arterial). The location of the subject, with
+frontage on a main arterial road, is considered to be very good.
+The subject is improved with an 84,218 square foot one and two-storey medical flex building that was
+constructed in 1989 and recently underwent extensive renovations that included an expansion of new
+1,000 square foot addition. The building comprises good quality medical flex space.
+The building is fully leased to three tenants. [COMPANY]
+occupies 54,252 square feet at $18.00 for the first three years of their 20-year term. The space is located
+on the ground and second levels of the front portion of the building. The space is fully renovated good
+quality medical and space with a 1,000 square foot LINAC vault. [COMPANY] occupies 20,914 square feet
+of good quality renovated space on the ground level. Net rent commenced at $14.13 per square foot
+($152.04 per square metre) in the first year of the ten year term. The balance of the building being 8,003
+square feet is leased to [COMPANY] at $14.00 per square foot for the current year and increasing
+to $14.50 per square foot in the last year of the term.
+In accordance with the Q3, 2025 office report by [COMPANY], the overall vacancy
+rate for office space in [LOCATION] sub-market is at 10.3% which is lower than the overall average
+for the City at 12.3%. Colliers is reporting that the average asking net rent for Class “B” office space
+in the [LOCATION] market is at $14.70 per square foot which is up from the end of 2020 when it was reported
+at $13.64 per square foot.
+According to [COMPANY], the industrial vacancy rate for [CITY] as at Q3 2025
+is 5.8%, up from 5.4% in Q4 2024 and further up from 2.8% in Q4 2023. The subject property is located
+in [COMPANY] sub-market which has a current vacancy reported at 7.2% and a weighted
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 17
+average net rent $16.18 per square foot. As of Q3 2025, Colliers and [COMPANY] reported weighted average
+asking net rents of $16.55 and $15.97 per square foot respectively in [LOCATION].
+The subject site is currently zoned [COMPANY]. This is a light industrial zone which permits light industrial, high-
+technology manufacturing and office uses, among others. The subject site is improved with a Class “B”
+suburban office building that has been recently expanded and fully renovated into good quality medical
+flex space. Such a use conforms to the character of the neighbourhood and represents a permitted use
+under the zoning by-law. A compliance report would have to be ordered from the City to ensure its full
+compliance with all zoning requirements. Our valuation assumes the subject represents a legal use.
+The subject is located within a desirable business park that has a good overall location. The property
+comprises good quality medical flex space. The existing improvements and are considered to contribute
+significant value over and above that of the underlying land. As such, the existing improvements are
+considered to be financially feasible and maximally productive.
+In conclusion, it is our opinion that the [COMPANY] and Best Use of the subject is the continuation of the
+existing medical/flex use.
+Assuming the site was available for development in the current market, its [COMPANY] and Best Use would
+likely be an office/industrial type use given its zoning, location etc.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 18
+[COMPANY] TO VALUE
+It is customary, wherever applicable, to use the following approaches to value when appraising real
+property:
+(a) The Cost Approach -- requires the calculation of the replacement cost new of the
+improvements at current rates less any accrued depreciation attributable to the present
+improvements. This depreciation could result from physical, functional or locational
+causes. To the depreciated value is added the estimated land value of the subject site.
+The Cost Approach's main drawback is the difficulty of establishing an accurate estimate
+of the various forms of depreciation. Further, it is rarely the basis on which properties
+are purchased.
+(b) [COMPANY] -- utilizes the method of comparing the subject
+property with other properties of a similar nature which have sold on the open market
+with adjustments being made to the sale price to compensate for any difference in size,
+time of sale, utility and any special circumstances that may have had a bearing on the
+price paid for them.
+(c) The Income Approach
+I) Direct Capitalization Method -- which is a process in which the net income derived
+from the property is capitalized at an appropriate rate to indicate its capitalized value,
+the assumption being that the capitalized value of the income stream is the present value
+of the property producing the income.
+ii) The Discounted Cash Flow Method -- this procedure is a variation of the Income
+Approach. However, rather than basing the estimate of value on the stabilized net
+operating income as is done by the conventional Income Approach, the Discounted Cash
+Flow Method projects income and expenses for the property over a typical holding
+period. At the end of this holding period, the property is assumed to be sold. The total
+of the cash flows received over the holding period, as well as the moneys received from
+the sale of the property, is then discounted to present day at a discount rate consistent
+with that shown by the market place. The total of these discounted cash flows and the
+reversionary value of the property represents a market value estimate of the property.
+The subject development has been valued by means of [COMPANY], [COMPANY] and [COMPANY]. [COMPANY] has not been
+employed as income generating investments such as the subject are not typically purchased on this basis.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 19
+DIRECT CAPITALIZATION METHOD
+[COMPANY] assumes that there is a relationship between the income, specifically
+the net income that a property is capable of earning, and its value at any given moment in time. Motive
+to invest in an income producing property is virtually always profit oriented. Profit in this context refers
+to the financial benefits. These benefits may be in the form of an annual net income, an annual dividend,
+and/or an increase in the capital asset or a capital gain.
+The equity owner is concerned with the profit or return that invested funds will earn, also having in mind
+the risk and management burdens involved as well as the alternative investment opportunities available.
+In general terms, the basic objectives may be described as maximizing income or benefits within the
+limits of perceived acceptable risks.
+The basic methodology of [COMPANY] involves deriving the net operating income
+potential of a property and then capitalizing the income stream at a rate consistent with the market.
+[COMPANY]
+The first step of [COMPANY] is to estimate the net income the subject property is
+capable of generating for the upcoming year ending December 31, 2026. Details of the existing leases
+are summarized as follows.
+Tenant Leaseable Lease Term Rent/SF Remarks
+Area (sf)
+[COMPANY] 55,304 Mar/24 - Feb/44 Yrs. 1-3: $18.00 New net lease for very good
+[COMPANY] (20 years) [PERSON]. 4-6: $19.00 quality medical space. 4x5
+Yrs. 7-9: $20.00 year option to renew. TI:
+Yrs. 10-12: $21.50 $1,000,000.
+[PERSON]. 13-15: $22.50
+Yrs 16-20: $23.50
+PWGSC 20,914 Sept/24 - Aug/34 $14.12 New net lease for warehouse
+(10 years) space.
+[COMPANY] 8,000 [PERSON] Yrs 1-2+: $14.00 New net lease for
+(3 years, 4 mths.) [PERSON] $14.50 showroom/warehouse space.
+Total 84,218
+Based on the subject’s new leasing arrangements and comparable leases, the existing rental rates have
+been recognized.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 20
+On this basis, net rental income for the upcoming year ending December 31, 2026 is estimated at
+$1,404,351 and is summarized below.
+TENANT LEASABLE AREA (sf) NET RENT/SF ANNUAL RENT
+[COMPANY] 55,304 $18.00 $995,472
+PWGSC 20,914 $14.13 $295,519
+[COMPANY] 8,000 $14.17 $113,360
+Total: 84,218 $1,404,351
+II. VACANCY AND [COMPANY] DEBT ALLOWANCE
+According to [COMPANY] Ottawa’s Q3 2025 office market survey, [COMPANY] overall
+vacancy currently stands at 10.3%. Additionally, the industrial vacancy rate for [COMPANY] sub-market is reported at 7.2%. The subject is fully leased to three tenants assumed to be fully
+leased as at the effective date of appraisal. Two existing leases for 91% of the space are with strong
+covenants and the subject benefits from a secure long term cash flow.
+Vacancy and bad debts tend to vary year over year. In the short term, wide fluctuations in vacancy may
+be evident, however, over the longer term vacancy tends to level out. Accordingly, the investment
+community typically applies an allowance for vacancy and bad debts to reflect a stabilized outlook. In
+our opinion, an allowance of 2.0% is considered reasonable and has been recognized.
+III. OPERATING EXPENSES AND RECOVERY INCOME
+As the subject has been just recently expanded, reconfigured and fully renovated into good quality
+medical and flex space, the historical operating costs may not be reflective of the upcoming year. Realty
+taxes for the upcoming year have been budgeted at $305,000 or $3.62 per square foot of building area.
+Given our knowledge of similar developments, this projected budget seems reasonable and has been
+recognized. Operating costs for the upcoming year have been budgeted at $520,000 or $6.17 per
+square foot. This is also typical for this type of product and has been recognized in our analysis. On the
+basis of the foregoing, operating costs for the upcoming year are estimated at $825,000 or $9.80 per
+square foot. This estimate is judged reasonable in relation to the comparable buildings in the market.
+In addition, the owner of the property collects administrative fees that will net the owner approximately
+$80,808 in the upcoming year. As such, total recovery income is projected to be $905,808.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 21
+IV. SUMMARY
+Our Statement of Income and Expense, for the year ending December 31, 2026, based on the existing
+leases and stabilized occupancy, is presented below.
+PROJECTED INCOME AND EXPENSE STATEMENT
+2220 WALKLEY ROAD, OTTAWA
+JANUARY 1, 2026 - DECEMBER 31, 2026
+Rental Income $1,404,351
+[COMPANY] Recoveries 905,808
+Total Gross Potential Income $2,310,159
+Less: Vacancy and Bad Debt @ 2% 46,203
+Effective Gross Income $2,263,956
+Less: Operating Costs & Taxes 825,000
+Net Operating Income $1,438,956
+V. CAPITALIZATION ANALYSIS
+For the purpose of estimating the value of the subject property by [COMPANY], it
+is necessary to estimate the capitalization rate at which the property would sell if exposed on the market
+for a reasonable period of time. Generally, the rate chosen should be consistent with the overall risk and
+investment characteristics of the property. Location also partly determines the capitalization rate, as
+some areas are prime for sustaining increased demand and higher rents, whereas other areas remain
+stagnant. The physical attributes of a property are also relevant, as they partly determine how long a
+property can sustain a certain income potential. In selecting an appropriate capitalization rate for the
+subject, consideration has been given to the following comparable sales which are presented in greater
+detail in the appendix.
+No. Location Date of Building Price NOI/SF Overall Cap Rate
+Sale Area (sf)
+1 1100 [COMPANY] 46,440 $12,500,000 $11.84 4.4% (5% vac)
+2 1155 [COMPANY] 62,405 $17,600,000 $15.23 5.4% (2.5% vac)
+3 2713 [COMPANY] 34,298 $6,700,000 $11.92 6.1% (5% vac)
+4 2655 Queensview Drive Aug/24 30,123 $7,600,000 $14.63 5.8% (5% vac)
+5 2100 Bantree Road Jun/24 20,977 $3,900,000 $8.55 4.6% (5% vac)
+[PERSON]. 2220 Walkley Road 84,218 $17.09
+The foregoing sales indicate a range of capitalization rates between 4.4% and 6.1%, with three of the
+five sales between 4.4% and 5.4%.
+Comparable Sale #1, 1100 Algoma Road, is an older sale of a property that is located on the southwest
+corner of [COMPANY] and Algoma Road, in the Cyrville Industrial Area, 4.4 kilometres to the north
+of the subject. The property is improved with a one and two-storey, medical office/showroom and
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 22
+warehouse structure that was constructed in 2007. The 3,700 square foot warehouse has a clear ceiling
+height of 24 feet. The property was fully leased to [COMPANY] for a ten-year
+term expiring on October 31, 2028 with a rental step-up of $1.15 per square foot for the last five years
+of the lease. The tenant had an early termination clause effective November 1, 2023 provided a prior
+nine-month written notice and nine months of gross rent as a termination fee. While the subject is
+considered to be representative of superior quality space, an upward adjustment to the capitalization rate
+is considered to be warranted for the changes in market conditions since the comparable sale date.
+Comparable Sale #2, 1155 Lola Street, is an older sale of a property that is located on the east side of
+Lola Street, to the north of Coventry Road and to the south of Presland Road, in the [CITY]/Coventry
+neighbourhood, 5.7 kilometres to the north of the subject. The property is within 700 metres of the
+Tremblay LRT Station. It is improved with a one and one-half storey industrial flex building that was
+constructed in 1972 with two additions in 1989 and 2009. There is 9,000 square feet of elevated
+basement space. The building was fully leased to seven tenants with two cell phone towers generating
+additional income. While an upward adjustment to the capitalization rate is considered to be warranted
+for the changes in market conditions since the date of sale, a more than offsetting downward adjustment
+is necessary for the subject’s fully renovated space and its superior covenants and long term leases.
+Comparable Sale #3, 2713 Lancaster Road, is an older sale of a smaller sized property that is located
+on the east side of Lancaster Road, to the north of Walkley Road, in [COMPANY], 2.1 kilometres to the east of the subject. The site is improved with an elevatored two-storey, multi-
+tenant office building that was constructed in 1987. It was fully leased to three tenants with a weighted
+remaining lease term of eight years. An upward adjustment to the capitalization rate is necessary for the
+passage of time since the date of sale, while a more than offsetting downward adjustment has been
+recognized for the subject’s newly renovated space, covenant of the tenants and long term leases.
+[COMPANY] #4, 2655 Queensview Drive, is located on the north side of Queensview Drive, to
+the west of Pinecrest Road, just to the north of Highway 417, and within 600 metres of the new Pinecrest
+LRT Station. It is improved with a single tenant, one-storey industrial building with mezzanine that was
+constructed in 1980. At the time of sale, the property was fully leased to [COMPANY] for another
+10 years with two, ten-year renewal options. There are 125 paved surface parking spaces (4.1
+spaces/1,000 square feet). It is reported that the building needed a new roof at a cost of $500,000, for
+which a downward adjustment was made. An upward adjustment was made for the comparable’s
+smaller size, while a more than offsetting downward adjustment is considered to be necessary for the
+subject’s extensive renovations, covenant of the tenants and long term leases.
+Comparable Sale #5, 2100 Bantree Road, is the sale of a property that is located on the southwest
+corner of [CITY] and [PERSON], in the Sheffield/Lancaster Industrial Area, 3.7 kilometres to
+the northeast of the subject. The property is improved with a one-storey multi-tenant industrial building
+that was constructed in 1990. The building is demised into ten individual bays that were fully leased to
+five long-term tenants at rents that were considered to be below market. Leases were expiring on 11%
+of the building within one year of the sale date and the balance expiring by 2028. A downward
+adjustment to the capitalization rate is warranted for the subject’s newly renovated space and covenants
+of the tenants. However, a more than offsetting upward adjustment is warranted for the comparable’s
+upward income potential upon lease rollover on all units.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 23
+In summary, the comparable sales indicate a range of capitalization rates between 4.4% and 6.1%, with
+three of the five sales between 4.4% and 5.4%. Consideration has also been given to the overall
+condition of the subject development, the good covenants and long term leases, as well as its good
+location on a major arterial road. As such, it is our opinion that an overall capitalization rate within the
+range of the comparable sales or 5.25% is considered reasonable and has been recognized. Therefore,
+the market value of the leased fee interest in the subject property based on stabilized occupancy, as at
+December 19, 2025, is calculated as follows:
+Market Value = Net Operating Income
+Overall Capitalization Rate
+= $1,438,956
+= $27,408,686
+VI. RECOVERY OF AMORTIZATION OF CAPITAL EXPENSES
+The landlord is expected to recover the following amounts from the tenants over the ten years.
+2026 $112,896
+2027 $112,896
+2028 $111,707
+2029 $112,896
+2030 $112,896
+2031 $112,896
+2032 $107,832
+2033 $106,696
+2034 $107,832
+2035 $107,832
+The present value of this income stream discounted at 6.50% is estimated at $798,030 which should be
+added to our capitalized value estimate.
+VII. SUMMARY
+....
+On the basis of the foregoing, the current market value of the subject property is therefore estimated as
+follows:
+.......
+Capitalized Value Estimate $27,408,686
+Plus: PV of Recoveries of [COMPANY] 798,030
+Current Market Value Estimate $28,206,716
+Rounded to:
+TWENTY-EIGHT MILLION TWO HUNDRED AND TEN THOUSAND DOLLARS
+($28,210,000)
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 24
+DISCOUNTED CASH FLOW METHOD
+The Discounted Cash Flow Method represents an [COMPANY] to valuation. It is predicated on the
+assumption that the purchase price of real estate is equated to the present worth of future benefits derived
+from ownership. These future benefits include:
+1) yearly cash flow before debt service and depreciation; and
+2) equity and capital in the real estate at the end of the holding period.
+The reliability of [COMPANY] is contingent on the assumptions made about future
+expectations by the marketplace. Hence, the appraiser's ultimate goal is to properly mirror the actions
+of the investor.
+Our valuation is subject to the following parameters.
+Holding Period: Our valuation is based on a 10-year holding period (requiring an
+11 projection). A time frame of +/- 10 years is generally
+accepted in the marketplace as reasonable.
+Contract Rent: The existing rental arrangements have been recognized and are
+summarized in the rent roll presented in the previous section to
+this report.
+Market Rent/Tenant
+Improvement Allowances: As per [COMPANY], the existing leases
+have been recognized. Based on the recent leases in the subject
+and competing areas market rent for the subject tenants have
+been projected as follows:
+[COMPANY] $18.00 per square foot
+PWGSC $16.00 per square foot
+Appliance Now $16.00 per square foot
+The rental rate for PWGSC assumes that the landlord provides
+a tenant improvement allowance of $5.00 per square foot for a
+new tenant and nothing for a renewing tenant. Leasing
+commissions have been projected at $4.00 per square foot for
+new and $2.00 per square foot for a renewing tenant.
+Vacancy & Bad Debt: A vacancy and bad debt allowance of 2.0% has been projected
+for the entire term. A lag vacancy of 6 months has also been
+recognized.
+[PERSON]: Estimated at 75%.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 25
+Operating Expenses/
+Recovery Income: As per [COMPANY], operating costs and
+realty taxes for the upcoming year have been estimated at
+$825,000 or $9.80 per square foot of building area.
+[COMPANY] Now pay a net rental
+rate plus a 15% admin fee. [COMPANY] pays $4.44 per square
+foot plus inflation for operating costs and their share of utilities
+plus a 2% admin fee.
+A structural reserve equal to 1% of the effective gross income
+has also been projected throughout the projection period.
+Market Growth Rates: The market rental rates for the tenants have been inflated at
+2.5% per year. Operating costs have been inflated at 3.0% per
+year.
+Reversionary
+Capitalization Rate: The reversionary capitalization rate is applied to Year 11
+income in order to estimate the value of the property on
+reversion (i.e. at the end of Year 10). In order to estimate a
+reversionary capitalization rate, consideration has been given to
+the going-in capitalization rate of 5.0%. Typically, a higher rate
+is applied on reversion as the buildings will be 10 years older
+and market conditions in 10 years are unknown. Based on the
+foregoing, it is our opinion, that a reversionary capitalization
+rate of 6.0% is reasonable for the subject.
+Discount Rate: The selection of a discount rate requires reference to current
+investment attitudes and preferences. It is dependent on the type
+of investment, the magnitude of the investment, current and
+anticipated market conditions, alternative investments and risk
+factors associated with the investment. The selection of a
+discount rate requires reference to current investment attitudes
+and preferences. It is dependent on the type of investment, the
+magnitude of the investment, current and anticipated market
+conditions, alternative investments and risk factors associated
+with the investment.
+The subject is a fully renovated two-storey medical/flex building
+that has recently undergone a full renovation. It is fully leased
+to three tenants of which two have very good covenants with
+long term leases. Based on the foregoing, it is our opinion that
+a discount rate of 6.5% is reasonable for the subject.
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 26
+Our discounted cash flow analysis is presented on the following two pages and indicates an estimated
+market value of $28,292,038 based on the existing leases in the subject development.
+Rounded to:
+TWENTY-EIGHT MILLION THREE HUNDRED THOUSAND DOLLARS
+($28,300,000)
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 27
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 28
+[PERSON] Inc. 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 29
+DIRECT COMPARISON APPROACH
+[COMPANY] is predicated on the principle of substitution, namely, that no prudent
+purchaser would pay more to purchase a property than the cost of acquiring an equivalent substitute in
+the marketplace, provided that no undue delay was encountered in making the substitution.
+In [COMPANY], market value is estimated by comparing the subject property to
+similar properties that have recently sold, are listed for sale, or are under contract (i.e. recently drawn
+up purchase offers accompanied by a cash or equivalent deposit). A major premise of the Direct
+Comparison Approach is that the market value of a property is directly related to the prices of
+comparable, competitive properties.
+The comparative analysis performed in this approach focuses on similarities and differences among
+properties and transactions that affect value. These may include differences in the property rights
+appraised, the motivations of buyers and sellers, financing terms, market conditions at the time of sale,
+size, location, physical features, and, if the properties produce income, economic characteristics.
+In estimating the subject’s market value by [COMPANY], consideration has been
+given to the following sales which are presented in greater detail in the addendum to the report.
+Date of Building Area NOI/
+No. Location Sale Price Price/SF
+Sale (SF) SF
+1 1100 [COMPANY] 46,440 $12,500,000 $11.84 $269
+2 1155 [COMPANY] 62,405 $17,600,000 $15.23 $282
+3 2713 [COMPANY] 34,298 $6,700,000 $11.92 $195
+4 2655 Queensview Drive Aug/24 30,123 $7,600,000 $14.63 $252
+5 2100 Bantree Road Jun/24 20,977 $3,900,000 $8.55 $186
+Subj. 2220 Walkley Road 84,218 $17.09
+The foregoing sales were analysed in order to estimate the current market value of the subject building
+on a price per square foot of building area basis and indicate a range of values between $186 and $282
+per square foot of building area. We would also note that the annual net incomes for the comparable
+sales range between $8.55 and$15.23 per square foot.
+All else being equal, a major determinant of sale price per square foot is the income generating
+capability of a property (i.e. the higher the net income per square foot the higher the sale price per square
+foot). This is demonstrated by the comparable sales with [COMPANY] #5 indicating the lowest net
+income per square foot and the lowest price per square foot and [COMPANY] #2 indicating the
+highest net income per square foot and the highest price per square foot. The subject's net income per
+square foot is above the range of the comparable sales indicating that it should have a value of more than
+$282 per square foot.
+Other factors such as condition and location are important. Those developments which are newer and
+have been well maintained tend to sell at higher prices per square foot, as the need for major capital
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 30
+expenditures in the short term tends to be less significant. Location is also a relevant factor as some
+areas tend to have the ability to sustain a superior market demand relative to others. Neighbourhood
+quality and accessibility are important as these influence the longer term ability of a particular building
+to attract tenants relative to competing product. Those buildings which are easily accessible and close
+to major employment centres will tend to sustain better occupancy levels and be capable of attaining
+higher rents in the future. Other factors influencing the sale price per square foot are the covenants of
+the tenants, layout and parking provisions. Presumably, however, the majority of these factors are
+reflected in the rent attained.
+Assuming a direct relationship between price per square foot and net income per square foot, the
+foregoing sales would suggest a value in the range of $280 and $388 per square foot for the subject.
+There continues to be very strong demand for good quality investment product and interest rates are
+starting to decline. The subject is judged to warrant a rate within the range given its fully renovated
+good quality space, covenants and long term leases.
+Having regard to the foregoing, it is our opinion that the subject property warrants a market value based
+on $325.00 per square foot of leasable building area. The present value of the recovery of the
+amortization income must be added to this market value estimate. Therefore, the estimated market value
+of the leased fee interest in the subject property by [COMPANY] based on its current
+level of occupancy is summarized as follows:
+Building Size (square feet) 84,218
+Price Per Square Foot of Building $325
+Stabilized Market Value Estimate $27,370,850
+Plus: PV of Recoveries of [COMPANY] 798,030
+Current Market Value Estimate $28,168,880
+Rounded to:
+TWENTY-EIGHT MILLION ONE HUNDRED AND SEVENTY THOUSAND DOLLARS
+($28,170,000)
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 31
+RECONCILIATION AND FINAL ESTIMATE OF VALUE
+The market value estimates are as follows:
+Direct Capitalization Method: $28,210,000
+Discounted Cash Flow Method: $28,300,000
+[COMPANY]: $28,170,000
+[COMPANY] analyses the upcoming year's income stream. The reliability of the
+upcoming year's net operating income estimate increases with the level of occupancy. With respect to
+the subject, the subject property is fully leased with limited roll over risk in the short to mid term.
+The Discounted Cash Flow Method analyses the subject's financial performance over a 11-year holding
+period. Typically this approach is employed in the valuation and purchase of larger income generating
+investments which are subject to a number of existing leases, such as the subject.
+The reliability of [COMPANY] is contingent on the assumptions made about future
+expectations by the marketplace. Hence, the appraiser's ultimate goal is to properly mirror the actions
+of the investor.
+[COMPANY] analyses recent sales of comparable properties with
+adjustments made to account for differences in relation to the subject. [COMPANY]
+is applicable to all types of real property interests when there are sufficient recent, reliable transactions
+to indicate value patterns or trends in the market. For properties that are bought and sold regularly, the
+[COMPANY] often provides a supportable indication of market value. Further,
+consideration was given to the income generating capabilities of the comparable sales in relation to the
+subject.
+In conclusion, it is our opinion that the estimated market value of the leased fee interest in the subject
+property based on stabilized occupancy, as at December 19, 2025, is:
+TWENTY-EIGHT MILLION TWO HUNDRED THOUSAND DOLLARS
+($28,200,000)
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 32
+ASSUMPTIONS, LIMITING CONDITIONS, [COMPANY] AND
+LIMITATIONS OF [COMPANY]
+The certification that appears in this report is subject to compliance with [COMPANY] (PIPEDA), Canadian Uniform Standards of Professional
+Appraisal Practice (“CUSPAP”) and the following conditions:
+1. This report is prepared only for the client and authorized users specifically identified in this report
+and only for the specific use identified herein. No other person may rely on this report or any part
+of this report without first obtaining consent from the client and written authorization from the
+authors. Liability is expressly denied to any other person and, accordingly, no responsibility is
+accepted for any damage suffered by any other person as a result of decisions made or actions taken
+based on this report. Liability is expressly denied for any unauthorized user or for anyone who uses
+this report for any use not specifically identified in this report. Payment of the appraisal fee has no
+effect on liability. [COMPANY] on this report without authorization or for an unauthorized use is
+unreasonable.
+2. Because market conditions, including economic, social and political factors, may change rapidly
+and, on occasion, without warning, this report cannot be relied upon as of any date other than the
+effective date specified in this report unless specifically authorized by the author(s).
+3. The author will not be responsible for matters of a legal nature that affect either the property being
+appraised or the title to it. The property is appraised on the basis of it being under responsible
+ownership. No registry office search has been performed and the author assumes that the title is good
+and marketable and free and clear of all encumbrances. Matters of a legal nature, including
+confirming who holds legal title to the appraised property or any portion of the appraised property,
+are outside the scope of work and expertise of the appraiser. Any information regarding the identity
+of a property's owner or identifying the property owned by the listed client and/or applicant provided
+by the appraiser is for informational purposes only and any reliance on such information is
+unreasonable. Any information provided by the appraiser does not constitute any title confirmation.
+Any information provided does not negate the need to retain a real estate lawyer, surveyor or other
+appropriate experts to verify matters of ownership and/or title.
+4. Verification of compliance with governmental regulations, bylaws or statutes is outside the scope
+of work and expertise of the appraiser. Any information provided by the appraiser is for
+informational purposes only and any reliance is unreasonable. Any information provided by the
+appraiser does not negate the need to retain an appropriately qualified professional to determine
+government regulation compliance.
+5. No survey of the property has been made. Any sketch in this report shows approximate dimensions
+and is included only to assist the reader of this report in visualizing the property. It is unreasonable
+to rely on this report as an alternative to a survey, and an accredited surveyor ought to be retained
+for such matters.
+6. This report is completed on the basis that testimony or appearance in court concerning this report
+is not required unless specific arrangements to do so have been made beforehand. Such
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 33
+arrangements will include, but not necessarily be limited to: adequate time to review the report and
+related data, and the provision of appropriate compensation.
+7. Unless otherwise stated in this report, the author has no knowledge of any hidden or unapparent
+conditions (including, but not limited to: its soils, physical structure, mechanical or other operating
+systems, foundation, etc.) of/on the subject property or of/on a neighbouring property that could
+affect the value of the subject property. It has been assumed that there are no such conditions. Any
+such conditions that were visibly apparent at the time of inspection or that became apparent during
+the normal research involved in completing the report have been noted in the report. This report
+should not be construed as an environmental audit or detailed property condition report, as such
+reporting is beyond the scope of this report and/or the qualifications of the author. The author makes
+no guarantees or warranties, express or implied, regarding the condition of the property, and will not
+be responsible for any such conditions that do exist or for any engineering or testing that might be
+required to discover whether such conditions exist. The bearing capacity of the soil is assumed to
+be adequate.
+8. The author is not qualified to comment on detrimental environmental, chemical or biological
+conditions that may affect the market value of the property appraised, including but not limited to
+pollution or contamination of land, buildings, water, groundwater or air which may include but are
+not limited to moulds and mildews or the conditions that may give rise to either. Any such
+conditions that were visibly apparent at the time of inspection or that became apparent during the
+normal research involved in completing the report have been noted in the report. It is an assumption
+of this report that the property complies with all regulatory requirements concerning environmental,
+chemical and biological matters, and it is assumed that the property is free of any detrimental
+environmental, chemical legal and biological conditions that may affect the market value of the
+property appraised. If a party relying on this report requires information about or an assessment of
+detrimental environmental, chemical or biological conditions that may impact the value conclusion
+herein, that party is advised to retain an expert qualified in such matters. The author expressly denies
+any legal liability related to the effect of detrimental environmental, chemical or biological matters
+on the market value of the property.
+9. The analyses set out in this report relied on written and verbal information obtained from a variety
+of sources the author considered reliable. Unless otherwise stated herein, the author did not verify
+client-supplied information, which the author believed to be correct.
+10. The term "inspection" refers to observation only as defined by CUSPAP and reporting of the general
+material finishing and conditions observed for the purposes of a standard appraisal inspection. The
+inspection scope of work includes the identification of marketable characteristics/amenities offered
+for comparison and valuation purposes only.
+11. The opinions of value and other conclusions contained herein assume satisfactory completion of any
+work remaining to be completed in a good and workmanlike manner. Further inspection may be
+required to confirm completion of such work. The author has not confirmed that all mandatory
+building inspections have been completed to date, nor has the availability/issuance of an occupancy
+permit been confirmed. The author has not evaluated the quality of construction, workmanship or
+materials. It should be clearly understood that this visual inspection does not imply compliance with
+any building code requirements as this is beyond the professional expertise of the author.
+12. The contents of this report are confidential and will not be disclosed by the author to any party
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 34
+except as provided for by the provisions of the CUSPAP and/or when properly entered into evidence
+of a duly qualified judicial or quasi-judicial body. The author acknowledges that the information
+collected herein is personal and confidential and shall not use or disclose the contents of this report
+except as provided for in the provisions of the CUSPAP and in accordance with the author's privacy
+policy. The client agrees that in accepting this report, it shall maintain the confidentiality and
+privacy of any personal information contained herein and shall comply in all material respects with
+the contents of the author's privacy policy and in accordance with the PIPEDA.
+13. The author has agreed to enter into the assignment as requested by the client named in this report
+for the use specified by the client, which is stated in this report. The client has agreed that the
+performance of this report and the format are appropriate for the intended use.
+14. This report, its content and all attachments/addendums and their content are the property of the
+author. The client, authorized users and any appraisal facilitator are prohibited, strictly forbidden,
+and no permission is expressly or implicitly granted or deemed to be granted, to modify, alter,
+merge, publish (in whole or in part) screen scrape, database scrape, exploit, reproduce, decompile,
+reassemble or participate in any other activity intended to separate, collect, store, reorganize, scan,
+copy, manipulate electronically, digitally, manually or by any other means whatsoever this appraisal
+report, addendum, all attachments and the data contained within for any commercial, or other, use.
+15. If transmitted electronically, this report will have been digitally signed and secured with personal
+passwords to lock the appraisal file. Due to the possibility of digital modification, only originally
+signed reports and those reports sent directly by the author can be reasonably relied upon.
+16. Where the intended use of this report is for financing or mortgage lending or mortgage insurance,
+it is a condition of reliance on this report that the authorized user has or will conduct lending,
+underwriting and insurance underwriting and rigorous due diligence in accordance with the
+standards of a reasonable and prudent lender or insurer, including but not limited to ensuring the
+borrower's demonstrated willingness and capacity to service his/her debt obligations on a timely
+basis, and to conduct loan underwriting or insuring due diligence similar to the standards set out by
+[COMPANY] (OSFI), even when not otherwise required
+by law. Liability is expressly denied to those that do not meet this condition. Any reliance on this
+report without satisfaction of this condition is unreasonable.
+17. The value conclusion is in Canadian dollars.
+18. This report is only valid if it bears the original signature of the author or a password protected digital
+signature.
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 35
+CERTIFICATION
+Re: [PERSON] on 2220 Walkley Road, Ottawa, Ontario
+I certify to the best of my knowledge and belief that:
+([COMPANY]) The statements of fact contained in this report are true and correct.
+([COMPANY]) The reported analyses, opinions, and conclusions are limited only by the reported assumptions and
+limiting conditions, and are my personal, impartial, and unbiased professional analyses, opinions,
+and conclusions.
+([COMPANY]) I have no present or prospective interest in the subject matter, the property that is the subject of this
+report, and no personal interest with respect to the parties involved.
+([COMPANY]) I am not in a conflict of interest to undertake this assignment.
+([COMPANY]) I have no bias with respect to the subject matter, the property that is the subject of this report or to
+the parties involved with this assignment.
+([COMPANY]) My engagement in and compensation for this assignment were not contingent upon developing or
+reporting predetermined results, the amount of the value estimate, or a conclusion favouring the
+client.
+([COMPANY]) My analyses, opinions, and conclusions were developed, and this report has been prepared, in
+conformity with [COMPANY] Professional Appraisal Practice.
+([COMPANY]) I have the knowledge, skills and experience to complete the assignment competently.
+([COMPANY]) No one provided professional assistance or third party professional assistance to the person(s)
+signing this report.
+([COMPANY]) As of the date of this report, the undersigned has fulfilled the requirements of [COMPANY]
+of [COMPANY] for Members.
+([COMPANY]) The undersigned is a Member in good standing of [COMPANY].
+([COMPANY]) I did personally inspect the subject property of the report on December 19, 2025.
+PROPERTY IDENTIFICATION
+Property Address: 2220 Walkley Road, Ottawa, [COMPANY] Lots A and 1, [COMPANY] (Rideau Front), being Parts
+1 to 4 on Plan 5R-12475, Except Parts 1, 3 and 4 on Plan 5R-
+13469, [CITY] to N459468, in [CITY]. ([COMPANY]) 04165-
+[PERSON]).
+([COMPANY]) As a result of our investigation and analysis of the relevant data, it is our opinion that the estimated
+market value of the leased fee interest in the subject property based on stabilized occupancy, as at
+December 19, 2025, is $28,200,000.
+[PERSON] 429-25-31
+[COMPANY]
+Appraisal Report on 2220 Walkley Road, Ottawa 36
+As set out elsewhere in this report, our valuations are based on the following key assumptions and
+limiting conditions, among others, the verification of which is outside the scope of this report:
+(cid:60) the property is free and clear of any mortgage charges or other title encumbrances, unless otherwise
+indicated;
+(cid:60) the property and adjoining lands are free of environmental contaminates; and
+(cid:60) the leaseable areas outlined herein are correct.
+If any of the foregoing assumptions are proven to be incorrect, a change to our valuation conclusion may
+be warranted.
+Dated: December 23, 2025 JUTEAU JOHNSON COMBA INC
+[PERSON], [CITY], [COMPANY], P.App.
+Membership #902620
+[PERSON] 429-25-31
+APPENDIX A
+COMPARABLE SALES
+Comparable Sale #1
+1100 ALGOMA ROAD, OTTAWA
+Vendor: [COMPANY] ([COMPANY]
+Purchaser: [COMPANY] (BTB REIT)
+Registration Date: April 5, 2022
+Consideration: $12,500,000
+PIN: 04263-0424
+Site Area: 3.57 acres (as per DeedPlotter)
+Site Coverage Ratio: 16%
+Building Area: 9,300 square feet ([COMPANY])
+16,000 square feet (Ground floor warehouse)
+4,840 square feet (Second floor warehouse)
+7,000 square feet (Second floor production/lab/staff area)
+9,300 square feet (Second floor office area)
+46,440 square feet (Total area)
+[COMPANY]: $269
+Capitalization Rate: 4.4% (based on 5% vacancy)
+4.8% (based on 0% vacancy)
+Remarks
+The property is located on the southwest corner of [COMPANY] and Algoma Road, in the Cyrville
+Industrial Area of the former City of [CITY], now in the east end of [CITY]. It is
+improved with a one and two-storey, office/showroom and warehouse structure constructed in 2007.
+There are ±185 paved surface parking spaces. The warehouse section has a clear ceiling height of 24
+feet clear for approximately 3,700 square feet only. The remaining area has a clear ceiling height of 10
+feet. Based on the approved site plan, the site offers a building expansion area of 5,500 square feet.
+The property is fully leased to [COMPANY] for a 10-year term expiring on
+October 31, 2028. The rent steps-up by $1.15/sf on November 1, 2023. The tenant has an option to
+early terminate on November 1, 2023, provided a prior nine-month written notice and nine months of
+gross rent as a termination fee. It previously sold in July 2021 for $12,176,681 as part of a portfolio.
+Comparable Sale #2
+1155 LOLA STREET, OTTAWA
+Vendor: 1155 [COMPANY]
+[COMPANY]
+Registration Date: May 25, 2022
+Consideration: $17,600,000
+PIN: 04254-0057
+Site Area: 3.04 acres (as per [COMPANY])
+Building Area: 34,406 square feet (Office area/commercial)
+27,999 square feet ([COMPANY] area)
+62,405 square feet (Total area)
+[COMPANY]: $282
+Capitalization Rate: 5.4% (based on 2.5% vacancy)
+Remarks
+The property is located east side of Lola Street, to the north of Coventry Road and to the south of
+Presland Road, in the [CITY]/Coventry neighbourhood of [CITY]. It is improved with a one
+and one-half storey industrial flex building of which 9,000 square feet is an elevated basement level
+that was constructed in 1972, with the east addition in 1989 and the west addition in 2009. It is fully
+leased to seven tenants. Primary tenants include [COMPANY]. There are six dock
+level and four grade level loading doors. The warehouse has a clear ceiling height of 18 feet. There are
++/- 155 paved surface parking spaces (2.5 spaces/1,000 sf). There are two cellphone towers on site
+which generate income of $31,392. It is located within 700 metres of the [COMPANY] LRT station. It
+previously sold in May 2016 for $12,800,000. It was listed on February 1, 2022 for $18,000,000 and
+was on the market for 83 days.
+Comparable Sale #3
+2713 LANCASTER ROAD, OTTAWA
+Vendor: 891717 [COMPANY] ([COMPANY])
+Purchaser: [COMPANY]
+Registration Date: June 28, 2022
+Consideration: $6,700,000
+PINs: 04262-0309 & 04262-0026
+Site Area: 1.19 acres (Main parcel)
+0.98 acres (Excess land)
+2.17 acres (Total as per [COMPANY])
+Building Area: 34,298 square feet
+[COMPANY]: $195
+Capitalization Rate: 6.1% (based on 5% vacancy)
+Remarks
+The property is located on the east side of Lancaster Road, to the north of Walkley Road, in the
+[COMPANY], in the east end of [CITY]. It is improved with a two-
+storey, elevatored, Class “B”, office building that was constructed in 1987. There is one overhead
+loading door. It is reported to be in good condition. It is fully leased to three tenants with the main
+tenant being [COMPANY] It has a weighted average remaining lease term of ±8 years. There are ±86
+paved surface parking spaces (2.5 spaces/1,000 sf). The rear excess land is zoned half light industrial
+and half heavy industrial. It is cleared and consists of shrubs and natural foliage at its north and south
+borders.
+Comparable Sale #4
+2655 QUEENSVIEW DRIVE, OTTAWA
+Vendor: [COMPANY]
+[COMPANY] ([COMPANY])
+Registration Date: August 2, 2024
+Consideration: $7,600,000
+PIN: 03957-0513
+Site Area: 2.26 acres (as per [COMPANY])
+Site Coverage Ratio: 30.6%
+Building Area: 30,123 square feet (as per [COMPANY])
+[COMPANY]: $252
+Capitalization Rate: 6.1% based on 0% vacancy)
+5.8% (based on 5% vacancy)
+Remarks
+The property is located on the north side of Queensview Drive, to the west of Pinecrest Road, just to
+the north of Highway 417, and within 600 metres of the new Pinecrest LRT Station. It is improved
+with a single tenant, one-storey industrial building with mezzanine that was constructed in 1980. The
+property is fully leased to [COMPANY] for another 10 years with two, ten-year renewal options.
+There are 125 paved surface parking spaces (4.1 spaces/1,000 square feet). It is reported that the
+building needs a new roof that will cost $500,000. However, the purchaser eventually plans to buy out
+the tenant in several years and redevelop the property with high-density residential. Thus, the broker
+states the purchaser may just patch the roof until redevelopment. Current zoning allows for a building
+height between 19-25 storeys. There is no immediate timeline on development. The original asking
+price of the property was $8,500,00 and was subsequently reduced to $8,000,000.
+Comparable Sale #5
+2100 BANTREE ROAD, OTTAWA
+Vendor: Ambassador [PERSON]
+[COMPANY] Bantree 2100 [COMPANY] ([COMPANY])
+Registration Date: June 19, 2024
+Consideration: $3,900,000
+PIN: 04262-0067
+Site Area: 50,989 square feet (as per [COMPANY])
+Site Coverage Ratio: 41.1%
+Building Area: 20,977 square feet (Gross Leasable Area)
+[COMPANY]: $186
+Capitalization Rate: 4.6% (based on 5% vacancy)
+Remarks
+The property is located on the southwest corner of [CITY] and [PERSON], in the
+Sheffield/Lancaster Industrial Area, in the east end of [CITY]. It is improved with a one-
+[PERSON]-tenant industrial building that was constructed in 1990. Each unit is provided with a front
+office, a two-piece washroom and rear warehouse area with a dock level wooden overhead door. It is
+demised into ten bays that were fully leased to five long-term tenants at rents that were considered
+significantly below market. Leases on 5,488 square feet turnover in April and July 2025 while the
+remaining leases expire in 2026 and 2028. The office/showroom area is heated with electric baseboards
+while the rear warehouse is heated by suspended gas-fired space heater and/or infrared heaters. Cooling
+of units is partially provided. Clear ceiling height in the warehouse is approximately 19 feet (21 feet to
+deck). The building features nine dock level and one grade level overhead door. There are 30 paved
+surface parking spaces for vehicles.
+It is reported that the purchaser made an offer on April 24, 2024 and has been looking at purchasing
+the property since March. Closing was rushed to avoid the higher capital gains tax that came into affect
+in June 25, 2024.

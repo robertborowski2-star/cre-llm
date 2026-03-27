@@ -1,0 +1,72 @@
+ACM ADVISORS - INTERNAL GLOSSARY OF TERMS
+==========================================
+DEAL PROCESS & DOCUMENTS
+--------------------------
+PAC ([COMPANY])
+[initial loan presentation document created by an analyst and assessed by the investment committee.]
+[COMPANY] ([COMPANY])
+[final loan presentation document for approval and final sign off, commitment letter issuance and ultimate funding if approved]
+Term Sheet
+[initial non-legally binding presentation of terms to a [COMPANY]]
+Commitment Letter
+[final legally binding document outlining all terms and conditions of the loan/financing which governs all future items related to the loan]
+LOAN STRUCTURE TERMS
+---------------------
+[COMPANY]
+[senior debt position with registartion on title that ranks ahead of other debt and all other equity ]
+Second Mortgage / Mezzanine
+[second ranking debt registered on title]
+A-Note / B-Note
+[a rank split within an existing overall mortgage that can be 1st or 2nd ranking on title. Its a subdivision of debt within an mortgage]
+Construction Holdback
+[regulatory holdbacks as part of construction financing. Not necessarily just related to debt but all construction projects where the provinicial government requires the builder/developer to holdback some amount of the total cost in the event of a lien]
+Equity Holdback
+[funds held back in the event of an unforeseen issue usually negotiated between buyer and seller]
+UNDERWRITING METRICS
+---------------------
+DSCR (Debt Service Coverage Ratio)
+[ratio of how much cashflow there is available for every 1 dollar of debt payments]
+[COMPANY] (Loan to Value)
+[a ratio showing how much debt there is with respect to the total value of the asset]
+GDS / [COMPANY]
+[Gross Debt Service and [COMPANY]; same as DSCR but ratio is reversed and typically only used in single family residential lending]
+NOI (Net Operating Income)
+[Income of a property before debt payments]
+[PERSON]
+[a ratio of how much income is generated related to the value of the property - NOI/value = cap rate]
+[COMPANY]
+[GOC is government of Canada bond - the spread is how much a lender charges above that bond yield which equates to the interest rate the borrower pays]
+Debt Yield
+[like cap rate but [COMPANY]/loan amount - tells lender how much they can yield on their debt if the income remains]
+CANADIAN LENDING SPECIFIC
+--------------------------
+CMHC (Canada Mortgage and Housing Corporation)
+[insurance agency for multifamily and residential loans in canada]
+MLI Select
+[A speficif insurance program within CMHC's overall offerings]
+[COMPANY])
+[Specific name to ACM - this is one of their funds]
+NHA MBS
+[national housing agency mortgage backed security - this is a bond issued by CMHC]
+OSFI Guidelines
+[financial regulator which governs all federally regulated financial institutions in Canada and their guidelines]
+[COMPANY] (Tribunal administratif du logement)
+[Quebec based landlord and tenant board for disputes]
+PROPERTY [COMPANY]
+--------------
+MFAM (Multifamily)
+[apartment buildings]
+[COMPANY] (Industrial, Commercial, Institutional)
+[all asset classes outside of multifamily - industrial, retail, office, etc]
+Mixed Use
+[an asset that has several uses, typically two like an apartment with some retail in it. Or office building with retail. Can be a mix of any of the asset classes]
+PEOPLE / ROLES
+--------------
+Sponsor
+[Overall principal typically main corporation or principal that is responsible for the asset and the loan]
+Guarantor
+[specific individuals or entities that provide guarantees on a mortgage loan or any loan]
+[COMPANY]
+[the individual or entity that is the legal [COMPANY]]
+Broker
+[licensed individuals or entities that act as brokers between Borrowers and lenders]

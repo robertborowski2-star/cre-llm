@@ -1,0 +1,535 @@
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+EXECUTIVE SUMMARY
+RECOMMENDATION LOAN AMOUNT
+Confidence $124,800,000
+DECLINE 100%
+[COMPANY] DSCR
+$158,569,858 0.81x
+[COMPANY]
+78.7%
+localhost:3000 1/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Transaction Overview
+HNC 500 Block I LP is requesting $124.80M in financing (62.4% [COMPANY]) for
+this Multifamily asset in Calgary, AB.
+One [LOCATION] is a 462-unit luxury purpose-built rental tower completed
+in 2020 in Calgary's premier [PERSON] district, featuring 32 storeys of
+concrete construction with exceptional build quality and an extensive
+amenity package including rooftop pool, state-of-the-art fitness facilities,
+and hotel-style concierge services. The property was developed and
+continues to be managed by [COMPANY], a globally recognized real estate firm
+with US$91.8 billion in assets under management, and includes 8,488
+square feet of ground-floor retail space fully leased to local tenants on
+triple-net leases averaging $32.07 per square foot. The building stabilized
+in Q2 2022 and offers sophisticated unit designs with in-suite laundry,
+stainless steel appliances, and quartz countertops across a diversified mix
+of bachelor through three-bedroom penthouse units.
+The investment thesis centers on the property's exceptional location just
+steps from Calgary's [LOCATION] with direct [COMPANY] access,
+positioning it to benefit from strong population growth and return-to-office
+trends driving rental demand in the urban core. Calgary experienced net
+migration of over 92,600 people in 2024 with limited new rental supply
+coming online, creating a favorable demand-supply dynamic for quality
+rental assets. While the property currently exhibits 5.9% vacancy with
+some rental incentives, this presents near-term value creation
+opportunities through active leasing and incentive elimination as the
+market tightens, supported by the institutional-quality management
+platform and the building's competitive positioning as one of Calgary's
+most desirable rental addresses.
+LOAN REQUEST PROPERTY VALUE
+$124,800,000 $199,850,000
+localhost:3000 2/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Appraisal Value
+ASSET CLASS LOCATION
+Multifamily Calgary, AB
+Proposed Loan Terms
+Base Rate Base Rate (%)
+GOC (5-Year) 3.5
+Spread (%) Amortization (Years)
+2 25
+Proposed Loan ($)
+5.50% $9,196,574
+All-In Rate: Annual Debt Service:
+localhost:3000 3/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Property Analysis
+BUILDING SIZE YEAR [COMPANY]
+284,000 SF 2020
+UNIT COUNT [COMPANY]
+462 94.13%
+[COMPANY]
+89/100
+Quality Factors
+Building Age:Very new (6 years old)
+Occupancy:Strong occupancy (94.1%)
+Location:Tier-2 market (Calgary)
+Excellent Condition (CIM Narrative):Excellent
+Strong Location (CIM Narrative):8 location advantages, no disadvantages
+noted
+[COMPANY] suggested -4 bps total cap rate adjustment
+Property Commentary
+The property was built in 2020, making it approximately 6 years old. Klaus
+has assigned a quality grade of A+ with a score of 89/100. Excellent
+Current occupancy stands at 94.13%.
+Property Description
+localhost:3000 4/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+One Park Central is a 32-storey concrete framed building constructed in
+2020, comprising 462 apartment units and 8,488 SF of ground floor retail
+space. The building features 48 bachelor units, 294 one-bedroom units,
+116 two-bedroom units, and 4 three-bedroom penthouse units. Located in
+Calgary's [CITY] district at 510 12th Avenue SW, the property offers
+sophisticated unit design with stainless steel appliances, quartz
+countertops, in-suite washer/dryer, and floor-to-ceiling glass. The building
+stabilized in Q2 2022 and offers world-class amenities including a rooftop
+pool, state-of-the-art fitness center, games lounge with golf simulators,
+heated underground parking, and hotel-style concierge services.
+KEY FEATURES
+32-storey concrete construction 462 apartment units
+8,488 [CITY] retail space Rooftop pool and premium amenities
+State-of-the-art fitness center Heated underground parking
+In-suite washer/dryer [COMPANY] countertops Stainless steel appliances
+Floor-to-ceiling glass Pet-friendly with wash area
+BUILDING QUALITY ASSESSMENT
+Excellent - newly constructed in 2020 with high-quality finishes, concrete
+construction, sophisticated design, and extensive amenity package
+[COMPANY][PERSON] applied membrane, insulation,
+filter fabric, and 40mm ballast - 3
+years old
+HVAC STRUCTURAL
+Vertical 4 pipe fan coils serviced by [COMPANY] and steel superstructure
+centralized boiler plant and chilled with concrete parkade foundation
+water plant with high mass boilers
+and variable volume pumping
+localhost:3000 5/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+system. [LOCATION] with no individual
+heat pumps
+SYSTEMS RECENT CAPEX
+Double glazed windows, individually Not mentioned - building is newly
+metered electricity, central heating constructed
+and cooling systems
+DEFERRED MAINTENANCE
+None mentioned - building is only 3 years old
+[PERSON]
+27 Boutique 3,628 SF Unknown
+27 [COMPANY] is a trendy fashion store in Calgary that is known for its stylish and
+up-to-date clothing, accessories, and personalized shopping experiences
+[PERSON]: May 2031 Rent: $32.00/SF
+Industry: Women's Fashion Retail/Apparel & Accessories
+Local fashion retailer [COMPANY] presence
+[PERSON] 3,439 SF Good
+[PERSON] is an independently owned veterinary clinic that offers services for
+companion animals, farm animals, and equine. The clinic is known for its
+modern facilities as well as its personalized care approach. Provides
+tremendous appeal to residential tenants due to strong presence of pets within
+the building
+[PERSON]: November 2032 Rent: $33.00/SF
+Industry: [COMPANY]
+Independently owned veterinary clinic Modern facilities
+Synergistic with residential tenant base
+[COMPANY]
+1,421
+Excellent
+(MODA) SF
+MODA is a Calgary-based practice working across the fields of architecture,
+urbanism, landscape, and design. Will step up to $32.00 in November 2026
+localhost:3000 6/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Lease Expiry: October 2031 Rent: $30.00/SF
+Industry: Architecture, Engineering & Design
+Professional services firm Calgary-based architecture practice
+Rent escalation built into lease
+NARRATIVE IMPACT ON PROPERTY QUALITY SCORE
+Excellent +8 pts
+8 location advantages, no disadvantages noted [PERSON] pts
+[COMPANY] suggested -4 bps total cap rate adjustment +4 pts
+[COMPANY] +17 pts
+localhost:3000 7/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Location Analysis
+CIM SUMMARY
+[COMPANY] is seeking financing for One Park Central, a 462-unit luxury
+purpose-built rental tower in Calgary's [CITY] district, owned and
+managed by [COMPANY]. The financing options include both CMHC MLI Market
+($124M) and conventional financing ($125M) to refinance existing debt.
+[COMPANY]One [LOCATION] represents a premier quality investment opportunity
+featuring a newly constructed 32-storey concrete tower with world-class
+amenities and sophisticated unit finishes. The property benefits from
+exceptional location advantages in Calgary's most vibrant [PERSON] district
+with superior access to employment centers and urban amenities. While
+the retail component is 100% leased to local tenants, the property offers
+significant value-add potential through vacancy reduction and the
+elimination of current rental incentives as the market tightens. The world-
+class [COMPANY] sponsorship provides institutional-quality management and
+development expertise, though current vacancy levels of 5.9% present
+near-term leasing challenges.
+Location Attributes
+ADVANTAGES
+Located in Calgary's most vibrant [PERSON] community
+Steps away from Calgary's [LOCATION] and Plus 15 Skywalk
+8-minute walk to Calgary's [COMPANY] LRT system 4th Street Station
+Surrounded by Central Memorial Park and abundant greenspace
+Proximate to [COMPANY]
+Close to [LOCATION] and [LOCATION] pathway systems
+Near major employment clusters and [COMPANY]BMO Centre
+localhost:3000 8/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Access to some of Calgary's highest rated restaurants
+Market Context (from CIM)
+Calgary is the 3rd largest municipality in Canada with highest head office
+concentration per capita and highest GDP per capita of major Canadian
+cities. The [PERSON] is one of Calgary's most densely populated and urban
+communities, undergoing rejuvenation to accommodate up to 40,000
+residents by 2035.
+DEMAND DRIVERS
+Net migration of 92,601 people in 2024
+Population growth of 1.38% in 2024-2025
+Housing affordability compared to Toronto, Montreal, Vancouver
+86,400 households spending over 30% of income on housing
+Strong employment growth
+localhost:3000 9/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+VALUE-ADD OPPORTUNITIES
+Opportunity to reduce vacancy from current 5.9% through active leasing
+Potential to phase out rental incentives as market tightens
+Growing demand for furnished units - currently 47 furnished suites with
+expansion potential
+Benefit from return-to-office mandates increasing demand for downtown-
+adjacent rental
+[COMPANY] vacancy rate of 5.9% above market average
+Recent uptick in vacancy due to similar units entering market in 2024
+All retail tenants are local credit with no national or government tenancy
+Residential rental market showing some softening with incentives being offered
+localhost:3000 10/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Rental Analysis & Market Commentary
+Unit Mix Composition
+1BR: 63.6%
+2BR: 2
+1BR 294 units
+[COMPANY] $2021/mo
+Market Rent $1567/mo
+Gap +29.0%
+Annual Risk $1,384,704
+2BR 116 units
+[COMPANY]2810/mo
+Market Rent $1870/mo
+Gap +50.3%
+Annual Risk $701,760
+3BR 4 units
+[COMPANY]/mo
+Market Rent $2030/mo
+localhost:3000 11/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Gap +124.1%
+Annual Risk $120,960
+Studio 48 units
+[COMPANY] $1691/mo
+Market Rent $1335/mo
+Gap +26.7%
+Annual Risk $2,160
+Market Commentary
+Web research shows cap rates ranging from 4.72% to 5.05%. [COMPANY] is using
+a 4.68% cap rate for this analysis. Market vacancy currently sits at 5.8%.
+The property's rents are positioned above market relative to market. Note:
+Current rents appear to be 2,209,584 above market annually, representing
+potential downside risk.
+MARKET CAP RATE RANGE MARKET VACANCY
+4.72% - 5.05% 5.8%
+DATA [COMPANY] SOURCES
+high 4
+CBRE, Colliers, [PERSON], Web
+Search ([PERSON])
+localhost:3000 12/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Operating Statement Analysis
+Data Source: Operating Statement (AI Extracted)
+📊 Multifamily expenses shown as $/unit/year
+[PERSON] $/Unit/Yr Notes
+Amount Adjusted
+$1490/unit/ye
+Payroll $688,589 $688,589 $1490 (benchmark:
+$516-$1162/u
+$415/unit/yea
+Administrative $191,942 $191,942 $415 (benchmark:
+$129-$258/u
+$620/unit/ye
+Marketing $286,379 $286,379 $620 (benchmark:
+$65-$194/un
+$2104/unit/ye
+Utilities $972,270 $972,270 $2104 (benchmark:
+$775-$1291/
+Broker: $518
+→ [PERSON]:
+[COMPANY]
+$239,283 $402,570 (↑) $871 $871/unit
+Maintenance
+(benchmark:
+$871/unit)
+$1176/unit/ye
+Security $543,431 $543,431 $1176 (benchmark:
+$65-$226/un
+Unknown
+Other/miscellaneous $67,752 $67,752 $147 category - us
+broker value
+Insurance $340,940 $340,940 $738 $738/unit/yea
+accepted as
+Total Operating
+$4,784,186 $5,215,853 ↑ Klaus added $431,667
+Expenses
+localhost:3000 13/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Broker Klaus
+Category $/Unit/Yr Notes
+Amount Adjusted
+property-
+specific
+$2504/unit/y
+- accepted a
+Property Taxes $1,156,897 $1,156,897 $2504
+property-
+specific
+$642/unit/ye
+Management Fee $296,703 $296,703 $642 (typically 4%
+EGI)
+Missing - add
+[COMPANY] $0 $268,380 (↑) $581
+$581/unit/yea
+Total Operating
+$4,784,186 $5,215,853 ↑ Klaus added $431,667
+Expenses
+localhost:3000 14/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+NOI Analysis & Adjustments
+BROKER NOI [COMPANY]
+$8,517,102 $7,426,355
+[COMPANY] VARIANCE ADJUSTMENTS MADE
+-12.8% 4
+-12.8%
+[COMPANY] = Rental Income (occupied @ actual rent, vacant @ market rent) + Other Income
+Rental Income $11,940,756
+└ Occupied (425 units @ actual rent) $11,207,400
+└ Vacant (37 units @ market rent) $733,356
+(Broker used $0 for vacant) +$733,356
++ Other Income $1,479,847
+└ Parking $764,026
+└ Storage $32,692
+└ Other $272,750
+└ Retail $410,379
+= [COMPANY] $13,420,603
+([COMPANY]) $13,712,667
+− Vacancy @ 5.8% (Broker: 3.0%) −$778,395
+= [COMPANY] $12,642,208
+[COMPANY] -$375,777
+3.0% → 5.8% Market vacancy 5.8%. [COMPANY] using 5.8% vs broker's 3.…
+localhost:3000 15/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+GPI Reconciliation -$292,064
+$13,712,667 → $13,420,603 [COMPANY] used market rent for 37 vacant unit(s) ($733,35…
+Operating Expense Adjustments
+2 expense categories adjusted
+-$431,667
+Expenses increased by $431,667 → [COMPANY] decreases
+[COMPANY] Impact -$1,099,508
+localhost:3000 16/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Valuation Analysis
+Metrics Comparison: Broker vs [PERSON] vs Appraisal
+Metric Broker [PERSON]
+NOI $8,517,102 $7,426,355 $8,993,250
+[PERSON] 4.50% 4.68% 4.50%
+Value $199,850,000 $158,569,858 $199,850,000
+DSCR (Proposed Loan) 0.93x 0.81x 0.98x
+[COMPANY] (Proposed Loan) 62.45% 78.70% 62.45%
+[PERSON]
+$199,850,000
+[COMPANY]
+$158,569,858
+[PERSON] is 26.0% above [PERSON]
+$199,850,000
+[COMPANY] for modern building
+localhost:3000 17/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Borrower Analysis
+Borrower Information
+Borrower Name
+HNC 500 Block I LP
+Related Entities
+HNC 500 Block I LP, by its general partner, HNC 500 Block I Inc. and HNC 500 Block I HT Inc.
+HNC 500 Block I Inc. HNC 500 Block I HT Inc. Hines
+Overall Assessment
+Strong
+Positive track record and reputation. [COMPANY] appears credible.
+9 positive signals 0 concerns 8 neutral
+Positive Signals
+68 years of experience since founding in 1957, with 4,614 team members
+worldwide
+Experience 📄 CIM
+832 properties totaling over 288 million square feet across 30 countries and
+380+ cities, with US$91.8 billion in assets under management. 156 developments
+currently underway and historically developed over 636 million square feet
+across 1,857 properties
+Portfolio 📄 CIM
+HNC 500 Block I Inc is associated with the successful completion of the 500
+[COMPANY] project - a 33-storey, 462-unit apartment tower in
+Calgary's [PERSON] area that was completed in Q3 2020 ([COMPANY])
+Media Coverage 🌐 Web
+The company is properly registered in Alberta, Canada since June 24, 2020, and
+is located at a prestigious address in Bankers Hall West in downtown Calgary
+([COMPANY])
+localhost:3000 18/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Media Coverage 🌐 Web
+The 500 Block project has been documented as an ongoing development with
+progress being tracked by industry publications (SkyriseCalgary)
+Media Coverage 🌐 Web
+Company is registered and appears to be active and up-to-date with filings
+according to [COMPANY] registry (Source: albertacorporations.com)
+Media Coverage 🌐 Web
+Associated with the successful 500 Block development project - a 33 storey, 462
+unit apartment tower in Calgary's [PERSON] area that was completed in Q3 2020
+(Source: majorprojects.alberta.ca)
+Media Coverage 🌐 Web
+The company is linked to [COMPANY], which offers luxury amenities
+including rooftop pool, fitness club, co-working hub, and concierge services
+(Source: parkcentralcalgary.com)
+Media Coverage 🌐 Web
+The 500 Block Phase I project shows substantial scale - a 31-level project with
+approximately 350,000 ft² total above grade gross square footage, including
+residential units, retail, and parking (Source: entuitive.com)
+Media Coverage 🌐 Web
+No Concerns Identified
+No negative findings from CIM review or web search. Standard due diligence
+verification is still recommended.
+CIM PROFILE
+[COMPANY] is a globally recognized, privately held real estate investment,
+development, and management firm headquartered in [CITY], [CITY].
+Founded in 1957 by [PERSON], the company is one of the most
+dominant and respected players in the global real estate industry.
+EXPERIENCE
+68 years of experience since founding in 1957, with 4,614 team members worldwide
+PORTFOLIO
+832 properties totaling over 288 million square feet across 30 countries and 380+
+cities, with US$91.8 billion in assets under management. 156 developments
+localhost:3000 19/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+currently underway and historically developed over 636 million square feet across
+1,857 properties
+MANAGEMENT QUALITY
+World-class - known for commitment to sustainability, high-quality building
+standards, and pioneering role in developing [PERSON] standards. Works with notable
+architects and has extensive Canadian operations since 2004
+WEB INTELLIGENCE
+HNC 500 Block I Inc. Positive sentiment
+Based on available search results, HNC 500 Block I Inc appears to be a
+legitimate real estate development company with a successful track record.
+The company is associated with the completion of a significant high-rise
+residential project in Calgary's prime [PERSON] area. The corporate registration is
+current and in good standing, and the company's address in Bankers Hall
+suggests a professional operation. No negative findings, lawsuits,
+bankruptcies, or financial distress indicators were found in the search results.
+Notable: The company appears to be connected to the 500 Block development
+project, which was a substantial 33-storey residential tower with 462 units -
+representing a significant real estate development achievement in Calgary's
+downtown core.
+HNC 500 Block I HT Inc. Positive sentiment
+Based on available information, HNC 500 Block I HT Inc. appears to be a
+legitimate real estate development company with a successful track record.
+The company is properly registered and current with Alberta corporate filings,
+and is associated with the completed 500 Block development project in
+Calgary - a substantial 33-story residential tower. The association with the
+[COMPANY] development suggests involvement in high-quality, amenity-rich
+residential projects. No negative information, controversies, lawsuits, or
+financial distress indicators were found in the search results.
+Notable: The company is specifically associated with the 500 Block
+development project in downtown Calgary, which appears to be a significant
+residential development that was successfully completed. The project received
+coverage in construction industry publications tracking its progress.
+localhost:3000 20/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Strengths & Risks
+Deal Strengths
+Property Quality
+A+ quality property (89/100)
+Impact: High-quality assets have stronger tenant demand, lower cap rates, and better exit liquidity
+Key Risks
+Appraisal Inflation High
+Appraisal is 26.0% above [COMPANY] valuation
+Mitigation:Order second appraisal from different firm, or reduce loan amount to match [PERSON]
+valuation. Consider capping [COMPANY] at 65% of [COMPANY] value rather than appraised value.
+[COMPANY]Klaus LTV of 78.7% based on [COMPANY] valuation
+Mitigation:Reduce loan amount or require additional equity injection
+Financial High
+Klaus DSCR of 1.01x provides minimal cushion
+Mitigation:Require personal guarantee, additional reserves, or reduce loan amount
+Underwriting Medium
+[COMPANY] is 12.8% lower than broker proforma
+Mitigation:[COMPANY] broker assumptions with third-party data
+[COMPANY] rents are 35.6% above market
+Mitigation:Monitor tenant retention closely, prepare for rent compression on renewals
+localhost:3000 21/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Sensitivity & Breakeven Analysis
+KEY TAKEAWAYS
+At the current proposed rate, [PERSON] is 0.81x with a -19.2% [COMPANY]
+cushion before debt service is impaired. A -100bps rate increase would push
+DSCR below 1.0x. Breakeven occupancy of 100.0% is above current
+occupancy of 94.13% — the deal does not cover debt service at current
+occupancy.
+[COMPANY] (1.0X) NOI CUSHION
+$9,196,574 -$1,770,219
+-19.2% cushion
+-19.2%
+BREAKEVEN OCCUPANCY MAX RENEWAL RATE
+100.0% 4.83%
+For 1.10x DSCR
+[COMPANY] DSCR
+-20% 0.65x
+-10% 0.73x
++0% 0.81x
++10% 0.89x
++20% 0.97x
+[COMPANY]
+localhost:3000 22/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+[PERSON]
+4.18% 70.3%
+4.43% 74.5%
+4.68% 78.7%
+4.93% 82.9%
+5.18% 87.1%
+Vacancy Sensitivity
+Starting from [COMPANY] vacancy assumption of 5.8%
+Vacancy Rate Occupancy DSCR
+5.8% 94.2% 0.81x
+8.3% 91.7% 0.77x
+10.8% 89.2% 0.73x
+13.3% 86.7% 0.70x
+15.8% 84.2% 0.66x
+Interest Rate Sensitivity
+Current all-in rate: 5.50%
+Rate DSCR
+4.50% 0.89x
+5.00% 0.85x
+5.50% 0.81x
+6.00% 0.77x
+6.50% 0.73x
+localhost:3000 23/24
+2/25/26, 2:56 PM Klaus | CRE Market Intelligence
+Klaus Recommendation
+Confidence Score
+DECLINE 100%
+Property is overpriced by 26.0% relative to [COMPANY] valuation.
+Excessive downside risk. 2 high-severity risk(s) identified. 1
+strength(s) partially offset concerns.
+MAXIMUM SUPPORTABLE LOAN
+$80,622,000
+Based on your lending criteria, the maximum supportable loan is $80,622,000,
+constrained by a minimum 1.25x DSCR requirement ([COMPANY] supports up to
+$80,622,000).
+[PERSON] from DSCR (1.25x) [PERSON] from [COMPANY] (75%)
+$80,622,000 $118,927,000
+[COMPANY]: 69 | Analyzed: 2/23/2026, 1:53:56 PM Powered by [PERSON]
+localhost:3000 24/24

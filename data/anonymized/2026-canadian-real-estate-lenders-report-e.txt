@@ -1,0 +1,635 @@
+[COMPANY]’
+Report
+REPORT [PERSON]FEBRUARY 2026
+[COMPANY] results from our 2026 Canadian Real Estate Lenders’ Survey show that real estate debt markets
+will be even more active this year as lenders look to deploy additional capital and ramp up
+competition. Outside of a handful of select property types that may face challenges, lenders are open
+and willing to finance most asset classes. The sentiment around office has quickly rebounded and
+lenders are looking to grow their loan books once again. Spreads on term debt for real estate have
+tightened compared to last year and lenders continue to retrench on sustainability. Macro risks are
+top-of-mind for lenders, but overall, debt capital for real estate is expected to be robust in 2026.
+[PERSON]Key Takeaways
+President & CEO
+1. 81% of lenders plan to grow their origination volumes in 2026 with 26% intending to deploy over [COMPANY]
+20% more real estate lending capital this year.
+2. Lender competition is set to intensify in 2026 as 21% expect to very actively bid on real estate
+deals throughout the year, its highest level seen in four years.
+3. Sentiment on office has quickly rebounded with lenders expressing the greatest year-over-year
+decrease in levels of concern with all office types aside from Suburban Class B.
+4. Term debt spreads for top tier real estate have tightened compared to last year but lenders
+continue to quote higher spreads relative to where winning bids are closing.
+[PERSON]
+The 2026 edition of [COMPANY] analyzes the responses of 47
+Associate Research Director
+domestic and foreign lenders, representing over $200 billion in commercial real estate loans under
+[COMPANY]
+management combined, to a 30-question survey conducted from December 10, 2025 to January 16,
+2026. The survey has been in publication since 2014 and asks questions on activity expectations,
+lending terms and criteria as well as lender sentiment and preferences.
+2 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+2026 [COMPANY] rankings
+lender competition credit risk expectations
+In descending order of lenders with ‘high appetite’
+26% of lenders expect to increase origination by 20% or more [COMPANY] intentions to increase office budgets surge in 2026
+50%
++30% or more 9% 45%
++25% 9% 40%
++20% 9%
+30%
++15% 6%
++10% 32% 20%
++5% 17%
+10% 7 1 3 14
+0% or flat 13%
+0% 13
+0% 10% 20% 30% 40% 2022 2023 2024 2025 2026 10 9
+5 4
+8 2
+12 11
+68% of lenders plan to very actively or actively bid on deals [PERSON] credit risk rises for land while office levels normalize
+Rank Market Rank Market
+50% 47%
+1 +1 Vancouver 11 -5 [PERSON]
+∆ ∆
+2 -1 Toronto 12 -1 [CITY]
+40% Land 30% 59% 11%
+3 +2 Calgary 13 - Winnipeg
+30% 4 -1 Montreal 14 - Saskatoon
+21%
+5 -1 Ottawa
+20% 15%
+13% 6 +1 Edmonton
+Office 5% 27% 68%
+10% 4% 7 +2 Victoria
+8 - Waterloo Region
+9 +1 Halifax
+Very actively Actively Cautiously Conservatively Full hold 0% 20% 40% 60% 80% 100%
+bidding bidding bidding bidding on bidding 10 +2 [CITY]
+Significantly Elevated Elevated Low/Normal
+3 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Contents
+05 [COMPANY]
+17 Debt Pricing
+22 [COMPANY]
+25 Respondent Profiling
+4 CBRE RESEARCH © 2026 CBRE LIMITED
+[COMPANY] debt liquidity in store for
+2026 as most lenders look to grow
+Figure 1: Origination Volume Expectations for 2026 vs. 2025
+their origination volumes
+% of respondents
++30% or more 9%
+26%
+– Lenders plan to increase originations in Canadian real
++25% 9% of lenders expect to increase
+estate with 81% expecting to grow their volumes in 2026,
+their origination volumes by
+increasing debt market liquidity and facilitating +20% 9% 20% or more in 2026
+dealmaking activity.
++15% 6%
+– While most lenders are looking to increase their
++10% 32%
+origination volumes by 10% relative to last year, notably,
+over a quarter of lenders intend to deploy 20% or more
++5% 17%
+real estate lending capital in 2026.
+0% or flat 13%
+– In contrast, only a minority of lenders are planning to
+hold origination volumes flat year-over-year and even -5% 0%
+fewer expect to reduce originations.
+-10% 6%
+-15% 0%
+-20% 0%
+-25% 0%
+-30% or less 0%
+0% 5% 10% 15% 20% 25% 30% 35%
+Source: [COMPANY], [COMPANY], February 2026.
+6 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+47%
+21%
+15%
+13%
+7 CBRE RESEARCH © 2026 CBRE LIMITED
+3202 4202 5202
+Competition is set to intensify
+even as small minority plan to ease
+Figure 2: Intended Level of Competitiveness for the Year Ahead vs. Previous Surveys
+their bidding activity
+% of respondents
+60%
+68%
+– Competition for real estate loans among lenders in 2026
+of lenders plan to very actively
+will remain high as 68% intend to actively or very actively
+or actively bid on deals in 2026
+bid on deals over the year. 50%
+– Greater levels of competition could result in tighter
+spreads and lower borrowing costs, especially as the
+40%
+share of lenders planning to very actively bid on deals
+rises to its highest point in four years.
+– At the same time, a couple organizations have also noted
+30%
+plans to put a full hold on bidding activity for 2026.
+However, this is more reflective of those firms’ unique
+circumstances rather than a consequence of the
+Canadian real estate lending market. 20%
+10%
+Very actively bidding [COMPANY] bidding Cautiously bidding Conservatively bidding Full hold on bidding
+Source: [COMPANY], [COMPANY], February 2026.
+[COMPANY] budget intentions continue
+to evolve with a renewed spotlight
+Figure 3: Intentions to Increase Budgets by Asset Class vs. Previous Surveys
+on office in 2026
+% of applicable respondents
+– Lender intentions to increase budgets for office loans
+have surged in 2026, indicative of the rapid rebound in
+market sentiment. For the first time in the last six
+surveys, appetite for office loans has rebounded and
+lenders on balance are once again looking to increase
+budgets instead of decreasing.
+– Multifamily remains the top asset class that most lenders
+intend to increase budgets for in 2026, signaling a long
+term view of the sector amid short term softness and
+market recalibration. Retail also continues to improve
+with 55% of lenders looking to grow their exposure.
+– The number of lenders planning to increase their
+industrial budgets saw a marked decline in 2026, as
+weaker market fundamentals held back intentions to the
+lowest level of the last 11 annual surveys.
+– For the second consecutive year, land remains the only
+asset class where no lenders want to grow their budgets.
+Instead, 42% plan on cutting their exposure in 2026.
+– Budget intentions for alternative assets have improved
+as lenders seek out higher returns, but a lack of scale in
+Source: [COMPANY], [COMPANY], February 2026.
+Canada can make it challenging to attain.
+8 CBRE RESEARCH © 2026 CBRE LIMITED
+2202 3202 4202 5202
+80%
+70% 68%
+60%
+55%
+50%
+45%
+42%
+38% 40%
+36%
+30% 27%
+20%
+10%
+[COMPANY]
+budget intentions have more
+lenders on balance looking to
+increase vs. decrease in 2026
+[COMPANY] rises to the top market
+of choice for lenders for the first
+Figure 4: [COMPANY] Canadian Markets
+time in a decade Rank Market
+1 +1 Vancouver
+2 -1 Toronto
+3 +2 Calgary
+– Lenders showed the strongest appetite for Vancouver in 4 -1 Montreal
+2026, overtaking Toronto in the rankings as the top 5 -1 Ottawa
+market of choice for the first time in 10 years. 6 +1 Edmonton
+7 +2 Victoria
+– After years of concentrating activity to Toronto, lenders 8 - Waterloo Region
+could be looking to diversify their loan book and 9 +1 Halifax
+10 +2 [CITY] stands out with strong property
+11 -5 [PERSON]
+fundamentals across all asset classes.
+12 -1 London
+13 - Winnipeg
+– Alberta markets continue to rise in the rankings, notably
+14 - Saskatoon
+with Calgary advancing two spots to 3rd place, backed by
+strong migration trends and an energy sector that
+largely shields the economy from [CITY] tariffs. [PERSON]
+ranking also rose 1 spot to 6th place in 2026.
+1 14
+– Meanwhile, industry-specific tariffs on steel and autos 7 3
+likely weighed heavily on lender appetites to [PERSON]
+and [CITY].
+8 2
+12 11
+In descending order of ‘high appetite’ responses.
+Source: [COMPANY], [COMPANY], February 2026.
+9 CBRE RESEARCH © 2026 CBRE LIMITED
+Risk Expectations
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Lender sentiment improves for
+most asset classes outside of a few
+Figure 5: Asset Classes of Concern
+select areas of concern
+% of respondents
+[COMPANY], Class B
+– Lender sentiment on real estate generally improved with Residential - High-Rise Condos
+over half of the surveyed asset classes recording lower Land
+levels of concern on a year-over-year basis. [COMPANY], Class B
+Retail - Regional Malls, Secondary Markets
+– The greatest annual improvements in lender sentiment in [COMPANY], Class A
+2026 was seen in office assets, aside from [COMPANY]
+Class B that remains the prime asset class of concern for [COMPANY]
+almost every lender. [COMPANY], Suburban Class A
+and Core Class A Office assets
+– Headwinds faced by [COMPANY]*
+record the greatest annual
+[COMPANY] markets drove declines in [COMPANY] and [COMPANY] improvements in lender sentiment
+sentiment for each asset class. Seniors Housing (Assisted Living)
+Hotels
+– Overall, lender sentiment has noticeably bifurcated in [COMPANY]
+2026. There is a near consensus for the top asset classes [COMPANY], CBD
+of concern while almost all of the remaining property [COMPANY], Class A
+types see much lower levels of concern comparatively. [COMPANY])
+As a result, lenders will likely be amenable to financing
+[COMPANY]
+most asset classes in 2026, outside of the handful that
+[COMPANY]
+may be more challenging to execute.
+Residential - Multifamily
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+2025 2026
+*New categories for 2026 survey.
+Source: [COMPANY], [COMPANY], February 2026.
+11 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Refinancing credit risk expected to
+become even more elevated for
+Figure 6: Expectations for Elevated Credit Risk on Refinancing in 2026 vs. Previous Surveys
+land while normalizing for office
+% of applicable respondents
+– Development land loans will likely face extra scrutiny
+when they come up for refinancing this year, as the vast
+majority of lenders expect credit risk will be significantly
+elevated or elevated in 2026.
+– In contrast, credit risk expectations for office continues
+to improve significantly. In a sharp turnaround from
+previous surveys, over two-thirds of lenders now view
+that office refinancing credit risk will return to normal
+this year.
+– While there was a modest uptick in credit risk
+expectations for hotel and industrial, most lenders still
+expect low or normal levels of credit risk in 2026.
+For ‘Significantly Elevated’ and ‘Elevated’ responses combined.
+Source: [COMPANY], [COMPANY], February 2026.
+12 CBRE RESEARCH © 2026 CBRE LIMITED
+4202 5202
+100%
+89%
+90%
+80%
+70%
+60%
+50%
+40%
+32%
+30% 26%
+20%
+13%
+10% 7%
+[COMPANY] 2026 Canadian Real Estate Lenders’ Report
+Office lenders see obsolete product
+as the greatest challenge today and
+Figure 7: [COMPANY] to Office Refinancing
+are taking more typical
+% of applicable respondents
+approaches to refinancing
+Short term renewal 23% 65% 12%
+– Through an open-ended survey question, many lenders
+noted that obsolescence of older, lower class product is
+the greatest challenge facing the office lending market
+Long term renewal 20% 54% 20% 7%
+today. In particular, lenders are concerned about the
+significant investment required to modernize, amenitize
+or repurpose these properties to attract quality tenants.
+Switch from interest-only to amortized loan 19% 45% 29% 7%
+– When it comes to office refinancing, lenders are most
+frequently granting short term and long term renewals
+Refinance (increased loan proceeds) 12% 31% 48% 10%
+when the loan matures.
+– 43% of lenders reported frequently or occasionally
+Equity paydowns 12% 47% 37% 5%
+refinancing office loans at maturity, resulting in increased
+loan proceeds for borrowers.
+– Requesting repayment of the loan and forced asset sales [PERSON] repayment of the loan 7% 30% 53% 9%
+remain relatively rare occurrences for lenders. These
+approaches are consistent with lenders’ expectations for
+lower credit risk and a strengthening asset class. Bank/lender-led disposition 5% 71% 24%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%
+Frequently Occasionally Not Often Never
+Source: [COMPANY], [COMPANY], February 2026.
+13 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Industrial lenders contend with
+uncertainty and strong
+Figure 8: Tariffs’ Influence on Lender Appetite for Industrial Financing in 2025
+competition while tariffs
+% of applicable respondents
+moderately lowers appetites
+60%
+– In an open-ended survey question, lenders most
+commonly cited macroeconomic uncertainty as the 50%
+greatest impediment to executing industrial loans today. 50%
+Strong competition for deals is another factor as high
+43%
+quality industrial remains attractive and in demand.
+40%
+– Despite tariffs being a persistent worry throughout the
+past year, very few lenders strongly reduced their
+appetites for industrial financing in 2025. Most lenders
+reported only a moderate reduction in appetite while 43%
+30%
+saw no impact at all.
+20%
+10%
+Strongly reduced appetite Moderately reduced appetite No impact Moderately increased appetite Strongly increased appetite
+Source: [COMPANY], [COMPANY], February 2026.
+14 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Multifamily lenders will be most
+sensitive to rental rates when
+Figure 9: Most Sensitive Multifamily Underwriting Assumptions
+underwriting in 2026
+% of applicable respondents
+Stabilized rents 82%
+– Lenders will be most sensitive to rental rates when
+underwriting multifamily loans in 2026. As residential
+Sponsorship 67%
+rents have softened across Canada, lenders have
+become increasingly cautious with respect to their
+Lease-up velocity 67%
+stabilized rental rate analysis.
+– Sponsorship, lease-up velocity and vacancy assumptions Vacancy assumptions 64%
+are the next most important factors for multifamily
+lenders. [PERSON] rates 42%
+Operating expenses 27%
+Construction hard costs 24%
+Contingency 13%
+None of the above 0%
+Other 0%
+0% 10% 20% 30% 40% 50% 60% 70% 80% 90%
+Source: [COMPANY], [COMPANY], February 2026.
+15 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+The biggest challenges for the
+overall lending market relate to
+Figure 10: Major [PERSON] to the 2026 Lending Environment
+the macro environment and
+% of respondents
+property valuations
+Economic weakness 74%
+– The top two challenges to the 2026 lending environment
+Market fundamentals 64%
+are correlated concerns about economic weakness in
+Canada and how that might flow through to impact Uncertainty of property valuations (eg. increase in cap rates) 51%
+property market fundamentals. With GDP growth
+[PERSON] in buyer and seller expectations 49%
+forecasts being revised lower for 2026, a weaker
+Canadian economy could drag on leasing momentum. Government housing policy changes 26%
+– The next biggest challenges, according to lenders, are [PERSON] changes 19%
+also connected and relate to uncertainty around
+Interest rate uncertainty 19%
+property valuations that are exacerbating a mismatch in
+pricing expectations. Availability and tightening of capital 15%
+Internal portfolio limits 11%
+– Notably, only a minority of lenders believe that the
+availability and tightening of capital will be a major
+Higher and/or more persistent inflation 9%
+concern in 2026.
+Impact of currency fluctuations 4%
+Uncertainty surrounding central bank policy 4%
+Other* 4%
+None of the above 4%
+0% 10% 20% 30% 40% 50% 60% 70% 80%
+*Other includes sponsorship strength and excess new condo inventory.
+Source: [COMPANY], [COMPANY], February 2026.
+16 CBRE RESEARCH © 2026 CBRE LIMITED
+Debt Pricing
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Term debt spreads are tighter
+year-over-year for real estate but
+Figure 11: 5-Year Term Deal Pricing Quotes on Top Tier Assets
+lenders continue to quote higher
+[COMPANY] (basis points)
+spreads relative to winning bids
+– Lender spreads on five-year term debt for top tier assets [COMPANY]
+have all tightened year-over-year aside for grocery-
+anchored retail where spreads have held flat. 350
+– The greatest spread compression was seen in downtown
+office, multifamily and suburban office with year-over- 300
+year decreases to the median quote of 60 basis points
+(bps), 40 bps and 30 bps, respectively.
+250 Maximum
+– The distribution of lender spreads for suburban office 240 bps
+also widened noticeably compared to the last survey,
+highlighting lenders’ difficulty with establishing 210 bps
+benchmark pricing in this asset class. 190 bps 190 bps 190 bps 75th Percentile
+170 bps
+– While debt spreads have come in and the range of
+quotes have largely narrowed compared to one year ago, 150 150 bps Median
+Actual closed
+most lenders continue to quote spreads higher relative to spread ranges [COMPANY]
+where recent deals have closed.
+Minimum
+Excludes statistical outliers.
+Source: [COMPANY], [COMPANY], February 2026.
+18 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Figure 12: [COMPANY] in 2026
+% of applicable respondents
+Office Retail Industrial Multifamily
+More than 50 bps higher
++50 bps
++40 bps
++30 bps
+5% 8%
++20 bps
+12% 8% 3% 6%
+3% 19% 13% 18%
++10 bps
+18% 25% 13% 15%
+31% 59% 58% 61%
+0 bps
+58% 58% 58% 68%
+41% 11% 18% 8%
+-10 bps
+12% 5% 13% 12%
+21% 3% 8% 3%
+-20 bps
+3% 15%
+5% 3% 3%
+-30 bps
+-40 bps
+-50 bps
+More than 50 bps lower
+0% 10% 20% 30% 40% 50% 60% 70% 0% 10% 20% 30% 40% 50% 60% 70% 0% 10% 20% 30% 40% 50% 60% 70% 0% 10% 20% 30% 40% 50% 60% 70%
+Downtown Suburban Enclosed Grocery Large Bay Small Bay Conventional Insured
+Source: [COMPANY], [COMPANY], February 2026.
+19 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Figure 13: Spread Premium for Class B Assets in Prime Markets vs. [COMPANY] Figure 14: Spread Premium for Properties in Secondary Markets vs. [COMPANY] of applicable respondents % of applicable respondents
+Over 50 bps Over 50 bps
+10% 15%
+50 bps 50 bps
+7% 8%
+45 bps 45 bps
+0% 0%
+40 bps 40 bps
+2% 3%
+35 bps 35 bps
+2% 5%
+30 bps 30 bps
+12% 5%
+25 bps 25 bps
+22% 28%
+20 bps 20 bps
+17% 20%
+15 bps 15 bps
+22% 3%
+10 bps 10 bps
+5% 13%
+5 bps 5 bps
+0% 0%
+None None
+0% 3%
+0% 10% 20% 30% 0% 10% 20% 30%
+2025 2026 2025 2026
+Source: [COMPANY], [COMPANY], February 2026.
+20 CBRE RESEARCH © 2026 CBRE LIMITED
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Small bay industrial and
+multifamily assets most likely to
+Figure 15: Maximum Allowable Loan-to-Value for Top Tier Assets
+secure the greatest loan-to-value
+% of asset value
+100%
+– Compared to the prior survey, the median loan-to-value
+Office Retail Industrial Multifamily
+([COMPANY]) has risen slightly for downtown office and small Downtown Suburban Enclosed Grocery Large Bay Small Bay Conventional
+bay industrial, indicating lenders’ willingness to offer
+90%
+more loan proceeds for these assets.
+– Conversely, the median [COMPANY] is modestly lower year-over-
+year for grocery-anchored retail and large bay industrial. 80%
+75%
+75%
+70%
+70% 70% 70% 70%
+65%
+60%
+50%
+40%
+Excludes statistical outliers.
+Source: [COMPANY], [COMPANY], February 2026.
+21 CBRE RESEARCH © 2026 CBRE LIMITED
+Sustainability Considerations
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Lenders further retrench on the
+timing of sustainability criteria’s
+Figure 16: Lender Expectations for When [PERSON] Will Start to Impact Mortgage Terms vs. Previous Surveys
+impact on real estate mortgages
+% of applicable respondents
+– The retrenching of lenders noted in the prior year lenders
+survey with regards to when sustainability will start to
+materially impact loan terms has intensified in 2026.
+– While the majority of lenders still believe sustainability
+criteria will have an impact on mortgages eventually, a
+growing number have deferred expectations to that
+becoming effective in over five years’ time.
+– At the same time, the number of lenders that believe
+sustainability does not and will not have any impact on
+loan terms has grown to one in five.
+Source: [COMPANY], [COMPANY], February 2026.
+23 CBRE RESEARCH © 2026 CBRE LIMITED
+2202 3202 4202 5202
+70%
+60%
+50%
+43%
+40%
+30%
+25%
+20%
+20%
+10% 8%
+Already happening - carbon In the next 1-2 years In the next 3-5 years In 5+ years' time Disagree - does not and will not
+footprints are impacting loan have an impact on loan
+availability and terms availability or terms
+[COMPANY] 17: [COMPANY] Impact on Lending Conditions Figure 18: Tighter Credit Spreads for Strong Sustainability Metrics Figure 19: Spread Discount for Strong Sustainability vs. [COMPANY] of applicable respondents that answered “Already happening”, % of applicable respondents % of applicable respondents that answered “Yes” or “In the near future” in Figure 18
+“In 1-2 years’ time” or “In 3-5 years’ time” in Figure 16
+45% 60%
+55%
+40% 40% 40% 40%
+40%
+50%
+45%
+35%
+30% 40%
+25% Yes
+37%
+Not willing 30%
+to offer
+20%
+discount
+58%
+15% 13% 13% 20%
+10%
+7% 7%
+10%
+5% In the near
+future
+0% 0%
+Availability of debt capital Mortgage pricing <5 bps 5 - 9 bps 10 - 14 bps 15 - 19 bps 20 bps or
+more
+Significant Impact Moderate Impact Limited Impact No Impact 2026 2025
+Source: [COMPANY], [COMPANY], February 2026.
+24 CBRE RESEARCH © 2026 CBRE LIMITED
+Respondent Profiling
+Intelligent Investment 2026 Canadian Real Estate Lenders’ Report
+Figure 20: Survey Statistics Figure 21: Respondents by Type of Lender
+13%
+28%
+Companies
+[COMPANY]
+30 [COMPANY]
+9% [COMPANY]
+13%
+>$200b 17%
+15%
+Loans Under Management
+*Other includes mortgage investment corporations, regulated mortgage fund managers and mortgage finance companies.
+Source: [COMPANY], [COMPANY], February 2026.
+26 CBRE RESEARCH © 2026 CBRE LIMITED
+Contacts
+Report Authors Global Research Leadership [COMPANY]
+[PERSON], Ph.D.
+Marc Meehan Edward Fitzpatrick Christos Panagiotakos [PERSON]
+[COMPANY]
+Managing Director, Research Senior Vice President, [COMPANY] Vice President, Ontario Vice President, Ontario
+[EMAIL]
+[EMAIL] [EMAIL] [EMAIL] [EMAIL]
+[PERSON] Leadership [PERSON] Manish Jain Deepak Jain
+Associate Research Director Vice President, [COMPANY] Vice President, [PERSON], Ontario
+[EMAIL] [EMAIL] [EMAIL] [EMAIL]
+Jon Ramscar
+[PERSON] President & CEO [COMPANY] [PERSON] [PERSON]
+[EMAIL]
+Senior Vice President, [COMPANY] Vice President, [COMPANY] Vice President, Ontario Senior Vice President, [LOCATION]
+[EMAIL] [EMAIL] [EMAIL] [EMAIL]
+[PERSON]Jessica Harland COO, [COMPANY] [PERSON] [COMPANY] Persaud [PERSON]
+[EMAIL]
+Senior Vice President, [COMPANY] Vice President, Ontario Vice President, [COMPANY], [LOCATION]
+[EMAIL] [EMAIL] [EMAIL] [EMAIL]
+[PERSON]
+[COMPANY], [COMPANY]
+[EMAIL]
+Senior Vice President, [COMPANY]
+[EMAIL]
+[COMPANY]
+Director, [COMPANY]
+[EMAIL]
+© Copyright 2026. All rights reserved. Disclaimer: Information contained herein, including projections, has been obtained from sources believed to be reliable. While we do not doubt its accuracy, we have not verified it and make no guarantee, warranty or representation about it. It is your
+responsibility to confirm independently its accuracy and completeness. This information is presented exclusively for use by [COMPANY] clients and professionals and all rights to the material are reserved and cannot be reproduced without prior written permission of [COMPANY].

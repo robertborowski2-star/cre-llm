@@ -1,0 +1,2061 @@
+Wellings of [COMPANY]2500 Wellings Private, [LOCATION], Ontario
+Wellings Of Stittsville (WGF II) Limited Partnership; [PERSON] of
+Authorized Client
+Stittsville (WGFII) GP Inc.
+Valuation Purpose first mortgage financing
+[COMPANY] July 1, 2025
+Project Number 442707
+Jones Lang LaSalle Real Estate Services, Inc.
+[COMPANY]
+275 Slater Street, [PERSON] 800
+Ottawa, [COMPANY] 5H9
+Value and Risk Advisory
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 1
+Value and Risk Advisory
+Wellings Of Stittsville (WGF II) Limited Partnership; Wellings of Stittsville (WGFII) [COMPANY]
+[PERSON] Investment Officer
+2962 Carp Road
+Ottawa, Ontario
+K0A 1L0
+[COMPANY] Mr. [PERSON]:
+RE: Wellings of Stittsville
+2500 Wellings Private, [LOCATION], Ontario
+As per the terms of reference ([COMPANY]) included herein, I have provided an opinion of the current market value on an all-cash basis
+of the of the Fee Simple Interest (subject to leases) in the subject property as at the effective date of July 1, 2025. The
+authorized user of this report is [COMPANY]) Limited Partnership; Wellings of Stittsville (WGFII) GP Inc.
+(“Client”). The authorized use is to first mortgage financing and no other use. No additional intended users are identified or
+intended by the author.
+This Appraisal Report and Appendices must be read as a whole as sections taken alone may be misleading and lead the reader
+to an incorrect conclusion. Information provided by the client and collected through market research and analyses are stored in
+the working file. This assignment has been completed in accordance with [COMPANY] as outlined in Section 1.2.
+subject to [COMPANY] in Appendix 5 and [COMPANY], Extraordinary
+Assumptions & Hypothetical Conditions in Section 1.4, it is my opinion that the current market value of [COMPANY],
+effective July 1, 2025, is:
+$106,000,000
+(One Hundred Six Million Dollars)
+I estimate that an exposure time of 3-6 Months would have been required prior to the effective date to sell the subject property
+at its current market value estimate.
+Should you have any questions, please contact [PERSON], [COMPANY], [COMPANY]., AACI at your convenience.
+[SIGNATURE] [COMPANY], Inc.
+[PERSON], [COMPANY], [COMPANY]., AACI
+Senior Vice President
+AIC #: 905155
+Date of issuance Final - 11 July 2025
+Project number 442707
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 2
+Value and Risk Advisory
+Table of Contents
+Executive Summary 4
+1 Introduction 5
+1.1 Terms of Reference 5
+1.2 Key Dates 5
+1.3 Scope of Work 5
+1.4 Extraordinary Limiting Conditions, [COMPANY] 6
+1.5 Legal Description, Ownership Transaction History and Assessment Information 7
+2 Property Description 8
+2.1 Location Overview 8
+2.2 Adjacent Land Uses 10
+2.3 Site Description 10
+2.4 Land Use Controls 11
+2.5 Building Description 12
+3 Highest and Best Use 15
+4 Valuation 16
+4.1 Methods of Valuation 16
+4.2 Valuation Methodology Selected 16
+[COMPANY] ([COMPANY]) Considerations 17
+5 Income Approach 18
+5.1 Subject Income Profile 18
+5.2 Market Rent Analysis 19
+5.3 Other Revenue 29
+5.4 Vacancy and Bad Debt Allowance 30
+5.5 Operating Expenses 31
+5.6 Income and Expense Pro Forma 32
+5.7 Direct Capitalization 34
+6 Direct Comparison Approach 36
+6.1 Adjusted Sale Prices 36
+7 Value Reconciliation and Conclusion 38
+7.1 Value Reconciliation 38
+7.2 Final Value Conclusion 38
+8 Certification 39
+Appendices
+Definitions 41
+Inspection Photos 43
+Rent Roll 49
+Market Overview 56
+Assumptions and [COMPANY] 64
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 3
+Value and Risk Advisory
+Executive Summary
+Executive Summary
+Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario
+Address: 2500 [PERSON], [LOCATION], Ontario Zoning: [COMPANY], Low-Rise Site Area (sf/ac): 152,112 sf (3.49 ac)
+Interest Appraised: Fee Simple Interest (subject to leases) Year Built 2018
+[COMPANY]: July 1, 2025 No. of Storeys 5
+[COMPANY]
+(%) of [COMPANY] Growth % Turnover -
+Unit Type Unit Count Total (sf) Rent $/psf $/psf Potential 12 mos.
+[PERSON] 10 5% 700 $2,095 $2.99 $2,200 $3.13 5.04% 0.00%
+One-Bedroom 9 5% 730 $2,381 $3.26 $2,500 $3.34 5.00% 0.00%
+One-Bedroom (large) 2 1% 1,058 $2,663 $2.52 $2,800 $2.65 5.13% 50.00%
+One-Bdrm with den 37 20% 829 $2,915 $3.50 $2,800 $3.32 -3.95% 16.22%
+Two-Bedroom (small) 3 2% 740 $2,465 $3.33 $2,700 $3.59 9.55% 33.33%
+Two-Bedroom 97 52% 944 $3,520 $3.73 $3,400 $3.53 -3.42% 9.28%
+Two-Bedroom (large) 19 10% 1,145 $4,181 $3.65 $3,800 $3.21 -9.11% 10.53%
+Two-Bdrm with den 2 1% 717 $4,365 $6.09 $2,800 $3.91 -35.86% 0.00%
+[COMPANY] with den (large) 6 3% 1,058 $4,173 $3.94 $3,900 $3.69 -6.53% 0.00%
+[COMPANY] 185 100% 917 $3,341 $3.64 $3,204 $3.49 -4.09% 10.27%
+Included in [COMPANY] Vacancy 0.54% Commercial Area (sf) 3,038
+Heating CMHC Node Vacancy 2.00% Weighted Avg. Rent psf $26.82
+[COMPANY] (Resi.) 3.00%
+[COMPANY] (Comm.) 5.00%
+[COMPANY]. / Inflat. Yr. 1 and 2 3.00% / 3.00%
+Income Forecast Year-1 (Stabilized)
+Potential Gross Revenue $7,929,770
+[COMPANY] Loss 3.00% ($224,575)
+Vacancy & Bad Debt (Comm) 5.00% ($4,075)
+Effective Gross Revenue $7,705,195
+Stabilized Operating Expenses 34.57% $2,662,626
+Stabilized Net Operating Income $5,042,569
+[COMPANY] -1 Forecast $5,038,495
+[COMPANY] / unit / month $2,270
+Valuation Reconciliation
+Capitalization Rate 4.750%
+Income Approach $106,073,576
+[COMPANY] $106,005,000
+Market Value: $/suite $573,000
+Valuation Conclusion Summary
+Income Approach $106,073,576
+Valuation Conclusion (Rounded) $106,000,000
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 4
+Value and Risk Advisory
+1 Introduction
+1.1 Terms of Reference
+Authorized Client Wellings Of Stittsville (WGF II) Limited Partnership; Wellings of Stittsville (WGFII) GP Inc.
+[COMPANY]) Limited Partnership; Wellings of Stittsville (WGFII) GP Inc.
+Authorized Use first mortgage financing
+Property Identification 2500 Wellings Private, [LOCATION], Ontario
+Ownership Wellings Of Stittsville (WGF II) Limited Partnership; Wellings of Stittsville (WGFII) GP Inc.
+Current Use of Property Multi-Residential
+Valuation Purpose To provide an opinion of current market value on an all-cash basis
+Interest Valued 100% Fee Simple Interest (subject to leases)
+1.2 Key Dates
+Date of Report July 11, 2025
+Effective Date July 1, 2025
+Exposure Time 3-6 Months
+[COMPANY] April 22, 2025
+[COMPANY]
+The scope of work has included the following:
+ We received our instructions from [PERSON] of Wellings Of Stittsville (WGF II) Limited Partnership; [PERSON] of [LOCATION]
+(WGFII) [COMPANY].. Unless otherwise stated herein, client-supplied information was not verified and is believed to be correct.
+Publications produced by [CITY] provided information on applicable land use controls. Sources of market
+evidence included, as appropriate, the local real estate board, [COMPANY] transactions – including those reported by [COMPANY] and local assessors, and real estate agents, vendors and purchasers active in the market.
+ This report is subject to [COMPANY] detailed above as well as [COMPANY] and [COMPANY]
+outlined in Appendix 5. Please refer to Appendix 1 of this report for definitions of [COMPANY] and Best Use.
+ An inspection of the exterior of the subject property (site only), as well as the surrounding neighbourhood, was completed on
+April 22, 2025 by [PERSON], [COMPANY], [COMPANY]., [COMPANY]. Identification of the property also involved a review of
+[COMPANY] ([COMPANY]). The photographs contained in Appendix 2 were taken on April 22, 2025
+ The approaches as applied to our report were investigated as to their relevance to this assignment, including a review of
+market data necessary to properly apply these approaches. In this regard, the Income and Direct Comparison Approaches
+have been applied and later reconciled to a final estimate of value and operating at stabilized occupancy. [COMPANY] has not been included.
+ We completed a narrative report in accordance with the most recent Canadian Uniform Standards of Professional Appraisal
+Practice. As part of this exercise, we
+Confirmed current zoning and/or official plan regulations
+Estimated the subject property’s highest and best use, as of the effective date
+Considered and analyzed the effect on value of an assemblage, which there is none
+Considered and analyzed the effect on value of anticipated public or private improvements, which there is none
+Ascertained listing and sale prices for comparable properties
+Examined market conditions and analyzed their potential effects on the subject property
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 5
+Value and Risk Advisory
+ We did not complete the following:
+Detailed inspections or engineering review of the structure, roof or mechanical systems;
+An environmental review of the property;
+A site or building survey;
+Investigations into the bearing qualities of the soils; or
+Audits of financial and legal arrangements concerning the leases.
+[COMPANY] – Relying on rent roll and major lease clauses provided by the client and have not
+reviewed every lease
+1.4 Extraordinary Limiting Conditions, [COMPANY]
+1.4.1 [COMPANY], as defined in Section 3.29 of CUSPAP 2024, is a necessary modification to, or exclusion
+of, a Standard Rule which may diminish the reliability of the report.
+[COMPANY] were invoked.
+1.4.2 Extraordinary Assumptions
+An Extraordinary Assumption, as defined in Section 3.28 of CUSPAP 2024, is an assumption, directly related to a specific
+assignment, which, if were not assumed to be true, could materially alter the opinions or conclusions.
+Financing For the purpose of this appraisal, we have assumed that the property is free and clear of all financing.
+[COMPANY] purposes of this report, we have relied upon the information provided by the client. We have
+assumed that the rent roll, operating statements and budget provided to us by [COMPANY] (WGF
+II) Limited Partnership; Wellings of Stittsville (WGFII) [COMPANY] accurately reflects the subject property.
+Geotechnical It is assumed that the subsoil characteristics of the property are satisfactory (i.e. there are no special
+construction/design considerations which could affect planning and scheduling of construction and that the
+site is free of environmental, soil or other latent defects) to permit development in accordance with the
+highest and best use conclusion.
+Legal and Title A full search and interpretation of the title are beyond the scope of this appraisal and the report assumes
+Limitations that there are no material encumbrances that would affect value unless otherwise noted. However, as
+encumbrances can have a significant impact on the market value and / or marketability, legal advice
+should be obtained if this assumption is required to be verified.
+Encumbrances A full search and interpretation of the title are beyond the scope of this appraisal and the report assumes
+that there are no material encumbrances that would affect the property’s ability to be developed with a
+high-density project unless otherwise noted
+Market and Economic This analysis has been prepared based on the information and assumptions set forth in the text. However,
+Conditions it is not possible to fully document all factors or account for all the changes that may occur in the future.
+This report relies on information from a variety of secondary sources. While every effort has been made to
+ensure the accuracy of the data, we cannot guarantee the complete accuracy of the information used in
+this report from these secondary sources. The reader should note that the rent ranges estimated within
+this report reflect the market conditions and achievable rents based on the purpose- built rental apartment
+market as of July 1, 2025.
+1.4.3 [COMPANY]
+A Hypothetical Condition, as defined in Section 3.36 of CUSPAP 2024, is that which is contrary to what exists, but is supposed to exist
+for the purposes of reasonable analysis.
+[COMPANY] have been invoked.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 6
+Value and Risk Advisory
+1.5 [COMPANY] Identification 04466-1871
+Number (PIN)
+Legal Description Part of Lot 27, Concession 12, [PERSON], Parts 1 and 2, Plan 4R-30409 ; [PERSON] to an Easement Over Parts 1
+And 2, Plan 4R-30409 as in NS234946 ; [COMPANY] to an Easement Over Parts 1 and 2, Plan 4R-30409 as in
+NS246082 ; Together With an Easement Over Part of Lot 27, Concession 12, [PERSON], Part 1, Plan 4R-25671
+as in OC1328319 ; [CITY] to an Easement Over Parts 1 and 2, Plan 4R-30409 as in OC1891940 ; Together
+With an Easement Over Parts 5, 7, 8, 11, 12, 13, 14, 15, 16 and 17 on Plan 4R-30409 as in OC1987994 ;
+[PERSON] to an Easement Over Part 2, Plan 4R-30409 in [CITY] of Part 8, Plan 4R-6689 and Parts 5 and 7, Plan
+4R-30409 Save and Except Parts 3 and 4, Plan 4R-25114, Part 2, 4R-25671, Parts 9 and 10, Plan 4R-30409 as
+in OC1987996 ; [PERSON] to an Easement Over Part 2, 4R-30409 and Parts 5 and 6, 4R-30856 in Favour of Parts
+3, 4, 6, 22 and 23, Plan 4R-30409 as in OC1993718 ; Together With an Easement Over Parts 3 and 23, Plan 4R-
+30409, Parts 2, 3, 4, 5, 6 and 9, 4R-30427 and Parts 1, 2, 3, 4 and 7, Plan 4R-30856 as in OC1993719 ;
+Together With an Easement Over Part of Lot 27, Concession 12, [PERSON], Parts 2, 4, 6, 8, 10, 12 and 14, Plan
+4R-31079 as in [CITY] Ottawa
+Ownership Wellings Of Stittsville (WGF II) Limited Partnership; Wellings of Stittsville (WGFII) [COMPANY]
+Transaction History The last transfer occurred on April 3, 2024 for a consideration of $105,000,000. There has been no sales
+activity for this property within the past 3 years.
+Based on available information, the subject property is not known to be under an agreement of sale. The subject
+property is not currently listed for sale, nor has it been listed on the open market in the last 12 months.
+Property Tax Assessment According to [COMPANY], the subject property has a 2025 Assessed Value of $65,528,600.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 7
+Value and Risk Advisory
+2 Property Description
+2.1 Location Overview
+The following maps identify the location of the [COMPANY]:
+Neighbourhood Map Regional Map
+Source: Google Maps
+Neighbourhood Stittsville
+Location Stittsville, located in Ottawa's west end, is a rapidly growing suburban community known for its family-
+Overview friendly and safe environment. It blends older homes with new developments and offers a variety of
+amenities such as schools, parks, and shopping centres. The area features abundant green spaces and
+recreational opportunities, fostering an active lifestyle. Its proximity to major roads and transit services
+ensures convenient commuting to downtown Ottawa, making it an appealing choice for families and
+professionals seeking suburban living with urban access.
+Land Use The area surrounding the subject property is characterized by a range of land uses and building forms. The
+majority of the surrounding area is occupied by low-rise single detached dwellings. Retail and low-rise
+industrial uses can be found along Hazeldean and Iber Road.
+[COMPANY] The site is located approximately 1 km south of [COMPANY] (Highway 417), offering direct
+Access routes to downtown Ottawa and other regional destinations.
+[PERSON] to the west is a north/south arterial connecting the [LOCATION] and [COMPANY] areas. It serves as
+a crucial route near residential neighbourhoods, commercial centres, and [COMPANY].
+Hazeldean Road to the south is a major east-west arterial that extends from Eagleson Road in the east to
+Spruce Ridge Road in the rural area of the City, outside of the urban boundary.
+East of the subject site is [PERSON], a major arterial running north-south, a key component of the local
+transportation network as it connects to Highway 417.
+Public Transit The neighbourhood has average public transportation linkages.[COMPANY] bus routes 61 and 12 serve the
+immediate area providing direct routes to [COMPANY]'s Pasture, a major station with connections to alternative
+bus routes and Line 1 along Ottawa's Light Rail Transit ([COMPANY]) system.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 8
+Value and Risk Advisory
+Walk Score
+Source: WalkScore
+Retail Amenities RioCan's [PERSON] is located 2 km south of the subject site on [COMPANY] between Huntmar
+Road and [PERSON] with 31 units totalling 365,345 sf featuring retailers such as RONA, [PERSON]'s,
+Winners, and [COMPANY].
+[COMPANY] "The Shoppes at Fairwinds" is located at the intersection of [COMPANY] and Hazeldean Road. The centre currently features 140,000 sq. ft. of retail, anchored by [PERSON],
+[COMPANY] and [COMPANY] along with other restaurant, retail and service uses including [COMPANY],
+BMO and [COMPANY]
+Unity Square retail plaza ([PERSON]) 100,000 sf, built 2020 is located directly south of the
+subject.
+There is also additional retail development just north and east of the subject site including the Silver Seven
+Commercial Centre with a variety of commercial condos and offices offering retail and services as well as
+[COMPANY] and [COMPANY].
+There are also a number of retail options north of [PERSON] including: [COMPANY], [COMPANY].
+[COMPANY] The closest major hospital is [COMPANY] (±12.0 km). There are various walk-in medical
+clinics along [LOCATION] and [PERSON].
+Airport The Ottawa International Airport is located approximately 30 km east from the subject site
+Recreation The subject property is located in the vicinity of five parks and open spaces. The largest park within walking
+distance, [PERSON], is located east of Stittsville Main Street and includes a soccer field and
+walkable trails. The CARDELREC recreation centre is the nearest sport complex containing a gymnasium,
+4 ice rinks, weight and cardio rooms and meeting rooms. The [CITY] golf and recreation club
+offers year round access to a variety of activities. It primarily contains a well designed 9-hole course in
+addition to pickleball courts, 60' pool, yoga and fitness classes as well as an in house restaurant.
+[COMPANY], home of [COMPANY] and host of stadium-size events, is located north
+of the subject site along Palladium Drive. [COMPANY], an indoor sports facility offering ice rinks, is
+located just east of the subject site. The area is near several parks and pathways, ideal for walking, cycling,
+and outdoor activities. Most notable [PERSON], just south and east of the subject site which is
+home to [COMPANY].
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 9
+Value and Risk Advisory
+2.2 Adjacent Land Uses
+North Parks and Open Space area and [LOCATION] watershed
+[COMPANY]); One store restaurant (Keg). [PERSON] submitted a Site Plan
+Control application at 21 [PERSON] to construct two, 6-storey apartment buildings with 344 residential
+units and 517 parking spaces.
+[LOCATION] retail plaza ([PERSON]) 100,000 sf, built 2020
+West Wellings of Stittsville Phase 2 and 3 (under construction) comprising 344 units and 500 parking spaces.
+Aerial
+Source: Google Maps
+2.3 Site Description
+Site Position The subject property is located east of the intersection of [PERSON] and Hazeldean Road. The
+property has an interior lot position with good frontage along [LOCATION].
+Site Area 152,112 sf (3.49 ac)
+Site Configuration Mostly Rectangular
+Ingress/Egress Wellings Private is the primary vehicular access route to and from the subject site for residents and
+non-residents.
+Topography Level and at grade with the adjacent properties and road
+Services Full municipal services are available to the subject property
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 10
+Value and Risk Advisory
+2.4 Land Use Controls
+Official Plan Land Use Suburban (West) Transect - Corridor designation with an [COMPANY] overlay
+SUBJECT
+Source: City of Ottawa
+Zoning / Land Use AM9 - Arterial Mainstreet
+Permitted Uses Permitted residential uses include, but are not limited to apartment dwelling, group home, townhouse
+dwelling, and retirement home.
+Permitted non-residential uses include day care, hotel, bar, medical facility, and community centre.
+Site Specific Bylaw AM9 - denotes various setbacks provisions
+[PERSON]
+Source: City of Ottawa
+Land Use Limitations For the purpose of this appraisal, it has been assumed the data obtained from others is correct and,
+except to the extent noted, the use of property either conformed to the applicable bylaws and
+regulations or is a legal non-conforming use. In order to verify this assumption legal and planning
+advice would be required.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 11
+Value and Risk Advisory
+2.5 Building Description
+2.5.1 Wellings Overview
+With seven projects in Ontario and four and Alberta, [COMPANY] are emerging as a unique opportunity for those
+seeking downsizing options. Designed for adults aged 55 and over, adult lifestyle communities are for those who want to
+maintain an independent lifestyle, do not require consistent medical care/supervision and do not want the responsibility of
+maintaining their own property.
+The [PERSON] adult lifestyle communities are designed to provide à la carte living, fully equipped kitchens in private apartments,
+and amenities appealing to more active adults and retirees over the age of 55. With the option to opt-in and opt-out of services
+as needed, residents can choose to make use of amenities and features such as a housekeeping, salon services, fitness
+classes and more.
+By virtue of the tenant mix and desire to engage in social activities, [COMPANY] has reported that several “tenant-led” clubs
+and activities are organized organically without the need for management involvement such as games clubs, social nights,
+walking clubs and hobby club. These opportunities encourage interaction among residents and provide a sense of community.
+2.5.2 Subject Building Summary
+The following is based on an inspection completed on April 22, 2025 and information obtained from the client:
+Suite Distribution Summary
+[PERSON] (sf)
+[COMPANY]
+Suite Type (%) of Total Min Max Mean
+Count (sf)
+[COMPANY] 10 5% 698 702 700 7,002
+One-Bedroom 9 5% 717 748 730 6,572
+One-Bedroom (large) 2 1% 1,058 1,058 1,058 2,116
+One-Bdrm with den 37 20% 717 843 829 30,677
+Two-Bedroom (small) 3 2% 731 753 740 2,219
+Two-Bedroom 97 52% 901 963 944 91,578
+Two-Bedroom (large) 19 10% 1,123 1,182 1,145 21,753
+[COMPANY] with den 2 1% 717 717 717 1,434
+Two-Bdrm with den (large) 6 3% 1,058 1,058 1,058 6,348
+All Types 185 100% 698 1,123 917 169,699
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 12
+Value and Risk Advisory
+Building Summary
+Type Low-Rise
+Number of Storeys 5
+Year Built 2018
+Structure The subject building is constructed with non-combustible reinforced concrete superstructure which is
+supported by a poured concrete foundation and reinforced footings. (assumed)
+[PERSON]; 2-ply modified bitumen roof membrane (assumed)
+Exterior Cladding Curtain wall construction with masonry veneer. Balconies are concrete slab. (assumed)
+[COMPANY] system.
+Security The building features a main lobby door entry system, security cameras, key fob entry system to all
+common areas/parking garage.
+HVAC Domestic hot water supplied by 2 gas fired boilers. Wall-mounted HVAC for main floor units. Air
+Conditioners are installed on the balcony to serve each unit.
+Electrical Electrical rooms located on all floors with the main electrical service located in the basement.
+Elevators 3
+Common Areas
+Entrance/ The building foyer has ceramic tile flooring, painted drywall and drywall ceilings.
+[COMPANY] have carpet tile flooring, gyproc painted walls and decorative wall sconces.
+Storage Lockers 185
+[PERSON] • 229 leasable resident underground parking stalls
+Amenities Gym ☒ Games Room ☒ [PERSON]/lounge
+☒ Yoga/Activity Room ☒ Outdoor Terrace ☒ Restaurant
+☒ Party Room In-Unit [COMPANY]
+☒ ☒
+☒ Pet-wash station ☒ Concierge
+☒ Lockers ☒ Elevators
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 13
+Value and Risk Advisory
+Commercial Space Commercial Areas (sf)
+Space Area (sf)
+Restaurant/Pub1 1,930
+Coffee Shop 441
+Salon 667
+Total (sf - estimated) 3,038
+1 - Commercial Kitchen estimated at 950 sf
+Apartment Suites Layout
+One A typical one-bedroom unit has an open kitchen, living room with an outdoor balcony/patio (in most units),
+a bedroom and a four-piece bathroom.
+Bedroom
+Two Bedroom A typical one-bedroom unit has an open kitchen, living room with an outdoor balcony/patio (in most units),
+a bedroom and a four-piece bathroom.
+Apartment Suite Features and Finishes
+• Premium LVT flooring
+Typical Suite
+Finishes • Painted drywall
+(Renovated) • High quality cabinetry
+[COMPANY] countertop with subway tile backsplash
+[COMPANY] appliances include [COMPANY], stove, fridge and microwave with built in fan hood
+[CITY] have painted gypsum walls with quartz counters, stainless stell fixtures and subway
+tile surrounds
+Despite it's completion in 2018, the structure maintains its modern appearance with premium interior
+Overall
+finishes, modern mechanical systems as well as durable exterior cladding.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 14
+Value and Risk Advisory
+3 Highest and Best Use
+Before a property can be valued, an opinion of highest and best use must be developed for the subject sites, both as if vacant,
+and as improved or proposed. The definition of highest and best use can be found in the [PERSON].
+Given the location of the subject property, the size and configuration of the site, as well as the
+current zoning, it is likely that its use would be consistent with similar properties in the immediate
+As if [COMPANY] area if it were vacant land. Based on the foregoing, it is concluded that the highest and best use of
+the subject property, as vacant land, as of July 1, 2025, would be for development of an multi-
+residential rental building, consistent with the current land use regulations.
+Based on a review of the existing by-laws, the subject property appears to conform to existing land
+use controls. A formal legal review would be required for certainty.
+The subject property is improved with [COMPANY], Multi-Residential Rental Apartment building
+reflecting a functional size and configuration. Having regard to the locational and physical
+As Improved
+characteristics of the subject property, the land use controls and current market conditions, it is
+concluded that the existing use of the subject property represents its highest and best use.
+Based on the foregoing, it is concluded that the highest and best use of the subject property, as
+improved and as at July 1, 2025, is its present use.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 15
+Value and Risk Advisory
+4 Valuation
+4.1 Methods of Valuation
+There are typically three approaches used to estimate market value: [COMPANY], [COMPANY],
+and [COMPANY].
+An approach to value is included or eliminated based on its applicability to the property type being value and the information
+available. The reliability of each approach depends on the availability and comparability of market data as well as the motivation
+and thinking of purchasers. Applicable approaches and whether they were utilized are summarized below:
+[COMPANY] recognizes the principle of anticipation,
+where the anticipation of future benefits creates value. The
+Income Approach is usually used as the primary method of
+- -
+valuation when a property is expected to be acquired by an
+investor. [COMPANY] is comprised of two primary
+methods detailed below.
+Direct This procedure involves dividing the stabilized net annual
+Capitalization operating income ([COMPANY]) by a singular rate that considers the Applicable Utilized
+investment characteristics of the subject property.
+This method calculates the present value of the future cash flows
+Discounted Cash
+over a specified time, including the potential proceeds of a Not Applicable Not Utilized
+Flow ([COMPANY])
+deemed disposition, to determine market value.
+[COMPANY] recognizes the principle of
+substitution, according to which a buyer will not pay more for one
+property than for another that is equally desirable. By this
+[COMPANY] approach, an opinion of value is developed by applying a
+Applicable Utilized
+Approach comparative analysis of properties that are similar to the subject
+property that have recently sold, are listed for sale or are under
+contract, by focusing on the similarities and differences that affect
+value.
+The Cost Approach recognizes the principle of substitution,
+according to which a knowledgeable purchaser would not pay
+more for a property than it would cost to construct a property of
+Cost Approach Not Applicable Not Utilized
+similar design and utility, assuming no unreasonable delays. The
+Cost Approach involves adding the market value of the land to
+the depreciated value of the building and site improvements.
+4.2 Valuation Methodology Selected
+The subject property is an investment property, and the most likely purchaser would be an investor. Consequently, we have
+used [COMPANY] as the primary method of valuation. For most large- sized income-producing properties, the Direct
+Comparison Approach is developed in a rudimentary manner only to determine the market range of unit prices demonstrated by
+the sales or listings of comparable properties. Typically, this method is developed merely to support the conclusions reached by
+[COMPANY], rather than to act as a valuation conclusion in isolation. We do not typically utilize the Cost Approach, as
+it does not reflect the motives and actions of buyers and sellers of this type of property. Excluding other approaches does not
+impact the accuracy or reliability of the value conclusion.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 16
+Value and Risk Advisory
+[COMPANY] ([COMPANY]) [COMPANY] [COMPANY] ([COMPANY]) factors are increasingly impacting investment approaches in real estate markets.
+Driving forces include legislation change, corporate commitments and targets, availability of finance, and increasing societal
+awareness of [COMPANY] factors such as climate risk. There are several areas of focus within [COMPANY] already being analyzed in real
+estate investment markets, as detailed below:
+ESG [COMPANY] Stakeholder Engagement Tenant / JV Agreements
+[COMPANY]
+Disclosure Asset Transition / Capex Plans
+Strategy
+Based on our research and local market knowledge we have not seen/confirmed quantifiable evidence of [COMPANY] being reflected in
+asking or achievable pricing for multi-residential assets across Canada. That said, conversations with market participants as
+well as our [COMPANY] report suggest sentiment towards pricing change is growing. We will continue to
+monitor market movements and treatments moving forward.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 17
+Value and Risk Advisory
+5 Income Approach
+The theory of [COMPANY] is that the value of a property is the present worth of all the net income that it will produce
+for each year of its remaining useful life. Net income serves as a measurement that, in turn, is capitalized into a value estimate
+by the use of a capitalization rate taken from the experience of similar properties that have already sold or from the state of the
+financial market at the time of the appraisal. The rental income of a property will generally reflect all attributes and amenities
+inherent in that property.
+The direct capitalization method comprises two main steps:
+1. Estimate fully leased net operating income in Year 1.
+2. This income is then capitalized at a market rate in order to derive a ‘fully leased’ estimate of value.
+The following section outlines an analysis of the subject property leasing activity, current tenant profile, market rent factors, and
+estimate of normalized vacancy and bad debt, operating expenses, and capital expenses.
+5.1 Subject Income Profile
+5.1.1 Subject Lease Structure
+The hypothetical lease structure and inclusions in the monthly rent are as follows:
+1) All utilities are sub-metered and the tenant’s responsibility.
+2) Access to a-la-care services
+3) Parking is an additional charge at $150 per stall per month.
+5.1.2 [PERSON]
+The subject property opened in 2018 and the wider range in the contract rents for some units can be attributed to long-standing
+tenants that have occupied the building since its inception.
+Client Base Rents
+Suite Size (sf) Contract Rent $/month Contract Rent $/psf
+Suite
+Suite
+Suite Type Count (%) of Total Min Max Mean Min [PERSON] Min [PERSON]Studio 10 10 100% 698 702 700 $1,816 $2,485 $2,095 $2.59 $3.55 $2.99
+One-Bedroom 9 9 100% 717 748 730 $2,237 $2,590 $2,381 $2.99 $3.61 $3.26
+One-Bedroom (large) 2 2 100% 1,058 1,058 1,058 $2,631 $2,695 $2,663 $2.49 $2.55 $2.52
+One-Bdrm with den 37 36 97% 826 843 832 $2,003 $3,430 $2,915 $2.42 $4.07 $3.50
+Two-Bedroom (small) 3 3 100% 731 753 740 $2,294 $2,635 $2,465 $3.14 $3.59 $3.33
+Two-Bedroom 97 97 100% 901 963 944 $1,833 $4,461 $3,520 $1.91 $4.72 $3.73
+Two-Bedroom (large) 19 19 100% 1,123 1,182 1,145 $3,876 $4,592 $4,181 $3.28 $4.02 $3.65
+Two-Bdrm with den 2 2 100% 717 717 717 $4,270 $4,461 $4,365 $5.96 $6.22 $6.09
+Two-Bdrm with den (large) 6 6 100% 1,058 1,058 1,058 $3,762 $4,344 $4,173 $3.56 $4.11 $3.94
+Total 185 184 99% 698 1,123 918 $3,341 $3.64
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 18
+Value and Risk Advisory
+5.1.3 Recent Leasing
+Leasing activity over the past twelve months at the subject property is detailed as follows:
+New Tenant Summary
+Suite New
+Suite Type % Turnover Min Max Mean
+Count Tenants
+Studio 10 0 0.00%
+One-Bedroom 9 0 0.00%
+One-Bedroom (large) 2 1 50.00% $2,695 $2,695 $2,695
+One-Bdrm with den 37 6 16.22% $3,120 $3,430 $3,244
+Two-Bedroom (small) 3 1 33.33% $2,635 $2,635 $2,635
+Two-Bedroom 97 9 9.28% $2,841 $4,093 $3,685
+Two-Bedroom (large) 19 2 10.53% $4,093 $4,592 $4,343
+Two-Bdrm with den 2 0 0.00%
+[COMPANY] with den (large) 6 0 0.00%
+Total 185 19 10.27% $3,508
+Discussions with the leasing team reveal that there are a number of factors that are considered when leasing a unit including
+floor height, orientation, proximity to the elevator etc. As the turnover rate is relatively low at just about 10%, there is less
+turnover volume to gauge “market” level rents on some of the unit types. The rates illustrated above, however, provide a
+reasonable representation of the rent levels achievable at the subject property.
+5.2 Market Rent Analysis
+The term “market rent” is generally defined as being the most probable rent that a rental unit would command if exposed to the
+open market for a reasonable period of time. The process of estimating the market rent presumes that the space in question is
+vacant and available for lease. Since no two rental units are alike, the estimation of market rent must account for the specific
+characteristics of each particular location, as well as the physical features and functional attributes of each space. In order to
+estimate market rent for the subject property, recent leasing activity in the subject property and at comparable premises have
+been reviewed.
+5.2.1 Definition and Key Features of 55+ Communities
+55+ communities residential developments designed specifically for adults aged 55 and older. Unlike assisted living facilities,
+55+ communities focus on independent living with amenities that promote an active lifestyle. Advantages include maintenance-
+free living, resort-style amenities (fitness centres, pools, clubhouses), robust social activities, and the opportunity to connect with
+like-minded peers in a similar demographic.
+These communities often feature accessible design elements like single-level floor plans, grab bars, and wheelchair
+accessibility. While visitors and family members are welcome for temporary stays, there are usually restrictions on long-term
+residency by those under 55. Monthly costs range from $2,000-$5,000+ depending on location and amenities, offering residents
+freedom from home maintenance responsibilities while providing opportunities for an engaged, active lifestyle.
+5.2.2 [COMPANY]
+The subject’s 55+ model is relatively new in the Ottawa market with similar projects only emerging in the past 10 years.
+[COMPANY] [LOCATION] is one the first high-density rental projects targeting adults 55+ in the [CITY] market.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 19
+Value and Risk Advisory
+There are very few rental apartments exclusively geared to seniors (55+). As such, it was considered necessary to broaden the
+sample survey of competitive apartments to those who share similar attributes to the subject such as design and features that
+would attract the 55+ cohort, good physical space and quality amenities. We have identified 6 comparable properties to include
+both those properties that could be described as seniors-oriented and conventional apartments that would attract downsizers.
+We have focused on conventional purpose-built rental projects that serve a wide variety of tenant profiles. We have also
+included 6 conventional, new purpose-built apartments that reflect a modern design with good amenities in the [CITY] market.
+Much of the rental rate information available for each building is limited to “starting from” rates; however, this was supplemented
+where possible by interviews and actual rent rolls for properties appraised by [COMPANY], although confidentiality allows for only a
+summary of the rental data. Nonetheless, in some cases data are not available and web-based information would tend to
+understate the actual or average rental rates achieved.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 20
+Value and Risk Advisory
+Rental Apartment Survey - 55+ / Seniors Oriented
+[PERSON]Building Name / Size Size 1 Bed + Size Size + Den / 3- Underground Surface
+Year Built Address Studio (sf) 1 Bedroom (sf) [PERSON] (sf) 2 Bedroom (sf) [COMPANY] Amenities
+Fitness centre; indoor swimming
+pool; steam room; social lounge;
+Balmoral 99 [COMPANY]2,400 [COMPANY] $2,750 903 $4,500 1,366 $3,865 1,286 $130 na Included library; theatre room; business
+1 Hydro Extra
+centre; billiards room; rooftop
+terrace with [COMPANY] and outdoor
+YB: 2019 Asking rate per sf - $3.13 $3.05 $3.29 $3.01 lounge.
+1024 McGarry
+2 Howard [COMPANY]2,350 947 $2,850 1,050 $3,275 1,262 $3,480 1,289 $215 na $50 [COMPANY], Indoor Pool, Hot
+Water Extra Tub, Sauna, [COMPANY], Party Room,
+YB: 2020 Asking rate per sf - $3.39 $3.44 $3.37 $3.39
+Fitness centre; games area; party
+[COMPANY] [COMPANY]2,575 943 $3,000 1,198 $3,550 1,284 $200 n/a Included Hydro and room with kitchen and lounge; TV
+3 centre; outdoor courtyard and
+Water Extra
+gazebo with shuffleboard and life-
+sized chess game
+YB: 2020 Asking rate per sf - - $3.43 $2.84 $3.00
+[COMPANY] 770 $2,700 903 $3,160 1,060 $3,880 1,370 $215 N/A Included Hydro and [LOCATION] parking, resident’s
+5 Water Extra lounge, rooftop terrace and a
+main floor fitness centre
+YB: 2022 Asking rate per sf - $3.12 $2.99 $2.98 $2.83
+Terasses Francesca1425 [COMPANY]2,650 955 $2,675 960 $3,550 1,270 $3,725 1,326 $235 N/A Included Hydro and Fitness centre; indoor swimming
+5 Water Extra pool; outdoor terrace with [COMPANY]
+and lounge.
+YB: 2022 Asking rate per sf - $2.77 $2.79 $2.80 $2.81
+Fitness + Yoga, [COMPANY], [PERSON],
+Gym, [PERSON], [COMPANY] +
+The Clemow 275 Carling Avenue $2,000 497 $3,000 699 $3,900 925 $4,350 972 [COMPANY]50 [COMPANY], [COMPANY], [PERSON],
+[COMPANY], [PERSON], [COMPANY],
+Pool, Women's Locker Room,
+YB: 2018 Asking rate per sf $4.02 $4.29 $4.22 $4.48 - Men's Locker Room, TV
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 21
+Value and Risk Advisory
+Rental Apartment Survey - Conventional New Purpose-Built Apartments
+[PERSON]Building Name / Size Size 1 Bed + Size Size + Den / 3- Underground Surface
+Year Built Address Studio (sf) 1 Bedroom (sf) [PERSON] (sf) 2 Bedroom (sf) [COMPANY] Amenities
+Fitness Room, [PERSON],
+[COMPANY] Eagleson Road $1,720 433 $2,100 570 N/A - $2,550 869 $2,660 1,148 $125 $100 $80 [COMPANY] and [COMPANY], Party Room,
+1 Bicycle Storage, [PERSON], Parcel Lockers, Private
+Balconies
+YB: 2021 Asking rate per sf $3.97 $3.68 - $2.93 $2.32
+Landing on Main 1364-1370 Stittsville $1,720 433 $2,056 606 $2,237 651 $2,780 825 $2,913 860 n/a $150 $50 [COMPANY], Indoor Pool, Hot
+2 Hydro Extra
+Tub, Sauna, [COMPANY], Party Room,
+YB: 2025 Asking rate per sf $3.97 $3.39 $3.44 $3.37 $3.39
+The Palmer 63031 [COMPANY]2,167 590 $2,370 690 $2,670 941 $3,011 1,005 $200 n/a $50 [COMPANY], Fitness
+[COMPANY], Outdoor
+Terrace, Yoga Room,
+YB: 2025 Asking rate per sf - $3.67 $3.43 $2.84 $3.00
+1531 Switzer Main
+4 Switzer on [COMPANY] N/A - $2,900 893 $3,075 1,030 $100 $50 $50 [COMPANY] centre; multifunctional
+Extra room; rooftop terrace.
+YB: 2022 Asking rate per sf - $3.21 - $3.25 $2.99
+Elevator, [COMPANY],
+The [COMPANY] 180 [COMPANY] $2,155 741 N/A - $2,425 915 N/A - - - N/A Clubhouse, Storage Space,
+5 N/A Fitness Center, Pool,
+[COMPANY],
+[PERSON]
+YB: To be Built Asking rate psf $2.91 - $2.65 -
+Residences at 1100 [COMPANY]
+6 Kanata Lakes Shield Avenue N/A - $2,150 730 N/A - $2,749 1,067 N/A - $150 $100 $50 [COMPANY] room, Indoor pool,
+Outdoor terrace, [COMPANY] room
+YB: 2018 Asking rate per sf - $2.95 - $2.58 -
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 22
+Value and Risk Advisory
+5.2.3 Market Survey Summaries
+Market Rent Survey Summary - - 55+ / Seniors Oriented
+[COMPANY] (sf) Estimated Rent ($/month) Estimated Rent ($/psf) Parking Storage
+Low High Avg.1 Low High Avg.1 Low High Avg.1 Low High Low High
+One Bedroom 699 955 828 $2,350 $3,000 $2,560 $2.77 $4.29 $3.09 $130 $235 $50 $50
+One Bedroom + Den 903 1,050 947 $2,575 $3,900 $2,908 $2.79 $4.22 $3.07 - - - -
+Two Bedroom 972 1,366 1,188 $3,000 $4,500 $3,639 $2.80 $4.48 $3.06 - - - -
+Two Bedroom + Den 1,284 1,370 1,311 $3,480 $3,880 $3,700 $2.81 $3.39 $2.82 - - - -
+1 - Averages are not weighted
+The selection of seniors-oriented buildings reveals a relatively tight range of rental rates.
+The outlier is Index 6 “The Clemow” which is a new release from [COMPANY] and located in the Glebe Annex. It is a highly
+amenitized apartment building geared towards 55+ tenants.
+The asking rates were based on posted rates in Spring 2024 during their pre-leasing period. The building is still in its initial
+lease-up and rates are available to those who go into the leasing office and “interview” for a unit. It is observed that these asking
+rates are well above Ottawa averages and considered overstated. We would expect the actual rates this project is achieving to
+be lower. That said, the higher rates reflect the sentiment in this market for highly amenitized apartment buildings targeting 55+
+tenants.
+Market Rent Survey Summary - Rental Apartment Survey - Conventional New Purpose-Built Apartments
+Suite Type Unit Sizes (sf) Estimated Rent ($/month) Estimated Rent ($/psf) Parking Storage
+Low High Avg.1 Low High Avg.1 Low High Avg.1 Low High Low High
+One Bedroom 570 741 654 $2,056 $2,200 $2,138 $2.91 $3.68 $3.27 $100 $200 $50 $80
+One Bedroom + Den 651 690 671 $2,237 $2,370 $2,304 $3.43 $3.44 $3.44 - - - -
+Two Bedroom 825 1,067 918 $2,425 $2,900 $2,679 $2.58 $3.37 $2.92 - - - -
+Two Bedroom + Den 860 1,148 1,011 $2,660 $3,075 $2,915 $2.32 $3.39 $2.88 - - - -
+1 - Averages are not weighted
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 23
+Value and Risk Advisory
+5.2.4 Profile of other 55+ Communities in Ottawa
+MAGNOLIA SQUARE
+Magnolia Square 1707 Carling Avenue, [COMPANY] 187
+Owner Claridge Homes Surface Stalls -
+Building Type High-Rise Parking Ratio 0.97
+Structure Type Reinforced concrete Balconies Yes
+Year Built / Renovated 2025 Elevators Yes
+No. of Storeys 22 Bicycle Parking 99
+No. of [COMPANY]/a
+No. of Units 193 Tenant Profile For adults 55+
+Building Description
+Party Outdoor Concierge/
+[COMPANY] [PERSON] [PERSON]
+Room Space Security
+Amenities Yes Yes Yes No Yes Yes No Yes Yes Yes Yes No
+Unit [PERSON]
+Units finishes are moden with stainless steep appliances, quartz countertops Common areas contain a functional layout with the inclusion of high-quality finishes and
+and premium fixtures. Heat and smoke detector installations can be found materials.
+thoughtout each suite as well as individual thermostats.
+[COMPANY] (sf) Asking Rent ($/month) Asking Rent ($/sf/month)
+Min. [PERSON]. [PERSON]. Min. [PERSON]. [PERSON]. Min. [PERSON]. [PERSON].
+[PERSON] 10 5% 438 511 475 $1,590 $1,610 $1,600 $3.63 $3.63 $3.63
+One Bedroom 87 45% 563 845 694 $1,745 $2,090 $1,901 $2.47 $3.10 $2.74
+Two Bedroom 96 50% 860 1,131 970 $2,175 $2,400 $2,294 $2.12 $2.53 $2.36
+Total 193 100% 438 1,131 818
+Monthly Monthly Monthly
+Hot
+Heat Hydro AC Cable Internet Other [COMPANY] Parking: Rate:
+Utilities / ExtrasIncludedIncluded Excluded Excluded Included Included - $175 - -
+Micro- Stainless
+Fridge Stove DW Washer Dryer
+wave Steel
+AppliancesYes Yes Yes Yes Yes Yes Yes
+General Comments
+This property is part of a Seniors complex where the adjacent building is a 9-storey, 166 unit retirement home. Magnolia Square is the seniors apartment that compliments
+the retirement home run by [COMPANY]. The seniors apartment offers low base rents but with an optional Lifestyle Package featuring personalized amenities, 10
+meals per month and social events at a cost of $1,200 per month for individual occupants. A second occupant would be charged an additional $400/month for access to the
+Lifestyle Package.
+[PERSON] has recently completed the construction of a 22-storey multi-residential development specifically designed for
+adults 55+. The property contains a total of 193 units distributed amongst studio, one-bedroom, and two-bedroom units. This
+project contains premium common spaces such as a yoga and flex space, fitness centre, virtual golf simulator, games room,
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 24
+Value and Risk Advisory
+lounge and bistro, theatre room, and outdoor terrace. [COMPANY], such as gas, water and Wi-Fi are included in the lease, however
+hydro is an additional cost to the resident. Parking stalls are available at a cost of $175/month.
+Magnolia Square also offers a unique Lifestyle Package with added amenities and access to social events. This package comes
+at a cost of $1,200/month for a single residence with the option to add a second occupant for $400/month. Details regarding
+package inclusions are listed below:
+• 10-meals per month
+[COMPANY] classes per week
+[COMPANY] wine and cheese socials
+[COMPANY] movie night
+• Entertainment twice a week
+• Morning and evening snack in the Bistro
+• Exclusive Pools access at [COMPANY]
+This package offering is done through a partnership with [COMPANY], operators of the adjacent 9-
+storey retirement residence.
+This project is still in its initial lease-up. The implied average rents for the units that select the Lifestyle Package (which
+reportedly are being added) are $2,800 for studios, $3,100 for one-bedrooms and $3,400 to $3,800 for two bedrooms per
+month.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 25
+Value and Risk Advisory
+ASTORIA
+Astoria - Seniors Apartments 136 Central Park Drive
+Property Description
+Builder Ashcroft Homes Underground Stalls 146
+Owner [PERSON] 35 (visitor)
+Building Type High-rise Parking Ratio 0.95
+Structure Type Reinforced concrete Balconies Yes
+Year Built / Renovated 2025 Elevators 2
+No. of [COMPANY] Bicycle Parking 48
+No. of [COMPANY]/a
+No. of Units 154 Tenant Profile For adults 55+
+Building Description
+Party Outdoor Concierge/
+[COMPANY] [PERSON] [PERSON]
+Room Space Security
+Amenities Yes Yes Yes No Yes Yes No Yes Yes Yes Yes No
+Unit [PERSON]
+Unit finishes incorporates luxury vinyl flooring, painted drywall throughout the Common areas are expected to be modern and offer a high level of appeal along with
+space. Kitchen finishes include quartz countertops, porcelain floor and wall tiles, good flooring and quality fixtures.
+chrome fixtures and "Energy Star" rated appliances.
+[COMPANY] (sf) Asking Rent ($/month) Asking Rent ($/sf/month)
+Min. [PERSON]. [PERSON]. Min. [PERSON]. [PERSON]. Min. [PERSON]. [PERSON].
+Studio 7 5% 528 528 528 - - - - - -
+One Bedroom 24 16% 405 407 406 - - - - - -
+One Bedroom + Den 80 52% 530 714 626 - - - - - -
+Two Bedroom 16 10% 800 864 831 - - - - - -
+Two Bedroom + Den 27 18% 882 1,245 1,105 - - - - - -
+Total 154 100% 405 1,245 693
+[CITY] Monthly Monthly
+Hot
+Heat Hydro AC Cable Internet Other [COMPANY] Parking: Rate:
+[COMPANY] $175 - -
+Micro- Stainless
+Fridge Stove DW Washer Dryer
+wave Steel
+AppliancesYes Yes Yes Yes Yes Yes Yes
+General Comments
+Astoria Senior Apartments is a new development serving the 55+ market, slated for first occupancy in Fall 2025. The subject property was built in concert with a 10-storey
+Senior's Suites Retirement Residence containing 190 units. Both structures will form a seniors housing campus that incorporates the existing [COMPANY] and Park Place Senior Suites. The property will offer concierge services and a Club pass providing access to the dining room and amenity spaces within the
+[COMPANY]'s Suites building.
+The [CITY] underwent a series of delays on completing construction and pre-leasing was interrupted. Pricing guidance in mid-
+2024 was approximately $3.60 to $3.80 psf on average (based on 693 sf).
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 26
+Value and Risk Advisory
+5.2.5 Market Rent Conclusions
+The subject site has a number of positive attributes, as outlined in [COMPANY]’ section of this report, including:
+• A good suburban location that is undersupplied with quality, purpose-built rental apartments
+• Redevelopment activity and development proposals in the neighbourhood are improving the desirability of the area as
+a place to live.
+[COMPANY] amenities
+[COMPANY] construction, architecturally attractive building with modern design and high-quality interior finishes
+[COMPANY] design features; in-suite laundry and balconies
+[PERSON] at the upper end of a typical apartment range
+[COMPANY] access to the local and regional road network
+[COMPANY] access to retail amenities and grocery; and
+• An excellent tenant profile
+[PERSON] of [LOCATION] is considered to be a market leader in the 55+ apartment space and is evident in its actual performance
+and reportedly high demand for Phase 2, currently under construction. The actual performance at [COMPANY] of [LOCATION] is
+considered to be the best indicator of market rent given the tight occupancy and low turnover. Given the subject property’s
+unique offering, design features and focused target market, there is considered to be a premium on monthly market rents that
+the subject could achieve above a conventionally designed/operated new purpose built apartment. The adjusted rents provided
+by the client and illustrated in section 5.1.3, the market rent estimates are as follows:
+Market Rent Conclusions
+Suite Size (sf) Market Rent ($/month) Market Rent ($/psf)
+Suite
+Suite Type (%) of Total Min Max Mean Min [PERSON] Min [PERSON] 10 5% 698 702 700 $2,200 $2,200 $2,200 $3.13 $3.15 $3.14
+One-Bedroom 9 5% 717 748 730 $2,500 $2,500 $2,500 $3.34 $3.49 $3.42
+One-Bedroom (large) 2 1% 1,058 1,058 1,058 $2,800 $2,800 $2,800 $2.65 $2.65 $2.65
+One-Bdrm with den 37 20% 717 843 829 $2,800 $2,800 $2,800 $3.32 $3.91 $3.38
+Two-Bedroom (small) 3 2% 731 753 740 $2,700 $2,700 $2,700 $3.59 $3.69 $3.65
+Two-Bedroom 97 52% 901 963 944 $3,400 $3,400 $3,400 $3.53 $3.77 $3.60
+Two-Bedroom (large) 19 10% 1,123 1,182 1,145 $3,800 $3,800 $3,800 $3.21 $3.38 $3.32
+Two-Bdrm with den 2 1% 717 717 717 $2,800 $2,800 $2,800 $3.91 $3.91 $3.91
+Two-Bdrm with den (large) 6 3% 1,058 1,058 1,058 $3,900 $3,900 $3,900 $3.69 $3.69 $3.69
+Total 185 100% 698 1,123 917 $2,200 $3,900 $3,204 $2.65 $3.91 $3.49
+5.2.6 [COMPANY] at Rollover
+The permitted Guideline Increase for 2025 is 2.50% and 2026 is 2.10%. The subject property represents new construction and
+does not have to adhere to rent controls and a contract inflation rate of 3.00% has been applied upon rollover.
+5.2.7 Forecast Revenue and Turnover
+The subject property’s turnover rate is 10.27% for the past 12 months. We have estimated a 10.00% turnover for the forecast
+period. Year-1 Rental income is calculated based on 90% of [COMPANY] and 10% of ‘Legal & Market Rent
+Potential’ in Year-1. The forecast is judged to be rational and likely to emulate a typical investor approach based on the
+subject’s lease structure.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 27
+Value and Risk Advisory
+Income Forecast Summary Income Forecast Summary
+[COMPANY]
+Forecast Forecast
+Month Change % Change Month Change % Change
+Income Income
+Jul-25 $617,615 [COMPANY] Jul-25 $609,677 [COMPANY]
+Aug-25 $618,619 $1,004 0.16% Aug-25 $608,025 -$1,652 -0.27%
+Sep-25 $619,521 $902 0.15% Sep-25 $604,648 -$3,377 -0.56%
+Oct-25 $621,861 $2,340 0.38% Oct-25 $598,458 -$6,190 -1.03%
+Nov-25 $625,922 $4,061 0.65% Nov-25 $600,789 $2,331 0.39%
+Dec-25 $628,152 $2,230 0.36% Dec-25 $596,953 -$3,836 -0.64%
+Jan-26 $629,039 $887 0.14% Jan-26 $596,685 -$268 -0.04%
+Feb-26 $630,008 $969 0.15% Feb-26 $594,684 -$2,001 -0.34%
+Mar-26 $631,114 $1,106 0.18% Mar-26 $591,903 -$2,780 -0.47%
+Apr-26 $632,260 $1,146 0.18% Apr-26 $592,616 $713 0.12%
+May-26 $633,166 $906 0.14% May-26 $590,000 -$2,616 -0.44%
+Jun-26 $633,166 $0 0.00% Jun-26 $590,000 $0 0.00%
+Total $7,520,442 Total $7,174,439
+5.2.8 Rent Summary
+Rental Summary
+Asking Rent
+Suite Contract Contract Market Market Growth %
+[COMPANY] (%) of Total [PERSON] (sf) [PERSON]
+Count Rent Rent $/psf Rent Rent $/psf Potential Turnover
+Studio 10 5.4% 700 $2,095 $2.99 $2,249 $2,573 $2,200 $3.14 5.0% 0.0%
+One-Bedroom 9 4.9% 730 $2,381 $3.26 $2,573 $2,789 $2,500 $3.42 5.0% 0.0%
+One-Bedroom (large) 2 1.1% 1,058 $2,663 $2.52 $2,789 $2,789 $2,800 $2.65 5.1% 50.0%
+One-Bdrm with den 37 20.0% 829 $2,915 $3.50 $2,573 $3,546 $2,800 $3.38 -3.9% 16.2%
+Two-Bedroom (small) 3 1.6% 740 $2,465 $3.33 $2,573 $2,789 $2,700 $3.65 9.5% 33.3%
+Two-Bedroom 97 52.4% 944 $3,520 $3.73 $2,789 $4,736 $3,400 $3.60 -3.4% 9.3%
+Two-Bedroom (large) 19 10.3% 1,145 $4,181 $3.65 $4,087 $4,736 $3,800 $3.32 -9.1% 10.5%
+[COMPANY] with den 2 1% 717 $4,365 $6.09 $4,412 $4,628 $2,800 $3.91 -35.9% 0.0%
+Two-Bdrm with den (large) 6 3% 1,058 $4,173 $3.94 $4,412 $4,628 $3,900 $3,900 -6.5% 0.0%
+Total 185 100.0% 917 $3,341 $3.64 $3,204 $3.49 -4.1% 10.3%
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 28
+Value and Risk Advisory
+5.3 Other Revenue
+Other revenue will include parking income, storage locker income, retail space. In estimating these other revenues, we have
+relied on the client’s budget. Other Revenue includes housekeeping and guest rental.
+Ancillary Income
+Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario
+Item 2025 Budget JLL
+Parking $245,700 $245,700
+Storage $47,880 $47,880
+Other $68,859 $68,859
+Total $362,439 $362,439
+Totals Per Unit $1,959 $1,959
+5.3.1 Commercial Revenue
+The food and beverage services and salon are being leased and managed by a third party, and we have reviewed
+the leases between the owner and tenant [COMPANY]. The lease rate is $30 psf net
+for the smaller [COMPANY] and [COMPANY] and $25 psf net for the [COMPANY]. These lease rates appear reasonable
+based on our review of retail leasing in newer developments.
+Proportionate Forecast
+Area Start Base Rent
+Unit [PERSON] of total End Date Term Base Rent Period
+(sf) Date PSF
+Area Rent1
+1 Restaurant/Pub 1,930 64% 1-Jul-25 30-Jun-30 5 Yrs. $25.00 $48,250 $48,250
+2 Coffee Shop 441 15% 1-Jul-25 30-Jun-30 5 Yrs. $30.00 $13,230 $13,230
+3 Salon 667 22% 1-Jul-25 30-Jun-30 5 Yrs. $30.00 $20,010 $20,010
+[COMPANY] 3,038 100% $26.82 $81,490 $81,490
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 29
+Value and Risk Advisory
+5.4 Vacancy and Bad Debt Allowance
+CMHC’s Oct-24 Rental Market Report reports that [COMPANY] node increased from 1.40% in Oct-
+23 to 2.00% in [CITY].
+CMHC - Private Apartment Vacancy Rates (%)
+[LOCATION] Surrounding
+Oct-21 Oct-22 Oct-23 Oct-24
+Areas
+Bachelor 1.00% 0.00% 0.00% 1.50%
+1 Bedroom 3.20% 0.00% 1.60% 3.10%
+2 Bedroom 2.20% 0.60% 1.50% 1.50%
+3 Bedroom + 0.00% 0.00% 0.00% 0.00%
+Total 2.60% 0.40% 1.40% 2.00%
+Change -2.20% 1.00% 0.60%
+The subject’s current vacancy is 0.54%:
+Vacancy Distribution Summary
+Suite Vacant
+Suite Type % Vacant
+Count Suite Count
+Studio 10 0 0.00%
+One-Bedroom 9 0 0.00%
+One-Bedroom (large) 2 0 0.00%
+One-Bdrm with den 37 1 2.70%
+Two-Bedroom (small) 3 0 0.00%
+Two-Bedroom 97 0 0.00%
+Two-Bedroom (large) 19 0 0.00%
+[COMPANY] with den 2 0 0.00%
+[COMPANY] with den (large) 6 0 0.00%
+All Types 185 1 0.54%
+Strong demand conditions prevail, and investors must be aggressive in their long-term income projections. A stabilized
+allowance for an unexpected shortfall of income is expected to be modest and made at a rate of 3.00% per annum of the
+residential tenant revenue and 5.00% per annum for the commercial tenancy portion is considered reasonable given the market
+rental structure, the target market, and demand conditions.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 30
+Value and Risk Advisory
+5.5 Operating Expenses
+In estimating operating expenses for the subject property, we have relied on three sources of information:
+1) The client’s Operating Budget and historical YTD actuals
+2) Operating costs obtained from buildings appraised by our office.
+3) [COMPANY] (“ITS”), First Quarter 2025.
+Expense Item Description Client Budget or Year-1 Forecast
+Stabilized
+The ITS First Quarter 2025 [COMPANY] report indicates that
+average management fees across Canada range between 3.6% and 3.9% of
+the effective gross income. Management fees range between 3.0% and 3.8% $346,550
+Management Fee Stabilized
+in Ottawa with a mean of 3.40%. We have stabilized Management costs at (4.50% of [COMPANY])
+4.50% based on the client’s budget and the subject’s unique operating
+model.
+$847,652
+($4,582 / unit
+Property Taxes We have utilized the clients 2025 Budget for the forecast period. [COMPANY]
+11.01% of [COMPANY])
+$231,250
+The lease structure submeters hydro, heat with water and is the tenants
+[COMPANY] / ($1,250 / unit
+[COMPANY] responsibility. The landlord is also responsible for all common area and
+Stabilized 3.00% of [COMPANY])
+vacant unit utilities.
+Variations in [CITY] is partly a function of management style. However, as
+actual statements, the one-year snapshot often includes some capital items $351,500
+that are expensed in the year they occur or, conversely, represent a lower
+[COMPANY] ($1,900 / unit
+than typical expense level in that particular year. We find that investors rely Stabilized
+Maintenance on their own internal estimates of maintenance and repairs. The confidence 4.56% of [COMPANY])
+of internal estimates based on experience is much greater than an external
+source of historical data due to differing management styles.
+In similar fashion to maintenance costs, staffing costs also tend to be directly
+related to the standard of the accommodation offered. A luxury rental building
+will require a higher service element and vice versa. We note that the subject
+property will operate at a higher level than a conventional rental apartment $642,136
+Staffing building. This partly relates to the quality of the asset, and the corresponding [COMPANY] ($3,471 /unit
+level of service offered.
+8.34%/EGI)
+Given the rental rate structure, some level of tenant service above a typical
+building, we have utilized the clients budget as it would be difficult to operate
+the building without the elevated service.
+$114,038
+We have reviewed and utilized the client’s 2025 Budget for the forecast
+[COMPANY] ($616 /unit
+period.
+1.48%/EGI)
+$46,250
+Advertising &
+Our forecast is based comparable projects and tempered by our experience. Stabilized ($250 /unit
+Leasing
+0.60%/EGI)
+$83,250
+[COMPANY] have reviewed and stabilized this amount closer to the client’s 2025
+Stabilized ($450 /unit
+Administration Budget for the forecast period.
+1.08%/EGI)
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 31
+Value and Risk Advisory
+5.6 Income and Expense Pro Forma
+Income Forecast
+Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario
+Year-Ended June 2026
+2024 Actual 2025 Budget JLL Projected % of Gross
+Revenue
+Rental Revenue
+Annual [COMPANY] $7,043,462 $7,405,505 $7,485,841 94.40%
+Other Revenue
+Parking $0 $245,700 $245,700 3.10%
+Storage $0 $47,880 $47,880 0.60%
+Other $375,589 $88,659 $68,859 0.87%
+Total Other Revenue $375,589 $382,239 $362,439 4.57%
+Commercial Rent $81,490 1.03%
+Gross Revenues $7,419,050 $7,787,744 $7,929,770
+Vacancy & Bad Debt Allowance $0 $0 ($224,575) 3.00%
+Vacancy & Bad Debt Allowance (commercial) $0 $0 ($4,075) 5.00%
+Effective Gross Income (EGI) $7,419,050 $7,787,744 $7,701,121 $ per Suite % of [COMPANY]
+Average EGI/Suite/Month $3,342 $3,508 $3,469
+Income Growth #[PERSON]! 4.97% 3.80%
+Operating Expenses
+Management Fee $335,341 $352,006 $346,550 $1,873 4.50%
+Property Taxes $904,257 $847,652 $847,652 $4,582 11.01%
+Utilities $172,773 $231,863 $231,250 $1,250 3.00%
+[COMPANY] $317,363 $346,759 $351,500 $1,900 4.56%
+Staffing $543,449 $642,136 $642,136 $3,471 8.34%
+Insurance $105,249 $114,038 $114,038 $616 1.48%
+Advertising & Leasing $5,099 $54,432 $46,250 $250 0.60%
+[COMPANY] $91,691 $80,217 $83,250 $450 1.08%
+[COMPANY] Expenses $2,475,222 $2,669,102 $2,662,626 $14,393 34.57%
+Net Operating Income $4,943,828 $5,118,643 $5,038,495 $2,270
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 32
+Value and Risk Advisory
+5.6.1 Summary of [COMPANY]Index Sale Date Address Suite Suite / Suite / $ / Suite
+Renovated Ratio Rate
+Month Month
+1 Jan-25 "Castleview" 1755 [PERSON] 1973 225 $1,863 37.0% $1,174 $323,700 4.35%
+Ottawa, ON
+2 Aug-24 "Sophia" 91 Valley Stream Drive 1985/Ongoing 136 $1,849 33.3% $1,234 $330,800 4.48%
+Ottawa, ON
+3 Jul-24 "Hillview Apartments" 525-555 Recolt Private 2022 54 $2,316 29.5% $1,633 $388,889 5.04%
+Ottawa, ON
+4 Sep-23 50 Laurier Avenue East 2003 212 $2,594 37.4% $1,624 $451,800 4.52%
+Ottawa, ON
+5 Feb-23 800 Eagleson Road 2021 143 $2,112 30.6% $1,465 $426,600 4.12%
+Ottawa, ON
+6 May-22 96 Tapadero Ave; 200 & 210 Livery St; 222-226 Livery St " 2018-2021 112 $1,775 31.9% $1,210 $390,200 3.70%
+Ottawa, ON
+Jul-25 Wellings of [LOCATION], 2500 [COMPANY] 185 $3,469 34.6% $2,270 $573,000 4.750%
+[LOCATION], Ontario
+The Capitalization Rates ([CITY]) indicated by the recent property sales vary between 3.70% and 5.04%, with the recent trend
+suggesting generally stable rates of return.
+We acknowledge it would be preferable to see more recent, local sales of new purpose-built product however there has been
+limited transactional data for high-density, new purpose-built rental in Ottawa. One of the primary reasons is most new inventory
+is developed for owner-operation rather than forward selling or disposition upon stabilization. In general, some recent sales are
+older product with lease rates and unit prices significantly lower than the subject property. However, they have been included as
+examples that support the assumption that modern product will trade at similar yields to older assets despite the significantly
+higher price per unit.
+An extensive search was also conducted to find similar sales of 55+ oriented buildings and yielded few results. Index 2 was
+noted to be predominantly rented by seniors.
+Index 1 is a recent sale of [COMPANY]Castleview” building to [COMPANY]. The 225-unit building is located within a
+pocket of residential development along [LOCATION] in Alta Vista with a number of high-rise apartment and condominium
+buildings. While the building is registered as a condominium, it has operated as a rental for decades. The building was [CITY]
+renovated at the time of sale as Minto deployed their renovation program on turnover. The building had a significant amount of
+[COMPANY] relating to window replacement and the parking garage and was adjusted for in the capitalization analysis. Overall, we
+would expect a higher cap rate for the subject property.
+Index 2 is a recent sale of “The Sophia” located in [CITY], a residential neighborhood in west Ottawa, about 10-12 km from
+downtown. The building was designed and constructed as a condominium but is operated as a rental and the tenant mix
+skewed predominantly to seniors. The property was undergoing a renovation program and 78 units were renovated at the time
+of sale (57% of total units). The building was generally at market at the time of sale with some short term upside potential in the
+non-renovated units. There was some outstanding [COMPANY] at the of sale related to the parkade but no specific amount was
+reportedly adjusted. Overall, we would expect a slightly higher cap rate for the subject.
+Index 3 is a recent sale of three (3) 18-unit, low-rise, wood-frame, elevatored buildings constructed in 2022. The property is
+located in the northern part of the "Queenswood Heights" neighbourhood in a small, newly built residential enclave in [CITY]
+(east end) developed by [COMPANY]. It's situated near Highway 174, providing convenient access to downtown Ottawa.
+[PERSON] is home to several schools and local amenities, making it popular among families. Unit mix is weighted
+towards two-bedroom units. There are storage lockers and surface/underground parking. Overall, [CITY] is considered an
+inferior rental node compared to suburban west Ottawa and we would expect a lower capitalization rate for the subject property.
+Index 4 is a dated sale of a 212-unit building in downtown Ottawa. Built in 2003 by [PERSON], the property had a large floorplate
+with larger average unit sizes and good amenity space including an indoor pool. There was a main floor commercial component
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 33
+Value and Risk Advisory
+of just over 8,000 sf. At the time of the sale the building was over 98% occupied. The purchaser was [COMPANY] who are
+actively seeking buy opportunities well managed buildings and are long-term holders. Homestead perceives short/mid-term
+upside potential. A 2.16% mortgage with a term until 2028 was assumed. We would expect a higher capitalization for the
+subject property.
+Index 5 is represented by 800 Eagleson Road “Eaglepointe”, located in [CITY], a suburban neighbourhood in Ottawa’s west.
+Built in 2021, it is a 6-storey, 143-unit apartment building with 136 parking spaces. At the time of the sale the building was 95%
+occupied. The purchaser was CAPREIT who are actively seeking buy opportunities in the Class A apartment space. The per
+door rate of $426,300 suggests a strong income profile, especially given its deep suburban location. The building serves an
+underserved node for rental product. We would expect a higher capitalization for the subject property.
+Index 6 is a dated sale of a mix stacked townhouse/low-rise apartments located in the same suburban [CITY] as the
+subject. At the time of sale, there was perceived upside potential in the rents as well as the underground parking, which was
+included in the rate upon initial lease-up. This sale transacted in a superior market, and we would expect a higher capitalization
+rate for the subject.
+5.6.2 Capitalization Rate Rationale
+As of the effective date, there remained underlying uncertainty in the economy, tariff war with the [CITY], world conflict, increasing
+unemployment, higher cost of living, immigration issues and more. The central bank’s war on inflation saw its trendsetting
+interest rate surge by 475 basis points since March 2022. However, [COMPANY] has been reducing in the overnight
+rate since June 2024 from 5.00% to a target overnight rate of 2.75%, which has remained unchanged for the past three
+announcements as of June 6, 2025.
+Demand for multi-residential rental apartments remained robust despite economic challenges, driven by tightening occupancy,
+reduced tenant exodus to homeownership, and upward pressure on market rents. However, rising interest rates and flattening
+rent growth have led to stricter lending criteria and lower loan-to-value ratios, necessitating greater equity from buyers. As well,
+supply has increased in the short term with a number of units delivered in the past year creating a more competitive
+environment and protracting lease-up periods. This dynamic, is considered to be temporary and not indicative of a longer term
+trend. Multi-family asset investors consider both current and potential future returns based on cash flows, replacement costs,
+and comparable property values. Rental apartment building owners have performed well due to supply constraints in major
+Canadian cities, with newer, amenity-rich apartments experiencing good demand.
+Some transactions in this analysis were negotiated before the sharp interest rate increase and/or subsequent rate decrease.
+The narrow capitalization rate range reflects a market with numerous buyers, resulting in competitive, multi-round bidding
+processes. However, due to the speed in which rates rose, the lack of deal flow and several institutional owners sitting on the
+sidelines, it is difficult to gauge to what extent yields decompressed. Many investors are taking a “wait and see” approach.
+Buyers are still cautious, and the bid-ask spread remains wider.
+The subject is a high-density project in a central location of Ottawa with a number of features that attracts rents at the upper end
+of the market range. Given the surrounding built form, it is unlikely that the subject building will have any direct competition of a
+similar scale in proximity. This increases the scarcity and opportunities for investors to have a presence in one of the most more
+affluent neighbourhoods in Ottawa.
+Based on the foregoing analysis, a capitalization rate ([CITY]) between 4.50% and 5.00% of 4.750% has been selected for the
+subject.
+5.7 [COMPANY]
+An estimate of stabilized net operating income ([COMPANY]) for a single year is converted into an indication of value. The stabilized [COMPANY]
+for Year-1 starts as of the effective date.
+This procedure entails the following steps:
+1) The stabilized net operating income ([COMPANY]) was determined.
+2) The [COMPANY] was capitalized at a [CITY] of 4.750%, to estimate the market value based on stabilized occupancy.
+3) This value will be adjusted, if applicable, for capital expenditures, excessive vacancy, short-term leasing costs etc.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 34
+Value and Risk Advisory
+5.7.1 [COMPANY] on information reported by the client o short-term capital expenditures were reportedly required.
+5.7.2 Estimate of Market Value (Direct Capitalization)
+[COMPANY]Rental Revenue $7,485,841
+Plus: Other Revenue $362,439
+Potential Gross Revenue $7,848,280
+Less: Vacancy & Bad Debts (Residential) 3.00% ($224,575)
+Less: Vacancy & Bad Debts (Commercial) 5.00% ($4,075)
+Effective Gross Revenue $7,701,121
+Less: Operating Expenses $2,662,626
+Stabilized Net Operating Income $5,038,495
+[COMPANY] -1 Forecast $5,038,495
+Selected Capitalization Rate 4.750%
+Stabilized Value $106,073,576
+Value Conclusion $106,073,576
+VALUE CONCLUSION ([COMPANY]) $106,000,000
+Value per Suite (rounded) $573,000
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 35
+Value and Risk Advisory
+6 Direct Comparison Approach
+6.1 Adjusted Sale Prices
+The net income of a property effectively represents its location, and physical attributes, as prime locations and well-maintained
+properties generally yield higher rental rates. To facilitate comparison, we use [COMPANY]) per suite of each
+comparable property sale to determine an adjusted unit value for the subject property. Given that the property is an income-
+generating asset, the key factor is the net income earned per suite. Consequently, we have adjusted the prices of the
+comparable properties to account for income disparities.
+The subject property’s Year 1 NOI is estimated at $5,038,495 annually or $2,270 per unit per month.
+6.1.1 Market Activity
+Summary of [COMPANY]Year Built / Count /
+No. Sale Date Address Suite / $ / Suite Adjusted
+Renovated Room
+Month $ / Suite 1
+Weight
+1 Jan-25 "Castleview" 1755 [PERSON] 1973 225 $1,174 $323,700 $625,781
+Ottawa, ON
+2 Aug-24 "Sophia" 91 Valley Stream Drive 1985/Ongoing 136 $1,234 $330,800 $608,413
+Ottawa, ON
+3 Jul-24 "Hillview Apartments" 525-555 Recolt Private 2022 54 $1,633 $388,889 $540,490
+Ottawa, ON
+4 Sep-23 50 Laurier Avenue East 2003 212 $1,624 $451,800 $631,405
+Ottawa, ON
+5 Feb-23 800 Eagleson Road 2021 143 $1,465 $426,600 $660,920
+Ottawa, ON
+6 May-22 Ave; 200 & 210 Livery St; 222-226 Livery St "Kol" 2018-2021 112 $1,210 $390,200 $732,164
+Ottawa, ON
+Wellings of [LOCATION], 2500 Wellings
+Jul-25 2018 185 $2,270 $573,000
+Private
+[LOCATION], Ontario
+The comparable sales’ Year 1 [COMPANY] average adjusted suite prices per approximately $638,439 (weighted). The analysis is
+skewed as the subject’s income profile is superior to all sales selected. In general, some recent sales are older product with
+lease rates and unit prices significantly lower than the subject property. However, they have been included as examples that
+support the assumption that modern product will trade at similar yields to older assets despite the significantly higher price per
+unit.
+Comparable Sale Range
+Actual Adjusted
+Min. $323,700 $540,490
+Max. $451,800 $732,164
+Avg.1 $384,704 $638,439
+1 - weighted
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 36
+Value and Risk Advisory
+Based on the discussion above, the subject property’s unit value is estimated at $573,000 per suite. We consider that the value
+conclusion reached by [COMPANY] holds good support having regard to the rate per suite comparison and the
+estimate of market value of the subject property is further refined as follows:
+[COMPANY] 185
+Value Estimate per Suite $573,000
+Value $106,005,000
+Total Adjustments $0
+Value Conclusion $106,005,000
+VALUE CONCLUSION ([COMPANY]) $106,000,000
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 37
+Value and Risk Advisory
+7 Value Reconciliation and Conclusion
+7.1 Value Reconciliation
+The estimates of value from the approaches used are:
+Final Value Conclusion
+Valuation Methodology Parameters Conclusion
+Direct Capitalization Method Cap Rate 4.750% $106,000,000
+[COMPANY] Per Suite $573,000 $106,000,000
+Value Conclusion
+Final Value Conclusion (Rounded) $106,000,000
+In arriving at a conclusion of market value, [COMPANY] is given the greatest weight given that the subject property is an
+investment property.
+7.2 Final Value Conclusion
+Therefore, based on the preceding valuation analysis and [PERSON] to the Assumptions and Limiting Conditions in Appendix 5
+and [COMPANY] in Section 1.4, it is my opinion
+that the current market value of [COMPANY], effective July 1, 2025, is:
+$106,000,000
+(One Hundred Six Million Dollars)
+7.2.1 Exposure Time
+Reasonable Exposure Time is an estimate of the length of time that the property would have been offered on the market prior to
+the hypothetical consummation of a sale at market value on the effective date of the appraisal.
+It is a retrospective estimate based upon our experience and the opinions gathered from real estate brokers active in the field.
+The estimate of time period for reasonable exposure is not intended to be a prediction, it is an estimate of the amount of time that
+the property would have required to be exposed for sale on the open market in an appropriate manner and using an experienced
+broker.
+An exposure time of 3-6 Months would have been required prior to the effective date to sell the subject property at its current
+market value.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 38
+Value and Risk Advisory
+8 Certification
+Effective Date: July 1, 2025
+Property Appraised: Wellings of Stittsville: 2500 [PERSON], [LOCATION], Ontario
+By signing this certification of value, the author accepts individual responsibility for the content and conclusions of this appraisal report.
+Consequently:
+ I certify that, to the best of my knowledge and belief that:
+ The statements of fact contained in this report are true and correct.
+ The reported analyses, opinions and conclusions are limited only by the reported assumptions and limiting conditions, and are our personal,
+unbiased professional analyses, opinions, and conclusions.
+ I have no past, present or prospective interest in the property that is the subject of this report, and no personal and/or professional interest
+or conflict with respect to the parties involved with this assignment.
+ I have no bias with respect to the property that is the subject of this report or to the parties involved with this assignment.
+ My engagement in and compensation is not contingent upon developing or reporting predetermined results, the amount of value estimate, a
+conclusion favouring the client, or the occurrence of a subsequent event.
+ My analyses, opinions and conclusions were developed, and this report has been prepared, in conformity with the Canadian Uniform
+Standards of Professional Appraisal Practice.
+ I have the knowledge and experience to complete this assignment competently, and where applicable this report is co-signed in compliance
+with CUSPAP 2024.
+ The subject property was inspected by [PERSON], [COMPANY], [COMPANY]., [COMPANY] on April 22, 2025. The inspection was considered
+sufficient to assist the author in describing the real estate, developing an opinion of highest and best use, and making meaningful
+comparisons with other market data. A detailed inspection to report building condition is beyond the scope of this assignment.
+ Except as herein disclosed, no one has provided significant professional assistance to the person(s) signing this report.
+ As of the date of this report the undersigned has fulfilled the requirements of [COMPANY] and
+is in good standing of [COMPANY].
+ The value estimate contained in this report applies as of July 1, 2025. This date may be referred to as the effective date of valuation.
+ As of the date of this report, [PERSON], [COMPANY], [COMPANY]., [COMPANY] has fulfilled the requirements of [COMPANY] for designated and candidate members, and are members in good standing of [COMPANY].
+Having regard for all the information contained in this report, subject to [COMPANY] in Appendix 5
+and [COMPANY] in Section 1.4, it is my opinion
+that the current market value of [COMPANY], effective July 1, 2025, is:
+$106,000,000
+(One Hundred Six Million Dollars)
+[PERSON], [COMPANY], [COMPANY]., AACI
+Senior Vice President
+AIC #: 905155
+Date of Report: July 11, 2025
+Inspected Property: Yes
+If yes, Date of Inspection: April 22, 2025
+NOTE: For this appraisal to be valid, an original or a password
+protected digital signature is required.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 39
+Value and Risk Advisory
+Appendices
+Definitions
+Inspection Photos
+Rent Roll
+Market Overview
+Assumptions and [COMPANY]
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 40
+Value and Risk Advisory
+Definitions
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 41
+Value and Risk Advisory
+Definitions1
+Market Value The most probable price, as of a specified date, in cash, or in terms equivalent to cash, or in other
+precisely revealed terms, for which the specified property rights should sell after reasonable exposure in a
+competitive market under all conditions requisite to a fair sale, with the buyer and the seller each acting
+prudently, knowledgeably, and for self-interest, and assuming that neither is under undue duress.
+Highest and Best “The reasonably probable use of a property, that is physically possible, legally permissible, financially
+Use feasible and maximally productive, and that results in the highest value.”
+The highest and best use of both land as though vacant and the property as developed must meet four
+criteria. The highest and best use must be:
+ [PERSON]: The size, shape, terrain and soil conditions of a parcel of land affect its physical
+utility and adaptability. The size, design and condition of an improved property may suggest that
+rehabilitation, conversion, or demolition is in order.
+ Legally Permissible: Depends on public restrictions such as zoning, building codes, historic
+preservation regulations and environmental controls, as well as the private or contractual restrictions
+found in deeds and long-term leases.
+ [PERSON] Uses that should produce returns that exceed the income required to satisfy
+operating expenses and debt service (interest and amortization).
+ [PERSON]: Among financially feasible uses, the use that produces the highest price or value
+consistent with the rate of return warranted by the market.
+Exposure Time Estimated length of time the property interest being appraised would have been offered on the market
+before the hypothetical consummation of a sale at the estimated value on [COMPANY] of the
+appraisal. Exposure time is backward-looking.
+Effective Date The date at which the analyses, opinions, and conclusions in an Assignment apply. The Effective Date
+may be different from the Inspection date and/or the Report date.
+Authorized Client The individual or organization for whom the Member renders or agrees to render [COMPANY].
+Authorized Use The use of a Member’s [COMPANY], as identified and authorized by the Member based on
+communication between the Member and [COMPANY].
+Authorized User A party identified by name and authorized as a user of [COMPANY], based on
+communication between the Member and [COMPANY].
+Extraordinary An assumption, directly related to a specific [COMPANY], which, if were not assumed to be true, could
+Assumption materially alter the opinions or conclusions. [COMPANY] presume uncertain information
+about or anticipated changes in: the physical, legal or economic characteristics of the subject property; or
+about: conditions external to the subject property such as market conditions or trends, or the integrity of
+data used in an analysis to be fact.
+Extraordinary A necessary modification to, or exclusion of, a Standard Rule which may diminish the reliability of the
+[COMPANY] report.
+[COMPANY] are a specific type of [COMPANY] that presumes, as fact,
+Condition simulated but untrue information about physical, legal, or economic characteristics of the subject property
+or external conditions, and are imposed for purposes of reasonable analysis.
+Extraordinary An assumption, directly related to a specific [COMPANY], which, if were not assumed to be true, could
+Assumption materially alter the opinions or conclusions. [COMPANY] presume uncertain information
+about or anticipated changes in: the physical, legal or economic characteristics of the subject property; or
+about: conditions external to the subject property such as market conditions or trends, or the integrity of
+data used in an analysis to be fact.
+Fee Simple An interest consisting in absolute ownership unencumbered by any other interest or estate, subject only to
+the limitations imposed by the governmental powers of taxation, expropriation, police power and escheat.2
+Leased Fee An ownership interest held by the landlord with the rights of use and occupancy conveyed by the lease to
+others. The rights of the lessor (the leased fee owner) and the leased fee are specified by contract terms
+contained with the lease.3
+1 [COMPANY] Professional Appraisal Practice (Effective Date January 1, 2024)
+2 The Appraisal of Real Estate: 3rd Canadian Edition. Vancouver. [COMPANY]. 2010.
+Section 6.2
+3 The Appraisal of Real Estate: 3rd Canadian Edition. Vancouver. [COMPANY]. 2010.
+Section 6.4
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 42
+Value and Risk Advisory
+Inspection Photos
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 43
+Value and Risk Advisory
+Photographs of Subject Property
+Subject property southwest façade Subject property northwest façade
+Entrance Lobby
+Dinning Room Typical Hallway
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 44
+Value and Risk Advisory
+Photographs of Subject Property
+Parcel Room (new) Living Room
+[PERSON]
+Bathroom In-unit laundry and mechanical
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 45
+Value and Risk Advisory
+Photographs of Subject Property
+Guest suite living room [COMPANY] suite bathroom
+[COMPANY] suite bathroom [COMPANY] suite kitchen
+[PERSON]
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 46
+Value and Risk Advisory
+Photographs of Subject Property
+Main Dining Room Boilers
+Storage lockers [COMPANY] charging stations
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 47
+Value and Risk Advisory
+Photographs of Subject Property
+Outdoor BBQs Amenity facility
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 48
+Value and Risk Advisory
+Rent Roll
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 49
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+103 Two-Bedroom 952 sf OCCUPIED Oct-2019 Oct-2025 $3,838.36 $4.03 $3,400 $3.57 3.00% $3,953.51
+104 Two-Bedroom 952 sf OCCUPIED Jul-2021 Jul-2025 $3,636.17 $3.82 $3,400 $3.57 3.00% $3,745.26
+105 Studio 700 sf OCCUPIED Oct-2019 Oct-2025 $1,885.60 $2.69 $2,200 $3.14 3.00% $1,942.17
+106 Two-Bedroom 958 sf OCCUPIED Oct-2019 Oct-2025 $1,832.91 $1.91 $3,400 $3.55 3.00% $1,887.90
+107 Two-Bedroom 952 sf OCCUPIED [COMPANY] $3,954.75 $4.15 $3,400 $3.57 3.00% $4,073.39
+108 Two-Bedroom (large) 1,143 sf NEW Feb-2025 Feb-2026 $4,592.00 $4.02 $3,800 $3.32 3.00% $4,729.76
+109 Two-Bedroom 960 sf OCCUPIED Nov-2019 Oct-2025 $3,871.15 $4.03 $3,400 $3.54 3.00% $3,987.28
+110 Two-Bedroom 951 sf OCCUPIED Oct-2019 Oct-2025 $3,173.40 $3.34 $3,400 $3.58 3.00% $3,268.60
+111 Two-Bedroom 951 sf OCCUPIED Apr-2022 Mar-2026 $3,291.72 $3.46 $3,400 $3.58 3.00% $3,390.47
+112 Two-Bedroom 949 sf NEW Feb-2025 Feb-2026 $4,093.00 $4.31 $3,400 $3.58 3.00% $4,215.79
+113 Two-Bedroom 953 sf OCCUPIED May-2023 May-2025 $3,534.75 $3.71 $3,400 $3.57 3.00% $3,640.79
+114 Two-Bedroom (small) 753 sf OCCUPIED Dec-2022 Dec-2025 $2,464.64 $3.27 $2,700 $3.59 3.00% $2,538.58
+115 Two-Bedroom 948 sf OCCUPIED Aug-2020 Aug-2025 $3,704.90 $3.91 $3,400 $3.59 3.00% $3,816.05
+116 Two-Bedroom (small) 731 sf OCCUPIED Oct-2019 Oct-2025 $2,294.37 $3.14 $2,700 $3.69 3.00% $2,363.20
+117 Two-Bedroom (small) 735 sf NEW Feb-2025 Feb-2026 $2,635.00 $3.59 $2,700 $3.67 3.00% $2,714.05
+118 Two-Bedroom 953 sf OCCUPIED May-2023 May-2025 $3,849.75 $4.04 $3,400 $3.57 3.00% $3,965.24
+121 Two-Bedroom 951 sf NEW Sep-2024 Sep-2025 $[COMPANY] $4.17 $3,400 $3.58 3.00% $4,083.95
+122 One-Bdrm with den 832 sf NEW May-2024 May-2025 $3,210.00 $3.86 $2,800 $3.37 3.00% $3,306.30
+123 One-Bdrm with den 843 sf OCCUPIED Oct-2019 Oct-2025 $2,939.25 $3.49 $2,800 $3.32 3.00% $3,027.43
+124 Two-Bedroom 951 sf OCCUPIED May-2021 May-2025 $3,759.83 $3.95 $3,400 $3.58 3.00% $3,872.62
+125 Two-Bedroom 953 sf NEW Sep-2024 Sep-2025 $3,955.00 $4.15 $3,400 $3.57 3.00% $4,073.65
+126 Two-Bdrm with den (large 1,058 sf OCCUPIED Mar-2023 Mar-2026 $3,762.44 $3.56 $3,900 $3.69 3.00% $3,875.31
+127 One-Bedroom 717 sf OCCUPIED Feb-2021 Jan-2026 $2,272.22 $3.17 $2,500 $3.49 3.00% $2,340.39
+128 One-Bedroom (large) 1,058 sf OCCUPIED Mar-2022 Mar-2026 $2,631.49 $2.49 $2,800 $2.65 3.00% $2,710.43
+129 Two-Bdrm with den 717 sf OCCUPIED Sep-2023 Sep-2025 $4,269.75 $5.96 $2,800 $3.91 3.00% $4,397.84
+130 Two-Bedroom (large) 1,143 sf OCCUPIED [COMPANY] Jul-2025 $4,479.75 $3.92 $3,800 $3.32 3.00% $4,614.14
+131 Two-Bedroom 952 sf OCCUPIED Oct-2019 Oct-2025 $3,838.36 $4.03 $3,400 $3.57 3.00% $3,953.51
+132 Two-Bedroom 952 sf OCCUPIED Sep-2023 Sep-2025 $3,954.75 $4.15 $3,400 $3.57 3.00% $4,073.39
+133 [COMPANY] 698 sf OCCUPIED Nov-2019 Nov-2025 $2,178.27 $3.12 $2,200 $3.15 3.00% $2,243.62
+134 Two-Bedroom 952 sf NEW Jun-2024 Jun-2025 $3,955.00 $4.15 $3,400 $3.57 3.00% $4,073.65
+135 One-Bdrm with den 843 sf NEW May-2024 May-2025 $3,430.00 $4.07 $2,800 $3.32 3.00% $3,532.90
+136 One-Bdrm with den 832 sf NEW Apr-2025 Apr-2026 $3,356.00 $4.03 $2,800 $3.37 3.00% $3,456.68
+137 Two-Bedroom 950 sf OCCUPIED Nov-2019 Nov-2025 $3,830.17 $4.03 $3,400 $3.58 3.00% $3,945.08
+201 Two-Bedroom 943 sf OCCUPIED Feb-2022 Jan-2026 $3,405.28 $3.61 $3,400 $3.61 3.00% $3,507.44
+202 One-Bdrm with den 843 sf OCCUPIED Apr-2024 Apr-2026 $3,315.00 $3.93 $2,800 $3.32 3.00% $3,414.45
+203 One-Bdrm with den 826 sf OCCUPIED Oct-2019 Oct-2025 $2,939.25 $3.56 $2,800 $3.39 3.00% $3,027.43
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 50
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+204 Two-Bedroom 943 sf OCCUPIED Sep-2021 Sep-2025 $3,636.17 $3.86 $3,400 $3.61 3.00% $3,745.26
+205 Studio 700 sf OCCUPIED Mar-2022 Mar-2026 $2,042.59 $2.92 $2,200 $3.14 3.00% $2,103.87
+206 Two-Bedroom 946 sf OCCUPIED Oct-2020 Sep-2025 $3,674.22 $3.88 $3,400 $3.59 3.00% $3,784.45
+207 Two-Bedroom 943 sf OCCUPIED Oct-2019 Oct-2025 $3,626.46 $3.85 $3,400 $3.61 3.00% $3,735.25
+208 Two-Bedroom (large) 1,124 sf OCCUPIED Oct-2019 Oct-2025 $4,109.97 $3.66 $3,800 $3.38 3.00% $4,233.27
+209 Two-Bedroom 949 sf OCCUPIED May-2022 May-2025 $3,513.49 $3.70 $3,400 $3.58 3.00% $3,618.89
+210 Two-Bedroom 945 sf OCCUPIED Sep-2020 Sep-2025 $3,407.54 $3.61 $3,400 $3.60 3.00% $3,509.77
+211 Two-Bedroom 945 sf OCCUPIED [COMPANY] Jul-2025 $3,403.24 $3.60 $3,400 $3.60 3.00% $3,505.34
+212 Two-Bedroom 945 sf OCCUPIED Oct-2019 Oct-2025 $3,633.49 $3.84 $3,400 $3.60 3.00% $3,742.49
+213 Two-Bedroom 937 sf OCCUPIED Oct-2019 Oct-2025 $3,250.66 $3.47 $3,400 $3.63 3.00% $3,348.18
+214 One-Bedroom 743 sf OCCUPIED Oct-2019 Oct-2025 $2,236.82 $3.01 $2,500 $3.36 3.00% $2,303.92
+215 Two-Bedroom 943 sf OCCUPIED [COMPANY] Jul-2025 $3,513.49 $3.73 $3,400 $3.61 3.00% $3,618.89
+216 One-Bdrm with den 826 sf [COMPANY] $3,125.00 $3.78 $2,800 $3.39 3.00% $3,218.75
+217 One-Bdrm with den 843 sf OCCUPIED Jul-2020 Jun-2025 $3,011.02 $3.57 $2,800 $3.32 3.00% $3,101.35
+218 Two-Bedroom 943 sf OCCUPIED Jun-2021 May-2025 $3,471.36 $3.68 $3,400 $3.61 3.00% $3,575.50
+221 Two-Bedroom 944 sf NEW Jul-2024 Jul-2025 $3,745.00 $3.97 $3,400 $3.60 3.00% $3,857.35
+222 One-Bdrm with den 828 sf OCCUPIED Jun-2023 Jun-2025 $3,231.99 $3.90 $2,800 $3.38 3.00% $3,328.95
+223 One-Bdrm with den 834 sf OCCUPIED Dec-2023 Dec-2025 $3,252.85 $3.90 $2,800 $3.36 3.00% $3,350.44
+224 Two-Bedroom 943 sf OCCUPIED Jun-2022 Jun-2025 $3,182.74 $3.38 $3,400 $3.61 3.00% $3,278.22
+225 Two-Bedroom 963 sf OCCUPIED Nov-2020 Nov-2025 $3,407.54 $3.54 $3,400 $3.53 3.00% $3,509.77
+226 Two-Bdrm with den (large 1,058 sf OCCUPIED May-2020 Apr-2025 $4,227.04 $4.00 $3,900 $3.69 3.00% $4,353.85
+227 One-Bdrm with den 717 sf VACANT Jul-2025 Jun-2026 $0.00 $0.00 $2,800 $3.91 3.00% $0.00
+228 Two-Bedroom 943 sf OCCUPIED [COMPANY] Feb-2026 $3,405.28 $3.61 $3,400 $3.61 3.00% $3,507.44
+229 Two-Bedroom 951 sf OCCUPIED Jun-2022 Jun-2025 $3,292.99 $3.46 $3,400 $3.58 3.00% $3,391.78
+230 Two-Bedroom (large) 1,126 sf OCCUPIED Feb-2020 Feb-2026 $4,134.79 $3.67 $3,800 $3.37 3.00% $4,258.83
+231 Two-Bdrm with den (large 1,058 sf OCCUPIED Oct-2019 Oct-2025 $4,227.04 $4.00 $3,900 $3.69 3.00% $4,353.85
+232 One-Bedroom 717 sf OCCUPIED Aug-2022 Jul-2025 $2,410.99 $3.36 $2,500 $3.49 3.00% $2,483.32
+233 Studio 698 sf OCCUPIED Nov-2020 Nov-2025 $2,042.59 $2.93 $2,200 $3.15 3.00% $2,103.87
+234 Two-Bedroom 943 sf OCCUPIED Feb-2022 Feb-2026 $3,518.84 $3.73 $3,400 $3.61 3.00% $3,624.41
+235 One-Bdrm with den 834 sf OCCUPIED [COMPANY] $3,201.49 $3.84 $2,800 $3.36 3.00% $3,297.53
+236 One-Bdrm with den 826 sf OCCUPIED Dec-2022 Nov-2025 $2,799.39 $3.39 $2,800 $3.39 3.00% $2,883.37
+237 Two-Bedroom 943 sf OCCUPIED Feb-2024 Feb-2026 $3,881.15 $4.12 $3,400 $3.61 3.00% $3,997.58
+301 Two-Bedroom 943 sf OCCUPIED Jun-2020 Jun-2025 $3,173.40 $3.37 $3,400 $3.61 3.00% $3,268.60
+302 One-Bdrm with den 836 sf OCCUPIED Oct-2019 Oct-2025 $2,119.74 $2.54 $2,800 $3.35 3.00% $2,183.33
+303 One-Bdrm with den 826 sf OCCUPIED Mar-2020 Mar-2026 $2,675.83 $3.24 $2,800 $3.39 3.00% $2,756.10
+304 Two-Bedroom 943 sf OCCUPIED Sep-2021 Sep-2025 $3,522.50 $3.74 $3,400 $3.61 3.00% $3,628.18
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 51
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+305 Studio 700 sf OCCUPIED [COMPANY] $3.10 $2,200 $3.14 3.00% $2,234.84
+306 Two-Bedroom 946 sf OCCUPIED Apr-2020 Apr-2026 $3,226.07 $3.41 $3,400 $3.59 3.00% $3,322.85
+307 Two-Bedroom 943 sf OCCUPIED Oct-2019 Oct-2025 $3,226.07 $3.42 $3,400 $3.61 3.00% $3,322.85
+308 Two-Bedroom (large) 1,126 sf OCCUPIED Mar-2024 Feb-2026 $4,280.00 $3.80 $3,800 $3.37 3.00% $4,408.40
+309 Two-Bedroom 960 sf OCCUPIED Oct-2019 Oct-2025 $4,237.34 $4.41 $3,400 $3.54 3.00% $4,364.46
+310 Two-Bedroom 943 sf NEW Mar-2025 Mar-2026 $2,841.00 $3.01 $3,400 $3.61 3.00% $2,926.23
+311 Two-Bedroom 943 sf OCCUPIED Oct-2019 Oct-2025 $3,391.90 $3.60 $3,400 $3.61 3.00% $3,493.66
+312 Two-Bedroom 943 sf OCCUPIED May-2021 Apr-2025 $3,641.69 $3.86 $3,400 $3.61 3.00% $3,750.94
+313 Two-Bedroom 922 sf OCCUPIED Oct-2021 Oct-2025 $3,016.71 $3.27 $3,400 $3.69 3.00% $3,107.21
+314 One-Bedroom 748 sf OCCUPIED Aug-2020 Aug-2025 $2,355.05 $3.15 $2,500 $3.34 3.00% $2,425.70
+315 Two-Bedroom 943 sf OCCUPIED Jan-2020 Jan-2026 $3,392.32 $3.60 $3,400 $3.61 3.00% $3,494.09
+316 One-Bdrm with den 828 sf OCCUPIED Sep-2023 Sep-2025 $2,799.75 $3.38 $2,800 $3.38 3.00% $2,883.74
+317 One-Bdrm with den 834 sf OCCUPIED Oct-2019 Oct-2025 $2,820.51 $3.38 $2,800 $3.36 3.00% $2,905.13
+318 Two-Bedroom 943 sf OCCUPIED Oct-2019 Oct-2025 $3,392.32 $3.60 $3,400 $3.61 3.00% $3,494.09
+319 Two-Bedroom (large) 1,182 sf OCCUPIED Jul-2020 Jul-2025 $4,344.11 $3.68 $3,800 $3.21 3.00% $4,474.43
+320 Two-Bedroom (large) 1,182 sf OCCUPIED Nov-2019 Nov-2025 $3,875.82 $3.28 $3,800 $3.21 3.00% $3,992.09
+321 Two-Bedroom 943 sf OCCUPIED May-2021 May-2025 $3,181.52 $3.37 $3,400 $3.61 3.00% $3,276.97
+322 One-Bdrm with den 828 sf OCCUPIED Oct-2019 Oct-2025 $2,002.67 $2.42 $2,800 $3.38 3.00% $2,062.75
+323 One-Bdrm with den 834 sf OCCUPIED Nov-2022 Oct-2025 $2,904.97 $3.48 $2,800 $3.36 3.00% $2,992.12
+324 Two-Bedroom 934 sf OCCUPIED Nov-2019 Nov-2025 $3,354.86 $3.59 $3,400 $3.64 3.00% $3,455.51
+325 Two-Bedroom 946 sf OCCUPIED [COMPANY] Oct-2025 $3,295.18 $3.48 $3,400 $3.59 3.00% $3,394.04
+326 Two-Bedroom 951 sf OCCUPIED Nov-2019 Nov-2025 $3,173.40 $3.34 $3,400 $3.58 3.00% $3,268.60
+327 Two-Bedroom 943 sf OCCUPIED Mar-2023 Mar-2026 $3,661.00 $3.88 $3,400 $3.61 3.00% $3,770.83
+328 One-Bedroom 717 sf OCCUPIED Aug-2020 Jul-2025 $2,236.82 $3.12 $2,500 $3.49 3.00% $2,303.92
+329 Two-Bdrm with den (large 1,058 sf OCCUPIED Jun-2023 May-2025 $4,270.00 $4.04 $3,900 $3.69 3.00% $4,398.10
+330 Two-Bedroom (large) 1,126 sf OCCUPIED [COMPANY] $4,362.68 $3.87 $3,800 $3.37 3.00% $4,493.56
+331 Two-Bdrm with den (large 1,058 sf OCCUPIED [COMPANY] $4,344.11 $4.11 $3,900 $3.69 3.00% $4,474.43
+332 One-Bedroom 717 sf OCCUPIED Oct-2019 Oct-2025 $2,589.75 $3.61 $2,500 $3.49 3.00% $2,667.44
+333 Studio 702 sf OCCUPIED [COMPANY] Oct-2025 $1,815.74 $2.59 $2,200 $3.13 3.00% $1,870.21
+334 Two-Bedroom 943 sf OCCUPIED Aug-2021 Aug-2025 $3,295.18 $3.49 $3,400 $3.61 3.00% $3,394.04
+335 One-Bdrm with den 836 sf OCCUPIED Oct-2019 Oct-2025 $3,222.00 $3.85 $2,800 $3.35 3.00% $3,318.66
+336 One-Bdrm with den 828 sf OCCUPIED Oct-2019 Oct-2025 $2,741.81 $3.31 $2,800 $3.38 3.00% $2,824.06
+337 Two-Bedroom 947 sf OCCUPIED Oct-2020 Oct-2025 $3,408.71 $3.60 $3,400 $3.59 3.00% $3,510.97
+338 Two-Bedroom 901 sf NEW Oct-2024 Oct-2025 $3,010.00 $3.34 $3,400 $3.77 3.00% $3,100.30
+339 Two-Bedroom (large) 1,123 sf [COMPANY] $4,093.00 $3.64 $3,800 $3.38 3.00% $4,215.79
+401 Two-Bedroom 943 sf OCCUPIED Feb-2022 Feb-2026 $3,405.28 $3.61 $3,400 $3.61 3.00% $3,507.44
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 52
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+402 One-Bdrm with den 836 sf OCCUPIED Apr-2023 Apr-2026 $3,219.75 $3.85 $2,800 $3.35 3.00% $3,316.34
+403 One-Bdrm with den 826 sf OCCUPIED Sep-2020 Sep-2025 $2,677.01 $3.24 $2,800 $3.39 3.00% $2,757.32
+404 Two-Bedroom 943 sf OCCUPIED May-2020 May-2025 $3,509.39 $3.72 $3,400 $3.61 3.00% $3,614.67
+405 Studio 700 sf OCCUPIED [COMPANY] $2,484.75 $3.55 $2,200 $3.14 3.00% $2,559.29
+406 Two-Bedroom 946 sf OCCUPIED [COMPANY] Oct-2025 $3,769.00 $3.98 $3,400 $3.59 3.00% $3,882.07
+407 Two-Bedroom 943 sf OCCUPIED Apr-2022 Apr-2026 $3,513.49 $3.73 $3,400 $3.61 3.00% $3,618.89
+408 Two-Bedroom (large) 1,126 sf OCCUPIED Nov-2019 Nov-2025 $3,992.89 $3.55 $3,800 $3.37 3.00% $4,112.68
+409 Two-Bedroom 960 sf OCCUPIED Feb-2022 Jan-2026 $3,405.28 $3.55 $3,400 $3.54 3.00% $3,507.44
+410 Two-Bedroom 943 sf OCCUPIED Apr-2023 Apr-2026 $3,639.75 $3.86 $3,400 $3.61 3.00% $3,748.94
+411 Two-Bedroom 943 sf OCCUPIED Nov-2019 Nov-2025 $3,524.61 $3.74 $3,400 $3.61 3.00% $3,630.35
+412 Two-Bedroom 943 sf OCCUPIED Dec-2023 Dec-2025 $3,860.00 $4.09 $3,400 $3.61 3.00% $3,975.80
+413 Two-Bedroom 922 sf OCCUPIED [COMPANY] Feb-2026 $3,664.59 $3.97 $3,400 $3.69 3.00% $3,774.53
+414 One-Bedroom 748 sf OCCUPIED Oct-2019 Oct-2025 $2,237.98 $2.99 $2,500 $3.34 3.00% $2,305.12
+415 Two-Bedroom 943 sf OCCUPIED Nov-2020 Nov-2025 $3,392.32 $3.60 $3,400 $3.61 3.00% $3,494.09
+416 One-Bdrm with den 828 sf NEW Jan-2025 Jan-2026 $3,120.00 $3.77 $2,800 $3.38 3.00% $3,213.60
+417 One-Bdrm with den 834 sf NEW Jul-2024 Jul-2025 $3,220.00 $3.86 $2,800 $3.36 3.00% $3,316.60
+418 Two-Bedroom 943 sf OCCUPIED Sep-2020 Sep-2025 $3,402.62 $3.61 $3,400 $3.61 3.00% $3,504.70
+419 Two-Bedroom (large) 1,182 sf OCCUPIED Sep-2022 Sep-2025 $3,954.49 $3.35 $3,800 $3.21 3.00% $4,073.12
+420 Two-Bedroom (large) 1,182 sf OCCUPIED Nov-2019 Nov-2025 $4,109.97 $3.48 $3,800 $3.21 3.00% $4,233.27
+421 Two-Bedroom 943 sf NEW Sep-2024 Sep-2025 $3,755.00 $3.98 $3,400 $3.61 3.00% $3,867.65
+422 One-Bdrm with den 828 sf OCCUPIED Sep-2021 Sep-2025 $2,499.54 $3.02 $2,800 $3.38 3.00% $2,574.53
+423 One-Bdrm with den 834 sf OCCUPIED Oct-2019 Oct-2025 $2,586.26 $3.10 $2,800 $3.36 3.00% $2,663.85
+424 Two-Bedroom 934 sf OCCUPIED Nov-2020 Nov-2025 $3,407.54 $3.65 $3,400 $3.64 3.00% $3,509.77
+425 Two-Bedroom 946 sf OCCUPIED [COMPANY] Nov-2025 $3,522.51 $3.72 $3,400 $3.59 3.00% $3,628.19
+426 Two-Bedroom 951 sf OCCUPIED Mar-2020 Mar-2026 $3,173.40 $3.34 $3,400 $3.58 3.00% $3,268.60
+427 Two-Bedroom 943 sf OCCUPIED Nov-2020 Oct-2025 $3,173.40 $3.37 $3,400 $3.61 3.00% $3,268.60
+428 Two-Bedroom 943 sf OCCUPIED Jun-2021 Jun-2025 $3,181.52 $3.37 $3,400 $3.61 3.00% $3,276.97
+429 Two-Bedroom 949 sf OCCUPIED Mar-2022 Mar-2026 $3,345.00 $3.52 $3,400 $3.58 3.00% $3,445.35
+430 Two-Bedroom (large) 1,126 sf OCCUPIED Oct-2019 Oct-2025 $3,992.89 $3.55 $3,800 $3.37 3.00% $4,112.68
+431 Two-Bedroom 945 sf OCCUPIED Dec-2022 Dec-2025 $3,546.14 $3.75 $3,400 $3.60 3.00% $3,652.52
+432 Two-Bedroom 949 sf OCCUPIED Dec-2020 Dec-2025 $3,407.54 $3.59 $3,400 $3.58 3.00% $3,509.77
+433 Studio 702 sf OCCUPIED Sep-2023 Sep-2025 $2,274.75 $3.24 $2,200 $3.13 3.00% $2,342.99
+434 Two-Bedroom 943 sf OCCUPIED Feb-2022 Feb-2026 $3,405.28 $3.61 $3,400 $3.61 3.00% $3,507.44
+435 One-Bdrm with den 836 sf OCCUPIED Oct-2021 Sep-2025 $2,845.08 $3.40 $2,800 $3.35 3.00% $2,930.43
+436 One-Bdrm with den 828 sf OCCUPIED Jun-2022 Jun-2025 $2,631.49 $3.18 $2,800 $3.38 3.00% $2,710.43
+437 Two-Bedroom 947 sf OCCUPIED Sep-2023 Sep-2025 $3,744.75 $3.95 $3,400 $3.59 3.00% $3,857.09
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 53
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+438 Two-Bedroom 901 sf OCCUPIED Dec-2023 Dec-2025 $3,114.75 $3.46 $3,400 $3.77 3.00% $3,208.19
+439 Two-Bedroom (large) 1,123 sf OCCUPIED Jun-2021 Jun-2025 $4,090.82 $3.64 $3,800 $3.38 3.00% $4,213.54
+501 Two-Bedroom 943 sf OCCUPIED [COMPANY] Sep-2025 $3,403.24 $3.61 $3,400 $3.61 3.00% $3,505.34
+502 One-Bdrm with den 836 sf OCCUPIED Aug-2020 Jul-2025 $2,987.15 $3.57 $2,800 $3.35 3.00% $3,076.76
+503 One-Bdrm with den 826 sf OCCUPIED Aug-2021 Aug-2025 $2,846.21 $3.45 $2,800 $3.39 3.00% $2,931.60
+504 Two-Bedroom 943 sf OCCUPIED Feb-2022 Jan-2026 $3,518.84 $3.73 $3,400 $3.61 3.00% $3,624.41
+505 Studio 700 sf OCCUPIED [COMPANY] $2,119.74 $3.03 $2,200 $3.14 3.00% $2,183.33
+506 Two-Bedroom 946 sf OCCUPIED [COMPANY] $3,849.75 $4.07 $3,400 $3.59 3.00% $3,965.24
+507 Two-Bedroom 943 sf OCCUPIED Jun-2021 Jun-2025 $3,636.17 $3.86 $3,400 $3.61 3.00% $3,745.26
+508 Two-Bedroom (large) 1,126 sf OCCUPIED Oct-2019 Oct-2025 $4,109.97 $3.65 $3,800 $3.37 3.00% $4,233.27
+509 Two-Bedroom 960 sf OCCUPIED Oct-2019 Oct-2025 $3,583.14 $3.73 $3,400 $3.54 3.00% $3,690.63
+510 Two-Bedroom 943 sf OCCUPIED Apr-2022 Apr-2026 $3,623.74 $3.84 $3,400 $3.61 3.00% $3,732.45
+511 Two-Bedroom 943 sf OCCUPIED Feb-2024 Jan-2026 $3,989.30 $4.23 $3,400 $3.61 3.00% $4,108.98
+512 Two-Bedroom 943 sf OCCUPIED Sep-2023 Sep-2025 $3,954.75 $4.19 $3,400 $3.61 3.00% $4,073.39
+513 Two-Bedroom 922 sf OCCUPIED Apr-2024 Apr-2026 $3,745.00 $4.06 $3,400 $3.69 3.00% $3,857.35
+514 One-Bedroom 748 sf OCCUPIED Jun-2021 May-2025 $2,589.75 $3.46 $2,500 $3.34 3.00% $2,667.44
+515 Two-Bedroom 943 sf OCCUPIED May-2022 May-2025 $3,513.49 $3.73 $3,400 $3.61 3.00% $3,618.89
+516 One-Bdrm with den 828 sf OCCUPIED Apr-2022 Apr-2026 $2,837.49 $3.43 $2,800 $3.38 3.00% $2,922.61
+517 One-Bdrm with den 834 sf OCCUPIED Oct-2019 Oct-2025 $2,520.13 $3.02 $2,800 $3.36 3.00% $2,595.73
+518 Two-Bedroom 943 sf OCCUPIED Oct-2019 Oct-2025 $3,641.69 $3.86 $3,400 $3.61 3.00% $3,750.94
+519 Two-Bedroom (large) 1,182 sf OCCUPIED Sep-2023 Sep-2025 $4,479.75 $3.79 $3,800 $3.21 3.00% $4,614.14
+520 Two-Bedroom (large) 1,182 sf OCCUPIED Nov-2019 Nov-2025 $4,109.97 $3.48 $3,800 $3.21 3.00% $4,233.27
+521 Two-Bedroom 943 sf OCCUPIED May-2023 May-2025 $3,744.75 $3.97 $3,400 $3.61 3.00% $3,857.09
+522 One-Bdrm with den 828 sf OCCUPIED Oct-2020 Oct-2025 $2,712.12 $3.28 $2,800 $3.38 3.00% $2,793.48
+523 One-Bdrm with den 834 sf OCCUPIED Apr-2020 Apr-2026 $2,966.18 $3.56 $2,800 $3.36 3.00% $3,055.17
+524 Two-Bedroom 934 sf NEW Sep-2024 Sep-2025 $3,850.00 $4.12 $3,400 $3.64 3.00% $3,965.50
+525 Two-Bedroom 946 sf OCCUPIED Dec-2021 Dec-2025 $3,632.39 $3.84 $3,400 $3.59 3.00% $3,741.36
+526 Two-Bdrm with den (large 1,058 sf OCCUPIED [COMPANY] Nov-2025 $4,204.48 $3.97 $3,900 $3.69 3.00% $4,330.61
+527 One-Bedroom 717 sf OCCUPIED Nov-2019 Nov-2025 $2,499.54 $3.49 $2,500 $3.49 3.00% $2,574.53
+528 One-Bedroom (large) 1,058 sf NEW Jul-2024 Jul-2025 $2,695.00 $2.55 $2,800 $2.65 3.00% $2,775.85
+529 Two-Bdrm with den 717 sf OCCUPIED Aug-2020 Aug-2025 $4,461.18 $6.22 $2,800 $3.91 3.00% $4,595.02
+530 Two-Bedroom (large) 1,126 sf OCCUPIED Jun-2021 Jun-2025 $4,362.68 $3.87 $3,800 $3.37 3.00% $4,493.56
+531 Two-Bedroom 945 sf OCCUPIED Dec-2019 Dec-2025 $4,461.18 $4.72 $3,400 $3.60 3.00% $4,595.02
+532 Two-Bedroom 949 sf OCCUPIED Oct-2019 Oct-2025 $2,588.03 $2.73 $3,400 $3.58 3.00% $2,665.67
+533 Studio 702 sf OCCUPIED Jun-2021 May-2025 $1,931.23 $2.75 $2,200 $3.13 3.00% $1,989.17
+534 Two-Bedroom 943 sf OCCUPIED Mar-2022 Mar-2026 $3,632.39 $3.85 $3,400 $3.61 3.00% $3,741.36
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 54
+Value and Risk Advisory
+Rent Roll Listing
+Rent Roll Date:May 1, 2025 Property: 2500 Wellings Private, [LOCATION], [COMPANY]
+Next Rental/
+Market Legal
+Suite Suite Suite Occupancy Renewal Contract Contract Market Rent
+Suite Type Rent Renewal
+Number [COMPANY]
+(psf) Amount
+Date
+535 One-Bdrm with den 836 sf OCCUPIED Nov-2019 Nov-2025 $3,061.00 $3.66 $2,800 $3.35 3.00% $3,152.83
+536 One-Bdrm with den 828 sf OCCUPIED Nov-2023 Nov-2025 $3,114.75 $3.76 $2,800 $3.38 3.00% $3,208.19
+537 Two-Bedroom 947 sf OCCUPIED Mar-2023 Mar-2026 $3,904.07 $4.12 $3,400 $3.59 3.00% $4,021.19
+538 Two-Bedroom 901 sf OCCUPIED Dec-2022 Dec-2025 $2,897.24 $3.22 $3,400 $3.77 3.00% $2,984.16
+539 Two-Bedroom (large) 1,123 sf OCCUPIED Sep-2022 Sep-2025 $3,964.49 $3.53 $3,800 $3.38 3.00% $4,083.42
+Total/Average 169,699 sf $614,724.59 $3.62 $592,800 $3.49 $633,166.33
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 55
+Value and Risk Advisory
+Market Overview
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 56
+Value and Risk Advisory
+MARKET OVERVIEW
+ECONOMIC OVERVIEW: CANADA
+Bond yields are not moving in tandem with [COMPANY] policy rate
+Since June [COMPANY] has lowered its benchmark Overnight Lending Rate from 5% to 3%. The Prime lending rate,
+which serves as a benchmark for residential and construction lending, has moved in lockstep with [COMPANY],
+now at 5.2%. Falling rates have been instrumental in stimulating the economy and labour markets since the Fall.
+Yet bond yields – which are the benchmarks for most commercial real estate debt – have remained volatile, even spiking in
+January. This volatility can mostly be tied to concerns about the inflationary impacts of a trade war with the [CITY], as well as high
+levels of government and household debt.
+Bond yield volatility over the past few months has added some friction to investment decisions, clouding the market’s optimistic
+outlook last fall.
+Feds cut immigration to ease shortages of critical services and housing
+As surging population growth put pressure on critical services like housing and healthcare over the past few years, Immigration,
+Refugees, and [COMPANY] ([COMPANY]) revised its immigration targets over the next three years to moderate the level of
+population growth.
+The [COMPANY] plans to cut its [COMPANY] (PR) immigration targets by 20% from [COMPANY] to [COMPANY] in 2025 and moderately
+reduce PR targets in 2026 and 2027. They will also seek to limit [COMPANY] ([COMPANY]) – such as temporary workers
+and students - to 5% of the total population by 2027. [COMPANY] currently make up about 7.3%, which implies a net reduction of
+nearly 900,000 NPRs over the next 2 years.
+This shift in policy will have important implications for commercial real estate. Immigrants have been a key demand driver
+across retail and multifamily sectors especially, as well as a key source of labour in the industrial and retail sectors. Meanwhile,
+the office market has seen a surge in leasing over the last few years from educational institutions who enrol many NPRs.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 57
+Value and Risk Advisory
+Steel and aluminum tariffs will impact [COMPANY] economy most
+[COMPANY] [COMPANY] found that over 1.8 million people – or about 8.8% of all employed Canadians - work in
+industries that are dependent on [CITY] demand. Beyond this, many industries who service these exporting sectors – such as
+retail and finance - will be impacted as well.
+An analysis of location quotients in the manufacturing sector shows that the Canadian cities most likely to be impacted by
+sustained [CITY] tariffs on Canadian steel and aluminum industries mostly fall in [LOCATION], with [PERSON] also
+showing some exposure. This is of little surprise given the critical role that communities like [COMPANY], [CITY], and
+[PERSON] play in the North American automotive supply chain.
+Ottawa and [COMPANY] are the most insulated from this round of tariffs, though [COMPANY] would be negatively impacted if tariffs were
+extended to seafood imports. Prairie markets will be generally insulated from this round as well, though if tariffs are extended to
+the oil and gas or agricultural sectors, they would be more impacted.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 58
+Value and Risk Advisory
+ECONOMIC OVERVIEW: ONTARIO
+Ontario’s economy is one of the most vulnerable to the U.S.-
+Canada trade war (Chart 1) because of its large manufacturing
+sector. For this reason, 2025 Ontario real GDP growth forecast
+has been downgraded by more than nation-wide. We would have
+reduced our forecast even further had it not been for the
+momentum Ontario’s economy was carrying heading into these
+trade tensions. For instance, tariff front-running gave Ontario’s
+exports a solid boost in January, supporting first quarter growth.
+This dynamic should also help moderate the impacts of tariffs for
+a few months.
+Ontario’s steel industry has been slapped with a 25% tariff on it’s
+U.S.-bound shipments. Its output should contract in response, as
+it did during the last time the industry faced tariffs in 2018/19.
+Because of the steel sector’s small share of GDP (less than 1%),
+these levies won’t be enough to blow the entire economy off
+course. More severe would be the imposition of steep tariffs on
+automotive products, which are by far the largest Ontario export
+to [COMPANY] Indeed, sizeable tariffs on autos (and other
+manufactured products) could come in April. On the other side,
+Canadian retaliatory tariffs on steel and aluminum will likely raise
+costs in the manufacturing and construction industries.
+[COMPANY] has been active in response to [CITY]
+tariffs by (for example) banning [CITY] firms from Ontario public
+sector procurement and eliminating alcohol purchases. They’ve also released a plan which targets (ac- cording to the
+government) some $40 billion in new investments, loans, and other financial supports. However, it’s unclear how much of that is
+net new spending as the plan is not fully costed. Elements of the plan include a $5 billion Protect [PERSON] (financial
+support programs for large-scale industrial sectors) and $10 billion through a 6-month deferral of provincial business taxes.
+Ontario’s housing market has been exceedingly weak in re- cent
+months (Chart 2) as economic uncertainty, abetted by winter
+storms, chilled activity. We look for a subdued performance for
+much of the year as uncertainty weighs. In particular,
+supply/demand balances indicate that there is too little demand
+chasing too much supply, with downside price pressure likely
+over the next several months. However, 2026 prospects are
+brighter given the combination of pent-up demand, dissipating
+uncertainty, and a quarterly firming in hiring.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 59
+Value and Risk Advisory
+Apartment Market Overview
+NATIONAL TRENDS IN MULTI-FAMILY RESIDENTIAL RENTAL MARKET
+Investment volumes fall for 4th consecutive year: Multifamily investment sales reached $9b nationally, down 4% versus
+2023 and down 14% against the previous five-year average. However, multifamily sales in Calgary and Edmonton are near
+record levels as these cities continue to outperform demographically and economically (see Figure 21).
+Strong year of rental deliveries is helping affordability: Nearly 90,000 new purpose-built rental units were delivered across
+Canada in 2024, the highest level since the 1970s. This is giving renters more options, leading to rising vacancy and slowing
+rental growth. According to CMHC, rental vacancy rose from 1.5% in 2023 to 2.2% nationally and was up across nearly every
+Canadian city versus 2023 (see Figure 22).
+Asking rents fall to 18-month low nationally: According to [COMPANY] and [COMPANY], the national average asking rent fell to
+$2,100 in January, its lowest in 18 months. Rents have been declining for much of the past year in Vancouver, Toronto,
+[PERSON], and Calgary but have been trending up in Ottawa and Edmonton, as well as other prairie markets like Winnipeg and
+[LOCATION].
+Immigration cuts are slowing demand: The federal government is imposing limits on net new immigration to Canada,
+essentially freezing new [COMPANY] visas and moving current NPRs into the Permanent Residency pool for the
+next two years. If enforced, this policy will lead to a net population loss nationally in 2025 and 2026. This is already impacting
+rental markets across Canada, a key contributor to rising vacancy and slowing rental growth.
+Construction is at multi-decade high but starts are slowing: While rental and condominium deliveries are at their highest
+level since the 1970s, new home starts have fallen for two consecutive years, and they have fallen the most in Toronto. This will
+likely lead to tighter market conditions toward the end of the decade once demand catches up with current new supply. New
+home construction varies greatly by market. According to CMHC, Calgary, Edmonton, and [PERSON] saw significant increases in
+housing starts, up 40-70% y-o-y, while Toronto, Vancouver, and Ottawa saw starts fell between 10-20%.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 60
+Value and Risk Advisory
+CMHC STATISTICS – ZONE 10
+The following summary has been sourced from [COMPANY]”
+specific to the subject Zone: Zone 10 - Scarborough (Central)
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 61
+Value and Risk Advisory
+RESIDENTIAL INVESTMENT MARKET CHARACTERISTICS
+General characteristics of the multi-unit residential investment market are:
+• Good demand
+• Average availability of debt
+[COMPANY] product availability
+• Investors are weighing quality, location and investment risk into their buying decision and the current outlook is
+generally positive.
+As of the effective date, there remained underlying uncertainty in the economy, world conflict, increasing unemployment, higher
+cost of living, immigration issues and more. The central bank’s war on inflation saw its trendsetting interest rate surge by 475
+basis points since March 2022. However, [COMPANY] has been reducing in the overnight rate since June 2024 from
+5.00% to a target overnight rate of 2.75% as of March 13, 2025 and has been held at 2.75% as of April 15, 2025.
+Even with cuts of this magnitude, transactions will likely remain muted until there is confidence that we have returned to more
+balanced monetary conditions. [COMPANY] ([COMPANY]) bond yields have reversed course and begun to climb
+sharply since central bank rate cuts. Rising yields directly impact on the cost of financing fixed-rate mortgages, which have been
+the most affordable borrowing tool offered. Those waiting for further rate cuts might be disappointed as bond yields surge post-
+rate cuts. Rate cuts stimulate the
+economy, but they typically do so with
+long lag times. Investors want to see a
+relatively stable rate environment before
+they start transacting again with analysts
+expecting activity to pick up in mid-2025.
+However, there are significant
+headwinds in 2025 with a looming
+Federal election, potential tariff war with
+the [CITY], lower immigration to Canada
+and rental rates levelling off.
+The trend of 10-year [CITY]
+yields is illustrated below dating back to
+2000 and shows a rising trend since Q3
+2020. The 10-year [CITY] yields
+have fallen from 6.03% in 2000 to 3.12%
+indicated by 10-year Canada Bonds as
+Source: [COMPANY] and [COMPANY]
+of March 31, 2025.
+There has remained reasonable demand for multi-residential rental apartments, despite the economic downturn. This is due in
+part to tightening occupancy, fewer tenants leaving the rental market in favor of home ownership and upward pressure on
+market rental rates. However, due to the rising interest rates, there is now more stringent lending criteria, usually resulting in
+lower loan to value ratios (LTVs), this requiring significantly more equity on the part of buyers. Demand is sourced from a broad
+range of domestic and offshore investors, pension funds as well as public investment trusts. The historic low cost of debt had a
+significant effect on demand conditions reported from major brokers, since there is very little motive for vendors to sell and a
+higher incentive for purchasers. The housing supply and affordability issues across the country have propped up demand for
+this form of housing.
+Investors in multi-family assets generally recognize it is not just what rent you can fetch today, it is the future potential based on
+cash flows, replacement costs and the values of comparable buildings. Rental apartment building owners have performed well
+since supply is constrained in many major cities across Canada. Newer apartments with modern amenities, are seeing good
+demand and strong rental rates. It should be noted, however, that as new supply is introduced into the market and seeks rental
+rates at the upper end of the market range, absorption rate periods are beginning to protract.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 62
+Value and Risk Advisory
+ALTUS INVESTMENT TRENDS SURVEY RESULTS – Q1 2025
+[COMPANY] Insite completes interviews with a large number of investors on a quarterly basis to gauge investor sentiment toward
+product types and location; and to obtain opinions as to market valuation parameters. [COMPANY] describes the [COMPANY] benchmark building as:
+• 150 -300 Suites, high-rise
+• 25 years old
+• Well maintained with no deferred maintenance
+• Good downtown location
+[COMPANY] proximity to retail and transportation facilities
+• Market rents with stabilized operating expenses
+• Average of 15%-25% annual tenant turnover
+• 25% cash to first mortgage at current rates
+The Q1 2025 suburban results show that [COMPANY] ([COMPANY]) for the survey’s benchmark asset class has
+slightly decreased since the previous quarter with an increase in per door rates. The respective price-per-suite, national
+averages and Toronto averages were:
+NATIONAL - SUBURBAN TORONTO - SUBURBAN
+Price Per Price Per
+Quarter $ change [COMPANY] Quarter $ change [COMPANY]
+Door Door
+2025 2025
+Q1 $300,054 $21,693 4.65% 4.91% 6.39% Q1 $358,182 $6,273 4.30% 4.60% 5.90%
+2024 2024
+Q4 $278,361 -$17,811 4.60% 4.91% 6.51% Q4 $351,909 $659 4.40% 4.70% 6.00%
+Q3 $296,172 -$2,098 4.68% 4.95% 6.28% Q3 $351,250 -$6,528 4.20% 4.50% 5.70%
+Q2 $298,270 $4,209 4.60% 4.89% 6.29% Q2 $357,778 -$4,097 4.20% 4.50% 5.50%
+Q1 $294,061 $9,815 4.64% 4.84% 6.03% Q1 $361,875 -$11,625 4.10% 4.40% 5.50%
+2023 2023
+Q4 $284,246 -$417 4.78% 5.00% 6.29% Q4 $373,500 -$13,722 4.10% 4.50% 5.80%
+Q3 $284,663 $2,696 4.66% 4.85% 6.50% Q3 $387,222 $13,131 4.00% 4.40% 6.10%
+Q2 $281,967 $4,307 4.44% 4.68% 6.31% Q2 $374,091 $1,791 3.80% 4.20% 5.10%
+Q1 $277,660 $3,965 4.46% 4.85% 5.84% Q1 $372,300 $9,300 3.90% 4.40% 5.30%
+2022 2022
+Q4 $273,695 -$6,842 4.38% 4.71% 6.21% Q4 $363,000 -$13,750 3.70% 4.10% 5.20%
+Q3 $280,537 $5,028 4.33% 4.56% 5.63% Q3 $376,750 -$1,886 3.50% 4.00% 4.90%
+Q2 $275,509 -$1,144 4.21% 4.48% 5.49% Q2 $378,636 $7,952 3.40% 3.80% 5.00%
+Q1 $276,652 $18,907 4.09% 4.49% 5.74% Q1 $370,684 $3,807 3.30% 3.70% 5.10%
+Based on the Altus ITS Survey, relative to Q4 2024, overall capitalization rates (OCRs) for suburban assets increased 5 bps to
+national eight-city average of 4.65% and a starker decrease of 10 bps in Toronto for an average of 4.30%. The benchmark
+building is not directly comparable to a new purpose-built apartment but adds perspective.
+Perceptions concerning future value changes over the next 12 months lean more towards values remaining increasing. For the
+suburban apartment sector, the majority (56.6%) of investors surveyed expected no change and only 9% anticipated a decrease
+in value, some increased pessimism over Q1 2024.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 63
+Value and Risk Advisory
+Assumptions and [COMPANY]
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 64
+Value and Risk Advisory
+The certification that appears in this report is subject to compliance with [COMPANY] (PIPEDA), Canadian Uniform Standards of Professional Appraisal Practice (“CUSPAP”),
+[COMPANY] of [COMPANY] ([PERSON]), International Valuation Standards
+([COMPANY]), Code of Professional Conduct of the [PERSON] des évaluateurs agréés du Québec (OEAQ) and/or any other
+appraisal body regulations to which the signing appraiser is a member, as well as the following conditions:
+Assumptions
+1 This report is prepared only for the client and authorized users specifically identified in this report and only for the specific use
+identified herein. No other person may rely on this report or any part of this report without first obtaining consent from the client
+and written authorization from the authors. Liability is expressly denied to any other person and, accordingly, no responsibility is
+accepted for any damage suffered by any other person as a result of decisions made or actions taken based on this report.
+Liability is expressly denied for any unauthorized user or for anyone who uses this report for any use not specifically identified
+in this report. Payment of the appraisal fee has no effect on liability. [COMPANY] on this report without authorization or for an
+unauthorized use is unreasonable.
+2 Because market conditions, including economic, social and political factors, may change rapidly and, on occasion, without
+warning, this report cannot be relied upon as of any date other than the effective date specified in this report unless specifically
+authorized by the author(s).
+3 The author will not be responsible for matters of a legal nature that affect either the property being appraised or the title to it.
+The property is appraised on the basis of it being under responsible ownership. No registry office search has been performed
+and the author assumes that the title is good and marketable and free and clear of all encumbrances. Matters of a legal nature,
+including confirming who holds legal title to the appraised property or any portion of the appraised property, are outside the
+scope of work and expertise of the appraiser. Any information regarding the identity of a property’s owner or identifying the
+property owned by the listed client and/or applicant provided by the appraiser is for informational purposes only and any
+reliance on such information is unreasonable. Any information provided by the appraiser does not constitute any title
+confirmation. Any information provided does not negate the need to retain a real estate lawyer, surveyor or other appropriate
+experts to verify matters of ownership and/or title.
+4 Verification of compliance with governmental regulations, bylaws or statutes is outside the scope of work and expertise of the
+appraiser. Any information provided by the appraiser is for informational purposes only and any reliance is unreasonable. Any
+information provided by the appraiser does not negate the need to retain an appropriately qualified professional to determine
+government regulation compliance.
+5 No survey of the property has been made. Any sketch in this report shows approximate dimensions and is included only to
+assist the reader of this report in visualizing the property. It is unreasonable to rely on this report as an alternative to a survey,
+and an accredited surveyor ought to be retained for such matters.
+6 This report is completed on the basis that testimony or appearance in court concerning this report is not required unless
+specific arrangements to do so have been made beforehand. Such arrangements will include, but not necessarily be limited to:
+adequate time to review the report and related data, and the provision of appropriate compensation.
+7 Unless otherwise stated in this report, the author has no knowledge of any hidden or unapparent conditions (including, but not
+limited to: its soils, physical structure, mechanical or other operating systems, foundation, etc.) of/on the subject property or
+of/on a neighbouring property that could affect the value of the subject property. It has been assumed that there are no such
+conditions. Any such conditions that were visibly apparent at the time of inspection or that became apparent during the normal
+research involved in completing the report have been noted in the report. This report should not be construed as an
+environmental audit or detailed property condition report, as such reporting is beyond the scope of this report and/or the
+qualifications of the author. The author makes no guarantees or warranties, express or implied, regarding the condition of the
+property, and will not be responsible for any such conditions that do exist or for any engineering or testing that might be
+required to discover whether such conditions exist. The bearing capacity of the soil is assumed to be adequate.
+8 The author is not qualified to comment on detrimental environmental, chemical or biological conditions that may affect the
+market value of the property appraised, including but not limited to pollution or contamination of land, buildings, water,
+groundwater or air which may include but are not limited to moulds and mildews or the conditions that may give rise to either.
+Any such conditions that were visibly apparent at the time of inspection or that became apparent during the normal research
+involved in completing the report have been noted in the report. It is an assumption of this report that the property complies with
+all regulatory requirements concerning environmental, chemical and biological matters, and it is assumed that the property is
+free of any detrimental environmental, chemical legal and biological conditions that may affect the market value of the property
+appraised. If a party relying on this report requires information about or an assessment of detrimental environmental, chemical
+or biological conditions that may impact the value conclusion herein, that party is advised to retain an expert qualified in such
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 65
+Value and Risk Advisory
+matters. The author expressly denies any legal liability related to the effect of detrimental environmental, chemical or biological
+matters on the market value of the property.
+9 The analyses set out in this report relied on written and verbal information obtained from a variety of sources the author
+considered reliable. Unless otherwise stated herein, the author did not verify client-supplied information, which the author
+believed to be correct.
+10 The term “inspection” refers to observation only as defined by CUSPAP and reporting of the general material finishing and
+conditions observed for the purposes of a standard appraisal inspection. The inspection scope of work includes the
+identification of marketable characteristics/amenities offered for comparison and valuation purposes only.
+11 The opinions of value and other conclusions contained herein assume satisfactory completion of any work remaining to be
+completed in a good and workmanlike manner. Further inspection may be required to confirm completion of such work. The
+author has not confirmed that all mandatory building inspections have been completed to date, nor has the availability/issuance
+of an occupancy permit been confirmed. The author has not evaluated the quality of construction, workmanship or materials. It
+should be clearly understood that this visual inspection does not imply compliance with any building code requirements as this
+is beyond the professional expertise of the author.
+12 The contents of this report are confidential and will not be disclosed by the author to any party except as provided for by the
+provisions of the CUSPAP and/or when properly entered into evidence of a duly qualified judicial or quasi-judicial body. The
+author acknowledges that the information collected herein is personal and confidential and shall not use or disclose the
+contents of this report except as provided for in the provisions of the CUSPAP and in accordance with the author’s privacy
+policy. The client agrees that in accepting this report, it shall maintain the confidentiality and privacy of any personal
+information contained herein and shall comply in all material respects with the contents of the author's privacy policy and in
+accordance with the PIPEDA.
+13 The author has agreed to enter into the assignment as requested by the client named in this report for the use specified by the
+client, which is stated in this report. The client has agreed that the performance of this report and the format are appropriate for
+the authorized use.
+14 This report, its content and all attachments/addendums and their content are the property of the author. The client, authorized
+users and any appraisal facilitator are prohibited, strictly forbidden, and no permission is expressly or implicitly granted or
+deemed to be granted, to modify, alter, merge, publish (in whole or in part) screen scrape, database scrape, exploit, reproduce,
+decompile, reassemble or participate in any other activity intended to separate, collect, store, reorganize, scan, copy,
+manipulate electronically, digitally, manually or by any other means whatsoever this appraisal report, addendum, all
+attachments and the data contained within for any commercial, or other, use.
+15 If transmitted electronically, this report will have been digitally signed and secured with personal passwords to lock the
+appraisal file. Due to the possibility of digital modification, only originally signed reports and those reports sent directly by the
+author can be reasonably relied upon.
+16 Where the authorized use of this report is for financing or mortgage lending or mortgage insurance, it is a condition of reliance
+on this report that the authorized user has or will conduct lending, underwriting and insurance underwriting and rigorous due
+diligence in accordance with the standards of a reasonable and prudent lender or insurer, including but not limited to ensuring
+the borrower’s demonstrated willingness and capacity to service his/her debt obligations on a timely basis, and to conduct loan
+underwriting or insuring due diligence similar to the standards set out by [COMPANY] (OSFI), even when not otherwise required by law. Liability is expressly denied to those that do not meet this
+condition. Any reliance on this report without satisfaction of this condition is unreasonable.
+17 The estimated market value and the costs provided in this report are as of the date of this report, and all the amounts are
+based on the purchasing power and price of the Canadian dollar on such date. Though we may do so in our absolute
+discretion, we shall have no obligation to revise this report to reflect events or conditions which occur subsequent to the date of
+this report.
+18 Furniture, equipment, appliances and other items that are ordinarily considered to be personal property, as well as operating
+conditions of the going concern, have been disregarded for purposes of this report, except as otherwise noted in the report or if
+such items would customarily be considered to form part of the subject properties. In certain types of properties, the real estate
+and going concern values may be changed.
+19 Any projections of income, expenses and economic conditions in this report are estimates of current expectations of future
+income and expenses. They are not predictions. Actual results may vary from the projections considered herein, and we
+provide no representation or warranties in connection therewith. Projections may be affected by circumstances beyond our
+current knowledge or control.
+442707–Wellings of [LOCATION], 2500 Wellings Private, [LOCATION], Ontario–July 1, 2025
+COPYRIGHT © JONES LANG LASALLE IP, INC.2025. All Rights Reserved
+Page 66
+Value and Risk Advisory
+We are value and risk advisory experts supporting
+you through the changing world of real estate.
+COPYRIGHT © JONES LANG LASALLE 2024. All rights reserved. No part of this
+publication may be published without prior written permission from [PERSON]. The information in this publication should be regarded solely as a general
+guide. Whilst care has been taken in its preparation no representation is made or
+responsibility accepted for the accuracy of the whole or any part. We stress that
+forecasting is a problematical exercise which at best should be regarded as an
+indicative assessment of possibilities rather than absolute certainties. The process
+of making forward projections involves assumptions regarding numerous variables
+which are acutely sensitive to changing conditions, variations in any one of which
+significantly affect the outcome, and we draw your attention to this factor.
+jll.com

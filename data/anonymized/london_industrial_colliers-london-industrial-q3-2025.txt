@@ -1,0 +1,188 @@
+[CITY]
+Industry | City | QX25 s Q325
+Change text in
+[COMPANY] view n
+[COMPANY] is seeing an uptick in growth in the third
+NET ABSORPTION
+Space Line quarter of 2025. Rebounding from negative net absorption in the second Space Line
+Do not place objects Do not place objects
+This Quarter Previous Quarter quarter to a positive of roughly 145,000SF.
+above this line. above this line.
+145K -10k Despite ongoing economic challenges relating to the evolving trade
+[LOCATION]
+relationship with the [CITY], stable economic growth has been forecasted
+for [CITY]’s local economy. With the new ongoing development of the St
+Thomas, [COMPANY] (~2,000,000 SF) the region at large is
+[COMPANY] as Text
+forecasting long term economic growth.
+Use paste as text to
+maintain the original
+Under Construction New Supply
+Overall availability in [CITY] has fluctuated [PERSON] dipping to 3.9% in the formatting of the
+template.
+134[COMPANY]K SF third quarter of the year. This decrease is primarily due to a large
+transaction and the elimination of industrial sites from current inventory. 10pt Open Sans (Body)
+Major construction completions have also occurred this year driving 1.2 Multiple
+12pt After Paragraph
+absorption, such as the new large warehouse on 1985 Gore Rd.
+[COMPANY] (PSF)*
+Both sales and net asking rents have risen in [CITY] industrial assets.
+This Quarter Previous Quarter With net asking rents rising to $10.78 PSF a $1.03 QoQ increase. Sale price
+averages have also risen to $195.50 PSF a $9.30 [COMPANY] increase. Minimal
+$10.78 $9.75
+change is anticipated in both sale and asking net rent metrics.
+▪ [CITY]’s unemployment rate has dipped to [CITY] in the third quarter
+of 2025. A nearly 75 basis point fall from the past quarter (Source:
+[COMPANY]
+CREA). With [COMPANY] being the largest growth of
+employment in the [CITY] area.
+This Quarter Previous Quarter
+▪ The PowerCo Gigafactory is the largest ongoing construction project in
+3.9% 4.2%
+the region; contributing greatly to local economic stability in spite of
+evolving trade dynamics with the [CITY].
+Text/Space Line Text/Space Line
+Do run text beneath SALES Do run text beneath
+$20.00
+this line. this line.
+Sale Price Avg. Previous Quarter
+$15.00
+$195.50 $186.20 S (
+$10.00 lp
+PSF PSF $5.00 w a V
+e c
+N a
+$0.00
+n y
+o R
+2022 2023 2024 2025 YTD
+itp
+r et
+[COMPANY] (NET PSF) te
+[COMPANY] (NET PSF)
+*Weighted Average
+Colliers Southwestern Ontario, Brokerage
+Space Line Space Line
+Do not place objects [COMPANY] | [CITY] Industrial 1 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+London
+Industry | City | QX25
+s Q325
+Change text in u
+d [COMPANY] Master view n
+Notable Lease Transactions
+Space Line Space Line
+Do not place objects Do not place objects
+[COMPANY] (SF) Lease Type Landlord Tenant
+above this line. above this line.
+847 [COMPANY], Unit #Bldg. 3 126,284 Head Lease 847 Highbury Inc Confidential
+360 Exeter Rd, Unit #3 34,078 Head Lease 3600 [COMPANY] Confidential
+157-159 Stronach Cres 21,050 Head [COMPANY]
+90 Charterhouse NDB
+90 Charterhouse Cres, Uni #1-9 16,374 Head Lease Confidential
+Limited
+Notable Sales Transactions
+[COMPANY] (SF) Sale Price [PERSON]
+3392 Wonderland Rd S 216,107 $33,275,000 Old Oak Properties BlueStone Properties
+1173735 Ontario
+234 Exeter Rd 52,555 $6,150,000 234 [COMPANY]
+[COMPANY]Bennett Automotive
+Do run text beneath 78 [COMPANY] 20,224 $2,050,000 Group Inc. [PERSON] Do run text beneath
+this line. this line.
+2104 Jetstream Rd 9,470 $1,800,000 4Array [COMPANY]
+To Change Picture
+Building Name / Address Building Status Size (SF) Est. Completion Owner or Major Tenant / Developer
+Right-click on picture and
+choose select from file 1985 [PERSON] Rd Completed 558,550 [COMPANY]
+or select one from the
+[COMPANY] panel.
+2415 Innovation Dr Completed ~100,000 Q3 2025 [COMPANY]1061 Hargrieve Rd Completed 43,160 Completed 1061 [COMPANY]
+Completed Under
+Construction
+558,550 SF
+~2,000,000 SF
+Warehousing
+Gigafactory
+Facility
+End User: PowerCo
+Developer: [PERSON]
+([COMPANY])
+[PERSON]
+Do not place objects [COMPANY] | [CITY] Industrial 2 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [CITY]
+London
+Industry | City | QX25
+s Q325
+Change text in u
+d [COMPANY]
+[COMPANY] view n
+[COMPANY]. Asking Under [COMPANY] (%) ([CITY]) (SF) Rent (PSF) (PSF) ([CITY]) ([CITY])
+Do not place objects Do not place objects
+above this line. above this line.
+South 19,855,194 4.52% 897,155 -74,060 10.78 220.79 0 0
+East 22,323,182 1.94% 433,055 226,983 9.48 144.66 134,800 565,000
+North 1,433,457 2.03% 29,587 -7,927 10.77 177.27 0 0
+[COMPANY] 43,611,833 3.9% 1,359,797 145,006 10.78 195.50 134,800 565,000
+Text/Space Line Text/Space Line
+Do run text beneath Do run text beneath
+this line. this line.
+To Change Picture
+Right-click on picture and
+choose select from file
+or select one from the
+[COMPANY] panel.
+[PERSON]
+Do not place objects [COMPANY] | [CITY] Industrial 3 Do not place objects
+beneath this line. beneath this line.
+[PERSON] | Report title
+Change text in [COMPANY] view
+or go to “Insert” tab and choose [COMPANY] and [COMPANY] of more than 20 dedicated research For more information on the
+[CITY] and [COMPANY],
+specialists, supported by 20 market data
+please contact:
+coordinators, our world-class research team
+continuously sources and analyzes data in every
+major market across Canada to ensure our clients [PERSON], [COMPANY], [PERSON]
+receive the most accurate and powerful President, Vice President,
+information to make critical decisions for their Broker of Record Sales Representative
++[PHONE] ext. 201 +[PHONE] ext. 203
+future. We are the industry cornerstone of
+[EMAIL] [EMAIL]
+authoritative statistics, forecasts and market
+commentary across Canada.
+[PERSON]
+We have more than 20 years of comprehensive
+Associate Vice President
+market data, extensive research capabilities and Sales Representative
+access to ‘live’ deal information - no other research +[PHONE] ext. 207
+[EMAIL]
+firm in Canada can provide such a complete
+commercial real estate research solution.
+Report Author:
+Core services: [PERSON], [COMPANY], MBA
+Sales Representative
++[PHONE] ext. 214
+• Predictive market research
+[EMAIL]
+• Reporting on key insights and trends
+• Access to the latest market data
+[COMPANY]-driven locational intelligence and mapping
+[COMPANY] research engagements
+collierscanada.com/research
+collierscanada.com/research
+[COMPANY] | [COMPANY] | [COMPANY] 393 First Street, Suite 307,
+Ontario, [PERSON], [COMPANY], L9Y 1B3
+649 [CITY], +[PHONE]
+Ste. #200
+[CITY], ON, N6A 3Z2
+Copyright © 2025. All rights reserved. [PERSON], Brokerage
+Information herein has been obtained from sources deemed reliable, however +[PHONE]
+its accuracy cannot be guaranteed. The user is required to conduct their own
+due diligence and verification. This publication is the copyrighted property of
+Colliers and /or its licensor(s).

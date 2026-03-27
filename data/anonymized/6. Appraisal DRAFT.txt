@@ -1,0 +1,2094 @@
+[COMPANY]
+Appraisal Report
+Amenida Pickering
+1645 Pickering Parkway, Pickering, [COMPANY]. 25-APPRTOR-0397
+Effective Date: August 21, 2025
+[COMPANY]Amenida Pickering
+25-APPRTOR-0397: [PERSON]
+145 [LOCATION], Suite 1100
+Toronto, ON
+Tel [PHONE]
+www.cbre.ca
+CBRE File No. 25-APPRTOR-0397
+August 29, 2025
+[COMPANY]: Mr. [PERSON]
+[COMPANY] c/o [COMPANY]
+960 Quayside Drive, [PERSON] 300
+[CITY], [COMPANY] 6G2
+RE: [PERSON], 1645 Pickering Parkway Pickering, Ontario (the “Property”)
+Dear Mr. [PERSON]
+At your request and authorization, [COMPANY] has completed an investigation and analysis of the above referenced
+property and is pleased to submit this full-narrative appraisal report.
+This appraisal report is prepared for the purpose of providing an estimate of current market value of the Leased Fee
+interest in the [COMPANY]. We understand this report will be used by the Authorized User any other Authorized Users
+noted herein to assist in first mortgage financing purposes.
+The conclusions reported herein are subject to [COMPANY] and
+[COMPANY] noted as noted hereinafter, and [COMPANY] noted in [PERSON] “A” which are an
+integral part of this report and are inseparable from this letter.
+The analyses, opinions and conclusions utilized in this report were developed based on our interpretation of the
+standards set forth in [COMPANY] Professional Appraisal Practice (CUSPAP).
+Based on the analysis contained in this report, it is our considered and professional opinion that the current market value
+of the [COMPANY] on a stabilized basis, as of August 21, 2025, is estimated at:
+$15,300,000
+Fifteen Million Three Hundred Thousand Dollars
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [PERSON]
+It has been a pleasure to assist you in this assignment. If you have any questions concerning the analysis, or if [COMPANY] can be of further service, please contact us.
+Respectfully submitted,
+[COMPANY]
+DRAFT
+[PERSON], [PERSON], AACI [PERSON], HBSc
+Executive Vice President Senior Valuation Associate
+Seniors’ Housing & Healthcare Seniors’ Housing & Healthcare
+Valuation & Advisory Services Valuation & Advisory Services
+AIC No' 265060 AIC No' 913887
+[EMAIL] [EMAIL]
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [PERSON]Contents
+Executive Summary .......................................................................................................................................... 1
+Introduction .......................................................................................................................................................... 4
+Property Description ........................................................................................................................................ 7
+Senior Housing Overview ........................................................................................................................... 14
+Demographic Overview ............................................................................................................................... 24
+Highest and Best Use ................................................................................................................................... 57
+Valuation Methodology ............................................................................................................................... 29
+Income Approach ............................................................................................................................................ 30
+Reconciliation of Value ................................................................................................................................ 56
+Certification ........................................................................................................................................................ 58
+[PERSON] .............................................................................................................................. 59
+Appendices ........................................................................................................................................................ 60
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Summary
+Executive Summary
+Investment Summary
+Asset Summary
+Property Name Amenida Pickering
+Property Address 1645 Pickering Parkway, [COMPANY], ON
+Interest Appraised Leased Fee
+Effective Date August 21, 2025
+[COMPANY] Class B
+GBA ± 46,400 sq. ft.
+Year Opened 1997
+Storeys 4
+Parking Ratio 0.42
+[COMPANY] (ac) ± 0.73 ac.
+Tenancy
+[COMPANY]
+ISL Studio 71 71 305 $3,475 $3,657 94.4% 97.0%
+[COMPANY] Bedroom 10 10 620 $4,289 $4,517 100.0% 97.0%
+Total 81 81 343 $3,581 $3,763 95.1% 97.0%
+[COMPANY]
+[COMPANY] vs. Unlevered Cash Flow
+ISL One Bedroom $1,350,000
+12% $1,300,000
+$1,250,000
+$1,200,000
+$1,150,000
+$1,100,000
+$1,050,000
+[COMPANY] Studio88%
+$1,000,000
+[COMPANY] As-is [COMPANY] $15,300,000 Stabilized [COMPANY] 7.500% Value Per Unit (Stab.) $188,900
+Value Per Unit $188,889 Stabilized Market Value $15,300,000 Stabilized Market Value $15,300,000
+Adjustments $0 Adjustments $0
+Market Value (Rounded) $15,300,000 Market Value (Rounded) $15,300,000
+Discounted Cash Flow Implied Yields1
+[COMPANY]) $15,200,000 Period NOI CF
+Projection (Years) 5 Year 1 7.3% 7.3%
+[COMPANY] 10.00% Years 1-5 7.7% 7.7%
+[COMPANY] 7.63% Years 6-10 n/a n/a
+1 Implied on Final Value excluding excess land and other redundant assets
+1 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Summary
+Investment Characteristics
+Location
+Strengths
+‒ Located in a primary market ([COMPANY])
+‒ Good local access
+‒ Proximity to complementary healthcare services and retail.
+Weaknesses
+‒ Lack of exposure to main thoroughfare
+Physical
+Strengths
+‒ Good Class B asset
+‒ Functional features and amenity spaces
+‒ Secure underground parking
+Weaknesses
+‒ Age of building and finishings
+Income
+Strengths
+‒ High occupancy under new management
+‒ [PERSON] tailwinds for seniors housing accommodations.
+‒ Service platform offers care to a need-driven market
+Weaknesses
+‒ Higher cost of capital/debt.
+‒ Competition from new, state-of-the-art supply in market area
+‒ Uncertain economic backdrop.
+2 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Summary
+Investment Market
+Strengths
+‒ In Q1 2025, [COMPANY] cut interest rates and reduced the policy rate 50 bps to 2.75%.
+‒ Outside of a temporary increase from the end of the federal sales tax break, headline inflation remains
+consistently near its 2.0% target level.
+‒ Average asking retirement home rents in Canada have been rising at above average rates since 2022 as low
+levels of new supply continue to weigh on the market
+‒ CRE investment volumes in Q1 2025 rose year-over-year for the strongest single-asset & portfolio Q1 total
+since 2022 of $10.3 billion.
+‒ Despite softer momentum, [COMPANY] investment activity has continued to occur with investors focused on best-in-
+class assets, particularly in multifamily, retail, and seniors’ housing. Notably, the office sector is also starting
+to see renewed investor interest and sentiment
+‒ CRE cap rates have largely held steady amid slower transaction activity, with the national average all-
+properties yield recording marginal decreases year-over-year to 6.66%.
+Weaknesses
+‒ The economic outlook for Canada has worsened from the [CITY] trade war, so GDP growth forecasts have been
+downgraded. The [COMPANY] lowered growth expectations for Canada by 90 bps for 2025 and 2026 to 1.0% and
+1.1%, respectively.
+‒ Faced with unusual levels of uncertainty, [COMPANY] has continued to hold the policy interest rate at
+2.75% and is opting to wait for more information on the trade war impacts.
+‒ [CITY] tariffs remain a considerable headwind for Canada and the real estate sector, with uncertainty effectively
+paralyzing much of the business environment.
+‒ Financial market volatility has resulted in sharp swings in the Canada 10-year bond yield and the cost of debt.
+[PERSON] have risen that a continuing global trade war could push the Canadian economy into a recession in
+2025 and growth forecasts are being downgraded.
+Challenges
+‒ [CITY] tariffs imposed under different mechanisms remain in force such as steel, aluminum and auto that
+continue to drag on those sectors of Canada’s economy.
+‒ Impacts from the trade war were already starting to emerge in Canada as seen through employment losses,
+higher core inflation and weaker growth forecasts.
+‒ Some economist groups were forecasting that Canada was likely already in the early stages of a technical
+recession. Furthermore, the cost of longer-term debt has been steadily rising across major economies as the
+bond market grows wary of ballooning government deficits.
+‒ With most [CITY] tariffs now facing legal challenge, this development could stem the economic damage and
+alleviate some of the pressure on the Canadian economy.
+3 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] and [COMPANY] for this report have been included in [PERSON] “A”. In addition, market
+value reported herein is contingent on the following [COMPANY] and [COMPANY]. An
+Extraordinary Assumption is one that if excluded or found to be false, could materially alter the opinions or conclusions.
+Property Identification
+Amenida Pickering
+[COMPANY], 1645 Pickering Parkway, [CITY], Ontario.
+Property Identification Number 263,300,059
+(PIN)
+Legal Description PCL PLAN-1 [COMPANY] M1024; [COMPANY]; S/T LT626325, S/T EASEMENT AS
+IN LT961141; PICKERING
+The Subject Property is described in more detail, legally and physically, within the enclosed report.
+[COMPANY] History
+We understand that the current ownership is held by [COMPANY] We are not aware of any transactions
+involving the Subject Property during the past three years.
+Purpose of the Report
+This report has been prepared for the purpose of providing an estimate of the current market value of the Leased Fee
+interest in [COMPANY], subject to [COMPANY] and [COMPANY] noted herein. The
+report is a full-narrative report and has been prepared in accordance with the standards set forth by [COMPANY].
+Definition of Market Value
+Market value is defined as follows:
+“The most probable price, as of a specified date, in cash, or in terms equivalent to cash, or in precisely revealed terms, for
+which the specified property rights should sell after reasonable exposure in a competitive market under all conditions
+requisite to a fair sale, with the buyer and the seller each acting prudently, knowledgeably, and for self-interest,
+assuming that neither is under duress”1.
+Definition of Interest Appraised
+Leased Fee is an ownership interest held by the landlord with the rights of use and occupancy conveyed by the lease to
+others. The rights of the lessor (the Leased Fee owner) and [PERSON] are specified by contract terms contained
+within the lease.
+Exposure Time
+Exposure time is not intended to be a prediction of a date of sale. Instead, it is an integral part of the opinion analysis and
+is based on one or more of the following:
+1 The Appraisal of Real Estate, Fourth Canadian Edition, ed. [COMPANY], ([COMPANY], [COMPANY], 2023), p. 6.1-.4
+4 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] information about days on the market
+‒ Information gathered through sales verification
+‒ Interviews with market participants
+The reasonable exposure time is a function of price, time, and use. It is not an isolated estimate of time alone. Exposure
+time is different for various types of real estate and under various market conditions.
+Exposure time is the estimated length of time the property would have been offered prior to a hypothetical market value
+sale on the effective date of opinion. It is a retrospective estimate based on an analysis of recent past events, assuming a
+competitive and open market. It assumes not only adequate, sufficient, and reasonable time but also adequate, sufficient,
+and reasonable marketing effort. Exposure and marketing time is therefore interrelated with opinion conclusion of value.
+Based on the foregoing, an exposure time of 3-6 months is reasonable.
+Economic Age and Useful Life
+Unless otherwise stated, the effective age of [COMPANY] is estimated to be consistent with the actual age of
+the property. Overall building life expectancy is based upon our on-site observations and a comparative analysis of
+typical life expectancies reported for buildings of similar construction as published by [PERSON] and Swift, [COMPANY], in the
+[COMPANY] cost guide. Unless otherwise stated, the total economic useful life of the Subject Property
+improvements is estimated to range between 35 and 45 years with an ongoing capital improvement program to extend
+the life expectancy.
+Authorized Client
+The Authorized Client of this report is [COMPANY] c/o [COMPANY] .
+Authorized Use and User
+The Authorized Use of the appraisal report is to provide information for first mortgage financing purposes. The report is
+not intended for any other use. [COMPANY] c/o [COMPANY] is the sole Authorized User. This
+report is not intended for use by other parties. The Authorized Use and User of our report are specifically identified in
+our report as agreed upon in our contract for services and/or reliance language found in the report. No other use or user
+of the report is permitted by any other party for any other purpose. Dissemination of this report by any party to any non-
+[PERSON] does not extend reliance to any such party, and [COMPANY] will not be responsible for any unauthorized use
+of or reliance upon the report, its conclusions or contents (or any portion thereof).
+Date of the Report
+August 25, 2025
+[COMPANY]
+August 21, 2025
+Inspection
+The Subject Property was inspected by [PERSON], HBSc on August 21, 2025.
+Scope of Work
+The following steps were completed by [COMPANY] for this assignment:
+‒ Cursory inspection of the subject site and “as is” status of the building.
+‒ Review of surrounding land uses.
+‒ Research into physical, legal, social, political, economic, or other factors that could affect the value of the property.
+5 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] of land use controls.
+‒ Research transactions of land from internal database, subscription databases, provincial land titles and market
+participants.
+‒ Determine the [COMPANY] and Best Use “as if vacant” and “as improved” within limitations.
+‒ Analyse the data collected using the appropriate appraisal approach.
+‒ Consider the effect on value of an assemblage and any anticipated public & private improvements and there is
+deemed to be none.
+‒ Consideration of personal property (attached equipment), which positively influences the market value.
+‒ Conclude a market value as stated herein.
+[COMPANY]
+‒ The Subject Property contains four resident lounges that are in the process of being converted to studio suites.
+Two are near completion, and the other two have begun. For the purposes of this appraisal, we assume that
+construction of all four units has been completed.
+‒ The rent roll and financial information provided by the client has been relied upon to be accurate.
+‒ A soil analysis for the site has not been provided for the preparation of this opinion. In the absence of a soil report,
+it is a specific assumption that the site has adequate soils to support the highest and best use.
+‒ A formal title search was beyond the scope of this assignment. Except as described herein, [COMPANY] has no
+knowledge of any easements or encroachments. It is recommended that the Authorized User obtain a detailed title
+search outlining all easements and encroachments on the property, if any, prior to making a business decision.
+‒ To our knowledge, there are no known covenants, conditions and restrictions impacting the site, which are
+considered to affect the marketability or highest and best use, other than zoning restrictions.
+‒ CBRE Limited, or the consultant(s) has not observed, yet is not qualified to detect, the existence of potentially
+hazardous material or underground storage tanks, which may be present on or near the site. It should also be noted
+that the existence of hazardous materials or underground storage tanks might have an impact on the value of the
+property.
+‒ CBRE Limited has not observed, yet is not qualified to detect, the existence of any potentially hazardous materials
+such as lead paint, asbestos, urea formaldehyde foam insulation, or other potentially hazardous construction
+materials on or in the improvements. The existence of such substances may have an impact on the value of the
+property. For the purposes of this assignment, we have assumed that [COMPANY] is not affected by any
+hazardous materials, which would cause a loss in value.
+‒ It should be noted that neither [COMPANY] nor the valuation consultant are qualified to determine the structural
+integrity of the building. Finally, [COMPANY] and the valuation consultant make no representations or warranties as the
+condition or suitability of the electrical system, HVAC system or roof membrane.
+‒ [COMPANY] includes both real property, furniture, fixtures & equipment, and the operation of a going
+concern. This going concern has other assets that are considered intangible and include:
+‒ Systems and procedures
+‒ Assembled workforce
+‒ Referral networks
+‒ Reputational capital (brand equity)
+‒ Lease in place (contributory value of current rent roll)
+6 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] is comprised of an 81-unit retirement residence in a 4-storey structure which opened in 1997. The
+mid-block, generally rectangular property is accessed via Pickering Parkway and is improved with a generally
+rectangular building. Secure underground parking is available as well as limited surface parking at the front of the
+building. Photographs taken during our inspection can be found under [PERSON]
+The Subject is located in the central part of [COMPANY], Ontario, within [LOCATION] of the Greater Toronto Area. It
+is situated at 1645 Pickering Parkway, just north of Highway 401 and adjacent to [COMPANY].
+The immediate area offers a wide range of amenities that support both daily living and recreational needs. These include:
+[COMPANY], a major regional shopping mall with retail stores, services, and dining options; grocery stores
+such as [COMPANY] and [PERSON]; banks, pharmacies, and medical clinics; cafés and restaurants offering
+diverse cuisines; and recreational spaces including the Waterfront Trail, [COMPANY], and nearby
+golf courses.
+The [PERSON] benefits from strong public transit connectivity in the form of [COMPANY] ([COMPANY]), which provides
+local bus service with stops along Pickering Parkway. [COMPANY] is also located nearby, offering
+commuter rail service to downtown Toronto and other parts of the [COMPANY].
+Regional Location Map
+7 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] uses in the immediate vicinity of the [COMPANY] include:
+North
+‒ Low to medium density residential
+‒ Commercial/retail uses along [LOCATION]
+South
+‒ Highway 401
+‒ Commercial/retail node
+East
+‒ Walmart Pickering Supercentre
+‒ Medium density residential
+West
+‒ Pickering Town Centre
+‒ Medium to high density residential
+Access
+Regional
+The Subject is strategically located near major regional transportation infrastructure. Highway 401 is located just south
+of the site and provides direct access to Toronto, [PERSON], and beyond. Highway 407 [COMPANY], a toll highway located to the
+north, offers an alternative east-west route across the [COMPANY] with less congestion.
+Local
+The property is well-served by local arterial roads, including [COMPANY], which provides north-south access through
+[COMPANY], Kingston Road (Highway 2), a major east-west corridor connecting [COMPANY] to [PERSON] and Scarborough, and
+Brock Road, another key north-south route linking to residential and commercial areas.
+8 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]. 0.73 acres
+[COMPANY] No
+Developed Density 110.81 units per acre
+[PERSON] Level with Street Grade
+Position Mid-block lot
+Primary Road Frontage Pickering Parkway
+Secondary Road Frontage n/a
+[COMPANY] of residential and commercial
+Services Connected to public utility services
+[COMPANY] adequate
+[COMPANY] Moderate
+Functional Utility Good
+Traffic Volume Moderate
+Adequacy of Utilities Assumed adequate
+[PERSON] adequate
+Conclusion
+The site is well located and afforded good access and moderate visibility from roadway frontage. The size of the site is
+typical for the use, and there are no known detrimental uses in the immediate vicinity. Overall, there are no known
+factors that are considered to prevent the site from development to its highest and best use as a retirement home.
+Limitations
+We have not completed any investigations in relation to the presence, or potential presence, of contamination in either
+the land or buildings or the potential presence of any other environmental risk factors. Further, we have assumed that if
+the appropriate investigations were completed, the findings of such investigations would not adversely impact the
+estimate of market value herein.
+We have not carried out investigation into past uses, either of [COMPANY] or of any adjacent lands, to establish
+whether there is any potential for contamination from such uses or sites, or other environmental risk factors and have
+therefore assumed that none exists.
+9 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Site Map
+10 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Official Plan High Density Areas
+Zoning RH(SC) X192
+Permitted Uses Senior Citizens Apartment
+The above information was obtained from [COMPANY] website which we assume to be correct.
+ZONING PLAN
+Source: City of Pickering website
+Limitations
+For the purposes of this assignment, [COMPANY] has assumed the information obtained to be correct. We further assume that
+the [COMPANY]’s current use is legally permitted. It is beyond the scope of this appraisal to assess building conformity with
+planning and zoning restrictions.
+11 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Opened
+‒ 1997.
+Height
+‒ 4 storeys above grade.
+GFA
+‒ 46,400 sf (estimate).
+Building Structure
+‒ Poured concrete foundation.
+[PERSON] frame structure assumed.
+‒ Pitched roof with an asphalt shingle covering.
+External Elevations
+‒ Brick
+‒ Metal panels
+HVAC
+‒ Forced Air: Gas Fired throughout the common areas.
+‒ Individual Units: PTAC in resident units.
+Parking
+‒ 34 parking stalls, which equates to a parking ratio of 0.42 stalls per resident unit.
+Resident Amenities
+‒ Reception & lobby.
+‒ Dining room.
+‒ Resident lounges.
+[PERSON] room.
+‒ Café/Bistro.
+‒ Games room.
+‒ Library.
+‒ Resident laundry rooms.
+‒ Salon.
+‒ Patio garden.
+‒ Secure underground parking.
+12 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] and Net Leasable Areas
+The unit mix is as follows:
+SUITE MIX SUMMARY
+[COMPANY]. Unit % Total
+Area (sf) [PERSON] (sf) Units
+[COMPANY] 71 21,930 309 88%
+[COMPANY] Bedroom 10 6,200 620 12%
+Total 81 28,130 347 100%
+[PERSON] The residential suites have private 3-piece bathrooms and many also have kitchenettes
+‒ Finishes consist of laminate flooring in living areas and ceramic tile floor in bathrooms
+‒ The units have painted drywall walls & ceilings
+‒ Four new studios are in the process of being created from lounges on each floor
+‒ 340 square feet
+‒ Contain a kitchenette, bathroom with walk-in shower and feature an electric fireplace
+‒ Laminate floor, painted drywall walls and ceiling
+Elevators
+‒ Two elevator(s)
+Functional Utility
+‒ The design of the common areas and residential units are generally reflective of Class B retirement homes
+Environmental
+‒ We do not understand the [COMPANY] to benefit from an [COMPANY], [CITY], or Sustainability Rating.
+‒ We have not been made aware of any recent, or planned capital expenditure related to decarbonization, and/or
+environmental improvements.
+Condition
+‒ Based on our cursory inspection, we found the [COMPANY] to be of Good overall quality and condition.
+[PERSON] taken during our inspection can be found under [PERSON] We draw your attention to comments concerning assumptions and limiting conditions under [PERSON] CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]’ housing communities provide accommodation, an array of services, and healthcare options to the senior
+population and are subdivided into several community types. The following classifications incorporate publicized
+standards consistent with industry groups.
+Seniors Housing [PERSON]
+ACTIVE ADULT
+Active Adult (“AA”) communities are a bridge between market-rate apartments and independent living seniors housing,
+catering to the more lifestyle focused senior. Amenities, building design, and services, including meals, activities, and
+transportation, are not included in the monthly rent, but can be arranged at the request of the resident, or on an ala carte
+basis. Activities of daily living ([COMPANY]) services may also be provided through third-party home care providers.
+SENIORS APARTMENTS
+Seniors Apartments (“SA”) are apartment units for those living independently, although they are usually found within
+larger facilities, where there are resident amenities on offer. [COMPANY] residents can generally make use of the amenities,
+although services such as meals and activities are not covered within their rent. Residents may elect to purchase
+services, meals, and activities at additional cost.
+INDEPENDENT LIVING
+Independent living (“IL”) communities are usually offered on a rental basis with resident access to meals and other
+services such as housekeeping, linen service, transportation, hair/beauty salon, and social or recreational activities, as
+part of their monthly fees. Such properties do not provide ADLs, such as supervision of medication, bathing, dressing,
+toileting, etc. Residents of independent units may have some home health care services provided by in-house staff or an
+outside agency. Licensure requirements typically do not apply.
+ASSISTED LIVING
+Assisted Living (“AL”) residences are state-regulated communities that provide similar services and amenities as
+independent living, while also providing supportive care. The staff assist residents who are unable to live independently
+and require assistance with activities of daily living ([COMPANY]) including management of medications, bathing, dressing,
+toileting, ambulating and eating.
+MEMORY CARE
+Memory Care (“MC”) is considered a subset of [CITY], offering specialized [COMPANY] support. It is dedicated to residents with
+Alzheimer’s or other forms of dementia. Memory Care residences have 24-hour support with more structured activities
+to ensure safety and quality of life by trained staff members. Most memory care living environments are fully secured
+with locked areas and allow access to outdoor walking paths or gardens.
+LONG TERM CARE
+Long Term Care (“LTC”) facilities (nursing care) are the most need-driven demand segment. These properties are the
+most care intensive and highly regulated segment of the seniors housing and healthcare sector. Most individuals require
+24-hour nursing and medical care. In most cases, these properties are licensed for government funding.
+CONTINUING CARE RETIREMENT COMMUNITY
+Continuing Care Retirement Community (“CCRC”) provide independent living, assisted living, and nursing options on a
+single campus, typically in separate buildings. This arrangement allows older adults to potentially “age-in-place” as their
+needs change. Modern CCRCs tend to target an independent living customer seeking hospitality style amenities and
+services with the security of knowing that future care needs will be met.
+14 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]’ housing and care properties are encumbered by businesses that require a specific mix of tangible and intangible
+assets to operate effectively. The tangible or real property assets, including the land, improvements, furniture, fixtures,
+and equipment, are obvious components of a seniors housing and care property. Unlike other forms of income producing
+commercial real estate, a meaningful component of value relates to intangible assets. The intangible components are
+summarized below.
+[COMPANY]Tangible Assets Intangible Assets
+Furniture, Fixtures & Equipment Operating Policies & Procedures
+Buildings Envelope Brand
+[COMPANY] Assembled Workforce
+Elevator(s) Market Relationship
+Land License*
+*Federal, Provincial and Local
+The seniors housing and care business model is more involved than core-asset classes, making property operations an
+essential component of value. This 'active management' component is correctly viewed by the market as adding
+incremental risk and complexity versus the conventional commercial real estate asset classes, which translates into
+higher return expectations by investors.
+Seniors Housing Principal [COMPANY]
+In the following illustration, the differing principal care levels are illustrated.
+15 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] management of [COMPANY] is generally performed inhouse, or by appointment of a third-party management
+partners appointed of a fee basis. Owners and investors can move between management partners and the consolidation
+of inventory amongst the largest market participants often leads to a growing market share for the most acquisitive.
+As of Q4 2023, approximately 30% of Canada’s senior housing and long-term care provision was managed by 20
+operators. CBRE calculates the market share of the “Top 20” providers in the respective market segments to be as
+follows:
+16 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Age-appropriate housing can be life changing to many residents. Not only does this apply to the physical and social
+environment, but the availability of hospitality services and assistance with daily living is not only a lifestyle choice, but
+in some cases, a necessity.
+Housing moves amongst seniors can be categorized as either “lifestyle”, “planned”, or “crisis”. The decision to move
+within later years is usually driven by a combination of push or pull factors, with the most independent seniors drawn to
+seniors housing as a lifestyle choice, while those at the opposite end of the scale facing crisis, are often pushed into
+seniors’ accommodation through necessity. In some cases, that necessity is the advice of healthcare professionals.
+Below is an illustration of the of the resident decision-making correlation between the principal accommodation and care
+levels as earlier mentioned. This is coupled with examples of push and pull factors.
+Source: CBRE, CMHC and Canada.ca
+Demand Statistics
+According to [COMPANY] 2021, the proportion of people aged over 85 years living in
+collective dwellings ranged from 40% for people aged 85 to 89 to almost 60% for centenarians. This is illustrated below:
+Note: The “Other” category includes all other types of collective dwellings.
+Source: [COMPANY], Census of Population, 2021.
+We consider this dataset to be skewed to some extent given the timing of the data collection and the COVID-19
+Pandemic. The Pandemic certainly resulted in a decline in occupancy rates across the country. It is argued that the true
+demand from the aged population is higher than that shown within the 2021 Census.
+17 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] largely by immigration, Canada’s population surged by record numbers
+during 2023 and 2024. In response, the federal government announced targets to
+reduce immigration which should result in a modest decline for 2025 and 2026.
+Despite this, it is expected to remain amongst the largest growing populations
+within the G7 over the next five years.
+From a demand perspective, the population of those aged over 75 years is of the
+most interest. With thanks to medical advances and practices, mortality rates are
+decreasing, and people are living longer into old age with multiple comorbidities.
+Statistics from [COMPANY] suggest that the average life
+expectancy in Canada life increased by 3.14 years from 79.1 years in 2000 to 82.2
+years in 2019. This is almost 9 years higher than the global average.
+In domestic terms, the fastest growing elderly demographic in Canada is those
+aged over 85 years, said to have more than doubled in size between the 2001 and
+2021 Census. The 2021 Census data also suggests that the growth in population of
+those aged over 85 years between 2016 and 2021 was more than twice as high as
+the growth seen in the overall population of Canada. This rapid increase is a
+combination of two things, being the aging of the “baby boomer” generation, which is the largest generation in Canada,
+and the increase in life expectancy, with projections suggesting that by 2065, Canada will be home to over 87,500
+centenarians.
+The graph below shows the estimated population growth of over 75s in Canada:
+Source: [PERSON],
+[COMPANY] Table 17-10-0005-01 Population estimates on July 1, by age and gender,
+[COMPANY]. Table 17-10-0057-01 Projected population, by projection scenario, age and sex, as of July 1 (M4 Projection)
+18 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] on the earlier discussed demand and population growth, there is an obvious need to ensure that the supply is
+adequately increased to meet the expected surge in demand. Whilst this is an obvious conclusion based on numbers
+alone, there is a deeper consideration owed to the needs of future generations of seniors, which differs from previous
+generations. Experts outline that as the needs of residents evolve, so too does the demand upon the physical
+environment and it is inevitable that older inventory will be facing functional obsolescence. Accordingly, the age and
+standards of the existing inventory, should not be overlooked.
+An obvious inference would be to ensure that new construction at least keeps pace with the market demand, if not
+exceeds the growth in demand to allow for the replacement of obsolete assets. However, seniors housing construction
+rates have slowed over the last three years, largely on account of rising construction costs, the availability and cost of
+labour, transportation costs, and interest rate changes.
+The below (left) graph shows the estimated construction volume relative to existing inventory since 2016 through to
+2024. This evident decline in supply against the backdrop of increasing demand is predicted to result in a deficit over
+time, as shown within the below right graph.
+Sources: CBRE, Scotiabank, [COMPANY]. Sources: CBRE, [PERSON].
+Many planned developments, being those which should have commenced during the last three years, were placed on
+hold as developers held in wait of interest rates and construction cost stabilization. It is now evident that some of these
+developments are being brought forward, although the costs to deliver the projects is higher than originally planned. To
+offset this, we are seeing a bias to developments in the most affluent areas, where rents are expected to be at the higher
+end of the range to justify the cost of delivering new projects.
+The usual development cycle takes around five years from site identification, through to the delivery of a turnkey
+product. Although there is new development underway, it will be several years before we see any notable amounts of
+new inventory being added to the market. As such, there is a significant opportunity for existing inventory to build
+occupancy, and for older assets to reinvest, in retrofitting improvements to maintain a competitive position in the
+market.
+19 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Activity
+Over the last decade or so, the seniors housing market in Canada has appealed to a diverse buyer pool and it continues
+to do so. As shown in the below graph, the share of significant transaction volume has been shifted year on year, with the
+most active market participants being [COMPANY] (REITs), [COMPANY] and
+[COMPANY].
+Source: CBRE
+As shown, the market enjoyed high levels of activity between 2011 and 2019. In particular, 2015 saw exceptionally high
+activity with transactional volume reaching $4.6 billion. For context the annual volume of seniors housing investment in
+Canada is in the $1.7 billion range.
+Following the outbreak of Covid-19, we saw a significant shift in activity, as investors across the globe adopted a “wait
+and see” attitude toward major investment decisions. This led to a state of market paralysis with a dearth of transactions
+taking place during 2020 and a large part of 2021. The resurgence of activity, due in part to a hefty backlog of capital,
+commenced with in the second half of 2021, with [CITY] based [COMPANY]’s ~$450m acquisition of 13 residences, (3,548
+independent living suites) in Quebec. This trend continued, with further investment from the [CITY] during 2021 in the form
+of [COMPANY]’ [COMPANY]m acquisition of six residences from [CITY], and [COMPANY] 75% share acquisition in a portfolio
+of four residences in a joint venture with [COMPANY] During 2022, we saw the ~$600m sale of the Regency Retirement
+portfolio to [COMPANY] and [CITY], as well as the ~$308m sale of 11 assets from [CITY] to [PERSON] and [PERSON].
+This spike in activity tailed off in the second half of 2022, as inflation took hold, and interest rates began to increase. To
+some extent, we experienced a second wave of hesitance between market participants and a hiatus of transactions in
+wait of stable interest rates. During this time, previously agreed deals progressed, although fewer opportunities were
+offered to the market. For the opportunities offered, we saw a more muted receipt and a flight to quality from major
+participants seeking to minimize investment risk.
+20 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] 2023, we witnessed the lack of closings expected given the scarcity of transactions agreed during 2022.
+Although, Quebec saw a debut investment from French based REIT, Euryale, in their ~$26.5m acquisition of a Montreal
+residence on sale and leaseback terms. This is an established investment model within most major European markets,
+but generally unseen in Canada. Otherwise, we saw a couple of key transactions close in Q1 2024, which were deal
+negotiated during 2023. These included “value add” opportunities, and stabilized assets which was positive for the
+market on both counts.
+Throughout 2024, the market consensus was generally optimistic, with a downward trajectory in interest rates and
+inflation. That optimism stimulated the market, and we saw an increase in activity during 2024.
+Notable activity included the acquisition of five retirement residences (1,428 suites) in [COMPANY] (GMA),
+[PERSON] and Sherbrooke for ~$297 million by [COMPANY]. Shortly after, [COMPANY] announced the
+acquisition of 50% ownership in a portfolio of five properties (1,805 suites) in the [CITY] area and [PERSON]
+([CITY] portfolio) for ~$214 million, and the acquisition of three prime residences on [LOCATION] for a
+reported ~$226.9m.
+Wider market activity included [COMPANY] acquisition of seven retirement communities in Ontario and
+Quebec. This was a Class B portfolio overall, with value-add opportunity through effective management and
+repositioning. This trend continued, with [COMPANY] acquisition of two prime residences in Vancouver,
+again, these were value-add opportunities, as well as a platform to enter a new province for the group. Activity continued
+with [COMPANY] acquisition of three assets in Calgary, marking a significant expansion for them within their
+core market.
+21 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] commercial real estate capitalization rates steadily rose throughout 2023 as the market continued to adjust to the
+new investment environment of higher costs of debt. After rising 48 bps in 2022, the national average all-properties
+asset yield increased a further 58 bps to 6.59% in 2023. Over the span of the last two years, this represents the second
+largest period of cap rate increases in 30 years.
+As both a lifestyle and needs driven sector with somewhat consistent, and arguably increasing demand, the
+fundamentals of seniors housing differ from core commercial markets such as office, retail and industrial which are
+evolving. The sector is showing signs of resilience, and investors typically focused on core investment classes are
+increasing looking to diversify their risk with seniors, healthcare, and self-storage to name but a few examples of
+alternative investment opportunities. Although the outlook for seniors housing remains exceptional in view of compelling
+demand fundamentals, it is not entirely insulated from effects of the wider economic backdrop.
+The below graphs illustrate the commercial cap rate trend, and the change in seniors housing cap rates over the last four
+years. The lower graph compares regional cap rates on for Class A and B assets.
+Commercial Cap Rate Tend Change in Seniors Housing
+Independent/Assisted Living Class A Independent/Assisted Living Class B
+Source: CBRE. [PERSON] and [PERSON], Q3 2024
+22 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] for 2025
+The operational prospects remain undeniably strong, with Canada on the cusp of exponential growth in the population of
+seniors, with a stable, and slightly increasing working age population making for ideal demand and recruitment
+conditions. Equally, the lack of new development provides an opportunity for existing provision to strengthen their
+market positions and build occupancy.
+From a development perspective, we expect to see new developments coming forward, although it will be beyond 2025
+before we see any meaningful change in market supply. We do, however, envisage developers to resume site searches as
+people look forward to future developments. As with any uncertain market, we anticipate a bias to lower risk projects
+and markets, being those within the most affluent markets with a greater certainty of higher rents, needed to justify the
+higher development costs.
+From an investment perspective, the downward trajectory in interest rates, coupled the underlying demographics and
+trends as discussed earlier, is expected to strengthen investment in the sector. Recent transactions indicate stable cap
+rates, at levels generally seen pre-pandemic, and we expect to see stability throughout 2025.
+Our outlook for 2025 is generally positive, with our key observations listed below.
+23 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+To analyze [COMPANY], we must define [COMPANY] market area (“MA”). This definition of a more
+simplified market area, or [COMPANY], is less comprehensive than the definition of a primary market area (“[COMPANY]”) associated
+with a full market study. The scope of this report does not include the level of due diligence related to performing a
+market study.
+In determining the boundaries of the most appropriate [PERSON], we have made certain investigations into the local
+marketplace. These investigations enable us to determine a reasonable approximation of the boundaries defining the
+Subject Property’s MA. Based on the foregoing considerations, we have defined the [COMPANY] as a five-kilometer radius around
+the Subject Property.
+Household Income Levels
+The following map captures average household income in neighbourhoods surrounding [COMPANY]. The dark
+green shades are the most affluent income areas, while lighter shades are the least affluent.
+Source: Sitewise
+Pertinent demographic information regarding the [COMPANY] is set out on the following pages.
+24 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+The following tables show the demographic and, socio-economic profile for Canada, the local [CITY] and the 5
+kilometre radius area surrounding [COMPANY].
+5 Kilometer Radius Ontario Canada
+Resident Population 157,696 15,871,995 40,567,168
+% [COMPANY] 0.4% 39.1% 100.0%
+[PERSON] 77,295 7,872,008 20,205,666
+% [COMPANY] 0.4% 39.0% 100.0%
+Female 80,400 7,999,987 20,361,502
+% [COMPANY] 0.4% 39.3% 100.0%
+Age Profile
+0-24 Years 43,813 4,441,575 11,258,405
+% [COMPANY] 0.4% 39.5% 100.0%
+25-64 Years 86,414 8,456,569 21,458,507
+% [COMPANY] 0.4% 39.4% 100.0%
+65-74 Years 16,463 1,647,514 4,416,587
+% [COMPANY] 0.4% 37.3% 100.0%
+75-84 Years 8,186 955,913 2,505,239
+% [COMPANY] 0.3% 38.2% 100.0%
+85 Years Plus 2,819 370,424 928,430
+% [COMPANY] 0.3% 39.9% 100.0%
+Source: [COMPANY], 2024 Estimates
+Population Trends
+Population growth or decline in an area can be an indicator of the life cycle stage. The following table shows the historic
+population data as well as current estimates and forecast for the respective areas.
+5 Kilometer Radius Ontario Canada
+Population
+2024 Estimate 157,696 15,871,995 40,567,168
+2029 Forecast 169,845 17,143,202 43,407,734
+CAGR (2024 to 2029) 1.5% 1.6% 1.4%
+Seniors Population (Age 75 Plus)
+2024 Estimate 11,005 1,326,337 3,433,669
+2029 Forecast 14,079 1,627,322 4,246,921
+CAGR (2024 to 2029) 5.1% 4.2% 4.3%
+Source: [COMPANY], 2024 Estimates and 2029 Forecast
+25 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+According to [COMPANY] published by [COMPANY]
+([COMPANY]), in conjunction with [COMPANY] (AHCA) in 2009, the average age for of residents
+living in assisted living residences is about 87 years old.
+The following table illustrates the population and household changes for [COMPANY] with
+primary focus on the immediate 5 km radius.
+Age 75 to 79 Age 80 to 84 Age 85 Plus
+5 Kilometer Radius
+2024 Estimate 5,135 3,051 2,819
+2027 Forecast 5,801 3,767 3,176
+2029 Forecast 6,274 4,274 3,531
+2034 Forecast 7,834 5,192 4,794
+CAGR (2024 to 2034) 4.3% 5.5% 5.5%
+Source: [COMPANY], 2024 Estimates and 2027 to 2034 Forecast
+5 Kilometer Radius 10 Km Radius 15 Km Radius
+2024 Estimated Population by Age
+Total Population 157,696 312,924 659,707
+65-74 Years 16,463 30,126 62,199
+75-84 Years 8,186 15,140 32,814
+85 Years Plus 2,819 4,706 11,242
+2029 Forecast Population by Age
+Total Population 169,845 345,006 721,002
+65-74 Years 20,211 37,611 75,852
+75-84 Years 10,548 19,758 41,773
+85 Years Plus 3,531 6,058 13,865
+% Change
+Total Population 7.7% 10.3% 9.3%
+65-74 Years 22.8% 24.8% 22.0%
+75-84 Years 28.9% 30.5% 27.3%
+85 Years Plus 25.3% 28.7% 23.3%
+Source: [COMPANY], 2024 Estimates and 2029 Forecast
+Positive increases in population are projected for the market area. [COMPANY] target population (85+ years
+of age) is projected to increase by approximately 25.3% over the next five year period within a 5km radius of the
+property. It should also be noted that the preceding cohort (75 to 84 years of age) is projected to increase by 28.9%, with
+the 65 to 74 cohort projected to increase by 22.8%.
+26 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Household income available for expenditure on housing and other consumer items is a primary factor in determining the
+price/rent level of housing demand in a market area. In the case of this study, projections of household income,
+particularly for renters, identifies in gross terms the market from which the [LOCATION] submarket draws. The following table
+illustrates estimated household income distribution for the market.
+5 Kilometer Radius Ontario Canada
+2024 Estimated Total Households by Income
+$0 to $19,999 2.2% 4.3% 4.2%
+$20,000 to $39,999 7.3% 11.4% 12.6%
+$40,000 to $59,999 9.5% 12.3% 13.8%
+$60,000 to $79,999 10.1% 11.8% 12.7%
+$80,000 to $99,999 10.6% 10.8% 11.1%
+$100,000 to $124,999 12.1% 11.2% 11.2%
+$125,000 to $149,999 10.9% 9.1% 8.9%
+$150,000 to $199,999 15.3% 11.7% 10.9%
+$200,000 or over 22.0% 17.5% 14.7%
+Median Household Income $121,326 $98,940 $92,106
+Average Household Income $143,188 $132,575 $122,252
+2029 [COMPANY] by Income
+$0 to $19,999 1.7% 3.2% 3.1%
+$20,000 to $39,999 5.6% 9.0% 9.9%
+$40,000 to $59,999 7.7% 10.2% 11.3%
+$60,000 to $79,999 8.8% 10.5% 11.6%
+$80,000 to $99,999 9.0% 9.8% 10.3%
+$100,000 to $124,999 11.1% 11.0% 11.2%
+$125,000 to $149,999 10.1% 9.1% 9.0%
+$150,000 to $199,999 17.2% 13.8% 13.2%
+$200,000 or over 28.8% 23.4% 20.4%
+Median Household Income $140,022 $116,460 $108,547
+Average Household Income $166,642 $155,985 $144,587
+Source: [COMPANY], 2024 Estimates and 2029 Forecast
+27 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] for seniors housing services in Canada is derived from certain ethnic groups. Specifically, seniors of British,
+North American, and European ancestry typically exhibit the highest propensity to consume seniors housing services
+and accommodation. Anecdotally this relates to cultural norms and accepted practices for how families and specifically
+adult children care for their elders. Due to the importance of this factor, we have analyzed the ethnic makeup of the
+Subject Property’s MA, which is summarized in the following table:
+5 Kilometer Radius Ontario Canada
+Total Visible Minority Population 58.2% 36.4% 28.5%
+Not A Visible Minority 41.8% 63.6% 71.5%
+Chinese 2.7% 6.1% 5.0%
+South Asian 22.9% 11.7% 7.8%
+Black 14.5% 5.6% 4.4%
+Filipino 4.6% 2.7% 2.8%
+Latin American 1.7% 2.0% 1.8%
+Southeast Asian 0.6% 1.2% 1.1%
+Arab 2.1% 2.2% 2.1%
+West Asian 2.8% 1.7% 1.1%
+Korean 0.4% 0.8% 0.7%
+Japanese 0.3% 0.2% 0.3%
+Visible Minority, (Not Incl. Elsewhere) 2.7% 0.9% 0.5%
+Multiple Visible Minorities 3.0% 1.3% 0.9%
+Source: [COMPANY], 2024 Estimates
+The 5 km radius [COMPANY] has a lower concentration of [COMPANY] descendants than the average for the
+Province.
+28 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] Methodology
+There are three basic approaches to value:
+‒ The Income Approach
+‒ [COMPANY]
+‒ The Cost Approach
+In practice, an approach to value is included or omitted based on its applicability to the property type being valued and
+the quality and quantity of information available.
+Income Approach
+The Income Approach reflects [COMPANY] income-producing capabilities. This approach is based on the
+notion that value is created by expected income. Since the investment is expected to be acquired by an investor who
+would be willing to pay to receive an income stream plus reversion value from a property over an investment horizon, the
+Income Approach is used as the primary approach to value. The two common valuation techniques are as follows:
+DIRECT CAPITALIZATION METHOD
+‒ This method involves capitalizing a fully leased net operating income estimate by an appropriate yield. This
+approach is best utilized with stabilized assets, where there is little volatility in the net income and the growth
+prospects are also stable. It is commonly used with single tenant investments or stabilized investments.
+DISCOUNTED CASH FLOW METHOD
+‒ Using this valuation method, future cash flows forecasted over an investment horizon, together with the proceeds
+of a deemed disposition at the end of the holding period. This method allows for modeling any uneven revenues or
+costs associated with lease up, rental growth, vacancies, tenant inducements and vacant space costs. These future
+financial benefits are discounted to a present value at an appropriate discount rate based on market transactions.
+Direct Comparison Approach
+[COMPANY] utilizes sales of comparable properties, adjusting for differences to estimate a value
+for [COMPANY]. This approach is developed in a simplified method to establish a range of unit prices for market
+comparable sales. This method is typically developed to support the Income Approach rather than to conclude on a
+value.
+Cost Approach
+The Cost Approach is based upon the proposition the informed purchaser would pay no more for the Subject Property
+than the cost to produce a substitute property with equivalent utility. This approach is particularly applicable when the
+property being appraised involves relatively new improvements, which represent the [COMPANY] and Best Use of the land,
+or when relatively unique or specialized improvements are located on the site and for which there exist few sales or
+leases of comparable properties.
+29 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Income Approach
+Forecast: Stabilized Basis
+The following table summarizes [COMPANY]’s forecast of the net operating income expected to be generated by [COMPANY] at stabilized occupancy. A discussion of the underlying assumptions follows.
+[COMPANY]
+Twelve Months Ending August 31, 2026 100.0% Leased Fee Interest
+Revenue Units RD Forecast Per Month Per Unit PRD % [COMPANY]
+[COMPANY] 71 25,915 $3,009,685 $250,807 $42,390 $116.14 83.0%
+[COMPANY] Bedroom 10 3,650 $514,731 $42,894 $51,473 $141.02 14.2%
+[COMPANY] $57,744 $4,812 $713 $1.95 1.6%
+Gross Potential Base Rent 81 29,565 $3,582,160 $298,513 $44,224 $118.86 98.8%
+less: Vacancy (887) ($107,465) ($8,955) ($1,327) ($3.57) (3.0%)
+plus: Double Occupancy 1460 $36,000 $3,000 $444 $1.19 1.0%
+Net Base Rent 30,138 $3,510,695 $292,558 $43,342 $116.49 96.8%
+Ancillary Income
+Personal Care $94,935 $7,911 $1,172 $3.15 2.6%
+Commercial Income $20,000 $1,667 $247 $0.66 0.6%
+Other Income $1,000 $83 $12 $0.03 0.0%
+Total Ancillary Income $115,935 $9,661 $1,431 $3.85 3.2%
+Effective Gross Revenue $3,626,630 $302,219 $44,773 $120.33 100.0%
+Operating Expenses Forecast Per Month Per Bed PRD % [COMPANY] $1,199,696 $99,975 $14,811 $39.81 33.1%
+Benefits $167,957 $13,996 $2,074 $5.57 4.6%
+[COMPANY] $278,777 $23,231 $3,442 $9.25 7.7%
+Supplies $97,949 $8,162 $1,209 $3.25 2.7%
+Administration $99,732 $8,311 $1,231 $3.31 2.8%
+[COMPANY] $45,600 $3,800 $563 $1.51 1.3%
+Maintenance $121,600 $10,133 $1,501 $4.03 3.4%
+Utilities $163,400 $13,617 $2,017 $5.42 4.5%
+Insurance $36,100 $3,008 $446 $1.20 1.0%
+[COMPANY] $125,100 $10,425 $1,544 $4.15 3.4%
+Management Fee $145,065 $12,089 $1,791 $4.81 4.0%
+Operating Expenses $2,480,977 $206,748 $30,629 $82.32 68.4%
+Net Operating Income $1,145,654 $95,471 $14,144 $38.01 31.6%
+Note: Based on stabilized occupancy as at the effective date of appraisal
+30 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Summary of Assumptions: Stabilized Basis
+Analysis Period Next Twelve Months (Stabilized Occupancy)
+Analysis Start Date September 1, 2025
+Stabilized Occupancy 97.0%
+Total Units 81
+Resident Days 30,138
+Average [PERSON]. In-Place Avg. Vacant Total Potential
+Other Revenue Assumptions Contract Rent Market Rent Blended Rate
+[COMPANY] $3,475 $4,500 $3,532
+[COMPANY] $4,289 $0 $4,289
+Double Occupancy 4 Couples
+Double Occupancy Market Rate $750 Per Month
+Ancillary Income 3.2% % of Effective Gross Revenue
+Operating Expense Assumptions Forecast [COMPANY] $39.81 Detailed Model (Shown PRD)
+Benefits 14.0% % of [COMPANY] $9.25 Per Resident Day (PRD)
+Supplies $3.25 Per Resident Day
+Purchased Services $0 Per Annum
+Administration 2.75% % of Effective Gross Revenue
+Advertising & Promotion $600 Per Unit Per Annum
+Maintenance $1,600 Per Unit Per Annum
+Utilities $2,150 Per Unit Per Annum
+Insurance $475 Per Unit Per Annum
+Realty Tax $1,544 Per Unit Per Annum
+Management Fee 4.0% % of Effective Gross Revenue
+Note: Based on stabilized occupancy as at the effective date of appraisal
+31 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Detailed Underwriting
+The following section of the report summarizes the analyses and key assumptions which support [COMPANY]’s forecast of the
+Subject Property’s net operating income on a stabilized basis. In developing a forecast of the prospective net operating
+income, we have reviewed historical and budget operating statements provided and made comparisons with industry
+benchmark data which we have compiled from comparable properties.
+Historical and Budget Operating Statements
+Data obtained from management’s historical and budgeted statements have been summarized below. [COMPANY] has
+reorganized the information into our standardized chart of accounts. The reorganization of the financial information into
+this standard format helps to facilitate benchmarking and common-sized analysis which factor into the detailed
+underwriting described within this section of the report.
+[COMPANY] Annualized* Budget
+Period Ending Dec-23 Dec-24 Jun-25 Dec-25
+Resident Days 12,053 17,574 27,534 27,375
+Total Units 76 76 76 76
+Revenue
+Base Rent, Net $1,348,272 $1,982,957 $2,798,672 $3,289,073
+Double Occupancy $0 $2,067 $20,398 $18,873
+Ancillary Income $76,978 $4,784 ($912) $43,717
+Effective Gross Revenue $1,425,250 $1,989,808 $2,818,159 $3,351,662
+Occupancy 43.4% 62.0% 97.7% 97.4%
+Operating Expenses
+Salaries & Wages $1,136,599 $1,028,158 $1,189,699 $1,131,404
+Benefits $151,310 $148,177 $150,589 $176,832
+[COMPANY] $165,380 $168,754 $239,307 $271,614
+Supplies $55,502 $71,037 $97,452 $91,927
+Purchased Services $0 $0 $0 $0
+Administration $78,632 $89,805 $205,185 $107,139
+[COMPANY] $67,071 $26,429 $128,990 $45,181
+Maintenance $170,262 $115,022 $123,163 $110,931
+Utilities $137,173 $144,914 $115,174 $154,196
+Insurance $31,956 $36,107 $33,311 $33,432
+[COMPANY] $78,715 $117,054 $95,346 $126,594
+Management Fee $58,216 $92,450 $128,945 $154,371
+Operating Expenses $2,130,816 $2,037,907 $2,507,160 $2,403,622
+Net Operating Income ($705,566) ($48,099) $310,999 $948,040
+Notes
+Unaudited statements provided by Management
+32 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Revenue Forecast
+The following service levels are offered to new residents when entering a lease with [COMPANY]. The services
+noted below are bound by contract and are distinct from the provision of a la carte services.
+Service Structure
+The Subject Property offers the following service levels to new and existing residents.
+‒ [COMPANY] (“[COMPANY]”)
+‒ [COMPANY] services on a fee basis.
+We draw your attention to the following section of this report for general definitions of the above.
+Contract Service Inclusions
+The typical and core service package to all residents includes the following:
+CORE SERVICES
+‒ Professional on-site management
+‒ Reception/concierge services
+‒ Access to recreation & leisure facilities services programs (some fees may apply)
+‒ Scheduled transportation
+‒ Consumption of utilities, including water, heating and electricity
+‒ Cable television
+‒ Wireless internet
+‒ Telephone
+MEAL SERVICES
+‒ 3 meals per day served in the dining room
+‒ Self-serve daily snacks & beverages
+‒ Room service meals (limited to periods of illness)
+[COMPANY]
+‒ Weekly housekeeping
+[PERSON] laundering of towels & linens
+RESIDENT CARE
+‒ 24-hour staff and emergency response system
+‒ Assistance with a weekly bath/shower
+ANCILLARY SERVICES
+Residents also have the option to add tailored hospitality and care services. Ancillary services are usually driven by a
+combination of lifestyle choice, and individual need. The benefit of tailored ancillary services means that residents can
+modify their use as their needs change.
+SECOND OCCUPANT FEES
+Where the needs of the resident and accommodation space permits, a second occupant may reside within a suite. The
+current quoted rate is $750 per month.
+33 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Rental Income
+Current Rent Roll
+The following table summarizes [COMPANY]’s forecast gross potential rent based on a blend of in-place contract rents for
+occupied units and estimated market rents for vacant units.
+RENT ROLL SUMMARY
+pe [COMPANY] Vacant Monthly Gross
+Occupancy Unit Rent1 Unit Rent2 Potential Rent
+ISL Studio 71 94% $232,807 $18,000 $250,807
+[COMPANY] One Bedroom 10 100% $42,894 $0 $42,894
+Total 81 95% $275,701 $18,000 $293,701
+1 Management's unaudited rent roll adjusted for partial month rents and removing respite suite rental income
+2 Based on operator's posted rental rates for 2025
+The following table summarizes the range in unit size and posted rental rates:
+RENT RANGES
+Unit [PERSON] (sf) Monthly Asking Rent3
+Min [PERSON]
+ISL Studio 290 620 $3,227 $4,517
+[COMPANY] One Bedroom 620 620 $3,417 $4,517
+3 Management's 2025 posted rents
+The following table summarizes average unit size, rental rates, and average rent per square foot by type:
+RENT ANALYSIS BY TYPE
+Units Average Average Gross Average
+[PERSON] (sf) [COMPANY]
+[COMPANY] 71 309 $3,532 $11.44
+[COMPANY] One Bedroom 10 620 $4,289 $6.92
+Total 81 347 $3,626 $10.44
+[COMPANY]
+The posted rents for the services illustrated above have been obtained from the marketing material of the relevant
+property, or through market research including anonymous enquiries. We note that not all services offer identical
+services and inclusions within posted rents, and some may offer incentives to new residents, such as rent-free periods.
+The following table summarizes the posted rents for [COMPANY] units at the [LOCATION] and competing residences in the broader
+market area:
+34 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+INDEPENDENT SUPPORTIVE LIVING
+Property Units
+Location Age Studio One Bed Couple
+Operator Min [PERSON]1 The Colonial 94 Rent $2,930 $4,435 $4,435 $4,780 $834
+Whitby 1996 Size ([CITY]) 260 460 460 580
+[COMPANY] $11.27 $9.64 $9.64 $8.24
+2 White Cliffe Terrace Rent $2,995 $3,995 $725
+Courtice Size ([CITY]) 215 280 380
+[COMPANY] $13.93 $0.00 $10.51
+[COMPANY] $3,325 $4,100 $4,700 $5,200 $700
+Oshawa Size ([CITY]) 295 453 551 708
+Livita Living PSF $11.27 $9.05 $8.53 $7.34
+4 [COMPANY] 77 Rent $3,300 $3,900 $4,550 $720
+[COMPANY]) 308 336 462
+[COMPANY] $10.71 $11.61 $9.85
+Comp Set Summary
+Avg. Rent $3,569 $4,610 $745
+Rent Range $2,930 - $4,435 $3,995 - $5,200
+Size Range 215 - 460 380 - 708
+Subject Property
+Amenida Pickering 81 Ask Rent $3,227 $4,517 $4,517 $4,517
+Pickering 1997 [COMPANY]) 290 340 620 620
+PSF $11.13 $13.29 $7.29 $7.29
+In considering the above data and analysis we are of the opinion that the posted rents for the [LOCATION] are within the
+range of pricing in the local and broader market areas. With effective management, continued marketing, and
+investment, we see no obvious reason to suggest that the posted rents are unrealistic.
+The following table summarizes the leases signed at the Subject Property over the past twelve months:
+Leasing Activity Past 12 Months
+Month New Leases Avg. [PERSON]. Asking Variance
+Oct-24 4 $3,350 $3,602 ($252)
+Nov-24 2 $3,760 $3,615 $145
+Dec-24 1 $3,451 $3,492 ($41)
+Jan-25 - $0 $0 $0
+Feb-25 1 $4,170 $4,517 ($347)
+Mar-25 4 $3,804 $4,005 ($201)
+Apr-25 10 $3,628 $3,557 $71
+May-25 4 $3,622 $3,455 $168
+Jun-25 2 $3,663 $3,637 $26
+Jul-25 1 $5,000 $4,517 $483
+Aug-25 3 $3,663 $3,417 $246
+Sep-25 1 $3,663 $3,417 $246
+Total 33 $121,497 $120,511 $986
+Per Suite Per Month 2.8 $3,682 $3,652 $30
+35 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+We have forecast the effective rental increase which is expected to fall within the first twelve months following the
+effective date. This calculation has been based on a 3.0% increase to rents on a suite-by-suite basis, effective on the
+anniversary lease date of each respective tenant over the investment horizon. Based on the lease start dates, this
+translates into a $57,744 incremental amount attributable to first year rental increases. Expressed as a percentage of
+total revenue, this rental increase represents 1.6% of the effective gross rental revenue.
+Occupancy
+The following graph captures the historical occupancy trend at the Subject:
+Occupancy
+100%
+90%
+80%
+70%
+60%
+50%
+40%
+30%
+20%
+10%
+Various sources compiled by CBRE
+According to the rent roll provided by management, occupancy was 100% excluding the four studios under construction.
+The table above illustrates the rapid lease up over the past two years, including under new management in 2025.
+Based on our analysis, we estimate stabilized vacancy and bad debt allowance at -4.0% of all rental revenue. This
+reduction is attributable to vacancies, resident turnover, and non-payment of rent. In our opinion, this is a reasonable
+forecast based on the historical trend as well as the recent occupancy figures. Of noted significance, vacancy
+incorporates all rental income, including short stay and respite.
+Double Occupants
+The second occupant fee at the Subject Property is $750 per month. As of October 1, 2025, a total of 4 double residents
+appeared in the rent roll paying an average of $812 per month.
+We have projected second occupancy in 5.0% of the units. This equates to 4 second occupants and $36,000 in second
+occupancy revenue.
+36 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]
+32-naJ 32-yaM 32-peS 42-naJ 42-yaM 42-peS 52-naJ 52-yaM 52-peS 62-naJ 62-yaM 62-peS 72-naJ 72-yaM 72-peS 82-naJ 82-yaM 82-peS 92-naJ 92-yaM 92-peS 03-naJ 03-yaM 03-peS
+Actual Forecast
+Actual Actual Annualized* Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25
+Double Occupant Income $0 $2,067 $20,398 $18,873
+Per Unit $0 $27 $268 $248
+Per Resident Day $0.00 $0.12 $0.74 $0.69
+% of [COMPANY] 0.10% 0.72% 0.56%
+25-APPRTOR-0397: [COMPANY]
+Ancillary Revenue
+The following table summarizes management’s budget for ancillary revenue.
+Category Budget Forecast PRD % [COMPANY] $240,000 $94,004 $3.15 2.7%
+Commercial Income $96,000 $20,000 $0.67 0.6%
+Other Income $0 $1,000 $0.03 0.0%
+Total $360,000 $115,004 $3.85 3.3%
+Personal Care
+The following table summarizes [COMPANY] historical and budgeted revenue for this category:
+Actual Actual Annualized* Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25
+Personal Care $52,267 $58,058 $37,314 $83,732
+Per Unit $688 $764 $491 $1,102
+Per Resident Day $4.34 $3.30 $1.36 $3.06
+% of [COMPANY] 2.92% 1.32% 2.50%
+According to the rent roll, the total care revenue for the month was $8,651, or approximately $103,800 annualized. This is
+consistent with management budget. Based on the historical trend and budget for the [COMPANY], and the current rent roll
+we have forecasted $94,004 over the projection period. This is consistent with the historical trend and management’s
+forecast of future performance.
+Commercial Income
+The following table summarizes [COMPANY] historical and budgeted revenue for this category:
+Actual Actual Annualized* Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25
+Commercial Income $0 $12,060 $0 $19,580
+Per Unit $0 $159 $0 $258
+Per Resident Day $0.00 $0.69 $0.00 $0.72
+% of [CITY] 0.61% -% 0.58%
+We have forecasted $20,000 over the projection period. This is consistent with the historical trend and management’s
+forecast of future performance.
+Other Income
+The following table summarizes [COMPANY] historical and budgeted revenue for this category:
+Actual Actual Annualized* Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25
+Other Income $4,598 ($108) $1,375 $797
+Per Unit $61 ($1) $18 $10
+Per Resident Day $0.38 ($0.01) $0.05 $0.03
+% of [COMPANY] 0.32% (0.01%) 0.05% 0.02%
+We have forecasted other revenue at $1,000 over the projection period.
+37 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Operating Expenses
+In addition to the rationale and support for the forecast outlined in the following section, we have included our analysis
+of the historical and budget operating performance of [COMPANY], relative to industry benchmark ranges which
+are detailed in [PERSON] “C”.
+Salaries and Wages
+The cost of labour is typically the largest operating expense incurred by a seniors housing residence. In most cases the
+staff is directly employed, leaving the burden of labour relations to management. The staff is typically organized into
+functional areas such as resident care, food services, environmental, recreation and property administration. Wages
+include regular hours as well as backfill costs for vacation, sick and stat holiday allowances.
+The forecast staffing model is summarized in the table below:
+[COMPANY] Backfill Total Avg. [COMPANY] Per Hour Annual
+Administration
+General Manager 38 - - 38 $40.91 $80,000
+Office Manager 38 - - 38 $25.57 $50,000
+Concierge 53 - 5 58 $18.00 $54,203
+[COMPANY] 128 - 5 133 $184,203
+[COMPANY]
+Director of Care 38 - - 38 $35.80 $70,000
+RPN/[COMPANY] 53 - 5 58 $25.00 $75,281
+Support Worker 225 54 28 307 $20.00 $320,367
+[COMPANY] 315 54 33 402 $465,649
+Food Services
+Head Chef 38 - - 38 $28.13 $55,000
+Cook 105 - 11 116 $19.00 $114,428
+Server 173 - 17 191 $18.00 $179,020
+[COMPANY] 316 - 28 344 $348,448
+Environmental
+Environmental Services Manager 38 - - 38 $25.57 $50,000
+Housekeeping Aide 79 - 8 86 $18.00 $81,118
+Laundry Aide 20 - 2 22 $18.00 $20,279
+[COMPANY] 136 - 10 146 $151,397
+Recreation
+Activity Director 38 - - 38 $25.57 $50,000
+[COMPANY] 38 - - 38 $50,000
+[COMPANY] 931 54 76 1,062 $1,199,696
+Where personal care and additional services are offered, the composition of staff usually corresponds with the specific
+dependency levels and uptake of services at that time. It is beyond the scope of our instruction to make a judgement on
+specific staffing levels which relate to clinical needs, nor on the management’s operational ethos which may affect
+decisions on above/below average staffing levels, rates of pay and benefits etc.
+Total salaries and wages expense, expressed on a per resident day (“prd”) basis is $39.81 which is reasonable in view of
+the service offering.
+38 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+The salaries and wages cost identified in the unaudited historical and budget operating statements provided by
+management are summarized in the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Salaries & Wages $1,136,599 $1,028,158 $1,189,699 $1,131,404 $1,495,106
+Per Unit $14,955 $13,528 $15,654 $14,887 $18,458
+Per Resident Day $94.30 $58.50 $43.21 $41.33 $44.45
+% of [COMPANY] 79.75% 51.67% 42.22% 33.76% 33.93%
+Benefits
+The benefits cost identified in the unaudited historical and budget operating statements provided by management are
+summarized in the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Benefits $151,310 $148,177 $150,589 $176,832 $166,237
+Per Unit $1,991 $1,950 $1,981 $2,327 $2,052
+Per Resident Day $12.55 $8.43 $5.47 $6.46 $4.94
+% of [COMPANY] 10.62% 7.45% 5.34% 5.28% 3.77%
+% of [COMPANY] 13.31% 14.41% 12.66% 15.63% 11.12%
+We have provided for a benefits allowance in the order of 14.0% of forecast salaries and wages. This equates to a total
+projected benefits load of $167,957 per annum.
+[COMPANY], [COMPANY]
+The following summarizes the total staffing costs:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Salaries, [COMPANY] $1,287,909 $1,176,335 $1,340,288 $1,308,236 $1,661,343
+Per Unit $16,946 $15,478 $17,635 $17,214 $20,510
+Per Resident Day $106.85 $66.94 $48.68 $47.79 $49.39
+% of [COMPANY] 90.36% 59.12% 47.56% 39.03% 37.70%
+[COMPANY]’s labour expense at stabilized occupancy equates to $1,367,653, or $45.38 prd and reflects 37.7% of total effective
+gross revenue.
+[COMPANY]
+The food and beverage expense identified in the unaudited historical and budget operating statements provided by
+management are summarized in the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+[COMPANY] $165,380 $168,754 $239,307 $271,614 $297,021
+Per Unit $2,176 $2,220 $3,149 $3,574 $3,667
+Per Resident Day $13.72 $9.60 $8.69 $9.92 $8.83
+% of [COMPANY] 11.60% 8.48% 8.49% 8.10% 6.74%
+We have projected food and beverage expense at $9.255 per resident day, or $278,777 per annum. This is consistent with
+the historical trend and management’s forecast of future performance.
+39 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Supplies
+The supplies expense identified in the unaudited historical and budget operating statements provided by management
+are summarized in the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Supplies $55,502 $71,037 $97,452 $91,927 $103,694
+Per Unit $730 $935 $1,282 $1,210 $1,280
+Per Resident Day $4.60 $4.04 $3.54 $3.36 $3.08
+% of [COMPANY] 3.89% 3.57% 3.46% 2.74% 2.35%
+We have forecast supplies at $3.25 per resident per day, equating to $97,949 per annum. This is consistent with the
+historical trend and management’s forecast of future performance.
+Administration
+The property-level administration expense identified in the unaudited historical and budget operating statements
+provided by management are summarized in the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Administration $78,632 $89,805 $205,185 $107,139 $95,875
+Per Unit $1,035 $1,182 $2,700 $1,410 $1,184
+Per Resident Day $6.52 $5.11 $7.45 $3.91 $2.85
+% of [COMPANY] 5.52% 4.51% 7.28% 3.20% 2.18%
+We have forecast administration at 2.75% of effective gross revenue, which equates to $99,732 per annum. This is
+consistent with the historical trend and management’s forecast of future performance.
+[COMPANY]
+The advertising & promotions expense identified in the unaudited historical and budget statements are shown below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Advertising & Promotion $67,071 $26,429 $128,990 $45,181 $75,000
+Per Unit $883 $348 $1,697 $594 $926
+Per Resident Day $5.56 $1.50 $4.68 $1.65 $2.23
+% of [COMPANY] 4.71% 1.33% 4.58% 1.35% 1.70%
+We have forecasted the expense at $600 per unit, which equates to $48,600 per annum. This is consistent with the
+historical trend and management’s forecast of future performance.
+Maintenance
+The maintenance and repairs expense in the unaudited historical and budget statements are summarized below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Maintenance $170,262 $115,022 $123,163 $110,931 $130,873
+Per Unit $2,240 $1,513 $1,621 $1,460 $1,616
+Per Resident Day $14.13 $6.55 $4.47 $4.05 $3.89
+% of [COMPANY] 11.95% 5.78% 4.37% 3.31% 2.97%
+40 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+We have forecast maintenance costs at $1,600 per unit per annum, equating to $129,600 over the projection period. This
+is consistent with the historical trend and management’s forecast of future performance.
+Utilities
+The utilities costs identified in the unaudited historical and budget operating statements have been summarized in the
+table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Utilities $137,173 $144,914 $115,174 $154,196 $174,306
+Per Unit $1,805 $1,907 $1,515 $2,029 $2,152
+Per Resident Day $11.38 $8.25 $4.18 $5.63 $5.18
+% of [COMPANY] 9.62% 7.28% 4.09% 4.60% 3.96%
+We have forecast utilities costs at $2,150 per unit per annum, which equates to $174,150 per annum. This is consistent
+with the historical trend and management’s forecast of future performance.
+Insurance
+The insurance costs identified in the unaudited historical and budget statements have been summarized below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Insurance $31,956 $36,107 $33,311 $33,432 $42,000
+Per Unit $420 $475 $438 $440 $519
+Per Resident Day $2.65 $2.05 $1.21 $1.22 $1.25
+% of [COMPANY] 2.24% 1.81% 1.18% 1.00% 0.95%
+We have forecasted property insurance costs at $38,475 per annum. This is consistent with the historical trend and
+management’s forecast of future performance. We assume that current and historic costs have been properly tendered
+to ensure they are competitive.
+[PERSON]
+The realty tax costs identified in the unaudited historical and budget operating statements have been summarized in the
+table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Realty Tax $78,715 $117,054 $95,346 $126,594 $111,000
+Per Unit $1,036 $1,540 $1,255 $1,666 $1,370
+Per Resident Day $6.53 $6.66 $3.46 $4.62 $3.30
+% of [COMPANY] 5.52% 5.88% 3.38% 3.78% 2.52%
+The Subject Property is assessed for municipal taxation at $9,564,000 for 2025. Based on the current tax rate, we
+estimate the realty tax expense as follows:
+Assessment Effective Rate Realty Tax
+$9,564,000 1.288240% $123,207
+Total 2025 Realty Tax Expense $123,207
+41 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+We have forecasted realty tax expense based on a 1.5% increase over the calculated 2025 taxes.
+Management Fee
+The management fee expense identified in the unaudited historical and budget operating statements are summarized in
+the table below:
+Actual Actual Annualized* Budget Budget
+31-Dec-23 31-Dec-24 30-Jun-25 31-Dec-25 31-Dec-25
+Management Fee $58,216 $92,450 $128,945 $154,371 $199,169
+Per Unit $766 $1,216 $1,697 $2,031 $2,459
+Per Resident Day $4.83 $5.26 $4.68 $5.64 $5.92
+% of [COMPANY] 4.08% 4.65% 4.58% 4.61% 4.52%
+We have forecast management fee costs at 4.0% of effective gross revenue. This is based on the consensus rate used
+for third party management contracts, and importantly is consistent with the parameters with which we have analyzed
+the comparable sales in the valuation section of this report.
+[PERSON]
+The following chart expresses key operating statement line items on a common-sized basis, to provide further insight on
+the historical run-rate of revenue and expenses at the Subject Property.
+[COMPANY] Annualized* Budget CBRE
+Period Ending Dec-23 Dec-24 Jun-25 Dec-25 Aug-26
+MARPAS Monthly Rev. Per Unit $1,563 $2,182 $3,090 $3,675 $3,731
+Occupancy 43.4% 62.0% 97.7% 97.4% 97.0%
+Operating Expenses
+Salaries & Wages Per Resident Day $94.30 $58.50 $43.21 $41.33 $39.81
+Benefits % of [COMPANY] 13.3% 14.4% 12.7% 15.6% 14.0%
+[COMPANY] $13.72 $9.60 $8.69 $9.92 $9.25
+Supplies Per Resident Day $4.60 $4.04 $3.54 $3.36 $3.25
+Purchased Services Per Resident Day $0.00 $0.00 $0.00 $0.00 $0.00
+Administration % of [COMPANY] 5.5% 4.5% 7.3% 3.2% 2.8%
+[COMPANY] $883 $348 $1,697 $594 $600
+Maintenance Per Unit Per Annum $2,240 $1,513 $1,621 $1,460 $1,600
+[COMPANY] $1,805 $1,907 $1,515 $2,029 $2,150
+Insurance Per Unit Per Annum $420 $475 $438 $440 $475
+[COMPANY] $1,036 $1,540 $1,255 $1,666 $1,544
+Management Fee % of [COMPANY] 4.1% 4.6% 4.6% 4.6% 4.0%
+Operating Expenses % of [COMPANY] 149.5% 102.4% 89.0% 71.7% 69.1%
+Net Operating Income Per Unit Per Annum ($9,284) ($633) $4,092 $12,474 $13,846
+Commentary
+‒ CBRE’s forecast is predicated on stabilized occupancy of 96.0%.
+‒ Our expense forecast equates to 69.1% of gross revenue which is considered reasonable.
+42 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Forecast Reconciliation
+The following chart provides a comparison between the manager’s budget for the period ended December 31, 2025, and
+[COMPANY]’s forecast stabilized [COMPANY] projection as sourced from the appraisal.
+[COMPANY]Period Ending Dec-25 Aug-26
+Resident Days 27,375 30,138 2,763
+Total Units 76 81 5
+Revenue
+Base Rent, Net $3,289,073 $3,474,695 $185,623 1
+Double Occupancy $18,873 $36,000 $17,127 2
+Ancillary Income $43,717 $115,935 $72,218 3
+Effective Gross Revenue $3,351,662 $3,626,630 $274,968
+Occupancy 97.4% 97.0% 0.4%
+Operating Expenses
+Salaries & Wages $1,131,404 $1,199,696 ($68,292) 4
+Benefits $176,832 $167,957 $8,875 5
+[COMPANY] $271,614 $278,777 ($7,162) 6
+Supplies $91,927 $97,949 ($6,021) 6
+Purchased Services $0 $0 $0 6
+Administration $107,139 $99,732 $7,407 6
+[COMPANY] $45,181 $45,600 ($419) 6
+Maintenance $110,931 $121,600 ($10,669) 6
+Utilities $154,196 $163,400 ($9,204) 6
+Insurance $33,432 $36,100 ($2,668) 6
+Realty Tax $126,594 $125,100 $1,494 6
+Management Fee $154,371 $145,065 $9,306 7
+Operating Expenses $2,403,622 $2,480,977 ($77,355)
+Net Operating Income $948,040 $1,145,654 $197,613
+Notes
+1 Based on in-place monthly income of $275,701 plus market rent for vacant units, plus forecast rental increase less vacancy of 3.0%
+2 Based on [COMPANY] estimate of 4 units occupied by couples
+3 Substantially in line with management's estimates which were deemed to be reasonable
+4 Based on [COMPANY] staffing forecast (internally consistent with forecasted ancillary income a la carte items)
+5 Allowance for benefits at 14.0% of salaries based on long-term benchmarks for a mature workforce
+6 Based on perspective provided by [COMPANY] run-rate and industry benchmarks
+7 Management fee based on industry consensus estimates and not necessarily the in-place management contract
+43 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Forecast: Multi-Year Cash Flow
+The following table summarizes [COMPANY]’s forecast of the net operating income expected to be generated by the Subject Property over the stated multi-year investment
+horizon. A discussion of the underlying assumptions follows. This is the foundation of [COMPANY].
+Stabilized Year 1 Year 2 Year 3 Year 4 Year 5 Year 6
+For [COMPANY] Aug-2026 Aug-2026 Aug-2027 Aug-2028 Aug-2029 [PERSON] Days 30,138 30,138 30,138 30,221 30,138 30,138 30,138
+Occupancy 97.0% 97.0% 97.0% 97.0% 97.0% 97.0% 97.0%
+Contract Rent $3,361,840 $3,361,840 $3,462,696 $3,566,576 $3,673,574 $3,783,781 $3,897,294
+Market Rent $220,320 $220,320 $226,930 $233,737 $240,750 $247,972 $255,411
+Gross Potential Base Rent $3,582,160 $3,582,160 $3,689,625 $3,800,314 $3,914,323 $4,031,753 $4,152,706
+Less: Vacancy ($107,465) ($107,465) ($110,689) ($114,009) ($117,430) ($120,953) ($124,581)
+[COMPANY], Single $3,474,695 $3,474,695 $3,578,936 $3,686,304 $3,796,894 $3,910,800 $4,028,124
+Plus: Double Occupancy Income $36,000 $36,000 $37,080 $38,192 $39,338 $40,518 $41,734
+[COMPANY], Total $3,510,695 $3,510,695 $3,616,016 $3,724,497 $3,836,232 $3,951,319 $4,069,858
+Ancillary Income $115,935 $115,935 $119,413 $123,271 $126,685 $130,486 $134,400
+Effective Gross Revenue $3,626,630 $3,626,630 $3,735,429 $3,847,768 $3,962,917 $4,081,804 $4,204,259
+Operating Expenses
+Salaries & Wages $1,199,696 $1,199,696 $1,235,687 $1,274,504 $1,310,940 $1,350,268 $1,390,776
+Benefits $167,957 $167,957 $172,996 $178,431 $183,532 $189,038 $194,709
+[COMPANY] $278,777 $278,777 $287,140 $296,565 $304,627 $313,766 $323,179
+Supplies $97,949 $97,949 $100,887 $104,198 $107,031 $110,242 $113,549
+Administration $99,732 $99,732 $102,724 $105,806 $108,980 $112,250 $115,617
+Advertising & Promotion $45,600 $48,600 $50,058 $51,560 $53,107 $54,700 $56,341
+Maintenance $121,600 $129,600 $133,488 $137,493 $141,617 $145,866 $150,242
+Utilities $163,400 $174,150 $179,375 $184,756 $190,298 $196,007 $201,888
+Insurance $36,100 $38,475 $39,629 $40,818 $42,043 $43,304 $44,603
+[COMPANY] $125,100 $133,330 $137,330 $141,450 $145,694 $150,064 $154,566
+Management Fee $145,065 $145,065 $149,417 $153,911 $158,517 $163,272 $168,170
+Operating Expenses $2,480,977 $2,513,332 $2,588,732 $2,669,491 $2,746,386 $2,828,777 $2,913,641
+Net Operating Income $1,145,654 $1,113,298 $1,146,697 $1,178,278 $1,216,531 $1,253,027 $1,290,618
+Cash Flow Before Debt Service $1,113,298 $1,146,697 $1,178,278 $1,216,531 $1,253,027 $1,290,618
+[COMPANY] Margin 30.7% 30.7% 30.6% 30.7% 30.7% 30.7%
+44 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Summary of Assumptions: Multi-Year Cash Flow
+Analysis Period 5 Years
+Analysis Start Date September 1, 2025
+Starting Occupancy 95.1%
+[COMPANY]
+ISL Studio $3,475 $3,657
+[COMPANY] $4,289 $4,297
+Growth Rates
+Revenues 3.0% per annum
+Expenses 3.0%
+Contract Rent 3.0%
+Market Rent 3.0%
+Vacancy and Bad Debt Allowance 4.0% of [COMPANY]
+Lease-Up Absorption 1 Months
+Other Assumptions
+Structural Reserve .0% of [COMPANY]
+Average Length of Stay n/a
+45 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+This valuation approach considers capitalization rates derived from transactions involving properties comparable to the
+Subject Property to determine on a relative risk adjusted basis, the most appropriate rate of return required for an
+investor should they be evaluating [COMPANY]. This capitalization rate is applied to a stabilized single-year
+estimate of net operating income to determine market value. Where the [COMPANY] is not trading at a mature occupancy or
+a stabilized position, adjustments may be considered to the extent that [COMPANY] currently exhibits a level of
+occupancy which is less than the estimated level of long-term stabilized occupancy.
+[COMPANY]
+The rationale developed for the selection of [COMPANY] ([COMPANY]), [COMPANY] ([COMPANY]) and
+[COMPANY] ([COMPANY]) for [COMPANY] is based on a review of the following factors to provide
+perspective on the investment market:
+‒ Investment yields of 10-year Canada bonds and [COMPANY] investment market survey
+‒ Recent investment market transactions
+‒ Investment calibre of the Subject Property
+As discussed within the Market Overview section earlier within this report, there has been low transaction activity during
+the last two years. The outlook remains positive, although this lack of activity forces us to turn to older and broader
+transactional evidence, with a greater degree of valuer judgement. This judgement includes adjustments for higher
+borrowing rates and lower liquidity trends. At present, market sentiment suggests approximately +25-50bps to historic
+Class A cap rates seen in transactions which occurred prior to 2022. This is expected to reverse during 2024-2025 if
+interest rates were to reduce, and transactional volume was to pick up, although this remains to be seen and a market
+precedent will need to be set.
+Comparable Market Transactions
+Given the finite number of properties in this sector, single-asset arm’s length transfers remain limited relative to other
+property types. Recognizing the impact of a property’s operating attributes on pricing, it is appropriate to utilize
+comparable properties exemplifying similar operational margins to accurately interpret pricing metrics employed by
+market participants. To do so, a more regional search was performed with comparables chosen based on asset class,
+service provision, operating metrics at time of sale, and condition of the property. The sales utilized represent the best
+data available for comparison with the [LOCATION].
+Our primary support in rationalizing an [COMPANY] for [COMPANY] is provided through our review of the following
+seniors housing investment transactions across the Country with a focus on Ontario.
+46 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]. of Units OCR
+City Price (100%) Yr Opened Vacancy (%) IRR
+[PERSON]. Price Parking [PERSON]. Price/Unit [COMPANY]
+1 The Richmond 15-Aug-25 B 82 8.00%
+[CITY] $12,500,000 1989 10% 8.75%
+ON $12,500,000 0.40 $152,439 8.13%
+2 Credit River 23-Jun-25 A 133 5.75%
+Mississauga $60,200,000 2016 10% 8.75%
+ON $60,200,000 0.40 $452,632 5.88%
+3 Wildpine Residence 10-Feb-25 A 165 6.25%
+Stittsville $48,000,000 2019 5% 9.25%
+ON $48,000,000 - $290,909 6.38%
+4 Orchard View by the Mississippi 21-Jun-24 A 153 6.75%
+Almonte $51,420,000 2016 4% 9.50%
+ON $51,420,000 0.60 $336,078 6.88%
+5 [COMPANY] 01-Dec-22 B 334 6.75%
+Niagara South $59,111,600 2000 7% 9.00%
+ON $59,111,600 - $176,981 7.00%
+6 Kelso Villa 02-May-22 B 109 7.00%
+Owen Sound $21,990,000 2000 10% 8.75%
+ON $21,990,000 0.77 $201,743 7.13%
+7 Southbrook Community 10-Mar-21 B 117 7.00%
+Brampton $14,500,000 1989 10% 8.75%
+ON $14,500,000 0.77 $123,932 7.13%
+On a relative basis, investors typically adjust their ROI expectations for the following factors:
+‒ Care Level Spread – Investors typically associate incremental operating complexity and risk with government
+subsidized long-term care operations relative to private-pay independent living facilities, commanding a higher rate
+of return when moving up the continuum of care from [COMPANY] to LTC properties.
+‒ Market Type Spread – Institutional investors focus on primary and large secondary markets, while private
+investors/grounds with higher cost of capital focus on smaller secondary and tertiary markets.
+‒ Product Quality Spread – Institutional investor (ie. REIT, pension fund) demand is for Class “A” properties only
+which are large scale, contemporary home. Private investors command a higher return for investing in older Class B
+and C assets.
+47 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Standalone Transactions
+THE RICHMOND – CLOSING DATE: OCTOBER 2025
+[COMPANY] has sold a Class B investment property through [COMPANY] known as “The Richmond Retirement Residence”. It is located on a
+main road in central [CITY]. Opened circa 1990, it is a 3-storey, 82-unit
+seniors’ community offering [COMPANY] accommodation with optional care and other
+services. The building had been renovated from time to time and was
+reported to be in generally good condition. Reportedly, this transaction is set
+to close in October. Discussion held with the vendor indicated that the
+purchase price was close to guidance, reflecting a unit value in the order of
+~$150,000 per door and at an overall cap rate in the range of ~8.0%.
+[LOCATION] – CLOSING DATE: TBD
+[COMPANY] announced that it has entered into a purchase
+agreement to acquire [COMPANY], a 133-suite
+retirement residence consisting of 84 independent living (IL), 25 assisted
+living (AL), and 24 memory care (MC) units in [CITY], Ontario. Built in
+2016, the six-storey Class A property offers attractive amenities, including
+excellent health & fitness facilities, a movie theatre, multiple dining rooms and
+an outdoor terrace. Occupancy was reported to be 90% at the time of sale.
+The purchase price is $60.2 million with an initial investment yield of 5.75%.
+WILDPINE RESIDENCE – CLOSING DATE: APRIL 15, 2025
+On February 10, 2025, [PERSON] entered into a purchase agreement to acquire
+[PERSON], a 165-suite retirement residence consisting of 119
+independent living (IL) and 46 assisted living (AL) units in [LOCATION], a suburb
+located in Ottawa’s west end. Opened in 2019, the four-storey property offers
+attractive amenities, including multiple dining rooms, pub, and health &
+fitness facilities. The property’s occupancy was stabilized in the 95% range,
+and the overall cap rate was 6.25%. The gross purchase price is $48.0 million,
+subject to certain customary adjustments, and financed through the
+assumption of approximately $25.0 million of CMHC insured debt.
+ORCHARD VIEW BY THE MISSISSIPPI – CLOSING DATE: JUNE 2024
+In June 2024 [COMPANY] acquired a contemporary seniors’ residence in
+[CITY], Ontario, a small community situated 30 kilometres west of Ottawa.
+Opened in 2016, it is comprised of a 4 storey, purpose-built retirement
+residence with 32 rental townhouses. The retirement building has a total of
+121 [COMPANY] units including 47 [COMPANY], 41 AL, and 33 MC units. At the time of sale, the
+retirement residence was >95% occupied and the townhouses were fully
+occupied with a waitlist. The purchaser ([COMPANY]) is a private owner/operator
+with a small portfolio in [CITY]. The overall cap rate was estimated to
+be 6.75% which is indicative of the tertiary market location.
+48 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+LOOKOUT RIDGE/PORTAL VILLAGE – CLOSING DATE: DECEMBER 1, 2022
+[COMPANY] completed its acquisition of two Class B senior living properties
+in [LOCATION], [CITY] and [CITY], from a private
+operator ([COMPANY]). The total consideration was $59,111,600,
+equating to approximately $177,000 per unit. Located in [PERSON],
+[CITY] is a 3-storey, 164-unit, wood-frame residence that opened in
+2008. Located in [CITY], [CITY] is a 2-storey, 170-unit
+wood-frame residence that opened in 1986. The buyer is an aggregator of
+seniors’ homes in the province. Reportedly, it was a direct deal (not brokered).
+Based on our knowledge of the sale, we estimate the stabilized [COMPANY] to be in
+the order of 6.75%.
+KELSO VILLA – CLOSING DATE: MAY 2, 2022
+On May 2, 2022, [PERSON] completed its acquisition of Kelso Villa Retirement
+Residence from a private operator for ~$22 million. The property is a 109-unit
+residence located in [CITY]. Opened circa 2000, it is a 2
+storey, wood-frame residence with [COMPANY] accommodation. It is considered a
+Class B investment property based on the location, age, and scale. The buyer
+is an aggregator and operator of a portfolio of Class B seniors’ homes in
+southern Ontario. [PERSON] was broker on the deal. Based on reliable information,
+we estimate the stabilized [COMPANY] to be 7.0%.
+SOUTHBROOK RETIREMENT RESIDENCE – CLOSING DATE: APRIL 1, 2022
+On March 10, 2021, [COMPANY] completed its acquisition of
+S7B outhbrook Retirement Community from a private operator for $14.5 million.
+The property is a 117-unit residence located in [CITY]. Opened
+in 1989, it is a two-storey, wood-frame residence with semi-private, studio and
+one-bedroom units. It offers independent supportive living and [COMPANY] services,
+with some funded care units. At the time of sale, it was about 85% occupied
+coming out of [CITY]. Based on our knowledge of the terms, we estimate the
+stabilized [COMPANY] to be 7.0%.
+Overall Conclusion
+The Strengths/Opportunities and Weaknesses/Threats (SWOT) of the seniors’ housing investment market are outlined
+within the following bullets:
+STRENGTHS WEAKNESSES
+8B 9B
+‒ Improving operating fundamentals ‒ High construction costs continue to impede
+meaningful new project development
+‒ Liquidity due to growing investor interest in
+alternative asset classes [PERSON] residential market conditions impact on
+occupancy growth, particularly for [COMPANY]/ISL
+‒ Availability of capital from lenders
+‒ Uncertain economic backdrop due to tariff threats
+‒ Demographic tailwinds (“silver stampede”)
+and geopolitical events
+49 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+The Subject’s Strengths/Opportunities and Weaknesses/Threats (SWOT) are considered, and outlined within the
+following bullets:
+STRENGTHS WEAKNESSES
+10B 11B
+‒ Primary market location ‒ Low exposure to traffic
+‒ Vehicular access and public transit ‒ Design features due to age of the property
+‒ Proximity to retail ‒ Competitive market due to new supply
+‒ Occupancy recovery and rising rent levels
+‒ Future revenue growth potential
+In conclusion, it is our opinion that an overall cap rate towards the lower end of the Class B range between 7.25% and
+7.50% is appropriate. We have selected an [COMPANY] at the middle of the stated range at 7.50%.
+[COMPANY]
+The following table provides a summary of the current market value of the Leased Fee interest in the Subject Property
+on a current basis by [COMPANY], subject to the extraordinary assumptions and limiting conditions
+noted herein.
+[COMPANY] Low High Selected
+[COMPANY] $1,145,654 $1,145,654 $1,145,654
+Overall [PERSON] 7.75% 7.25% 7.50%
+Market Value (Rounded) $14,800,000 $15,800,000 $15,300,000
+Notes
+1 Based on stabilized occupancy at the Effective Date
+50 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Discounted Cash Flow Method
+The basic premise of [COMPANY] is that the market value is equal to the present value of future
+cash flows forecasted over an investment horizon, together with the proceeds of a deemed disposition at the end of the
+holding period.
+Revenue Forecast
+As the valuation model incorporates future cash flows, annual growth rates are estimated by analyzing the expectations
+typically used by buyers and sellers in the local marketplace. As noted earlier in the report, we have forecast the rental
+increase which is expected over our 5-year investment horizon. Our calculation is based on an average annual increase
+of 3.0% to contract rents at each lease anniversary, and 3.0% to posted rents for new leases.
+Investment Rates
+For estimating value via [COMPANY], investment rates are applied to the projected income
+levels. In addition to the previously concluded overall capitalization rate (going-in rate), the primary investment rates
+utilized within our analysis include the reversion (disposition) capitalization rate, and the discount rate (unleveraged
+[COMPANY]).
+Discount Rate
+The primary rates utilized in our analysis include the overall cap rate, terminal cap rate, and the discount rate
+(unleveraged [COMPANY]). We have also considered prevailing market conditions (including inflationary pressures, cost of
+capital, etc.) in concluding an appropriate discount rate. While the overall long-term outlook for commercial real estate
+remains positive, these factors are impacting price discovery and underwriting for buyers. The impact can vary
+depending on location and asset class, and in some cases is yielding smaller buyer pools. Overall, we view this
+investment environment to have some potential upward influence on yields. Our discount rate conclusion considers
+available information and our view of market/investment conditions.
+Based on our forecast, it is our opinion that a discount rate of 10.00% is appropriate for [COMPANY]. This
+represents 250 bps over our going-in cap rate to account for the growth forecast.
+Terminal [PERSON]
+The reversionary value of the [COMPANY] is based on an assumed sale at the end of the holding period based on capitalizing
+the Year 6 NOI at a terminal capitalization rate. Typically, market participants utilize a terminal capitalization rate that
+falls above the going-in capitalization rate ([COMPANY]). This practice is a result of the uncertainty of future economic
+conditions and the natural aging of the property.
+As indicated by the current and historical data, market participants have utilized terminal rate spreads ranging between
+0 and 50 bps, largely depending upon the age of the building and market trends (ie. interest rates, supply/demand etc.).
+Based on current market conditions, we conclude on a 7.62% terminal cap rate which is 12.5 bps above the current
+stabilized [COMPANY] range.
+In accordance with [COMPANY], we have excluded disposition costs.
+51 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Discounted Cash Flow Value Conclusion
+The following table provides a summary of [COMPANY] applied to [COMPANY], subject to the extraordinary
+assumptions and limiting conditions noted herein.
+[COMPANY]Forecast Year NOI Cash Flow PV Cash Flow
+Year 1 $1,113,298 $1,113,298 $1,057,222
+Year 2 $1,146,697 $1,146,697 $989,944
+Year 3 $1,178,278 $1,178,278 $924,583
+Year 4 $1,216,531 $1,216,531 $867,734
+Year 5 $1,253,027 $1,253,027 $812,514
+Reversion $16,926,138 $10,507,056
+Total $22,833,970 $15,159,053
+Market Value (Rounded) $15,200,000
+Reversionary Value Summary Avg. Yields [COMPANY]
+Year 6 [COMPANY] $1,290,618 Year 1 7.3%
+[COMPANY] 7.63% Year 1 - 5 7.8%
+Reversionary Value $16,926,138
+52 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+[COMPANY] is applied using the price per unit as the basis of comparison. In this approach, both
+qualitative and quantitative adjustments can be considered.
+Net Operating Income Analysis
+The fundamental basis for the real estate appraisal conclusions involves differences (elements of comparison) between
+the comparables and [COMPANY]. Specifically, the elements of comparison are the characteristics of properties
+and transactions that cause the prices paid for real estate to vary. Nine common elements of comparison that are
+considered in the sales comparison approach include:
+‒ Real property rights conveyed
+‒ Financing terms
+‒ Conditions of sale
+‒ Market Conditions
+‒ Location
+‒ Physical Characteristics
+‒ Economic Characteristics
+‒ Use
+‒ [COMPANY] of Value
+These elements have been reflected within the net operating income for each market transaction. The best basis for
+comparison is the net operating income per unit between [COMPANY] and the comparable market transactions.
+To provide a comparison, the following formula is applied:
+[COMPANY] $/Unit
+NOI Adjustment Factor = x Comparable Sale Price $/Unit
+[COMPANY] $/Unit
+The sales comparison approach utilizes sales of comparable properties, adjusted for differences, to indicate a value for
+the Subject. Valuation is typically accomplished using physical units of comparison such as price per square foot, price
+per unit, price per floor, etc., or economic units of comparison such as gross rent multiplier. Adjustments are applied to
+the physical units of comparison derived from the comparable sales. The unit of comparison chosen for the subject is
+then used to yield a total value. Economic units of comparison are not adjusted, but rather analyzed as to relevant
+differences, with the final estimate derived based on the general comparisons. Based on a comparative analysis, the
+following chart summarizes the adjustments warranted to each comparable.
+53 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Summary of Adjustments
+Subject Property Index 1 Index 2 Index 3 Index 4 Index 5 Index 6 Index 7
+[COMPANY] by [COMPANY] Kelso [COMPANY]
+[CITY]
+Sale Details
+Date of Sale Aug-25 Aug-25 Jun-25 Feb-25 Jun-24 Dec-22 May-22 Mar-21
+Sale Price (100% Interest) $15,300,000 $12,500,000 $60,200,000 $48,000,000 $51,420,000 $59,111,600 $21,990,000 $14,500,000
+Price per Unit $188,900 $152,439 $452,632 $290,909 $336,078 $176,981 $201,743 $123,932
+Property Details
+Year Opened 1997 1989 2016 2019 2016 2000 2000 1989
+Number of Units 81 82 133 165 153 334 109 117
+Class B B A A A B B B
+Condition Good Good Excellent Excellent Excellent [PERSON] Type Secondary Secondary Secondary [COMPANY] Fee Fee Simple Fee Simple Fee Simple Fee Simple Fee Simple Fee Simple Fee Simple
+Occupancy Rate 97.0% Stab. [COMPANY] 90.0% 90.0% 95.0% 96.0% 93.0% 90.0% 90.0%
+[COMPANY] Nil Nil Nil Nil Nil Nil Nil
+Lease-Up Costs Nil Nil Nil Nil Nil Nil Nil
+Excess Land / Redundant Assets Nil Nil Nil Nil Nil Nil Nil
+Deferred Maintenance Nil Nil Nil Nil Nil Nil Nil
+Financing Nil Nil Nil Nil Nil Nil Nil
+Special Motivation Nil Nil Nil Nil Nil Nil Nil
+Timing #N/A #N/A #N/A #N/A #N/A #N/A #N/A
+Adjusted Price #N/A #N/A #N/A #N/A #N/A #N/A #N/A
+Adjusted Price per Unit $188,900 #N/A #N/A #N/A #N/A #N/A #N/A #N/A
+Qualitative Analysis
+Building Age Inferior Superior Superior Superior Similar Similar Inferior
+Scale (Units) Similar Superior Superior Superior Superior Superior Superior
+Class Similar Superior Superior Superior Similar Similar Similar
+Condition Similar Superior Superior Superior Similar Similar Similar
+Market Type Similar Similar Similar Inferior Similar Superior Superior
+NOI Adjustment
+Stabilized NOI Per Unit $14,144 $12,195 $26,015 $18,182 $22,680 $11,946 $14,128 $8,718
+[COMPANY] Adjustment 16.0% (45.6%) (22.2%) (37.6%) 18.4% 0.1% 62.2%
+[COMPANY]
+54 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+The unadjusted unit values indicate a range of $123,932 to $452,632 per suite/unit. After adjusting the sales for the
+comparable stabilized [COMPANY] per unit, the range tightens to $ to $ per suite/unit, on a stabilized occupancy basis.
+[COMPANY]
+Based on the above discussion, on a stabilized occupancy basis the [COMPANY]’s unit value should fall below the adjusted
+range, subject to the extraordinary assumptions and limiting conditions noted herein.
+[COMPANY] Low High Selected
+Value per Unit $183,000 $195,000 $188,900
+No. of Units 81 81 81
+Market Value (Rounded) $14,800,000 $15,800,000 $15,300,000
+Notes
+Based on stabilized occupancy at the Effective Date
+55 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+We have reviewed income yields from comparable market transactions using [COMPANY]. Based on
+our forecast of stabilized net operating income, capitalized at a 7.50% [COMPANY], this approach indicates an ‘as-is’ market
+value of $14,800,000.
+Although [COMPANY] is not used by market participants as a primary valuation methodology, it
+provides additional support for a unit value in the order of $182,700 on a stabilized basis for [COMPANY], which
+equates to an ‘as-is’ market value of $14,800,000.
+As noted previously, [COMPANY] is not considered to be an appropriate indicator of value for income producing
+properties of this nature and is rarely used by market participants, especially if the property is fully leased. Accordingly,
+it has not been used as part of this appraisal.
+We conclude market value using [COMPANY] as follows:
+Market Value Conclusion $15,300,000
+Value per Unit $188,889
+Overall Capitalization Rate 7.50%
+[COMPANY] 10.00%
+Terminal Capitalization Rate 7.63%
+ds1 [COMPANY]Year 1 7.3% 7.3%
+Year 1 - 5 7.7% 7.7%
+[COMPANY] excluding excess land and other redundant assets
+Based on the information contained within this appraisal, it is our professional opinion that the current market value of
+the Leased Fee interest in [COMPANY] on a stabilized basis, subject to the extraordinary assumptions and
+limiting conditions noted herein, as of August 21, 2025, is estimated at:
+$15,300,000
+Fifteen Million Three Hundred Thousand Dollars
+56 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] and Best Use
+Highest and Best Use
+Section 3.35 of CUSPAP 2024 defines Highest and Best Use as “the reasonably probable use of real property, that is
+physically possible, legally permissible, financially feasible, and maximally productive, and that results in the highest
+value.”
+A thorough [COMPANY] and Best Use analysis involves assessing [COMPANY] was beyond the scope of this
+mandate. In valuation practice, the concept of highest and best use represents the premise upon which value is based.
+The four criteria the [COMPANY] and Best Use must meet are:
+‒ Legally permissible (or legal permissibility)
+‒ Physically possible (or physical possibility)
+‒ Financially feasible (or financial feasibility)
+‒ Maximally productive (or maximum productivity)
+The definitions of these four criteria can be found under [PERSON] A
+As if Vacant
+‒ Designated “RH(SC) X192”, where permitted uses include Senior [PERSON] A broadly Rectangular and Level with Street Grade parcel of land, measuring approximately 0.73 acres
+‒ Surrounding land uses generally consist of mixture of residential and commercial
+‒ Good access and egress from the site
+As Improved
+‒ Improved with a 81 unit, 4 storey purpose-built retirement residence, a use which we assume to comply with the
+existing land use regulations
+‒ Property has good economies of scale at 81 units
+‒ Property offers [PERSON] accommodations with additional personal care services offered on an a la carte basis
+[PERSON] demographics and demand trends for seniors housing into the foreseeable future
+Conclusion
+Based on the above, it is concluded that the [COMPANY] and Best Use of the Subject site, “as if vacant” is that of the current
+use. We further consider that the current improvements add value to the site, hence, we conclude the current use in its
+improved form to the highest and best use.
+57 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+59 CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Appendix A
+TERMS OF REFERENCE
+Property Identification
+The subject property is described by the civic address 1645 Pickering Parkway, [CITY], Ontario. The subject is legally
+described within provincial land titles as [COMPANY] M1024; [COMPANY]; S/T LT626325, S/T EASEMENT AS
+IN LT961141; [COMPANY]. [COMPANY]PIN) is understood to be 263,300,059.
+The subject property is more fully described, legally and physically, within this report.
+[COMPANY] History
+We understand the current ownership is held by [COMPANY].. This is based on information obtained from
+[COMPANY] which we assume to be correct. Any recent transactions and/or marketing that we have been made
+aware of has been discussed within this report.
+Purpose of the Report
+This report has been prepared for the purpose of first mortgage financing purposes subject to [COMPANY] and [COMPANY] noted herein. The report is a full narrative report and has been prepared in
+accordance with the standards set forth by [COMPANY].
+Definition of Market Value
+Market value is defined as follows:
+“The most probable price, as of a specified date, in cash, or in terms equivalent to cash, or in precisely revealed terms, for
+which the specified property rights should sell after reasonable exposure in a competitive market under all conditions
+requisite to a fair sale, with the buyer and the seller each acting prudently, knowledgeably, and for self-interest,
+assuming that neither is under duress”2.
+Definition of Interest Appraised
+Leased Fee is an ownership interest held by the landlord with the rights of use and occupancy conveyed by the lease to
+others. The rights of the lessor (the Leased Fee owner) and [PERSON] are specified by contract terms contained
+within the lease.
+Authorized Client
+The Authorized Client of this report is [COMPANY] c/o [COMPANY] .
+Authorized Use and User
+The Authorized Use of the appraisal report is to provide information for first mortgage financing purposes. The report is
+not intended for any other use. [COMPANY] c/o [COMPANY] is the sole Authorized User. This
+report is not intended for use by other parties. The Authorized Use and User of our report are specifically identified in
+our report as agreed upon in our contract for services and/or reliance language found in the report. No other use or user
+of the report is permitted by any other party for any other purpose.
+Dissemination of this report by any party to any non-Authorized Users does not extend reliance to any such party, and
+[COMPANY] will not be responsible for any unauthorized use of or reliance upon the report, its conclusions or contents (or any
+portion thereof).
+Date of the Report
+August 25, 2025
+2 The Appraisal of Real Estate, Fourth Canadian Edition, ed. [COMPANY], ([COMPANY], [COMPANY],
+2023), p. 6.1-.4
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]Effective Date of the Report
+August 21, 2025
+Date of Inspection
+August 21, 2025
+Inspection
+[PERSON], HBSc of [COMPANY] inspected the [COMPANY].
+The [COMPANY] was inspected August 21, 2025.
+Our inspection was non-invasive, and our external inspection was limited to areas visible from ground level. Our internal
+inspection was limited to communal areas, ancillary areas, and a selection of resident suites. To preserve the dignity and
+privacy of residents in situ, not all resident suites were inspected. Where suites were not inspected, we have assumed
+their specification and condition to be comparable with those inspected.
+Scope of Work
+The following steps were completed by [COMPANY] for this assignment:
+‒ Cursory inspection of the subject site and “as is” status of the building
+‒ Review of surrounding land uses
+‒ Research into physical, legal, social, political, economic or other factors that could affect the value of the property
+‒ Review of land use controls
+‒ Research transactions of land from internal database, subscription databases, provincial land titles and market
+participants
+‒ Determine the [COMPANY] and Best Use “as if vacant” and “as improved” within limitations
+‒ Analyse the data collected using the appropriate appraisal approach
+‒ Consider the effect on value of an assemblage and any anticipated public & private improvements and there is
+deemed to be none
+‒ Consideration of personal property (attached equipment), which positively influences the market value
+‒ Conclude a market value as stated herein
+Report Format
+Full Narrative
+Limiting Conditions
+A soil analysis for the site has not been provided for the preparation of this opinion. In the absence of a soil report, it is a
+specific assumption that the site has adequate soils to support the highest and best use.
+A formal title search was beyond the scope of this assignment. Except as described herein, [COMPANY] has no
+knowledge of any easements or encroachments. It is recommended that [COMPANY]/reader obtain a detailed
+title search outlining all easements and encroachments on the property, if any, prior to making a business decision.
+To our knowledge, there are no known covenants, conditions and restrictions impacting the site, which are considered to
+affect the marketability or highest and best use, other than zoning restrictions.
+[PERSON], or the consultant(s) has not observed, yet is not qualified to detect, the existence of potentially hazardous
+material or underground storage tanks, which may be present on or near the site. It should also be noted that the
+existence of hazardous materials or underground storage tanks might have an effect on the value of the property.
+[COMPANY] has not observed, yet is not qualified to detect, the existence of any potentially hazardous materials such
+as lead paint, asbestos, urea formaldehyde foam insulation, or other potentially hazardous construction materials on or in
+the improvements. The existence of such substances may have an effect on the value of the property. For the purpose
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+of this assignment, we have specifically assumed that the subject is not affected by any hazardous materials, which
+would cause a loss in value.
+It should be noted that neither [COMPANY] nor the valuation consultant are qualified to determine the structural
+integrity of the building. Finally, [COMPANY] and the valuation consultant make no representations or warranties as the
+condition or suitability of the electrical system, any machinery and equipment, fixtures, fittings, HVAC system or roof
+membrane.
+Exposure Time
+Exposure time is not intended to be a prediction of a date of sale. Instead, it is an integral part of the opinion analysis
+and is based on one or more of the following:
+‒ Statistical information about days on the market
+‒ Information gathered through sales verification
+‒ Interviews with market participants
+The reasonable exposure time is a function of price, time, and use. It is not an isolated estimate of time alone. Exposure
+time is different for various types of real estate and under various market conditions.
+Exposure time is the estimated length of time the property would have been offered prior to a hypothetical market value
+sale on the effective date of opinion. It is a retrospective estimate based on an analysis of recent past events, assuming
+a competitive and open market. It assumes not only adequate, sufficient, and reasonable time but also adequate,
+sufficient, and reasonable marketing effort. Exposure and marketing time are therefore interrelated with opinion
+conclusion of value.
+An estimated exposure time is detailed within the report which assumes the property would have been competitively
+priced and sufficiently promoted.
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] and Best Use
+Section 3.35 of CUSPAP 2024 defines Highest and Best Use as “the reasonably probable use of real property, that is
+physically possible, legally permissible, financially feasible, and maximally productive, and that results in the highest
+value.”
+A thorough [COMPANY] and Best Use analysis involves assessing [COMPANY] was beyond the scope of this
+mandate. In valuation practice, the concept of highest and best use represents the premise upon which value is based.
+The four criteria the [COMPANY] and Best Use must meet are:
+‒ Legally permissible (or legal permissibility). Land use regulations, building codes, environmental regulations and
+restrictive covenants in deeds may preclude potential uses. In addition, the appraiser considers the reasonable
+probability that the land use regulations or other restrictions could be changed to realize the highest and best use
+of the property.
+‒ Physically possible (or physical possibility). The physical characteristics, i.e., size, shape, topography, soils and soil
+bearing capacity, and location, i.e., street access and availability of municipal services, determine the scale of
+building development and the necessity for extending or upgrading municipal services or extraordinary
+construction costs for addressing deficiencies in topography or soil conditions.
+‒ Financially feasible (or financial feasibility). A potential use that meets the criteria of legally permissible and
+physically possible is financially feasible if its value is commensurate with its cost. For income producing uses, the
+focus is on the potential uses that are likely to produce income that is greater than the amount needed to cover
+operating expenses, debt services and amortization of the capital investment required for the potential use. For
+non-income producing properties, the focus is on potential uses that are likely to have value that is equal to or
+greater than the cost to develop and market the property for each potential use.
+‒ Maximally productive (or maximum productivity). Of the financially feasible uses, the use, which produces the
+highest land value that is consistent with the market’s acceptance of risk and rate of return for that use, is the
+estimated highest and best use of the property.
+Our analysis and conclusion in this regard can be found within the main body of this report.
+[PERSON]
+This report has been prepared under the current edition of [COMPANY] Professional Appraisal
+Practice (CUSPAP). Unless stated otherwise, no other valuation or appraisal standards have been adopted, regardless of
+other valuation and appraisal designations which may be held by the signatories to this report.
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+ASSUMPTIONS AND LIMITING CONDITIONS
+1. [COMPANY]. through its appraiser (collectively, “CBRE”) has inspected through reasonable observation the subject
+property. However, it is not possible or reasonably practicable to personally inspect conditions beneath the soil and
+the entire interior and exterior of the improvements on the subject property. Therefore, no representation is made
+as to such matters.
+2. The report, including its conclusions and any portion of such report (the “Report”), is as of the date set forth in the
+letter of transmittal and based upon the information, market, economic, and property conditions and projected levels
+of operation existing as of such date. The dollar amount of any conclusion as to value in the Report is based upon
+the purchasing power of [COMPANY] on such date. The Report is subject to change as a result of
+fluctuations in any of the foregoing. [COMPANY] has no obligation to revise the Report to reflect any such fluctuations or
+other events or conditions which occur subsequent to such date.
+3. Unless otherwise expressly noted in the Report, [COMPANY] has assumed that:
+[PERSON] to the subject property is clear and marketable and that there are no recorded or unrecorded matters
+or exceptions to title that would adversely affect marketability or value. [COMPANY] has not examined title
+records (including without limitation liens, encumbrances, easements, deed restrictions, and other
+conditions that may affect the title or use of the subject property) and makes no representations regarding
+title or its limitations on the use of the subject property. Insurance against financial loss that may arise out
+of defects in title should be sought from a qualified title insurance company.
+II. Existing improvements on the subject property conform to applicable local, provincial, and national federal
+building codes and ordinances, are structurally sound and seismically safe, and have been built and repaired
+in a workmanlike manner according to standard practices; all building systems (mechanical/electrical,
+HVAC, elevator, plumbing, etc.) are in good working order with no major deferred maintenance or repair
+required; and the roof and exterior are in good condition and free from intrusion by the elements. [COMPANY] has
+not retained independent structural, mechanical, electrical, or civil engineers in connection with this
+appraisal and, therefore, makes no representations relative to the condition of improvements. CBRE
+appraisers are not engineers and are not qualified to judge matters of an engineering nature, and
+furthermore structural problems or building system problems may not be visible. It is expressly assumed
+that any purchaser would, as a precondition to closing a sale, obtain a satisfactory engineering report
+relative to the structural integrity of the property and the integrity of building systems.
+III. Any proposed improvements, on or off-site, as well as any alterations or repairs considered will be
+completed in a workmanlike manner according to standard practices.
+IV. Hazardous materials are not present on the subject property. [COMPANY] is not qualified to detect such
+substances. The presence of substances such as asbestos, urea formaldehyde foam insulation,
+contaminated groundwater, mold, or other potentially hazardous materials may affect the value of the
+property.
+V. No mineral deposit or subsurface rights of value exist with respect to the subject property, whether gas,
+liquid, or solid, and no air or development rights of value may be transferred. [COMPANY] has not considered any
+rights associated with extraction or exploration of any resources, unless otherwise expressly noted in the
+Report.
+VI. There are no contemplated public initiatives, governmental development controls, rent controls, or changes
+in the present zoning ordinances or regulations governing use, density, or shape that would significantly
+affect the value of the subject property.
+VII. All required licenses, certificates of occupancy, consents, or other legislative or administrative authority
+from any local, provincial, nor national government or private entity or organization have been or can be
+readily obtained or renewed for any use on which the Report is based.
+VIII. The subject property is managed and operated in a prudent and competent manner, neither inefficiently or
+super-efficiently.
+IX. The subject property and its use, management, and operation are in full compliance with all applicable
+federal, provincial, and local regulations, laws, and restrictions, including without limitation environmental
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+laws, seismic hazards, flight patterns, decibel levels/noise envelopes, fire hazards, hillside ordinances,
+density, allowable uses, building codes, permits, and licenses.
+X. The subject property is in full compliance with the Disabilities Act of the province. [COMPANY] is not qualified to
+assess the subject property’s compliance with [COMPANY], notwithstanding any
+discussion of possible readily achievable barrier removal construction items in the Report.
+XI. All information regarding the areas and dimensions of the subject property furnished to CBRE are correct,
+and no encroachments exist. [COMPANY] has neither undertaken any survey of the boundaries of the subject
+property nor reviewed or confirmed the accuracy of any legal description of the subject property.
+[COMPANY]. Unless otherwise expressly noted in the Report, no issues regarding the foregoing were brought to [COMPANY]’s
+attention, and [COMPANY] has no knowledge of any such facts affecting the subject property. If any information
+inconsistent with any of the foregoing assumptions is discovered, such information could have a substantial
+negative impact on the Report. Accordingly, if any such information is subsequently made known to [COMPANY],
+CBRE reserves the right to amend the Report, which may include the conclusions of the Report. CBRE
+assumes no responsibility for any conditions regarding the foregoing, or for any expertise or knowledge
+required to discover them. Any user of the Report is urged to retain an expert in the applicable field(s) for
+information regarding such conditions.
+4. [COMPANY] has assumed that all documents, data and information furnished by, or on behalf of [COMPANY],
+property owner, or owner’s representative are accurate and correct, unless otherwise expressly noted in the Report.
+Such data and information include, without limitation, numerical street addresses, lot and block numbers, [COMPANY], land dimensions, square footage area of the land, dimensions of the improvements, gross building
+areas, net rentable areas, usable areas, unit count, room count, rent schedules, income data, historical operating
+expenses, budgets, and related data. Any error in any of the above could have a substantial impact on the Report.
+Accordingly, if any such errors are subsequently made known to [COMPANY], [COMPANY] reserves the right to amend the
+Report, which may include the conclusions of the Report. [COMPANY] and Authorized User should
+carefully review all assumptions, data, relevant calculations, and conclusions of the Report and should immediately
+notify CBRE of any questions or errors within 30 days after the date of delivery of the Report.
+5. CBRE assumes no responsibility (including any obligation to procure the same) for any documents, data or
+information not provided to [COMPANY], including without limitation any termite inspection, survey or occupancy permit.
+6. All furnishings, equipment and business operations have been disregarded with only real property being considered
+in the Report, except as otherwise expressly stated and typically considered part of real property.
+7. Any cash flows included in the analysis are forecasts of estimated future operating characteristics based upon the
+information and assumptions contained within the Report. Any projections of income, expenses and economic
+conditions utilized in the Report, including such cash flows, should be considered as only estimates of the
+expectations of future income and expenses as of the date of the Report and not predictions of the future. Actual
+results are affected by a number of factors outside the control of [COMPANY], including without limitation fluctuating
+economic, market, and property conditions. Actual results may ultimately differ from these projections, and [PERSON]
+does not warrant any such projections.
+8. The Report contains professional opinions and is expressly not intended to serve as any warranty, assurance or
+guarantee of any particular value of the subject property. Other appraisers may reach different conclusions as to
+the value of the subject property. Furthermore, market value is highly related to exposure time, promotion effort,
+terms, motivation, and conclusions surrounding the offering of the subject property. The Report is for the sole
+purpose of providing the Authorized User with CBRE’s independent professional opinion of the value of the subject
+property as of the date of the Report. Accordingly, [COMPANY] shall not be liable for any losses that arise from any
+investment or lending decisions based upon the Report that [COMPANY], Authorized User, or any buyer,
+seller, investor, or lending institution may undertake related to the subject property, and [COMPANY] has not been
+compensated to assume any of these risks. Nothing contained in the Report shall be construed as any direct or
+indirect recommendation of [COMPANY] to buy, sell, hold, or finance the subject property.
+9. No opinion is expressed on matters which may require legal expertise or specialized investigation or knowledge
+beyond that customarily employed by real estate appraisers. Any user of the Report is advised to retain experts in
+areas that fall outside the scope of the real estate appraisal profession for such matters.
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+10. CBRE assumes no responsibility for any costs or consequences arising due to the need, or the lack of need, for flood
+hazard insurance.
+11. Acceptance or use of the Report constitutes full acceptance of these Assumptions and [COMPANY] and any
+special assumptions set forth in the Report. It is the responsibility of the user of the Report to read in full,
+comprehend and thus become aware of all such assumptions and limiting conditions. CBRE assumes no
+responsibility for any situation arising out of the user’s failure to become familiar with and understand the same.
+12. The Report applies to the property as a whole only, and any pro ration or division of the title into fractional interests
+will invalidate such conclusions, unless the Report expressly assumes such pro ration or division of interests.
+13. The allocations of the total value estimate in the Report between land and improvements apply only to the existing
+use of the subject property. The allocations of values for each of the land and improvements are not intended to be
+used with any other property or appraisal and are not valid for any such use.
+14. The maps, plats, sketches, graphs, photographs, and exhibits included in this Report are for illustration purposes
+only and shall be utilized only to assist in visualizing matters discussed in the Report. No such items shall be
+removed, reproduced, or used apart from the Report.
+15. The Report shall not be duplicated or provided to any Unauthorized Users in whole or in part without the written
+consent of [COMPANY], which consent [PERSON] may withhold in its sole discretion. Exempt from this restriction is duplication
+for the internal use of the Authorized User and its attorneys, accountants, or advisors for the sole benefit of the
+Authorized User. Also exempt from this restriction is transmission of the Report pursuant to any requirement of any
+court, governmental authority, or regulatory agency having jurisdiction over the Authorized User, provided that the
+Report and its contents shall not be published, in whole or in part, in any public document without the written
+consent of [COMPANY], which consent [PERSON] may withhold in its sole discretion. Finally, the Report shall not be made
+available to the public or otherwise used in any offering of the property or any security, as defined by applicable law.
+Any Unauthorized User who may possess the Report is advised that it shall not rely upon the Report or its
+conclusions and that it should rely on its own appraisers, advisors and other consultants for any decision in
+connection with the subject property. CBRE shall have no liability or responsibility to any such Unauthorized User.
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Appendix B - Property Photographs
+Front Elevation U/G Entrance
+Reception Lounge
+Dining Room Servery
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Commercial Kitchen Games Lounge
+Lounge Commercial Laundry
+New Suite – Living Area New Suite - Bathroom
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]Original Suite – Living Area Original Suite – Bathroom
+Original Suite – Kitchenette Café/Bistro
+Salon Courtyard
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Appendix C
+OPERATIONAL BENCHMARKS
+MARPAS FOOD & BEVERAGE COSTS
+[PERSON]: Per Unit Industry Comparables Common Sized: Per Resident Day Industry Comparables
+Category Includes: Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- Monthly Average Revenue Per Available Suite - Raw food costs $13.50
+$6,000 - Beverage costs $12.50
+$5,250 $11.50
+$10.50
+$4,500 $9.50
+$3,750 $8.50
+$7.50
+$3,000 $6.50
+$2,250 $5.50
+$4.50
+$1,500 $3.50
+$750 $2.50
+Budget $4,533 Budget $8.83 $1.50
+$0 $0.50
+CBRE $3,693 CBRE $9.00
+0 20 40 60 80 100 120 140 160 0 20 40 60 80 100 120 140 160
+CBRE Percentile: 62.2% [COMPANY]: 84.5% Frequency
+Monthly Average Revenue Per Available Suite
+NET OPERATING INCOME SUPPLIES COSTS
+[PERSON]: Per Unit Industry Comparables Common Sized: Per Resident Day (PRD) Industry Comparables
+Category Includes: Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- Net operating income - Medical supplies $7.25
+$36,100 - Dietary supplies $6.75
+$31,600 - Housekeeping supplies $ $ 5 6 . . 7 2 5 5
+$27,100 - Laundry supplies $5.25
+$22,600 - Recreation supplies & activities outings $ $ 4 4 . . 2 7 5 5
+$18,100 - Vehicle relates expenses $3.75
+$3.25
+$13,600 $2.75
+$2.25
+$9,100 $1.75
+$4,600 $1.25
+Budget $18,652 Budget $3.08 $0.75
+$100 $0.00
+CBRE $13,693 CBRE $3.25
+0 20 40 60 80 100 120 140 160 0 20 40 60 80 100 120 140 160
+CBRE Percentile: 42.1% [COMPANY]: 86.6% Frequency
+[COMPANY] COSTS ADMINISTRATION COSTS
+[PERSON]: Per Resident Day Industry Comparables Common Sized: % of [COMPANY] Includes: Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- Wages - General office supplies 5.0%
+$82.00
+- [COMPANY] systems costs 4.5%
+- Back-fill costs (vacation, sick, stat holiday etc.) - Customary banking charges 4.0%
+- Bonus payments $62.00 - Recruitment & HR costs 3.5%
+- Payroll taxes ([COMPANY], [COMPANY], WSIB, EHT etc.) 3.0%
+- Group benefits ([COMPANY], extended health, dental etc.) $42.00 2.5%
+2.0%
+1.5%
+$22.00 1.0%
+0.5%
+Budget $49.39 Budget 2.18%
+CBRE $45.57 $2.00 CBRE 2.50% 0.0%
+0 20 40 60 80 0 50 100 150 200
+CBRE Percentile: 68.4% [COMPANY]: 68.3% Frequency
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY] PROMOTIONS COSTS INSURANCE COSTS
+[PERSON]: Per Unit Industry Comparables Common Sized: Per Unit Industry Comparables
+Category Includes: $2,000 Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- Marketing materials (print, showroom costs etc.) - Property insurance $635
+- Promotional items $1,750
+$1,500 $510
+$1,250
+$385
+$1,000
+$750 $260
+$500
+$135
+$250
+Budget $926 Budget $519
+CBRE $600 $0 CBRE $475 $10
+0 20 40 60 80 100 0 50 100 150 200
+CBRE Percentile: 43.8% [COMPANY]: 93.9% Frequency
+MAINTENANCE COSTS REALTY TAX COSTS
+[PERSON]: Per Unit Industry Comparables Common Sized: Per Unit Industry Comparables
+Category Includes: Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- HVAC & systems contracts $2,350 - Realty taxes $2,500
+- Building repair costs $2,100
+- Resident unit [COMPANY] painting $1,850 $2,000
+- Equipment repairs & minor leases $1,600
+$1,350 $1,500
+$1,100
+$1,000
+$850
+$600 $500
+$350
+Budget $1,616 Budget $1,370
+CBRE $1,600 $100 CBRE $1,567 $0
+0 20 40 60 80 100 0 20 40 60 80 100 120
+CBRE Percentile: 80.0% [COMPANY]: 64.8% Frequency
+UTILITIES COSTS MANAGEMENT FEE COSTS
+[PERSON]: Per Unit Industry Comparables Common Sized: % of [COMPANY] Includes: Industry CBRE 2025 Bud 2025 Bud Category Includes: Industry CBRE 2025 Bud 2025 Bud
+- - H Ga y s d / r o o [COMPANY] costs $2,760 - Management fees 9.0%
+- Water $2,260 7.5%
+- Cable
+6.0%
+$1,760
+4.5%
+$1,260
+3.0%
+$760 1.5%
+Budget $2,152 Budget 4.52%
+$260 0.0%
+CBRE $2,200 [COMPANY] 4.00%
+0 20 40 60 80 100 120 0 100 200 300 400
+CBRE Percentile: 74.4% [COMPANY]: 41.4% Frequency
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]25-APPRTOR-0397: [COMPANY]
+Thank you
+For more information,
+[PERSON], [PERSON], AACI
+Executive Vice President
+[EMAIL]
+[PERSON], HBSc
+Senior Valuation Associate
+[EMAIL]
+[COMPANY]CBRE ©2023 All Rights Reserved. All information included in this proposal pertaining to [COMPANY]—including but not limited to its operations, employees, technology and clients—are proprietary and confidential, and are
+supplied with the understanding that they will be held in confidence and not disclosed to third parties without the prior written consent of [COMPANY]. This letter/proposal is intended solely as a preliminary expression of general
+intentions and is to be used for discussion purposes only. The parties intend that neither shall have any contractual obligations to the other with respect to the matters referred herein unless and until a definitive
+agreement has been fully executed and delivered by the parties. The parties agree that this letter/proposal is not intended to create any agreement or obligation by either party to negotiate a definitive lease/purchase and
+sale agreement and imposes no duty whatsoever on either party to continue negotiations, including without limitation any obligation to negotiate in good faith or in any way other than at arm’s length. Prior to delivery of a
+definitive executed agreement, and without any liability to the other party, either party may (1) propose different terms from those summarized herein, (2) enter into negotiations with other parties and/or (3) unilaterally
+terminate all negotiations with the other party hereto. CBRE and the [COMPANY] logo are service marks of [COMPANY] its affiliated or related companies in [CITY] and other countries. All other marks displayed on
+this document are the property of their respective owners.
+CBRE | VALUATION & ADVISORY SERVICES | [COMPANY] INFORMATION ©2023 [COMPANY]

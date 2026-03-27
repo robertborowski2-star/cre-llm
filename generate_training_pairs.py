@@ -7,6 +7,7 @@ from dotenv import load_dotenv
 # ---- Config ----
 load_dotenv()
 CLEANED_DIR  = Path("data/anonymized")
+INDEX_DIR    = Path("data/cleaned")
 TRAINING_DIR = Path("data/training")
 TRAINING_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -57,7 +58,7 @@ def generate_pairs(doc_path, max_chars=8000):
 
         response = client.messages.create(
             model="claude-haiku-4-5-20251001",
-            max_tokens=4000,
+            max_tokens=8000,
             system=SYSTEM_PROMPT,
             messages=[{
                 "role": "user",
@@ -100,7 +101,7 @@ def generate_pairs(doc_path, max_chars=8000):
 # ---- Run on all cleaned documents ----
 def run():
     # load index
-    index_path = CLEANED_DIR / "index.json"
+    index_path = INDEX_DIR / "index.json"
     if not index_path.exists():
         print("No index found - run extractor.py first")
         return
@@ -138,7 +139,8 @@ def run():
         
         doc_path = CLEANED_DIR / (stem + ".txt")
         if not doc_path.exists():
-            continue
+            # fallback to cleaned if anonymized version doesn't exist
+            doc_path = INDEX_DIR / (stem + ".txt")
         
         pairs = generate_pairs(doc_path)
         

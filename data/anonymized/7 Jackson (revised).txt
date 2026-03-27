@@ -1,0 +1,870 @@
+[PERSON]
+______________________
+[PERSON], [CITY]
+Prepared for:
+[COMPANY]
+By:
+INGRAM VARNER
+and [COMPANY]
+15 Dartmouth Road, Suite 310
+[COMPANY][COMPANY]), [CITY] B4A 3X6
+Phone: ([PHONE]
+Fax: ([PHONE]
+www.ingramvarner.com
+File no. 3K25114
+March 2025
+March 10, 2025
+[COMPANY]
+1 King Street West, Suite 4800-254
+Toronto, ON M5H 1A1
+Attention: [PERSON]
+Dear Mr. [PERSON]:
+Re: Valuation of 7 Jackson Road, [COMPANY], [CITY]
+As per your instructions, we have completed an investigation and analysis of the above-mentioned
+property and herewith submit our report for your consideration.
+The Appraisal was made for the purpose of expressing our Current Value Opinion of the Market Value of
+the Fee Simple Interest in the subject property, subject to the lease agreements outlined in this report. The
+definition of [COMPANY], as employed in this report, is outlined under the Terms of Reference section of
+this report.
+This report complies with [COMPANY] Professional Appraisal Practice and is
+subject to [COMPANY] outlined in section 2.0 of the report.
+Based on our interpretation and analysis of the data outlined in this report as well as a personal inspection
+of the property, it is our considered opinion that [COMPANY] in the subject
+property as of February 25, 2025 is:
+SEVEN MILLION NINE HUNDRED AND THIRTY THOUSAND DOLLARS
+($7,930,000.00)
+If you have any questions regarding this report, please contact the undersigned at your convenience.
+[PERSON],
+[PERSON], [COMPANY], [PERSON].
+President
+[COMPANY] no. 251790
+7 Jackson Road, [COMPANY], [CITY] iii
+TABLE OF CONTENTS
+TITLE PAGE ............................................................. i
+LETTER OF TRANSMITTAL ............................................. ii
+TABLE OF [COMPANY] ...................................................iii
+1.0 EXECUTIVE SUMMARY ................................................. 1
+2.0 CONTINGENT AND LIMITING CONDITIONS .............................. 2
+3.0 TERMS OF REFERENCE
+3.1 PROPERTY RIGHTS APPRAISED ................................................. 4
+3.2 PURPOSE OF THE ASSIGNMENT ................................................. 4
+3.3 AUTHORIZED USER AND AUTHORIZED USE OF THE REPORT ........................... 4
+3.4 DEFINITION OF MARKET VALUE ................................................ 4
+3.5 EXPOSURE TIME ........................................................... 5
+3.6 SALES HISTORY ............................................................ 5
+3.7 SCOPE OF THE APPRAISAL .................................................... 5
+4.0 LOCATIONAL OVERVIEW
+4.1 MACRO-MARKET CHARACTERISTICS ............................................. 6
+4.2 LOCATION MAPS ........................................................... 7
+4.3 MICRO-MARKET CHARACTERISTICS ............................................. 8
+4.4 REAL ESTATE MARKET SUMMARY .............................................. 9
+5.0 PHYSICAL AND FUNCTIONAL DATA
+5.1 SITE DETAILS ............................................................ 11
+5.2 BUILDING DETAILS ......................................................... 13
+6.0 MUNICIPAL DATA
+6.1 ASSESSED VALUE AND ANNUAL TAXES .......................................... 15
+6.2 ZONING AND PLANNING CONSIDERATIONS ........................................ 16
+7.0 HIGHEST AND BEST USE
+7.1 AS IF VACANT ............................................................ 17
+7.2 AS IMPROVED ............................................................ 17
+8.0 VALUATION METHODOLOGY
+8.1 INCOME APPROACH ........................................................ 18
+8.2 DIRECT COMPARISON APPROACH .............................................. 18
+8.3 COST APPROACH .......................................................... 18
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [CITY] iv
+9.0 REVENUE AND EXPENSE ANALYSIS
+9.1 CURRENT LEASING ......................................................... 19
+9.2 MARKET RENT ........................................................... 20
+9.3 REVENUE ................................................................ 21
+9.4 VACANCY ................................................................ 22
+9.5 EXPENSES ............................................................... 23
+10.0 INCOME APPROACH
+10.1 OVERALL CAPITALIZATION RATE ............................................. 24
+10.2 DIRECT CAPITALIZATION ................................................... 25
+11.0 DIRECT COMPARISON APPROACH
+11.1 COMPARABLE SALES DATA ................................................. 26
+11.2 COMPARATIVE ANALYSIS AND ADJUSTMENT ..................................... 27
+11.3 SUMMARY AND VALUE CONCLUSION ........................................... 28
+12.0 CONCLUSIONS
+12.1 FINAL VALUE ESTIMATE ................................................... 29
+13.0 [COMPANY] ...................................................... 30
+LEGAL DESCRIPTION ...................................................... A
+BUILDING SKETCH ........................................................ B
+SUBJECT PHOTOGRAPHS .................................................. C
+COMPARABLE SALES PHOTOGRAPHS AND LOCATION MAP ................. D
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 1
+1.0 EXECUTIVE SUMMARY
+Property Identification: 7 Jackson Road
+Dartmouth, [CITY]
+[COMPANY] Three level, wood frame, walk-up apartment building
+with brick and vinyl siding exterior. Built in 1964. 45
+units consisting of 2 x bachelor and 43 x 1 bedroom
+units. Some of the units are rented on a furnished
+basis.
+Registered Owner: 4586519 [PERSON] Scotia Limited
+Assessed Value (2025): $4,010,600.00
+Zoning: Higher Order Residential 1 (HR-1)
+Highest and Best Use: Existing use.
+Site Area: 1.43 acres ±
+Building Area: 24,008 ft² ±
+Stabilized NOI: $376,751.00
+Value by Income Approach: $7,930,000.00
+Value by Direct Comparison: $7,700,000.00
+Final Value Estimate: $7,930,000.00
+Reasonable Exposure Time: 6 months.
+Typical Purchaser: Local or regional investor.
+Effective Date: February 25, 2025
+Date of Report: March 10, 2025
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 2
+2.0 CONTINGENT AND LIMITING CONDITIONS
+1. This report is prepared only for the client and only for the specific use identified herein. No other person may rely
+on this report or any part of this report without first obtaining consent from the client and written authorization from
+the authors. Liability is expressly denied to any other person and, accordingly, no responsibility is accepted for any
+damage suffered by any other person as a result of decisions made or actions taken based on this report. Liability is
+expressly denied for any unauthorized user or for anyone who uses this report for any use not specifically identified
+in this report. Payment of the appraisal fee has no effect on liability. [COMPANY] on this report without authorization or
+for an unauthorized use is unreasonable.
+2. Because market conditions, including economic, social and political factors, may change rapidly and, on
+occasion, without warning, this report cannot be relied upon as of any date other than the effective date specified in
+this report unless specifically authorized by the author(s).
+3. The author will not be responsible for matters of a legal nature that affect either the property being appraised or
+the title to it. The property is appraised on the basis of it being under responsible ownership. No registry office
+search has been performed and the author assumes that the title is good and marketable and free and clear of all
+encumbrances. Matters of a legal nature, including confirming who holds legal title to the appraised property or any
+portion of the appraised property, are outside the scope of work and expertise of the appraiser. Any information
+regarding the identity of a property's owner or identifying the property owned by the listed client and/or applicant
+provided by the appraiser is for informational purposes only and any reliance on such information is unreasonable.
+Any information provided by the appraiser does not constitute any title confirmation. Any information provided
+does not negate the need to retain a real estate lawyer, surveyor or other appropriate experts to verify matters of
+ownership and/or title.
+4. Verification of compliance with governmental regulations, bylaws or statutes is outside the scope of work and
+expertise of the appraiser. Any information provided by the appraiser is for informational purposes only and any
+reliance is unreasonable. Any information provided by the appraiser does not negate the need to retain an
+appropriately qualified professional to determine government regulation compliance.
+5. No survey of the property has been made. Any sketch in this report shows approximate dimensions and is
+included only to assist the reader of this report in visualizing the property. It is unreasonable to rely on this report as
+an alternative to a survey, and an accredited surveyor ought to be retained for such matters.
+6. This report is completed on the basis that testimony or appearance in court concerning this report is not required
+unless specific arrangements to do so have been made beforehand. Such arrangements will include, but not
+necessarily be limited to: adequate time to review the report and related data, and the provision of appropriate
+compensation.
+7. Unless otherwise stated in this report, the author has no knowledge of any hidden or unapparent conditions
+(including, but not limited to: its soils, physical structure, mechanical or other operating systems, foundation, etc.)
+of/on the subject property or of/on a neighbouring property that could affect the value of the subject property. It has
+been assumed that there are no such conditions. Any such conditions that were visibly apparent at the time of
+inspection or that became apparent during the normal research involved in completing the report have been noted in
+the report. This report should not be construed as an environmental audit or detailed property condition report, as
+such reporting is beyond the scope of this report and/or the qualifications of the author. The author makes no
+guarantees or warranties, express or implied, regarding the condition of the property, and will not be responsible for
+any such conditions that do exist or for any engineering or testing that might be required to discover whether such
+conditions exist. The bearing capacity of the soil is assumed to be adequate.
+8. The analyses set out in this report relied on written and verbal information obtained from a variety of sources the
+author considered reliable. Unless otherwise stated herein, the author did not verify client-supplied information,
+which the author believed to be correct.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 3
+9. The term “inspection" refers to observation only as defined by CUSPAP and reporting of the general material
+finishing and conditions observed for the purposes of a standard appraisal inspection. The inspection scope of work
+includes the identification of marketable characteristics/amenities offered for comparison and valuation purposes
+only.
+10. The opinions of value and other conclusions contained herein assume satisfactory completion of any work
+remaining to be completed in a good and workmanlike manner. Further inspection may be required to confirm
+completion of such work. The author has not confirmed that all mandatory building inspections have been
+completed to date, nor has the availability/issuance of an occupancy permit been confirmed. The author has not
+evaluated the quality of construction, workmanship or materials. It should be clearly understood that this visual
+inspection does not imply compliance with any building code requirements as this is beyond the professional
+expertise of the author.
+11. The contents of this report are confidential and will not be disclosed by the author to any party except as
+provided for by the provisions of the CUSPAP and/or when properly entered into evidence of a duly qualified
+judicial or quasi-judicial body. The author acknowledges that the information collected herein is personal and
+confidential and shall not use or disclose the contents of this report except as provided for in the provisions of the
+CUSPAP and in accordance with the author's privacy policy. The client agrees that in accepting this report, it shall
+maintain the confidentiality and privacy of any personal information contained herein and shall comply in all
+material respects with the contents of the author's privacy policy and in accordance with the PIPEDA
+12. The author has agreed to enter into the assignment as requested by the client named in this report for the use
+specified by the client, which is stated in this report. The client has agreed that the performance of this report and
+the format are appropriate for the intended use.
+13. This report, its content and all attachments/addendums and their content are the property of the author. The
+client, authorized users and any appraisal facilitator are prohibited, strictly forbidden, and no permission is expressly
+or implicitly granted or deemed to be granted, to modify, alter, merge, publish (in whole or inpart) screen scrape,
+data base scrape, exploit, reproduce, decompile, reassemble or participate in any other activity intended to separate,
+collect, store, reorganize, scan, copy, manipulate electronically, digitally, manually or by any other means what so
+ever this appraisal report, addendum, all attachments and the data contained within for any commercial, or other,
+use.
+14. If transmitted electronically, this report will have been digitally signed and secured with personal passwords to
+lock the appraisal file. Due to the possibility of digital modification, only originally signed reports and those reports
+sent directly by the author can be reasonably relied upon.
+15. Where the intended use of this report is for financing or mortgage lending or mortgage insurance, it is a
+condition of reliance on this report that the authorized user has or will conduct lending, underwriting and rigorous
+due diligence in accordance with the standards of a reasonable and prudent lender or insurer, including but not
+limited to ensuring the borrower's demonstrated willingness and capacity to service his/her debt obligations on a
+timely basis, and to conduct loan underwriting or insuring due diligence similar to the standards set out by [COMPANY] (OSFI), even when not otherwise required by law. Liability is
+expressly denied to those that do not meet this condition. Any reliance on this report without satisfaction of this
+condition is unreasonable.
+16. It is assumed that all rents referred to in this report are being paid in full and when due and payable under the
+terms and conditions of the attendant leases, agreements to lease or other contractual agreements. Further, it is
+assumed that all rents referred to in this report represent the rental arrangements stipulated in the leases, agreements
+to lease or other contractual agreements pertaining to the tenants occupancy, to the extent that such rents have not
+been prepaid, abated, or inflated to reflect extraordinary circumstances, unless such conditions have been identified
+and noted in this report.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 4
+3.0 TERMS OF REFERENCE
+3.1 PROPERTY RIGHTS APPRAISED
+The property rights being appraised in this report are those which will accrue to the owner of the
+property described herein. This encompasses the rights normally attached to the freehold (or fee
+simple) interest in the property, subject to the lease agreements outlined in this report. The
+property has been appraised on a debt-free basis.
+3.2 PURPOSE OF THE ASSIGNMENT
+This investigation and appraisal was made for the purpose of estimating the market value of the
+subject property as of February 25, 2025.
+3.3 AUTHORIZED USER AND AUTHORIZED USE OF THE REPORT
+This report is authorized (intended) for the use of [COMPANY] to assist in obtaining
+first mortgage financing secured by the subject property.
+3.4 DEFINITION OF MARKET VALUE
+The term “Market Value” as used in this report is defined as:
+The most probable price which a property should bring in a competitive and open market
+as of the specified date under all conditions requisite to a fair sale, the buyer and the
+seller each acting prudently and knowledgeably, and assuming the price is not affected
+by undue stimulus. Implicit in this definition is the consummation of a sale as of a
+specified date and the passing of title from seller to buyer under conditions whereby:
+1) buyer and seller are typically motivated;
+2) both parties are well informed or well advised, and acting in what they
+consider their best interests;
+3) a reasonable time is allowed for exposure in the open market;
+4) payment is made in terms of cash in Canadian dollars or in terms of financial
+arrangements comparable thereto; and
+5) the price represents the normal consideration for the property sold unaffected
+by special or creative financing or sales concessions granted by anyone
+associated with the sale.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 5
+3.5 EXPOSURE TIME
+The value estimate assumes that the subject property was exposed for sale on the open market in a
+manner typical for this class of property for at least six months prior to the effective date.
+3.6 SALES HISTORY
+The subject was acquired along with three other parcels on February 29, 2024 for a total reported
+price of $10,350,000.00. The subject is not known to be under agreement, option or offer and is
+not currently being actively marketed for sale.
+3.7 SCOPE OF THE APPRAISAL
+The scope of this appraisal encompassed those methods, procedures and investigations considered
+to be typical and appropriate for this class of property and the intended use of this report.
+A physical inspection of the subject property was undertaken on February 25, 2025. The
+neighbourhood was inspected noting relevant competition characteristics and general physical
+make-up. Zoning information was obtained from [CITY] as were the
+property tax rates. Ownership and assessment information were obtained from the Service Nova
+Scotia Property Online database. Comparable sales and rental data was obtained from vendors,
+purchasers, property managers and brokers as well as [COMPANY] data and information retained on file.
+Reference has also been made to the CMHC Vacancy and Rental Survey (October 2024).
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 6
+4.0 LOCATIONAL OVERVIEW
+4.1 MACRO-MARKET CHARACTERISTICS
+The subject is located in the [COMPANY] area of [COMPANY] (HRM). HRM
+is the capital of [CITY] and is the largest urban centre in [LOCATION]. Selected statistics
+from the 2021 census are summarized in the following table:
+Halifax Regional Municipality Nova Scotia
+(HRM)
+[COMPANY] (km²) 5,475.57 52,824.71
+2021 Population 439,819 969,383
+Population Change from 2016 9.1% 5.0%
+Number of Private Occupied Dwellings 190,512 428,228
+Percent Rented 42.5% 32.6%
+Avg. Value of Private Occupied Dwellings $403,600 $295,600
+Avg. Total Income Among Recipients $52,900 $47,480
+The unemployment rate for [CITY] (December 2024) was 5.9% with a participation rate of
+61.2% and a total labour force of 549,900. The [COMPANY] forecast for [CITY] in 2025 projects
+real GDP growth at +1.6%.
+The following table summarizes current statistical and financial information for the subject area:
+Market Current Change over
+[COMPANY] Previous Year
+[COMPANY] Dec-24 290,400 2.7%
+[COMPANY] Dec-24 4.60% Up 30 basis points
+[COMPANY] Dec-24 66.70% Down 110 basis points
+Consumer Price Index (all items) HRM Dec-24 162.8 1.3%
+[COMPANY] Nov-24 $180,325,000 -1.8%
+[COMPANY] (YTD) HRM Dec-24 5,081 5.7%
+[COMPANY] Scotia Nov-24 $1,822,569,000 3.8%
+[COMPANY] Jan-25 3.50% Down 175 basis points
+[COMPANY] Prime Rate Canada Jan-25 5.45% Down 175 basis points
+Long-term Canada Bond Yield Canada Jan-25 3.54% Up 41 basis points
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [CITY]
+4.2 LOCATION MAPS
+Neighbourhood Location
+Regional Location
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 8
+4.3 MICRO-MARKET CHARACTERISTICS
+The subject property is geographically situated in the north area of [COMPANY] in the
+neighbourhood bounded to the north by [LOCATION], to the south by [PERSON], to the west by
+[PERSON] and to the east by Albro Lake Road. The area is primarily residential in nature
+and is improved with a mix of low and medium density multi-unit walk-up apartment buildings as
+well as a small proportion of single family dwellings. Buildings in the immediate area are a mix
+of average to relatively good quality condition. The area offers affordable housing for renters.
+The surrounding streets are typically lighted, two lane, two way asphalt paved roads with
+sidewalks along one or both sides of the road.
+[PERSON], junior high and high schools are located within a 1 km radius. Neighbourhood
+shopping facilities are readily available with a [PERSON] grocery store and [COMPANY] drug store
+located in a plaza at the southerly end of Primrose Street. Community shopping is available
+within a 2 km radius. Recreational facilities are situated within a 1 km radius, including an arena
+and tennis courts.
+Metro Transit bus service is immediately available with routes running along Victoria Road,
+[PERSON], Crystal Drive and Albro [LOCATION].
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [CITY] 9
+4.4 REAL ESTATE MARKET SUMMARY
+4.4.1 Residential Sector
+Housing starts in [COMPANY] totalled 4,805 in 2023, up 41.9% from 2022. Rental unit starts for HRM
+overall totalled 3,828 for 2023, up 62% from 2022. Current CMHC housing statistics are
+summarized in the following table:
+Halifax Regional Municipality 2025 2024 % Change
+All Housing Starts YTD (January) 511 340 50.3%
+[COMPANY] (January) 416 278 49.6%
+Vacancy rates for HRM have increased overall. The subject area has also experienced an
+increase. Average rents have increased in the subject market and HRM overall.
+The following table outlines average rents and vacancy rates for the [COMPANY] Metro area in
+October 2024 with the subject area submarket being highlighted in yellow:
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [CITY] 10
+VACANCYRATES(%)
+Bachelor 1 Bedroom 2 Bedroom 3 + Bedroom Total
+Area (Zone) 2023 2024 2023 2024 2023 2024 2023 2024 2023 2024
+[LOCATION] (1) 1.1 1.4 0.9 2.4 1.4 2.4 0.3 0.4 1.0 2.1
+Peninsula North (2) 0.0 ** 1.1 ** 1.9 2.5 0.2 ** 1.4 2.4
+[LOCATION] (3) 0.0 0.0 1.8 1.7 1.6 1.5 0.0 2.8 1.5 1.7
+[LOCATION] (4) 0.2 0.7 1.1 1.3 0.5 1.3 0.2 0.7 0.6 1.2
+Dartmouth North (5) ** 4.9 1.6 4.2 1.2 1.7 0.7 ** 1.4 3.0
+[COMPANY] (6) ** ** 1.8 1.1 0.7 1.2 ** 0.9 1.5 1.2
+Dartmouth East (7) ** ** 2.9 5.8 0.5 1.3 1.1 2.5 1.1 2.2
+[PERSON] (8) ** ** 4.0 2.2 0.6 1.8 0.0 0.8 0.9 1.8
+[CITY] (9) ** ** 0.3 ** 0.7 ** 0.4 0.7 0.6 **
+Remainder of Metro (10) ** ** 0.4 0.4 0.1 2.3 3.6 5.4 0.3 2.2
+HALIFAX CMA 1.3 1.5 1.3 2.5 0.9 1.9 0.5 1.6 1.0 2.1
+AVERAGERENTS
+Bachelor 1 Bedroom 2 Bedroom 3 + Bedroom Total
+Area (Zone) 2023 2024 2023 2024 2023 2024 2023 2024 2023 2024
+[LOCATION] (1) $1,204 $1,303 $1,571 $1,619 $2,035 $2,160 $2,840 $3,353 $1,765 $1,883
+[COMPANY] (2) $1,028 $1,106 $1,343 $1,453 $1,602 $1,622 $1,869 $1,837 $1,491 $1,556
+[LOCATION] (3) $845 $951 $1,087 $1,131 $1,431 $1,525 $1,653 $1,770 $1,319 $1,404
+[LOCATION] (4) $1,075 $1,089 $1,229 $1,320 $1,609 $1,624 $1,872 $1,964 $1,521 $1,570
+[PERSON] (5) $937 $1,065 $1,114 $1,175 $1,336 $1,426 $1,632 $1,765 $1,249 $1,330
+[COMPANY] (6) $729 $802 $1,159 $1,222 $1,361 $1,514 $1,323 $1,582 $1,286 $1,415
+[LOCATION] (7) $1,046 ** $1,175 $1,163 $1,523 $1,623 $1,417 $1,651 $1,443 $1,551
+[PERSON] (8) ** ** $1,286 $1,258 $1,719 $17,89 $1,989 $2,185 $1,685 $1,842
+[CITY] (9) ** ** $1,452 $1,764 $1,728 $1,828 $1,965 $2,276 $1,710 $1,868
+Remainder of Metro (10) $1,074 $1,133 $1,485 $1,619 $2,045 $2,175 $2,219 $2,587 $1,922 $2,093
+HALIFAXCMA $1,112 $1,182 $1,323 $1,403 $1,628 $1,707 $1,984 $2,170 $1,532 $1,629
+Source: CMHC October 2024
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 11
+5.0 PHYSICAL AND FUNCTIONAL DATA
+5.1 SITE DETAILS
+5.1.1 Site Description
+The subject site is situated on the northerly side of Jackson Road. The parcel is depicted in yellow
+in the following [COMPANY] Online plan:
+[COMPANY] = 1.43 acres ±
+The site is irregular in shape fronting on Jackson Road at two points. There is 50’ of frontage at
+the northerly point and 100’ at the southerly point. There is a maximum depth of 239’. The
+topography is basically flat and level with the surrounding road grade. Access to the site is via a
+single driveway leading to the rear parking area along the north side of the building.
+[PERSON] to the [PERSON] for a legal description of the property.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 12
+5.1.2 Site Improvements
+The subject has the following site improvements:
+[COMPANY] paved driveway and parking area.
+ Sodded yard areas.
+5.1.3 Services
+The subject has the following services available:
+ Municipal water and sewer.
+[COMPANY].
+[COMPANY] gas.
+5.1.4 Easements and Rights-of-way
+There is a 15’ wide right-of-way over the northerly section of the subject site. This right-of-way
+provides access from Jackson Road to the parking lot for the commercial property at the rear of
+the site.
+5.1.5 Environmental Considerations
+The value indicated in this report assumes an environmentally clean site. No environmental
+assessment reports have been reviewed.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 13
+5.2 BUILDING DETAILS
+5.2.1 Overview
+The subject is improved with a three level walk-up apartment building which was constructed in
+1964. The living rooms have been converted to bedrooms in some units. Building details are
+outlined in the following tables.
+[PERSON] to the [PERSON] for a sketch of the building floor plate.
+5.2.2 Unit Count and Area
+Bachelor 1 Bedroom Total Units Gross Area (ft²)
+Unit [PERSON] 43 45 24,008
+Areas have been derived from measurements taken at the time of inspection.
+5.2.3 Age and Economic Life
+Chronological Age: 61 years
+Effective Age: 20 years
+Estimated Remaining Economic Life: 40 years
+The estimated remaining economic life relates to the building structure, excluding short lived
+items, and assumes ongoing general maintenance of the building envelope.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 14
+5.2.4 Brief Specifications
+Foundation: Poured concrete.
+Structure: Wood frame with brick and vinyl siding exterior. Stone facade at front of
+building.
+Roof: Flat roof. Assumed to be modified bitumen.
+Interior Walls: Painted drywall.
+Ceilings: Painted drywall.
+Interior Floors: [COMPANY] tile in corridors. [COMPANY], laminate and hardwood in living rooms
+and bedrooms. Ceramic tile and vinyl in kitchens and bathrooms.
+Windows: Vinyl thermopane.
+HVAC System: 3 x natural gas fired hot water boiler furnaces to baseboard radiators.
+Electrical: 400 amp, 120/240 volt main entrance. Individual circuit breaker or fuse
+panels in each unit. Two house meters (expansion slots for potential
+separate metering of each unit are in place).
+Hot Water: 2 x phase III hot water storage tanks supplied by boilers.
+Plumbing: 1 x 4 piece bathroom per unit.
+[PERSON]: None.
+Elevator: None.
+Miscellaneous: • Laundry room with 3 washers and 3 dryers.
+• Refrigerator and range in each unit.
+[COMPANY] entrance with intercom.
+• Some furnished units.
+5.2.5 Condition and [PERSON]
+The subject is an average quality building with some recent renovations. Finishes are basic but
+functional and consistent with the surrounding neighbourhood.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 15
+6.0 MUNICIPAL DATA
+6.1 ASSESSED VALUE AND ANNUAL TAXES
+Residential
+2024 Assessment $3,034,100.00
+2025 Assessment $4,010,600.00
+Change over 2024 32.2%
+2024 Tax Rate ($/100) 1.1100
+[COMPANY] $44,517.66
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 16
+6.2 ZONING AND PLANNING CONSIDERATIONS
+Higher Order Residential 1 (HR-1)
+Selected Permitted Uses: • Single unit dwelling
+[COMPANY] dwelling
+[COMPANY]-unit dwelling
+[COMPANY] commercial (permitted within a mixed use building
+with at least 75% residential space)
+Minimum Lot Area: 6,006 ft2
+Minimum Frontage: 40 feet
+Minimum Front Yard: 13.1 feet
+Minimum Rear Yard: 9.8 feet
+Minimum Side Yard: 8.2 feet
+[PERSON] Height: 4 storeys
+Maximum Lot Coverage: None
+The property is shown in the following zoning map:
+It is assumed that the utilization of the subject meets the applicable land use and occupancy
+requirements.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 17
+7.0 HIGHEST AND BEST USE
+The term “Highest and Best Use” is defined as follows:
+The reasonably probable and legal use of vacant land or an improved property that is
+physically possible, appropriately supported and financially feasible and that results in
+the highest value.
+The Appraisal of Real Estate - Third Canadian Edition (2010).
+7.1 AS IF VACANT
+Given the zoning and location of the property in conjunction with prevailing market
+characteristics, the highest and best use is considered to be a multi-unit residential use consistent
+with the [COMPANY] zoning requirements.
+7.2 AS IMPROVED
+The property has been developed with a medium density multi-unit residential building. The
+improvements remain marketable in the current configuration and there is significant remaining
+economic life. No feasible alternate use has been identified. Based on the foregoing, the highest
+and best use of the improved property is considered to be a continuation of the existing multi-unit
+residential use.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 18
+8.0 VALUATION METHODOLOGY
+There are three basic approaches available to the appraiser in the estimation of the market value
+of the subject property. The methods and procedures of these approaches are summarized as
+follows:
+8.1 INCOME APPROACH
+This approach is applied in the valuation of income producing or investment properties. The basic
+steps of this procedure are the estimation of gross income less expenses resulting in net income
+and the determination of an appropriate method of capitalization which, when applied to net
+income, results in an indication of economic value.
+8.2 DIRECT COMPARISON APPROACH
+This approach involves the analysis of properties of comparable nature which have sold on the
+open market of recent date. Where applicable, the sale price of a comparable sale is adjusted for
+dissimilar features such as differences in location, market conditions and physical characteristics.
+Adjustment for differences equates the sale price of a comparable sale to an expression of market
+value for the subject.
+8.3 COST APPROACH
+The Cost Approach consists of two basic components. Firstly, the valuation of the land as if free
+and clear of improvements under its highest and best use and secondly, the estimation of the
+reproduction cost new of the improvements less any loss in value (depreciation) due to
+deterioration or obsolescence. The actions of typical buyers and sellers in the subject property
+market would not generally reflect this approach for established properties. Therefore, [COMPANY] has not been employed.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 19
+9.0 REVENUE AND EXPENSE ANALYSIS
+9.1 CURRENT LEASING
+The following table outlines the current rent roll for the subject building:
+RENT ROLL - 7 Jackson Road
+Unit Type Rent Unit Type Rent
+1 1 $799.00 25 1 $1,068.00
+2 1 $1,950.00 26 1 $1,900.00
+3 1 $915.00 27 1 $679.00
+4 1 $961.00 28 1 $688.00
+5 1 $1,400.00 29 1 $694.00
+6 1 $2,105.00 30 1 $717.00
+7 1 $2,105.00 31 1 $1,065.00
+8 1 $871.00 32 1 $1,320.00
+9 1 $980.00 33 1 $731.00
+10 1 $915.00 34 1 $1,499.00
+11 B $639.00 35 1 $717.00
+12 1 $736.00 36 1 $2,105.00
+14 1 $754.00 37 1 $1,015.00
+15 B $639.00 38 1 $1,122.00
+16 1 $2,064.00 39 1 $719.00
+17 1 $688.00 40 1 $2,148.00
+18 1 $1,035.00 41 1 $724.00
+19 1 $719.00 42 1 $716.00
+20 1 $2,148.00 43 1 $682.00
+21 1 $676.00 44 1 $622.00
+22 1 $682.00 45 1 $707.00
+23 1 $706.00 46 1 $606.00
+24 1 $1,122.00
+Bachelor 1 Bedroom 2 Bedroom 3 Bedroom Total
+Total Units 2 43 0 0 45
+Total Rent $1,278.00 $46,575.00 $0.00 $0.00 $47,853.00
+Average Rent $639.00 $1,083.14 [COMPANY] ERR $1,063.40
+The indicated rents include heat and hot water but do not include electricity or parking.
+Some of the units are rented on a furnished basis.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [CITY] 20
+9.2 MARKET RENT
+The following table outlines comparable rents for competing properties in the subject market:
+Index Property Bachelor 1 Bedroom Heat
+1 4 [COMPANY] $1,125 $1,240 [COMPANY] 593 ft² 836 ft²
+$1.90/ft² $1.48/ft²
+2 15-35 Leaman Drive $1,499 $1,699 [COMPANY] ft² 723 ft2
+$3.48/ft² $2.35/ft2
+3 1-3 Farthington Place - $1,599 [COMPANY] ft2
+$2.16/ft2
+4 24 Primrose Street - $1,250 [COMPANY] 900 ft2
+$1.39/ft2
+5 36 Primrose Street - $1,599 [COMPANY] 673 ft2
+$2.38/ft2
+6 252-254 Victoria Road - $1,450-$1,650 [COMPANY] 400-500 ft²
+$3.30-$3.63/ft²
+7 1-10 Crystal Drive $1,499 $1,649 [COMPANY] ft² 694 ft²
+$3.03/ft² $2.38/ft²
+8 Tacoma Drive $1,300 - Landlord
+Dartmouth 500 ft²
+$2.60/ft²
+9 127 Slayter Street $1,448 - Landlord
+Dartmouth 450 ft²
+$3.22/ft²
+10 10 Crystal Drive $1,499 - Landlord
+Dartmouth 494 ft²
+$3.03/ft²
+CMHC Zone 5 average $1,065 $1,175 Various
+Subject average $639 $1,083 [PERSON]
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 21
+Based on the foregoing, current rents for the subject are considered to be consistent with market
+rents. There is good potential for rental increases on tenant turnover for some units.
+9.3 REVENUE
+9.3.1 Basic Rent
+Based on the foregoing, potential rental income for the subject is estimated at $574,236.00,
+averaging $1,063.00/unit monthly.
+9.3.2 Laundry Income
+Revenue from laundry facilities has been estimated at $24.00/unit monthly which equates to
+annual laundry income of $12,960.00.
+9.3.3 Parking Income
+The current rent roll indicates $25.00/month from surface parking which equates to $300.00/year
+for parking income.
+9.3.4 Miscellaneous Income
+No other significant sources of income have been identified.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 22
+9.4 VACANCY
+CMHC reports vacancy for zone 5 (subject neighbourhood) at 3.0% overall with bachelor units at
+4.9%, one bedroom units at 4.2% and two bedroom units at 1.7%.
+Reference has also been made to [COMPANY] for Q1 2025
+which indicated an overall vacancy rate for the [COMPANY] Metro area at 3.1%.
+Collection loss can typically be expected to average between [PERSON] and [CITY] of gross rents.
+Given the current level of occupancy in the subject offset against the prevailing level of market
+vacancy, on a stabilized basis, an allowance of 2.5% has been made for vacancy and collection
+loss.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 23
+9.5 EXPENSES
+Based on reported actual expenses for 2024 as well as typical performance of similar properties,
+the following stabilized expense amounts have been estimated:
+• Building Operation and Maintenance:
+This amount includes repairs and maintenance, landscaping, reserve for replacement, common
+area cleaning, snow removal and garbage removal as well as general and administrative costs.
+The stabilized amount is based on $1,000.00/unit.
+• Insurance:
+This amount is based on the reported actual amount which equates to a rate of $233.00/unit.
+[COMPANY]:
+The management fee is based on 4% of [COMPANY] which is consistent with rates typically charged for
+this class of property in the subject area.
+[COMPANY]:
+Based on the 2024 tax rate applied to the 2025 assessed value (see section 6.1 for additional
+detail).
+[COMPANY]:
+This item includes the landlord’s cost for heat and common area electricity as well as water and
+sewer charges. The adopted amount is based on $1,125.00/unit which closely reflects the
+reported actual amount for 2024.
+[PERSON] and Benefits:
+This item reflects the market value of any wages or apartment benefits (reduced rent). The
+amount is based on $500.00/unit.
+Operating expenses total $196,057.00 ($4,357.00/unit) or 34.2% of [COMPANY].
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 24
+10.0 INCOME APPROACH
+10.1 OVERALL CAPITALIZATION RATE
+The comparable sales outlined in [COMPANY] indicate overall capitalization
+rates ranging from 4.1% to 5.0% averaging 4.7% with a median rate of 4.8%.
+Some consideration has also been given to generalized survey data for multi-unit residential
+buildings. [COMPANY] for Q4 2024, CBRE
+Canadian Cap Rate Survey for Q4 2024 and [COMPANY] Canadian Cap Rate
+Perspective Report for Q4 2024 indicate capitalization rates for multi-family buildings in the
+[COMPANY] market to be as follows:
+Low High
+CBRE - 4.50% 5.25%
+Colliers - 4.00% 5.75%
+[COMPANY] - 4.50% 6.00%
+These surveys are based on subjective opinions rather than actual transactions but they do serve
+to provide a guide to the positions of potential buyers and sellers in the market place.
+The subject is an average quality building that is in average overall condition. There would be
+good demand for the property, primarily from local or regional investors. The size of the property
+would result in a relatively broad pool of potential investors. There is good potential for increased
+rents on tenant turnover for some units. The furnished units have an added risk component
+relative to unfurnished units. The property is under-assessed and there is some potential for
+property tax increases in future tax years.
+Given the locational and physical characteristics, a capitalization rate consistent with the average
+rate from the analyzed comparable sales data of 4.75% has been adopted.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 25
+10.2 DIRECT CAPITALIZATION
+Based on the foregoing revenue, expense and cap rate considerations, the value based on direct
+capitalization of stabilized net operating income is summarized as follows:
+INCOME APPROACH SUMMARY - 7 Jackson Road
+REVENUE
+Average Rents 2 Bachelor @ $639.00 /month $15,336
+43 1 Bedroom @ $1,083.14 /month $558,900
+45 $574,236
+Laundry Income 45 units @ $24.00 /month $12,960
+Parking Income $300
+Other Income $0
+POTENTIAL GROSS INCOME $587,496
+Vacancy Allowance @ 2.5% $14,687
+EFFECTIVE GROSS INCOME $572,809
+OPERATING EXPENSES % of EGI $/unit
+Building Operation and Maintenance $45,000 7.9% $1,000
+Insurance $10,502 1.8% $233
+Management Fee $22,912 4.0% $509
+Property Tax $44,518 7.8% $989
+Utilities
+- Electricity $19,125 3.3% $425
+- Heat $11,250 2.0% $250
+- Water and Sewer $20,250 3.5% $450
+Wages and Benefits $22,500 3.9% $500
+Total Expenses $196,057 34.2% $4,357
+NET OPERATING INCOME $376,751 65.8% $8,372
+Overall Capitalization Rate 4.75%
+Value on Completion $7,931,605
+Rounded $7,930,000 $176,222
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 26
+11.0 DIRECT COMPARISON APPROACH
+11.1 COMPARABLE SALES DATA
+[COMPANY] Price/
+#[COMPANY] Unit [PERSON]
+1] 83-87 Pleasant Street Dec-24 $4,600,000 28 $164,286 4.8% Group of 3 wood frame walk-up apartment
+and 2 Linden Lea buildings. Brick or vinyl exterior. Built between
+Dartmouth 1935-1955. All 2 [COMPANY] units. Good potential for renta
+increases in the short term.
+2] 221 [COMPANY] Nov-24 $2,525,000 12 $210,417 5.0% 2 level wood frame building with vinyl exterior
+[PERSON] siding. Built in 1982. [PERSON] recently replaced.
+4 x 1 BR and 8 x 2 [COMPANY] units.
+3] 63 [COMPANY] Aug-24 $9,135,000 51 $179,118 4.3% 4 level wood frame building with elevator.
+[COMPANY] 46 years old. Some recent upgrades. Potential
+for expansion and rental increases on tenant
+turnover. 8 x 1 BR and 43 x 2 [COMPANY] units.
+4] 27 Quarry Road Jun-24 $1,775,000 6 $295,833 4.9% 3 level wood frame walk-up building with brick
+[COMPANY] and vinyl siding exterior. Built in 1967.
+Recently renovated. 1 x 1 BR and 5 x 2 [COMPANY] units.
+5] 12 McFatridge Road Nov-23 $1,600,000 11 $145,455 4.1% 3 level walk-up apartment building with 6 garage
+[COMPANY] bays on the main level. Wood frame construction.
+Built in 1986. All 1 bedroom units. Acquired for
+renovation and conversion of garage bays to
+dwelling units.
+6] 10 Cumberland Drive Nov-23 $10,500,000 66 $159,091 4.8% 3-4 level walk-up multi-unit residential building.
+Cole [COMPANY] frame construction. Built in 1984.
+3 x [PERSON], 61 x 2 BR and 2 x 3 [COMPANY] units. Good
+potential for rental increases on tenant turnover.
+Surplus site area for future development.
+The foregoing schedule outlines sales of comparable properties in the area of the subject and the
+sales have been evaluated based on the price per apartment unit for [COMPANY] purposes.
+The rates/unit range from $145,455.00 to $295,833.00/unit averaging $192,366.00/unit.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 27
+11.2 COMPARATIVE [COMPANY] AND ADJUSTMENT
+The relative levels of [COMPANY], as well as the quality and durability of that income, represent the
+primary consideration for income producing or investment properties. This factor also serves to
+reflect the varying unit configurations between the subject and the comparables. The estimated
+stabilized [COMPANY] indicated in the foregoing direct capitalization analysis represents a rate of
+$8,372.00/unit for the subject and, on this basis, the adjustment is made to the comparables as
+follows:
+[COMPANY]/unit [COMPANY] Actual $/unit Adjusted $/unit
+1 $7,886 1.0617 $164,286 $174,422
+2 $10,521 0.7958 $210,417 $167,445
+3 $7,702 1.0870 $179,118 $194,703
+4 $14,496 0.5776 $295,833 $170,862
+5 $5,964 1.4039 $145,455 $204,201
+6 $7,636 1.0964 $159,091 $174,422
+Subject $8,372
+After adjustment, the rates/unit range from $167,445.00 to $204,201.00 averaging
+$181,009.00/unit.
+The subject is an average quality wood frame building that has had some recent renovations.
+Primary reliance has been placed on the adjusted rates for sales 1 and 2 which bracket a rate in
+the order of $171,000.00/unit.
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 28
+11.3 SUMMARY AND VALUE CONCLUSION
+Based on the foregoing, a rate of $171,000.00/unit has been adopted for the subject and the value
+by [COMPANY] is calculated as follows:
+45 units @ $171,000.00 /unit .............................. $7,695,000.00
+Rounded $7,700,000.00
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 29
+12.0 CONCLUSIONS
+12.1 FINAL VALUE ESTIMATE
+The indications of value arrived at by the methods employed in this report are summarized as
+follows:
+[COMPANY] $7,930,000.00
+[COMPANY] $7,700,000.00
+The subject property is an average quality, mid-sized income producing property which would be
+marketable primarily to local or regional investors. The Income Approach best reflects the actions
+of typical buyers and sellers for this class of property and this indicator has been given the
+greatest weight in the final value estimate.
+[COMPANY] also provides a good reflection of buyer and seller actions,
+particularly when there is a good supply of current comparable transactions. Adjustment to the
+comparable sales has been based on relative income levels. The resulting value estimates provide
+good support for the findings of [COMPANY] with a variance of under 3%.
+Based on the foregoing, the market value of the subject property, as of February 25, 2025, is
+considered to be fairly represented at:
+SEVEN MILLION NINE HUNDRED AND THIRTY THOUSAND DOLLARS
+($7,930,000.00)
+____________________________________________________________________________________
+[COMPANY], [COMPANY], [PERSON] Scotia 30
+13.0 CERTIFICATION
+Subject Property: 7 Jackson Road, [COMPANY], [CITY]
+I certify that, to the best of my knowledge and belief,
+• The statements of fact contained in this report are true and correct.
+• The property was personally inspected on February 25, 2025 and I have not withheld any comments or
+observations which might affect the opinion of value stated in this report.
+• The analyses, opinions and conclusions reported herein are my personal and unbiased views and are
+limited only by [COMPANY] contained herein.
+• I have no past, present or contemplated future interest in the real estate which is the object of this report
+and that I have no personal interest or bias with respect to the property or the parties involved.
+• My compensation is not contingent upon any action or event resulting from the analyses, opinions or
+conclusions in, or the use of, this report.
+• This appraisal has been made in conformity with, and is subject to, [COMPANY] of
+[COMPANY] as well as the By-laws and regulations of [COMPANY] of
+Canada and [COMPANY]. The report is subject to review by
+duly authorized representatives of this Institute.
+• I have the knowledge and experience to complete the assignment competently.
+• No one provided significant professional assistance to the person signing this report.
+• I have fulfilled the requirements of [COMPANY] program for designated members.
+In my opinion, the market value of the subject property, as of February 25, 2025, was:
+SEVEN MILLION NINE HUNDRED AND THIRTY THOUSAND DOLLARS
+($7,930,000.00)
+[PERSON]
+________________________________
+[PERSON], [COMPANY], [PERSON].
+[COMPANY] no. 251790
+March 10, 2025
+Date of Report
+____________________________________________________________________________________
+Legal Description Schedule A
+Parcel Description
+ALL that certain lot, piece and parcel of land shown on a plan of subdivision of lands of [COMPANY] [COMPANY], on the Northern side of Jackson Road, in the City of
+[COMPANY], County of [CITY], and [CITY] of Nova Scotia, said plan having been prepared by [COMPANY] dated the 12 day of November, A.D. 1968, and on file at the Registry of
+Deeds at [CITY], [CITY], as plan #133/9117 and approved by [COMPANY]
+on the 28 day of January, A.D. 1969; said lot being comprised of Lots 96P, 91P, a portion of Lot 45A and
+the eastern half of lot 44 shown on said plan as [CITY] of [COMPANY] being
+more particularly described as follows:
+BEGINNING at an iron pipe on the Northern sideline of Jackson Road at the [COMPANY] corner of lands
+of [COMPANY] [COMPANY] as shown on said plan;
+THENCE to run Northerly on a bearing of North twenty-nine degrees thirty-nine point zero minutes West
+a distance of two hundred thirty-nine feet to an iron pipe set on the [COMPANY] boundary of lands of [COMPANY], as shown on said plan;
+THENCE to run Easterly on a bearing of North sixty degrees twenty-one point zero minutes East a
+distance of two hundred fifty feet, until it intersects the Western boundary at Lot 88A as shown on said
+plan;
+THENCE to run [PERSON] on a bearing of South twenty-nine degrees thirty-nine point zero minutes [LOCATION],
+along the Western boundary line of Lot 88A, Portion Z and Lot 47 as shown on said plan, a distance of
+two hundred thirty-nine feet, to the Northern sideline of Jackson Road, said point being the [LOCATION]
+corner of Lot 47 as shown on said plan;
+THENCE to run [CITY] on a bearing of South sixty degrees twenty-one point zero minutes West, along
+the Northern sideline of Jackson Road a distance of fifty feet to an iron pipe at the Southeast corner of
+lands of [PERSON] as shown on said plan;
+THENCE to run Northerly along the [COMPANY] boundary of lands of [COMPANY] aforesaid on a bearing of
+North twenty-nine degrees thirty-nine point zero minutes West, a distance of two hundred eighteen point
+zero feet to an iron pipe at the [LOCATION] corner of lands of [PERSON];
+THENCE to run Westerly along the Northern boundary of lands of [COMPANY] on a bearing of [LOCATION] sixty
+degrees twenty-one point zero minutes West a distance of fifty feet, to an iron pipe at the [COMPANY]
+corner of lands of [PERSON];
+THENCE to run Southerly along the Western boundary of lands of [COMPANY] on a bearing of [LOCATION]
+twenty-nine degrees thirty-nine point zero minutes East a distance of one hundred eighteen point zero
+feet, to an iron pipe at the [LOCATION] boundary of Lot 45B as shown on said plan;
+THENCE to run Westerly along the Northern boundary of Lot 45B on a bearing of South sixty degrees
+twenty-one point zero minutes West, a distance of fifty feet to an iron pipe at the [COMPANY] corner of lot
+45B as shown on said plan;
+THENCE to run Southerly along the Western boundary of Lot 45B on a bearing of South twenty-nine
+degrees thirty-nine point zero minutes East a distance of one hundred feet, to an iron pipe on the [LOCATION]
+sideline of Jackson Road being the [LOCATION] corner of Lot 45B as shown on said plan;
+____________________________________________________________________________________
+Legal Description Schedule A
+THENCE to run Westerly along the Northern sideline of Jackson Road on a bearing of [LOCATION] sixty
+degrees twenty-one point zero minutes West, a distance of one hundred feet to the point of beginning.
+[COMPANY] TO a right-of-way reserved in a Deed from [COMPANY] to [COMPANY] in Book 2299 at Page 191, which states as follows:
+RESERVING a right-of-way to the Grantor in common with the Grantee for persons, animals and
+vehicles over and along the eastern boundary of the lot, said right-of-way being fifteen feet in [CITY] and
+running from the northern boundary of Jackson Road to the rear line of the lot.
+____________________________________________________________________________________
+Building Sketch Schedule B
+____________________________________________________________________________________
+Subject Photographs Schedule C
+View of subject from southeast corner
+View of subject from northeast corner
+____________________________________________________________________________________
+Subject Photographs Schedule C
+View of subject from southwest corner
+View of subject from northwest corner
+____________________________________________________________________________________
+Subject Photographs Schedule C
+Lobby
+Typical corridor
+____________________________________________________________________________________
+Subject Photographs Schedule C
+Typical kitchen
+Typical bedroom
+____________________________________________________________________________________
+Subject Photographs Schedule C
+Typical bathroom
+View north along Jackson Road at the subject
+____________________________________________________________________________________
+Subject Photographs Schedule C
+View south along Jackson Road at the subject
+____________________________________________________________________________________
+[COMPANY] and Location Map Schedule D
+1] 83-87 Pleasant Street 2] 221 Rutledge Street 3] 63 [PERSON], [CITY] [CITY], [COMPANY], [CITY]
+4] 27 Quarry Road 5] 12 McFatridge Road 6] 10 Cumberland Drive
+Halifax, [COMPANY], [PERSON] Scotia [PERSON], [CITY]
+____________________________________________________________________________________

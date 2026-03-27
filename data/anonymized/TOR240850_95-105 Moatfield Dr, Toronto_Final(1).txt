@@ -1,0 +1,2323 @@
+[PERSON] Building
+95-105 Moatfield Drive
+Toronto, Ontario
+Effective Date: July 3, 2024
+Report Date: July 15, 2024
+Prepared For Prepared By
+[PERSON], AACI, P.App
+Assistant of CEO Director, [COMPANY]
+181 Bay Street MAIN [PHONE]
+Suite 1400 FAX [PHONE]
+Toronto, ON M5J 2V1
+www.colliers.com
+Our File: TOR240850
+July 15, 2024
+Visionary Holdings Inc
+105 [PERSON], 1003
+Toronto, Ontario M3B 0A2
+Attention: [PERSON]
+Assistant of CEO
+Dear Ms. [PERSON];
+Re: Appraisal of [COMPANY]
+95-105 Moatfield Drive, Toronto, Ontario
+In accordance with your request, we have carried out an analysis of the above mentioned property in order
+to estimate its current market value as is. Based on our investigations, it is our opinion that the current
+market value as is of the leased fee interest in [COMPANY], as of July 3, 2024, is estimated to be
+as follows:
+VALUE TYPE INTEREST APPRAISED DATE OF VALUE VALUE
+Current Market Value As-Is Leased Fee July 3, 2024 $80,100,000
+The above value estimate is based on an exposure period of six months or less, assuming the basis of a
+transaction involving cash to the vendor, and is in conjunction with [COMPANY]
+stated within this appraisal. Of particular note are [COMPANY] outlined within [COMPANY] section, beginning on Page 9 herein.
+This report describes the methods and approaches to value in support of the above conclusion, and
+contains the pertinent data gathered in our investigation of the market.
+Should you have any questions, we would be pleased to discuss the valuation further.
+Yours very truly,
+COLLIERS INTERNATIONAL REALTY ADVISORS INC.
+[PERSON], AACI, P.App
+Director, Toronto
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] ................................................................... 1
+Terms of Reference ................................................................... 6
+[COMPANY] ........................................................................... 11
+[COMPANY] – St. Andrew Windfields, Toronto .................................. 13
+Site Description ............................................................................................ 21
+Land Use Controls ....................................................................................... 22
+Description of the Improvements ................................................................. 25
+Valuation .................................................................................. 28
+Highest and Best Use .................................................................................. 28
+Valuation Methodology ................................................................................. 30
+[COMPANY] ......................................................................................... 31
+[COMPANY] ............................................................... 31
+Discounted Cash Flow .......................................................................... 48
+[COMPANY] ....................................................................... 52
+Reconciliation and Final Estimate of Value .................................................. 55
+[COMPANY] .................................................................................................. 57
+Appendices .............................................................................. 59
+Appendix A Ordinary Assumptions and [COMPANY] ..................... 60
+Appendix B Definitions .............................................................................. 66
+Appendix C Market Overview .................................................................... 70
+[COMPANY] .......................................................... 83
+Appendix E Land Use Controls ................................................................. 93
+Appendix F Argus Enterprise Output ...................................................... 105
+Appendix G Comparable Sales ............................................................... 110
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Executive Summary
+[COMPANY] Building
+Final Value Estimate
+95-105 Moatfield Drive
+$80,100,000
+Toronto, Ontario
+PROPERTY INFORMATION
+[COMPANY] ([CITY]) 413,268
+Year Built 1982 Occupied (100.0%) 413,268
+[COMPANY] (95 Moatfield, 11 (105 Moatfield)
+[COMPANY] 21,400-31,300
+Site Area (acres) 6.56 [COMPANY] 1.45 Parking (UG / Surface / Other) 972 / 282 / 0
+Excess Density None Parking Ratio (Stalls/1,000 SF) 3
+Land Use/Zoning MO ([COMPANY]
+Park Zone)
+VALUE CONCLUSION VALUATION SUMMARY
+Final Value Estimate $80,100,000 [COMPANY] $80,600,000
+Effective Date July 3, 2024 Income Approach
+Value per SF $194 Direct Income Capitalization $82,850,000
+[COMPANY] 8.27% Discounted Cash Flow $77,350,000
+DIRECT INCOME CAPITALIZATION DIRECT COMPARISON APPROACH
+Market Rent Range $17.00 per [COMPANY] $195
+Stabilized Net Operating Income $6,628,135 [COMPANY] $80,600,000
+Vacancy Allowance 7.50% Adjustments $0
+Structural / Contingency 1.00% Adjusted Value $80,600,000
+Overall Capitalization Rate 8.00% Value per SF $195
+[COMPANY] $82,850,000
+Adjustments $0
+Adjusted Value $82,850,000
+Value per SF $200
+DISCOUNTED CASH FLOW ANALYSIS
+Investment Horizon 10-year
+[COMPANY] 8.75%
+Terminal Capitalization Rate 8.25%
+Inflation (General) 2.50% per annum
+Value $77,350,000
+Value per SF $187
+Reversion Statistics
+Reversionary Value $99,134,727
+[COMPANY] $240
+The above value estimate is in conjunction with [COMPANY] stated within this
+appraisal. Of particular note are [COMPANY]
+outlined within [COMPANY] section, beginning on Page 9 herein.
+File Reference: TOR240850 Page 1
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+MARKET LEASING ASSUMPTIONS As of [COMPANY]
+[PERSON] Mkt Rent Expense Lease Rnwl Downtime Tenant Improv Free Rent (Initial) Leasing Comm (1)
+Category ($/SF/Yr.) Structure (Years) [COMPANY] - $17.00 $17.00 Continue Prior 5.0 75% 6 months $20.00 $10.00 0 months 0 months ####### $6.00/SF
+(1) Leasing Commission
+Leasing commissions have been based upon discussions with brokers active in the marketplace.
+RENTAL RATE SUMMARY
+Year One Year Two Year Three Year Four Year Five
+Weighted Market Rent $17.00 $17.43 $17.86 $18.31 $18.76
+[COMPANY] Rent $16.67 $17.04 $17.09 $16.89 $16.85
+% Below/(Above) Market 2.0% 2.2% 4.3% 7.8% 10.2%
+WALE (by [COMPANY]) 2 Years 8 Months 6 Days
+WALE (by Revenue) 2 Years 8 Months 9 Days
+LEASE EXPIRES
+Year One Year Two Year Three Year Four Year Five
+Annual 0.0% / 0 SF 53.2% / 219,953 SF 2.7% / 11,000 SF 12.5% / 51,600 SF 25.0% / 103,215 SF
+3 Year Average 18.6%
+5 Year Average 18.7%
+10 Year Average 19.3%
+RETURNS / YIELDS
+[COMPANY] Returns Year One Year Two Year Three Year Four Year Five
+Annual 8.4% 8.6% 8.7% 8.5% 8.3%
+3 Year Average 8.6%
+5 Year Average 8.5%
+10 Year Average 8.9%
+Cash Flow Returns Year One Year Two Year Three Year Four Year Five
+Annual 8.3% 4.0% 8.2% 7.0% 5.4%
+3 Year Average 6.8%
+5 Year Average 6.6%
+10 Year Average 6.6%
+File Reference: TOR240850 Page 1
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+No. Property Address Size (SF) Analysis Price NOI / SF
+Site Area (SF) Analysis Price / SF SOCR
+[COMPANY] Building 1993 31-May-24 $1,986,500
+1 110 Sheppard Avenue East 162,267 $29,000,000 $12.24
+Toronto, ON 50,050 $179 6.85%
+[COMPANY] 2008 9-Apr-24 $2,021,312
+2 199 Four Valley Drive 100,398 $30,900,000 $20.13
+Vaughan, ON 419,047 $308 6.54%
+[COMPANY] 1989 1-Feb-24 $2,560,000
+3 2655 & 2695 [LOCATION] 158,233 $25,600,000 $16.18
+[COMPANY], ON 484,517 $162 10.00%
+The Atria Complex 1991 23-Jul-23 $14,025,000
+4 2225, 2235, 2255 Sheppard 921,834 $165,000,000 $15.21
+Toronto , ON 611,059 $179 8.50%
+Crossroads Corporate Centre 1987 1-May-23 $5,643,300
+5 7070 Mississauga Road 244,128 $72,350,000 $23.12
+[COMPANY], ON 740,128 $296 7.80%
+[COMPANY] 2001 2-Mar-23 $3,783,491
+6 125 Commerce Valley Drive West 189,045 $48,311,606 $20.01
+[CITY], ON 195,584 $256 7.83%
+File Reference: TOR240850 Page 1
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+General [PERSON] Reference: TOR240850 Page 2
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Photographs of Subject Property
+View of Exterior Signage View of Exterior Signage
+Exterior View of Parking Entrance Interior View of Lobby at 95 [PERSON]
+Interior View of 95 Moatfield Interior View of Restroom
+File Reference: TOR240850 Page 3
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Photographs of Subject Property (continued)
+Interior View of Mechanical Room Interior View of Kitchenette at 95 [PERSON]
+Interior View of 95 Moatfield Interior View of 95 [PERSON]
+Interior View of 95 Moatfield Interior View of 95 Moatfield
+File Reference: TOR240850 Page 4
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Photographs of Subject Property (continued)
+View of HVAC System Rooftop View
+Interior View of Parking Garage Interior View of 105 [PERSON]
+Interior View of 105 Moatfield Aerial View of Surface Parking
+File Reference: TOR240850 Page 5
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Terms of Reference
+Authorized Client and [COMPANY] is [COMPANY] of this appraisal, and [COMPANY] is the Authorized
+User.
+Purpose and Authorized Use of Report
+The purpose of this valuation is to estimate the current market value as is of the Subject Property described.
+This appraisal is provided on a confidential basis and for the sole and exclusive use by [COMPANY] and any other Authorized User specifically identified for first mortgage financing only, and any third party
+use of or reliance on this Appraisal Report or any materials prepared by [COMPANY] (Colliers), is strictly prohibited, except to the extent that [COMPANY] has provided prior permission
+in writing, such permission to be provided or withheld in Colliers’ sole and exclusive discretion. In the event
+that [COMPANY] has not provided said permission [COMPANY] shall ensure and be responsible for
+notifying the third party in writing that it should not rely on the Appraisal Report and any use by such third
+party of the Appraisal Report or any materials prepared by Colliers shall be at its own risk and that Colliers
+makes no representations or warranties of any kind. Notwithstanding anything to the contrary, Colliers shall
+not owe any duty to any third party with respect to the Appraisal Report.
+The appraisal report must be used in its entirety and any reliance on any portion of the appraisal report
+independent of others may lead to erroneous conclusions.
+Indemnification and Limitation of Liability
+Visionary Holdings Inc shall indemnify, defend and hold [COMPANY] fully harmless from and against any and
+all claims, liabilities, damages, costs and expenses (including court costs and reasonable legal fees)
+resulting from or arising out of [COMPANY] breach of the professional service agreement relating
+to the Appraisal Report, wrongful acts or omissions (including any failure to perform any duty imposed by
+law), misrepresentation, distortion or failure to provide complete and accurate information, or any
+unauthorized use or reliance by third parties on the Appraisal Report or any materials prepared by Colliers.
+Except for [COMPANY] indemnification obligations, neither party shall be liable to the other
+party for any special, consequential, punitive or incidental damages of any kind whatsoever. Moreover, to
+the maximum extent permitted by law, Colliers’ total liability for any losses, claims or damages arising out
+of or connecting or relating to this agreement (under any applicable theory of law) shall be limited in the
+aggregate to the total sum of fees and costs received by [COMPANY] from [COMPANY] for the
+applicable subject report(s).
+Property Rights
+The property rights appraised are those of [COMPANY] subject to [COMPANY]) Interest.
+[COMPANY] refers to an ownership interest held by the lessor, which includes the right to the
+contract rent specified in the lease plus the reversionary right when the lease expires.
+Effective Date
+The effective date of this valuation is July 3, 2024.
+This Appraisal Report is prepared in the context of the market conditions and other factors (including
+assumptions and/or materials provided by parties and sources outside of the control of [COMPANY]: TOR240850 Page 6
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]) prevailing as of the effective date. Real estate markets and assets are subject to significant
+volatility and change; and can be affected by numerous economic and political conditions as well as other
+conditions. The value contained (if any) in this Appraisal Report is made as of the effective date only and
+should not be relied on as of any other date without receiving prior written authorization from [COMPANY].
+Property Inspection
+The following table illustrates the Colliers professionals involved with this appraisal report, and their status
+with respect to the property inspection.
+SUBJECT PROPERTY INSPECTION
+APPRAISER INSPECTED EXTENT DATE OF INSPECTION
+[PERSON], [COMPANY], [COMPANY] July 3, 2024
+Market Value Definition
+For the purposes of this valuation, market value is defined as:
+"The most probable price, as of a specified date, in cash, or in terms equivalent to cash, or in other precisely
+revealed terms, for which the specified property rights should sell after reasonable exposure in a
+competitive market under all conditions requisite to a fair sale, with the buyer and the seller each acting
+prudently, knowledgeably, and for self-interest, and assuming that neither is under undue duress.”
+(The Appraisal of Real Estate, Fourth Canadian Edition, ed. [COMPANY], ([COMPANY], [COMPANY], 2023), p.
+6.1-.4)
+Exposure Time
+An estimate of market value is related to the concept of reasonable exposure time. Exposure time is defined
+as:
+“The estimated length of time the property interest being appraised would have been offered on the market
+before the hypothetical consummation of a sale at the estimated value on [COMPANY] of the appraisal.
+Exposure time is backward-looking.”
+([COMPANY]Canadian Uniform Standards of Professional Appraisal Practice". 2024 ed., p. 6)
+Exposure Time is a retrospective function of asking price, property type, and past market conditions and
+encompasses not only adequate, sufficient and reasonable time, but also adequate, sufficient and
+reasonable marketing effort. Exposure time is a necessary element of a market value definition but is not a
+prediction of a specific date of sale.
+In practice, the exposure time assumes the following:
+• The property was extensively marketed. Potential purchasers could inspect the property at will.
+• The owner provided interested agents with any and all relevant property information.
+• Negotiations of any offers to purchase were performed in a timely manner.
+• The property was maintained at a physical status equivalent to its present condition.
+• Market level financing was readily available.
+• The seller was not under duress.
+Ongoing discussions with agents familiar with the market have indicated that properties like the Subject
+Property typically require a marketing period of six months or less depending on a variety of factors including
+File Reference: TOR240850 Page 7
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+its location, vacancy levels, tenant quality, size, market conditions, and motivation of the vendor/purchaser.
+In consideration of these factors, it is concluded that for the [PERSON] property to sell at the market value
+estimated as of the effective date of this report, an exposure period of approximately six months or less
+would be required.
+Scope of the Valuation
+This report has been written in a [COMPANY] format and complies with the reporting requirements set forth
+under the Canadian Uniform Standards of Professional Appraisal Practice As such, all relevant material is
+provided in this report including the discussion of appropriate data, reasoning, and analyses that were used
+in the appraisal process to develop the appraiser’s opinion of value. Additional supporting documentation
+concerning the data, reasoning, and analyses are retained in the appraiser’s file. The depth of discussion
+contained in this report is specific to the needs of [COMPANY] and for the authorized use stated.
+During the course of preparing this valuation, the following was completed:
+[COMPANY] inspection details are indicated previously within [COMPANY] section of this
+report.
+• A lease review was conducted based on information provided by [COMPANY] or their
+designated agents. This valuation has been prepared on the basis of summary financial and
+operating data provided directly to us by [COMPANY] or their designated agents, in either
+hard copy or electronic form or both. It is assumed that this information, and specifically that relating
+to the financial performance of the Subject Property described, is accurate. This assumption is
+critical to the value estimate contained and the authors of this report, and [COMPANY] reserve the right
+to amend our estimate(s) in whole or in part should the foregoing not be the case.
+• A review of a detailed tenant rent roll as provided by [COMPANY] or their designated
+agents has been conducted.
+• A review has been completed of available data regarding the local market.
+• Verification of current land use and zoning regulations has been undertaken. Municipal and
+neighbourhood information, including tax information, were sourced as noted below and verified
+where appropriate and possible. Site area and dimensions are from information obtained from the
+[COMPANY]. Should further confirmation of site size and dimensions be required, a legal survey
+should be commissioned.
+• A review of sales and listing data on comparable properties has been undertaken. Comparable market
+information was obtained from our information database and local real estate professionals
+knowledgeable in the Toronto real estate market. It was confirmed, when appropriate, with public
+information at the [COMPANY] or the parties involved when there was reason to doubt its accuracy.
+[COMPANY] have been held with market participants where applicable.
+File Reference: TOR240850 Page 8
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+SOURCES OF INFORMATION
+ITEM SOURCE
+[COMPANY] Size Information GeoWarehouse
+[COMPANY] Colliers Hydra
+[COMPANY], [COMPANY]
+Other [COMPANY] cannot be held liable for any errors in the information that was provided by [PERSON] of [COMPANY] or by third parties. The Appraisal Report must be used in its entirety and any reliance on any
+portion of the appraisal report independent of others may lead to erroneous conclusions.
+[COMPANY] and [COMPANY]
+This report is subject to [COMPANY] [COMPANY] set forth within the [PERSON] to
+this appraisal in addition to any specific assumptions that may be stated in the body of the report. These
+conditions are critical to the value stated and should be thoroughly read and understood before any reliance
+on this report should be considered.
+[COMPANY]
+An Extraordinary Limiting Condition refers to a necessary modification to, or exclusion of, a Standard Rule
+which may diminish the reliability of the report.
+The following [COMPANY] have been invoked within this report:
+No title search has been completed for this appraisal.
+[COMPANY]
+An Extraordinary Assumption is an assumption, directly related to a specific assignment, which, if were not
+assumed to be true, could materially alter the opinions or conclusions. [COMPANY] presume
+uncertain information about or anticipated changes in: the physical, legal or economic characteristics of the
+subject property; or about: conditions external to the subject property such as market conditions or trends,
+or the integrity of data used in an analysis to be fact.
+The following [COMPANY] have been invoked within this report:
+We have relied on information provided to us by [COMPANY] or their designated agents with
+respect to the status of the tenancy and their contractual rights and obligations, and financial data relating
+to the income and expenses associated with [COMPANY] operations, as well as the physical
+attributes of [COMPANY] and environmental condition of the site, including any required capital
+expenditures. The assumptions stated are critical to the value estimate contained and the authors of this
+report and Colliers reserve the right to amend our estimates should any of these assumptions be altered in
+whole or in part.
+File Reference: TOR240850 Page 9
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+We have not undertaken a detailed soil analysis, and as we are not qualified to comment on soil conditions,
+we have assumed that there are no contaminants affecting the site. However, a full environmental
+assessment would be required for certainty and any cost of remedy could potentially impact the reported
+value conclusion. The sub-soil is assumed to be similar to other lands in the area and suitable in drainage
+qualities and load bearing capacity to support the existing development.
+As the date of inspection and/or of writing this report differ from the effective date, it is an Extraordinary
+Assumption herein that there are no material changes in the interim to either the physical/operating status
+of [COMPANY] or the prevailing market conditions which might impact the value conclusions.
+With the exception of the foregoing, there have been no other [COMPANY] employed in the
+preparation of this appraisal or report.
+Hypothetical Conditions
+Hypothetical Conditions are a specific type of [COMPANY] that presumes, as fact,
+simulated but untrue information about physical, legal or economic characteristics of the subject property
+or external conditions, and are imposed for purposes of reasonable analysis.
+[COMPANY] have been invoked within this report.
+Assemblage
+When relevant to the assignment, CUSPAP requires that assemblage must be considered and analyzed
+as to the effect on value. In the instance of [COMPANY], assemblage is not considered to be a
+relevant factor, and therefore no analysis is deemed necessary.
+[COMPANY] or Private Improvements
+When relevant to the assignment, CUSPAP requires that anticipated public or private improvements must
+be considered and analyzed as to the effect on value. In the instance of [COMPANY], public or
+private improvements are not considered to be a relevant factor, and therefore no analysis is deemed
+necessary.
+Personal Property
+When relevant to the assignment, CUSPAP requires that personal property must be considered and
+analyzed as to the effect on value. In the instance of [COMPANY], personal property is not
+considered to be a relevant factor, and therefore no analysis is deemed necessary.
+File Reference: TOR240850 Page 10
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+The Subject property is municipally described as 95-105 Moatfield Drive, Toronto, Ontario.
+Legal Description
+The Subject property’s legal description is as follows:
+P.I.N. [PERSON]
+100880046 PT LT 12 [COMPANY] 3 EYS TWP OF YORK PT 1, 2, 3, 4, 64R9352; S/T
+TB236534, S/T TB20847, [COMPANY], [COMPANY]; THE BOUNDARIES
+OF MOATFIELD DRIVE HAVING BEEN CONFIRMED BY PLAN BA-2076
+REGISTERED AS TB122673 ON 21/09/1983.; TORONTO ([COMPANY]) , CITY
+OF TORONTO. TOGETHER WITHAN EASEMENT OVER LOTS 73, 74, 75,
+[COMPANY], 4, PL 64R7053; PT [COMPANY] 12, [COMPANY], CON3 ; PT 14, PL
+64R7370 AS IN AT5178085
+[COMPANY] data indicates the following ownership information:
+SOURCE OF TITLE
+REGISTERED OWNER
+INFORMATION
+13995291 [COMPANY] [CITY]
+Ownership History
+Ownership of the Subject Property last transferred on September 23, 2022. According to the information
+available, the current owner, 13995291 [COMPANY], acquired [COMPANY] from [COMPANY] for the
+reported consideration of $97,018,684. This transaction is understood to have occurred at arm's length.
+There have been no other transfers of the Subject Property within the past three years.
+Current Contracts and Recent Activity
+The Subject is not currently listed for sale.
+As we understand it, the property has not been subject to any agreement for sale, option or listing during
+the past twelve months.
+Title Encumbrances
+The Subject Property encumbrances are summarized below:
+File Reference: TOR240850 Page 11
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+NO. REGISTRATION TYPE REGISTERED BY
+For the purposes of this analysis, the instruments registered against the
+title(s) to [COMPANY] are assumed not to have a significant effect on
+the Subject Property’s marketability or its market value. For greater certainty
+a legal opinion should be solicited for a full explanation of the effects of these
+encumbrances. [COMPANY] has been valued as if free and clear of
+any financing. A copy of [COMPANY] has
+been included in the [PERSON] for further reference.
+For the purposes of this analysis, the instruments registered against the title(s) to [COMPANY] are
+assumed not to have a significant effect on [COMPANY] marketability or its market value. For
+greater certainty a legal opinion should be solicited for a full explanation of the effects of these
+encumbrances. [COMPANY] has been valued as if free and clear of any financing. A copy of the
+[COMPANY] has been included in the [PERSON] for further reference.
+Realty Taxes / Assessment
+The current realty tax and assessment information for [COMPANY] is summarized as follows:
+[COMPANY]
+TOTAL
+TOTAL 2024 TOTAL TAX LEVY
+ROLL NO ASSESSMENT PER TOTAL 2024 TAX LEVY
+ASSESSMENT PER SF
+190810314002000 $63,104,000 $152.70 $1,474,094 $3.57
+Relative to the value estimate in this report, the above assessment appears to be low. The 2024 tax levy
+was provided by the client from [CITY]. Notwithstanding, this, we recommend a full review be
+conducted on the assessment to ensure both equity and accuracy.
+File Reference: TOR240850 Page 12
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] – St. Andrew Windfields, Toronto
+The property is situated in the mixed-use residential/commercial district of [COMPANY] in the
+City of Toronto with convenient access to [COMPANY] via [COMPANY] (Yonge Street) and the
+[COMPANY] Area via Highway 401. The industrial and commercial properties are focused on the
+eastern quadrant of the neighbourhood, along the major arterials of [COMPANY], [PERSON] and
+[PERSON]. The residential dwellings are comprised of predominantly single detached dwellings
+along local roads and high and medium-density residential buildings along the major arteries of Yonge
+Street, [CITY] and Leslie Street. Overall, the district is well connected to Downtown Toronto via
+[COMPANY] and the Greater Toronto Area via Highway 401.
+[COMPANY]
+[COMPANY]
+[CITY]East • Don Mills Road
+West • Yonge Street
+Adjacent Districts
+North • Willowdale East – Residential and Commercial, [CITY] – Residential.
+Commercial and [COMPANY] – Residential, Institutional and Open Space,
+[COMPANY] – Residential, Commercial and [COMPANY]
+West • Bedford Park-Nortown – Open Space
+File Reference: TOR240850 Page 13
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+[COMPANY] to the neighbourhood is considered to be excellent, with multiple arterial
+roadways, proximity to multiple highways and access to public transit.
+Highways • The district contains direct access to Highway 401, offering east-west transit across
+[COMPANY].
+Arterials • Major area arterials include [COMPANY], Yonge Street, Bayview Avenue, [PERSON] and [COMPANY].
+Transit • The area is in close proximity to [COMPANY] (Yonge Street) via the York Mills Subway
+Stations. [COMPANY] (Yonge Street) provides north-south service from Finch Subway
+Station to the north and Downtown Toronto to the south. The area is also served by
+multiple bus routes along:
+• Yonge Street (Route 97);
+[COMPANY] 97AB, 78, 115, 122, 95, 995);
+[COMPANY] (Route 11A);
+[COMPANY] (Route 51); and,
+[COMPANY]Routes 925 and 25AB).
+Summary
+The subject property is located in [CITY], in the district of [CITY],
+approximately fourteen kilometers north of [CITY] central business district. The subject is
+well situated for pedestrian, vehicular and transit traffic, and is situated in close proximity to major
+highways, and existing subway route, and multiple bus routes.
+File Reference: TOR240850 Page 14
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 15
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 16
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 17
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 18
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 19
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 20
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Site Description
+Site Area and Density Site Characteristics
+Area 6.56 acres (285,835 square feet) [PERSON] 1.45 Exposure Good
+Excess Density None Services Fully serviced
+Configuration Irregular Topography Sloping and above street grade
+General Comments
+We have not undertaken a detailed soil analysis, and as we are not qualified to comment on soil conditions, we have
+assumed that there are no contaminants affecting the site. However, a full environmental assessment would be required for
+certainty, and any cost of remedy could potentially impact the value conclusions contained herein. The sub-soil is assumed
+to be similar to other lands in the area and suitable in drainage qualities and load bearing capacity to support the existing
+development.
+Street Improvements
+Street Frontage Direction No. Lanes Street Type C u r b s [COMPANY] etl C i g e h n t t s e r [COMPANY] u a t n t e e r s
+[PERSON] Two-Way Three-Lane Connector Street    
+File Reference: TOR240850 Page 21
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Land Use Controls
+The City of Toronto Official Plan
+The Municipal Official Plan is a policy document that provides direction for planning and development
+activities. It is intended to co-ordinate the effects of change and future development in the best long-term
+interests of the Municipality and the Region. The intentions of the Official Plan are implemented through
+creation of Zoning By-laws and other local regulations. [CITY] Official Plan designates the
+subject property as:
+[COMPANY] Official Plan Land Use Map Excerpt
+Subject Property
+Source: City of Toronto
+The pertinent policies of [CITY] Official Plan regarding General Employment Area can be found
+within the appendix of this report.
+File Reference: TOR240850 Page 22
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Zoning
+Zoning bylaws typically establish ranges of permitted and discretionary uses, in addition to development
+restrictions including such factors as maximum building heights, allowable densities, setback requirements,
+parking and loading limitations, signage restrictions and other items.
+According to the Former North York Zoning By-law 7625, the property is currently zoned [CITY] - Industrial-
+Office Business Park Zone. An excerpt from the zoning bylaw is included in the appendices to this report.
+Former [CITY] Zoning Map Excerpt
+Subject Property
+A zoning summary and a listing of pertinent zoning requirements are presented below:
+ZONING SUMMARY
+Municipality Governing Zoning Former North York By-Law
+Zoning Bylaw Number 7625
+Current Zoning Industrial-Office Business Park Zone ([CITY])
+Permitted Uses A comprehensive list of permitted uses is located in the
+Appendix of this report.
+Current Use Office
+Is Current Use Legally Permitted? Yes
+Zoning Change Not Likely
+File Reference: TOR240850 Page 23
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+ZONING REQUIREMENTS
+Conforming Use The existing improvements represent a conforming use within
+this zone.
+Minimum Yard Setbacks
+Front (Meters) 9
+Rear (Meters) 7.5
+Side (Meters) 4.5 meters for one side, and 3.0 meters for all the other sides.
+[PERSON] Height There is no maximum building height in the [CITY] zone.
+[COMPANY] (FAR) 5.0 times the lot area
+Source: Former [CITY] By-Law
+Land Use Controls Conclusions
+Detailed zoning studies are typically performed by a zoning or land use expert, including attorneys, land
+use planners, or architects. The depth of analysis presented correlates directly with the scope of this
+assignment, and it considers all pertinent issues that have been discovered through our due diligence.
+Please note that this appraisal is not intended to be a detailed determination of compliance, as that
+determination is beyond the scope of this real estate appraisal assignment.
+Based on our interpretation of the applicable land use/zoning bylaw, the property use appears to reflect a
+legally permitted conforming use. However, the authors are not technically qualified to confirm zoning
+compliance, and for greater certainty in this regard, written confirmation from the municipality and/or a
+qualified legal opinion should be obtained.
+File Reference: TOR240850 Page 24
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] of the Improvements
+The Subject Property contains 2 office towers at 95 Moatfield Dr and 105 [PERSON], with 5 and 11
+storeys, respectively. Both towers offer a combined 413,268 square feet of net rentable office area, with
+165,315 squre feet at 95 [PERSON] and 247,953 at 105 [PERSON]. Overall, the properties contain 9
+passenger elevators, 1 frieght elevator and 2 passenger elevators providing access to the open air parking
+garage. There is also an underground pedway that provides access between the two towers. It should be
+noted that the main lobby has been recently modernized. The Subject Property offers 967 parking stalls
+within a three level open-air parking deck occupying 284,000 square feet, and offers additional surface
+parking with 282 stalls. The Subject Property improvements were originally constructed in 1982 and to the
+best of our knowledge have not been since expanded. The Subject Property improvements represent good
+quality improvements.
+[COMPANY]. of [COMPANY] (95 Moatfield), 11 (105 Moatfield)
+No. of [COMPANY]: TOR240850 Page 25
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Size
+95 Moatfield 165,315 [CITY]
+105 Moatfield 247,953 SF
+Net Rentable Area 413,268 SF
+[COMPANY] The average floor plate for 105 [PERSON] and 95 [PERSON] measures approximately
+21,400-31,300 square feet, more or less, respectively.
+Year Built The improvements to the property were originally constructed in 1982.
+[COMPANY] The property represents good quality construction in good overall condition.
+Foundation The building foundation consists of reinforced concrete substructure and cast-in-
+place concrete foundation walls on strip footings.
+Superstructure The superstructure of the building comprises a framework of concrete columns and
+beams, i.e. shear walls, columns, and drop panels.
+[PERSON] structures comprise reinforced concrete structural slabs.
+[COMPANY] walls are finished with precast concrete wall panels.
+[PERSON] comprises a modified bitumen (SBS) roofing system.
+[COMPANY] access/connections to the property comprise ground level entrances.
+Connections Includes an underground pedway providing access between the two towers.
+[COMPANY] windows and doors consist of commercial grade double paned glass units
+in modern aluminium frames.
+Interior Finishing The interiors have been demised to accommodate the specific needs of the tenants.
+The main lobby has been recently renovated to a modern finish and remains in good
+condition. Consists of individual tenant spaces and common areas finished with
+ceramic tiles and some carpeting, with painted wall boards throughout. The office
+space design is functional throughout.
+[COMPANY] between levels is accommodated by 6 passenger elevators, 1 freight
+elevator, 2 passenger elevators accessible to the parking garage, and various
+stairwells.
+[COMPANY] and air conditioning are provided throughout the building by roof-top HVAC
+units and gas-fired boilers.
+[COMPANY] service to the building is assumed to be adequate for the needs of its
+occupants.
+File Reference: TOR240850 Page 26
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] throughout the building consists of LED fixtures.
+[COMPANY] The building is equipped with a full fire suppression system with wet type sprinklers
+in all areas including smoke detectors, pull stations, fire extinguishers and lit exit
+signs. The building also includes security video surveillance and is secured by card
+access. Each floor provides access to a sprinkler room.
+Parking The Subject property has on-site parking. The property includes an open air parking
+garage containing 972 parking stalls and an asphalt paved surface parking lot with
+an additional 282 stalls.
+Underground 972 stalls
+Surface 282 stalls
+Other 0 stalls
+Total 1254 stalls
+Design and The building exhibits good design and functionality characteristics.
+Functionality
+Age / Life Analysis Subject to the above description and the comments below, the following is a
+summary age / life analysis.
+Actual Age 42 years
+Effective Age 20 years
+Economic Life 50 years
+Remaining Economic Life 30 years
+The above [COMPANY] pertains to the economic viability of [COMPANY] in its current state, being the object of professional property management
+and proactive repairs and maintenance, with regularly scheduled capital
+expenditures occurring. [COMPANY] does not necessarily
+represent the remaining physical viability of the existing improvements.
+Comments The property is in good overall condition and free from any visible deferred
+maintenance that would significantly impact the property's market value or its
+marketability. However, no building condition reports were provided to the writer. It
+is assumed for the purposes of this report that all mechanical equipment is in
+adequate working condition, has been maintained in a professional manner, and that
+no atypical capital expenses are required.
+File Reference: TOR240850 Page 27
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] and Best Use
+The principle of highest and best use is fundamental to the concept of value in real estate. Highest and best
+use, in general, may be defined as follows:
+“The reasonably probable use of real property, that is physically possible, legally permissible,
+financially feasible, and maximally productive, and that results in the highest value.”
+([COMPANY]Canadian Uniform Standards of Professional Appraisal Practice". 2024 ed., p. 8)
+The four criteria the highest and best use must meet are analyzed following in relation to both the property
+as vacant and as currently improved.
+As [COMPANY]
+The legal factors that can influence the highest and best use of the [COMPANY] site include land use/zoning
+regulations, private restrictions, building codes, historic designations/district controls, environmental
+regulations and others, if applicable to the [COMPANY] site. In the [COMPANY] instance, general ranges of permitted
+uses under its [COMPANY] zoning include a variety of commercial and institutional
+uses. Overall, legal factors appear supportive of a broad range of commercial and institutional uses for the
+Subject site.
+Physical Possibility
+Regarding physical characteristics, the [COMPANY] site is irregular in shape and has sloping topography with
+good access and good exposure. Physical and locational features appear supportive of a broad range of
+uses for the site's highest and best use.
+[COMPANY]
+Our observations of current market conditions for development at the [LOCATION] property’s location suggest
+that development of the site with a commercial use would be feasible.
+Maximum Productivity
+Of the various legally permissible, physically possible, and financially feasible uses available, the maximum
+productivity of the property would be achieved with a commercial development.
+As Vacant Conclusion
+Based on the previous discussion, the Subject’s highest and best use as-vacant is concluded to be as a
+holding parcel for commercial development pending creation of sufficient demand.
+As Improved Analysis
+Legal Permissibility
+The current use is a permitted use within the applicable zoning and/or land use bylaw requirements affecting
+the property. There are no known private or other restrictions negatively impacting use of the property.
+Therefore, the current use is considered legally permissible.
+File Reference: TOR240850 Page 28
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+The site is of a sufficient size, configuration, and topography to accommodate the property's present use
+as improved in an efficient and functional manner. Therefore, the current use is considered physically
+possible.
+[COMPANY]
+As improved, the property provides a sufficient return that the property as presently improved is considered
+to be financially feasible.
+Maximum Productivity
+Of the various legally permissible, physically possible, and financially feasible uses of the property as
+improved, the current use is considered to represent the maximum productivity of the property.
+As Improved Conclusion
+Based on the previous discussion, the highest and best use of the [PERSON] property as-improved is
+concluded to be represented by a continuation of its existing use as a [COMPANY] development.
+File Reference: TOR240850 Page 29
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY], there are three accepted methods of valuing real property:
+• Cost Approach;
+[COMPANY]; and
+[COMPANY].
+The selection of a relevant methodology depends upon the nature and characteristics of the real estate under
+consideration. Please refer to the [PERSON] for a detailed description of each of the three traditional methods
+of valuing real property.
+[COMPANY] Methodology
+As the [PERSON] is an investment property, the Income Approach represents the decision making process of
+knowledgeable buyers and sellers of this property type. Accordingly, [COMPANY] is deemed
+applicable, and has been utilized herein. [COMPANY] and Discounted Cash Flow
+techniques are both deemed applicable, as they would be reflective of the actions of typical prudent
+purchasers for properties of this type. Accordingly, both techniques have been utilized within this analysis.
+While [COMPANY] is most pertinent in the valuation of owner occupied or vacant
+properties, it is also commonly utilized as a supporting approach in the valuation of income generating
+properties. Accordingly, [COMPANY] is deemed applicable, and has been utilized
+herein.
+Knowledgeable buyers and sellers typically do not rely on [COMPANY] for valuing properties similar
+to the [LOCATION]. Accordingly, [COMPANY] has not been utilized herein.
+File Reference: TOR240850 Page 30
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Income Approach
+The Income Approach is based on the premise that properties are purchased for their income producing
+potential. It considers both the annual return on the invested principal and the return of the invested principal.
+This valuation technique entails careful consideration of contract rents currently in place, projected market
+rents, other income sources, vacancy allowances, and projected expenses associated with the efficient
+operation and management of the property. The relationship of these income estimates to property value, either
+as a single stream or a series of projected streams, is the essence of the income approach. The two
+fundamental techniques utilized within the Income Approach include [COMPANY] and
+Discounted Cash Flow Techniques. Both methods have been included in our analysis.
+Overall Income Capitalization
+The Overall Income Capitalization Technique analyzes the relationship of current projected stabilized net
+operating income to total property value. The stabilized net operating income is capitalized at a rate that
+implicitly considers expected growth in cash flow and growth in property value over a buyer’s investment
+horizon. The implied value may be adjusted to account for non-stabilized conditions or required capital
+expenditures to reflect an as is value.
+Tenancy Summary and Leasing Profile
+Area Measurement
+The total [PERSON] of the Subject Property, based on information provided by [COMPANY],
+is approximately 413,268 square feet.
+Occupancy
+As of the effective date, the provided rent roll indicates that [COMPANY] was 100.0% occupied.
+Tenant Profile
+The Subject Property is occupied by good covenant tenants that would be regarded favorably by potential
+investors.
+[COMPANY] within the property is effectively on net basis with the landlord possessing the ability to fully recover
+realty taxes and operating expenses from the tenants. It was noted the administration fee for the standard
+office lease is based on 5% of the effective gross income.
+[PERSON]
+A tenancy schedule/rent roll for [COMPANY], based on information provided by [COMPANY] or their designated agents, is presented as follows:
+File Reference: TOR240850 Page 31
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+RENT ROLL SUMMARY As of [COMPANY]
+[COMPANY] of [COMPANY] (1)Expense Recovery (1) Total Income (1)
+[COMPANY] ([CITY]) Total SF Start End Yrs Structure Annual PSF (Yr.) Annual PSF (Yr.) Annual PSF (Yr.)
+105-1003 [COMPANY] 7,000 7,000 1.7% 11/22 12/30 8.0 Net Standard Recovery $119,004 $17.00 $85,608 $12.23 $204,612 $29.23
+105-1100 [COMPANY] 8,000 8,000 1.9% 1/23 12/28 6.0 Net Standard Recovery $135,996 $17.00 $97,836 $12.23 $233,832 $29.23
+105-1101A Toronto eSchool 2,000 2,000 0.5% 11/22 10/27 5.0 Net Standard Recovery $35,004 $17.50 $24,456 $12.23 $59,460 $29.73
+105-1104-1105 Apro Financial 11,000 11,000 2.7% 1/23 12/26 4.0 Net Standard Recovery $186,996 $17.00 $134,532 $12.23 $321,528 $29.23
+1-10 Fl [COMPANY] Transportation 219,953 219,953 53.2% 9/20 9/25 5.0 Net Standard Recovery $3,629,220 $16.50 $2,690,016 $12.23 $6,319,236 $28.73
+95-100 [COMPANY] 6,600 6,600 1.6% 1/23 12/27 5.0 Net Standard Recovery $112,200 $17.00 $80,712 $12.23 $192,912 $29.23
+95-101-102 The Captain's Boil 9,500 9,500 2.3% 11/22 10/30 8.0 Net Standard Recovery $161,496 $17.00 $116,184 $12.23 $277,680 $29.23
+95-104-105 Canada [COMPANY] 15,000 15,000 3.6% 1/23 12/28 6.0 Net Standard Recovery $255,000 $17.00 $183,444 $12.23 $438,444 $29.23
+95-201-203/405Lowell Academy 26,000 26,000 6.3% 1/23 12/28 6.0 Net Standard Recovery $429,000 $16.50 $317,976 $12.23 $746,976 $28.73
+95-203 [COMPANY] 10,429 10,429 2.5% 1/23 12/28 6.0 Net Standard Recovery $177,288 $17.00 $127,548 $12.23 $304,836 $29.23
+95-204-205 Toronto [COMPANY] 11,000 11,000 2.7% 1/23 12/29 7.0 Net Standard Recovery $186,996 $17.00 $134,532 $12.23 $321,528 $29.23
+95-301-303 [COMPANY] 18,000 18,000 4.4% 12/22 11/27 5.0 Net Standard Recovery $306,000 $17.00 $220,140 $12.23 $526,140 $29.23
+95-304-305 Eden College 12,500 12,500 3.0% 11/22 11/28 6.0 Net Standard Recovery $212,496 $17.00 $152,880 $12.23 $365,376 $29.23
+95-400-401 Heritage Innovation School 25,000 25,000 6.0% 1/23 12/27 5.0 Net Standard Recovery $425,004 $17.00 $305,748 $12.23 $730,752 $29.23
+95-500 [COMPANY] 31,286 31,286 7.6% 1/23 12/28 6.0 Net Standard Recovery $516,216 $16.50 $382,632 $12.23 $898,848 $28.73
+Total NRA 413,268 0 413,268 100.0% $6,887,916 $16.67 $5,054,244 $12.23 $11,942,160 $28.90
+Occupied % 100.0%
+Vacant % 0.0%
+(1) Current Dollars Annualized (full year amounts include contractual increases, partial year amounts are annualized in all cases for analysis purposes). For tenants who are expected to
+be in occupancy for less months (due to start date or expiration) rent and recovery amounts are annualized based on current monthly figure x 12, or the next monthly figure x 12.
+[COMPANY] consists of contractual rental revenue only, and omits porters wage and percentage rent.
+[COMPANY] As of [COMPANY]
+[COMPANY] Over Term Recovery Expiration MLA % Rent
+Ste Tenant SF Start End Yrs Date Annual (1) $/SF Start EndCAGR (2) Method (3) Assumption (3) Category (3) Clause
+105-1003 [COMPANY] 7,000 11/22 12/30 8.0 11/22 $119,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1100 [COMPANY] 8,000 1/23 12/28 6.0 1/23 $136,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1101A Toronto eSchool 2,000 11/22 10/27 5.0 11/22 $35,000 $17.50 $17.50 $17.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1104-1105 Apro Financial 11,000 1/23 12/26 4.0 1/23 $187,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+1-10 Fl [COMPANY] Transportation 219,953 9/20 9/25 5.0 9/20$3,629,225 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Renew MLA - $17.00 No
+95-100 [COMPANY] 6,600 1/23 12/27 5.0 1/23 $112,200 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-101-102 The Captain's Boil 9,500 11/22 10/30 8.0 11/22 $161,500 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-104-105 Canada [COMPANY] 15,000 1/23 12/28 6.0 1/23 $255,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-201-203/405Lowell Academy 26,000 1/23 12/28 6.0 1/23 $429,000 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-203 [COMPANY] 10,429 1/23 12/28 6.0 1/23 $177,293 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-204-205 Toronto [COMPANY] 11,000 1/23 12/29 7.0 1/23 $187,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-301-303 [COMPANY] 18,000 12/22 11/27 5.0 12/22 $306,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-304-305 Eden College 12,500 11/22 11/28 6.0 11/22 $212,500 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-400-401 Heritage Innovation School 25,000 1/23 12/27 5.0 1/23 $425,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-500 [COMPANY] 31,286 1/23 12/28 6.0 1/23 $516,219 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+Low: 2,000 9/20 9/25 4.0 $16.50 $16.50 0.0%
+High: 219,953 1/23 12/30 8.0 $17.50 $17.50 0.0%
+Average: 27,551 10/22 9/28 5.9 $16.93 $16.93 0.0%
+(1) [COMPANY] indications above are presented relative to initial square footage of the tenant spaces.
+Presentations do not account for changes in the [CITY] of the Tenant Spaces over time.
+(2) Compound Annual Growth Rate.
+(3) As labeled in [COMPANY] file.
+* Rent details for this period are not available
+Market Lease Survey
+In order to determine how [COMPANY] contract rents currently in place compare to market levels,
+and to establish appropriate market rental rates to apply to current vacant space and future roll-overs/re-
+leasing, a lease survey has been conducted. The results of this survey are summarized in the tables which
+follow.
+File Reference: TOR240850 Page 32
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] Lease Transactions
+Net Rate Per
+Index Address City Suite Size (Sq.Ft) Commencement Recoveries T.M.I. Gross
+Square Foot
+1 225 [PERSON] Toronto 300 4,176 Listing Net $16.75 $15.56 $32.31
+2 255 [PERSON] Toronto PH 10,450 Listing Net $15.00 $14.05 $29.05
+3 4211 Yonge St Toronto 600 4,548 Listing Net $20.00 $19.11 $39.11
+4 18 Wynford Dr Toronto 513 1,861 Listing Net $16.00 $16.00 $32.00
+5 100 Sheppard Ave E Toronto 100 3,751 Listing Net $18.00 $22.68 $40.68
+6 4144 Yonge St Toronto 201 2,327 [COMPANY] Net $16.50 $23.68 $40.18
+7 170 The Donway W Toronto 212 576 1-Feb-24 Net $20.00 $18.50 $38.50
+8 7 [PERSON] Toronto 243 370 2-Jun-24 Net $15.00 $11.00 $26.00
+9 1090 Don Mills Rd Toronto 302 2,022 3-Jun-24 Net $19.00 $18.56 $37.56
+10 35 The Links Rd Toronto 203 722 14-Jun-24 Net $18.00 $27.57 $45.57
+11 1131A [PERSON] 101 3,122 31-Jul-23 Net $16.50 $14.50 $31.00
+Min 370 $15.00 $11.00 $26.00
+Max 10,450 $20.00 $27.57 $45.57
+Average 3,084 $17.34 $18.29 $35.63
+File Reference: TOR240850 Page 33
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 34
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] rental rates for office properties depend on a number of factors, including, but not limited to:
+• Location of the Subject Property – is the property located within an established office node readily
+serviced by public/mass transit and desirable retail amenities. Indices located in established office
+nodes with easy access to public transit or retail amenities may command a premium when
+compared to suburban counterparts.
+• Size of [COMPANY] – there is generally an inverse relationship between size and unit
+rate, with large premises commanding a discounted rental rate when compared to smaller units, all
+else being equal;
+[COMPANY] – rental rates will vary depending on the age and quality of [COMPANY] in
+question. Indices that are of an older vintage or lower class (Class [COMPANY], A, B, C, etc.) are likely to
+command a discounted rental rate when compared modern/update or higher class indices.
+[COMPANY] – buildings that feature lower additional rent in the context of competing buildings,
+whether due to operating efficiencies, modern mechanicals or limited common area, will have the
+ability to command premium net rents as tenants are typically only concerned with gross rent
+payable per the lease. Should the additional rent comprise a lower percentage of the gross rent
+figure, the landlord will be able to benefit from the ability to charge higher net rents.
+The office market continues to see a divide between premium and standard spaces, with a flight-to-quality
+trend sustaining demand for premier assets. Landlords will need to enhance their amenities to stay
+competitive. In the current climate of higher vacancy rates, landlords enhance amenities to stay competitive.
+While the initial investment may be significant, offering unique features such as extended free rent periods
+allow institutions to maintain face rates and ensure the long-term success of the property.
+The included closed rental comparables and active listings for office units ranged in size from 370 [CITY] to
+10,450 [CITY] and demonstrate a range in net rental rates from $15.00 per square foot to $20.00 per square
+foot with an average of $17.34 per square foot. When accounting for [COMPANY] figures the gross rental rates
+ranged from $26.00 per square foot to $45.57 per square foot with an average of $35.63 per square foot.
+All comparables are considered to be located within close proximity to [COMPANY]. Furthermore,
+in addition to the above-noted rental survey we have spoken with office brokers active in this market as well
+as reviewed internal files for previously concluded rental rates. Based on the foregoing information, our
+professional opinion of current market rent for occupancy within the [PERSON] property is as summarized in
+the following table:
+MARKET LEASING ASSUMPTIONS As of [COMPANY]
+[PERSON] Mkt Rent Expense Lease Rnwl Downtime Tenant Improv Free Rent (Initial) Leasing Comm (1)
+Category ($/SF/Yr.) Structure (Years) [COMPANY] - $17.00 $17.00 Continue Prior 5.0 75% 6 months $20.00 $10.00 0 months 0 months ####### $6.00/SF
+(1) Leasing Commission
+Leasing commissions have been based upon discussions with brokers active in the marketplace.
+File Reference: TOR240850 Page 35
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Top Tenants
+The table below summarizes the top tenants by size in the [PERSON] property. It is noted that the top five
+tenants account for 77.5% of the overall rentable area of the property.
+TOP TENANTS BY [COMPANY]
+% of [COMPANY] as
+Name Size Total SF Start End Rent Rent % Market
+[COMPANY] Transportation 219,953 53.2% 9/20 9/25 $16.50 $17.00 97.1%
+[COMPANY] 31,286 7.6% 1/23 12/28 $16.50 $17.00 97.1%
+[COMPANY] 26,000 6.3% 1/23 12/28 $16.50 $17.00 97.1%
+Heritage Innovation School 25,000 6.0% 1/23 12/27 $17.00 $17.00 100.0%
+[COMPANY] 18,000 4.4% 12/22 11/27 $17.00 $17.00 100.0%
+Total 320,239 77.5% - - -
+File Reference: TOR240850 Page 36
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] on the contract revenue in place, base rental revenue is projected to be $6,887,916 in Year One.
+Recovery Revenue
+The leasing within the [PERSON] property is generally on a fully net basis. Based on our analysis of the
+expense recoveries in place, Year One Recovery Revenue has been estimated on a stabilized basis at
+$5,054,244.
+Other Revenue
+Other Revenue has been projected in the amount of $31,044, based on information provided.
+Total Potential Gross Income
+Adding all the sources of revenue described above results in a stabilized Year One Potential Gross Income
+forecast of $11,973,204.
+POTENTIAL GROSS INCOME SUMMARY (STATIC BASIS)
+OCCUPIED SPACE
+Total % of [COMPANY] (1) Expense Recovery (1) Total Income (1)
+[PERSON] NRA ([CITY]) Total SF Annual PSF (Yr.) Annual PSF (Yr.) Annual PSF (Yr.)
+105-1003 [COMPANY] 7,000 1.7% $119,004 $17.00 $85,608 $12.23 $204,612 $29.23
+105-1100 [COMPANY] 8,000 1.9% $135,996 $17.00 $97,836 $12.23 $233,832 $29.23
+105-1101A Toronto eSchool 2,000 0.5% $35,004 $17.50 $24,456 $12.23 $59,460 $29.73
+105-1104-1105 Apro Financial 11,000 2.7% $186,996 $17.00 $134,532 $12.23 $321,528 $29.23
+1-10 Fl [COMPANY] Transportation 219,953 53.2% $3,629,220 $16.50 $2,690,016 $12.23 $6,319,236 $28.73
+95-100 [COMPANY] 6,600 1.6% $112,200 $17.00 $80,712 $12.23 $192,912 $29.23
+95-101-102 The Captain's Boil 9,500 2.3% $161,496 $17.00 $116,184 $12.23 $277,680 $29.23
+95-104-105 Canada [COMPANY] 15,000 3.6% $255,000 $17.00 $183,444 $12.23 $438,444 $29.23
+95-201-203/405Lowell Academy 26,000 6.3% $429,000 $16.50 $317,976 $12.23 $746,976 $28.73
+95-203 [COMPANY] 10,429 2.5% $177,288 $17.00 $127,548 $12.23 $304,836 $29.23
+95-204-205 Toronto [COMPANY] 11,000 2.7% $186,996 $17.00 $134,532 $12.23 $321,528 $29.23
+95-301-303 [COMPANY] 18,000 4.4% $306,000 $17.00 $220,140 $12.23 $526,140 $29.23
+95-304-305 Eden College 12,500 3.0% $212,496 $17.00 $152,880 $12.23 $365,376 $29.23
+95-400-401 Heritage Innovation School 25,000 6.0% $425,004 $17.00 $305,748 $12.23 $730,752 $29.23
+95-500 [COMPANY] 31,286 7.6% $516,216 $16.50 $382,632 $12.23 $898,848 $28.73
+Sub-Total 413,268 100.0% $6,887,916 $16.67 $5,054,244 $12.23 $11,942,160 $28.90
+VACANT SPACE
+Total % of [COMPANY] (2) Potential Recovery (2) Potential Income (2)
+[PERSON] NRA ([CITY]) Total SF Annual PSF (Yr.) Annual PSF (Yr.) Annual PSF (Yr.)
+Sub-Total 0 0.0% $0 - $0 - $0 -
+GRAND TOTAL 413,268 100.0% $6,887,916 $16.67 $5,054,244 $12.23 $11,942,160 $28.90
+(1) Current Dollars Annualized (full year amounts include contractual increases, partial year amounts are annualized in all cases
+for analysis purposes). For tenants who are expected to be in occupancy for less months (due to start date or expiration)
+rent and recovery amounts are annualized based on current monthly figure x 12, or the next monthly figure x 12.
+(2) Potential rent and recovery at current market levels inflated according to growth assumptions, reflected on an annual basis.
+General Vacancy
+As per Colliers Q1 2024 GTA Office Market Report, the [PERSON] office [COMPANY] had a vacancy rate of
+10.6%. Within [COMPANY], current actual vacancy as of the effective date is at 0.0%. A vacancy
+allowance is not intended to reflect the actual vacancy at the date of valuation; rather it is a provision to
+File Reference: TOR240850 Page 37
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+account for the potential of lost rent and/or recoveries on a stabilized basis over the longer term holding of
+the asset. Giving consideration to the tenancy covenants within [COMPANY], its current
+level of occupancy, the duration of leases in place, and the prevailing leasing market conditions, we have
+elected to apply a stabilized vacancy allowance of 7.50% within our income and expense analyses. It should
+be noted that [COMPANY] and Visionary Holdings Inc have been excluded from the
+vacancy allowance given their corporate covenant strength.
+In Year One, the projected general vacancy allowance amounts to $406,373.
+Effective Gross Income
+Deducting the Vacancy Allowance above from [COMPANY] forecast results in a Year One
+Effective Gross Income estimate of $11,566,831.
+Expense Analysis
+Operating Expense Summary
+Operating expenses are based upon the 2024 Profit and Loss Financial Statement as provided. A non-
+recoverable management fee of 3.0% of the effective gross income has been applied within our analysis.
+These expenses, and our Year 1 Forecast, are detailed as follows:
+SUBJECT OPERATING HISTORICALS
+COLLIERS
+FORECAST
+YEAR 2024 [COMPANY] [PERSON]EXPENSE ITEMS TOTAL $/SF TOTAL $/SF
+Security ($230,918) ($0.56) ($230,918) ($0.56)
+[COMPANY] ($1,399,039) ($3.39) ($1,399,039) ($3.39)
+[COMPANY] ($1,474,094) ($3.57) ($1,474,094) ($3.57)
+[COMPANY] ($179,988) ($0.44) ($179,988) ($0.44)
+Building R&M ($224,040) ($0.54) ($224,040) ($0.54)
+[PERSON] ($327,274) ($0.79) ($327,274) ($0.79)
+Waste Removal ($24,850) ($0.06) ($24,850) ($0.06)
+Elevator ($54,960) ($0.13) ($54,960) ($0.13)
+[COMPANY] ($92,400) ($0.22) ($347,005) ($0.84)
+Office Expense ($156,809) ($0.38) ($156,809) ($0.38)
+[COMPANY] ($48,000) ($0.12) ($48,000) ($0.12)
+Insurance ($120,845) ($0.29) ($120,845) ($0.29)
+[COMPANY] ($38,074) ($0.09) ($38,074) ($0.09)
+[COMPANY] ($197,131) ($0.48) ($197,131) ($0.48)
+TOTAL EXPENSES ($4,568,422) ($11.05) ($4,823,027) ($11.67)
+Contingency/Structural Allowance
+In addition to the operating expenses above, investors typically include an allowance for structural repairs
+or other non-recoverable expenses for the purpose of valuation. In this respect, a Contingency Allowance
+equal to 1.00% of [COMPANY] has been deducted within our [COMPANY].
+In Year One this allowance has been forecast at $115,668.
+Total Expenses
+Adding the expenses as described above results in forecast Year One Operating Expenses in an amount
+equal to $4,938,695.
+File Reference: TOR240850 Page 38
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] on the foregoing, Year One Net Operating Income is projected at $6,628,135.
+File Reference: TOR240850 Page 39
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Pro Forma Income Statement
+Based on the foregoing, a Pro Forma Income Statement for [COMPANY] is presented below.
+PRO FORMA INCOME STATEMENT
+Base Rental Revenue $6,887,916
+Recoveries $5,054,244
+Other Revenue $31,044
+POTENTIAL GROSS INCOME $11,973,204
+Less: Vacancy / Collection Loss Allowance1 @ 7.50% PGI $406,373
+EFFECTIVE GROSS INCOME $11,566,831
+EXPENSES TOTAL
+Security ($230,918)
+[COMPANY] ($1,399,039)
+[COMPANY] ($1,474,094)
+[COMPANY] ($179,988)
+Building R&M ($224,040)
+[PERSON] ($327,274)
+Waste Removal ($24,850)
+Elevator ($54,960)
+[COMPANY] ($347,005)
+Office Expense ($156,809)
+[COMPANY] ($48,000)
+Insurance ($120,845)
+[COMPANY] ($38,074)
+[COMPANY] ($197,131)
+Contingency / Structural Allowance @ 1.00% [COMPANY] ($115,668)
+TOTAL EXPENSES ($4,938,695)
+NET OPERATING INCOME $6,628,135
+(1) Less excluded tenants where applicable.
+File Reference: TOR240850 Page 40
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] of the Subject Property
+The following summarizes the major investment attributes of [COMPANY] that potential investors
+would consider when determining an appropriate return and yield when making a purchase decision.
+Market
+The market for suburban office assets as of the date of this report is relatively stagnant due to various work-
+from-home and hybrid work policies resulting in a significant decline in demand for office space. As a result,
+many institutional investors are sitting on the sidelines and have been focusing on portfolio optimization
+and management.
+[COMPANY] has lowered the overnight rate by 25 basis points to 4.75% on June 5, 2024 after 6
+consecutive announcements of holding the rates flat. However, rates are still considered to be relatively
+higher when compared to peak low interest rates during [COMPANY]. As such, the increased borrowing rates,
+add further pressure to the investors and represent an upward pressure on the capitalization rates resulting
+in a reduction in liquidity.
+Location
+The Subject Property represents a good location with good exposure and access. Compared to similar
+properties in the market, [COMPANY] is well positioned. No negative influences are noted.
+Physical Attributes
+The improvements to the property were originally constructed between 1982 and represents good quality
+construction in good overall condition, providing good functional utility. No known deficiencies exist. The
+property appears to be in good condition.
+Operational
+The property is occupied by good quality tenants at rental rates that are reflective of market levels. The
+budgeted operating expenses are consistent with those of competitive properties. These are no apparent
+atypical risks associated with the forecast income of the property.
+[COMPANY]
+In general, the typical buyer of investment grade real estate (such as [COMPANY]) within the [COMPANY]
+has predominantly been large funds, real estate advisors, or large private investors. REIT’s have taken a
+back seat within the current investment market and are generally not as active at the present time as they
+once were a few years ago, although they are still actively looking for strong assets to add to their portfolios.
+Property Liquidity
+The current office investment market within the [COMPANY] has seen increasing interest rates and increasing
+capitalization rates over the years; however, due to rising demand for quality space, there is a strong
+demand for investment-grade properties in major markets. Given the current condition of [COMPANY], the expected liquidity would be expected to be low to medium.
+File Reference: TOR240850 Page 41
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] are current investment yields with respect to various alternative investments.
+INVESTMENT ALTERNATIVES
+[PERSON]. Yields Office REIT's Industrial REIT's Retail REIT's Apartment REIT's Diversified REIT's
+BOC OR 4.75% [COMPANY] 11.40% DREAM 5.60% RioCan 6.60% [COMPANY] 3.30% Morguard 4.50%
+GOC 5yr 3.31% DREAM 5.20% Granite 4.90% [COMPANY] 5.90% Killam 4.10% H&R 6.70%
+GOC 10yr 3.28% Smart 8.40% Boardwalk 2.10% Artis 9.30%
+Source: [COMPANY], [COMPANY] as at June 14, 2024
+Investment Parameters
+Following are the results of the most recent commercial real estate return surveys, as expressed by overall
+capitalization rates and discount rates.
+Q4 2023 INVESTMENT PARAMETERS - TORONTO
+[COMPANY] Rates
+Industrial
+Class 'A' 4.75% - 5.25% 5.50% - 7.50%
+Class 'B' 5.00% - 6.00% 5.50% - 8.00%
+Downtown Office
+Class 'A' 5.50% - 6.25% 6.50% - 8.00%
+Class 'B' 5.50% - 6.75% 5.80% - 8.30%*
+Suburban Office
+Class 'A' 6.50% - 7.50% 6.80% - 8.50%*
+Class 'B' 7.00% - 7.75% 7.30% - 8.50%*
+Retail
+Regional/Power 5.50% - 6.75% 6.00% - 7.00%
+[COMPANY] 5.50% - 6.50% 7.50% - 8.30%*
+Neighbourhood/Strip 5.50% - 6.50% 6.00% - 7.00%*
+Multi-Residential
+High-Rise 3.75% - 4.50%
+Low-Rise 3.50% - 4.75%
+* These [COMPANY]'s are not updated every quarter. Figures shown are the most recent, but not necessarily current.
+Source: [COMPANY] ([COMPANY]), [PERSON] ([COMPANY])
+[COMPANY]
+The task of determining an appropriate overall capitalization rate is best served through an analysis of
+current market activity. In consideration of the characteristics described above, the transactions
+summarized in the table on the following page have been selected and analyzed.
+Further details of these transactions can be found in the Appendix herein.
+File Reference: TOR240850 Page 42
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+[COMPANY]Property Name Multi-Tenant Office Building Single-Tenant Office Sheridan Exchange The Atria Complex Multi-Tenant Office
+Building Centre
+110 Sheppard Avenue 2655 & 2695 North 2225, 2235, 2255 125 Commerce Valley
+Address 95-105 Moatfield Drive 199 Four Valley Drive 7070 Mississauga Road
+East Sheridan Way Sheppard Avenue East Drive West
+Toronto, [CITY], [CITY], [PERSON], [COMPANY], [PERSON], ON [CITY], [COMPANY] $29,000,000 $35,000,000 $25,600,000 $165,000,000 $72,350,000 $48,311,606
+Analysis Price $29,000,000 $30,900,000 $25,600,000 $165,000,000 $72,350,000 $48,311,606
+Analysis Price per SF $179 $308 $162 $179 $296 $256
+N.O.I. $6,628,135 $1,986,500 $2,021,312 $2,560,000 $14,025,000 $5,643,300 $3,783,491
+[COMPANY]Transaction Date 5/31/2024 4/9/2024 2/1/2024 7/23/2023 5/1/2023 3/2/2023
+Market Conditions Similar Similar Similar Superior Superior Superior
+Property Rights Conveyed Leased Fee Leased Fee Leased Fee Leased Fee Leased Fee Leased Fee
+Financing Loan from [PERSON] ([COMPANY]) Conventional All Cash Conventional Undisclosed Loan from [COMPANY] None None None Upward Upward Upward
+Site Characteristics
+Site [PERSON] (SF) 285,835 50,050 419,047 484,517 611,059 740,128 195,584
+Site [PERSON] (Acre) 6.562 1.149 9.620 11.123 14.028 16.990 4.490
+[COMPANY]
+MO - [COMPANY] (76%) - Limited
+Zoning CR-3.0 E2-5 - Employment MO(5) - Industrial Office E2-1 - Employment
+Park Zone Employment Commercial
+Site Adjustment Upward Downward Downward Downward Downward Downward
+Improvement Characteristics
+[COMPANY] (95 Moatfield, 11 (105 Moatfield) 12 2 4 18 2 8
+Building Structure Concrete/Block Concrete Steel/Block Steel Steel/Frame Masonry/Frame Steel/Frame
+Design / Layout Good Superior Superior Superior Superior Superior Superior
+Quality Good Superior Superior Superior Superior Superior Superior
+Condition Good Superior Superior Superior Superior Superior Superior
+Class B B A B A B A
+Building Size ([CITY]) 413,268 162,267 100,398 158,233 921,834 244,128 189,045
+[COMPANY] 1.4 3.2 0.2 0.3 1.5 0.3 1.0
+Year Built 1982 1993 2008 1989 1991 1987 2001
+Improvement Adjustment Upward Upward Upward Downward Upward Upward
+Economic Characteristics
+In Place vs Market At Market At Market At Market At Market At Market At Market At Market
+Tenancy Strength Good Good Good Good Good Good Good
+NOI / SF $16.04 $12.24 $20.13 $16.18 $15.21 $23.12 $20.01
+Actual Occupancy 100% 78% 100% 93% 80% 100% 88%
+Economic Adjustment None None None None None None
+Overall Capitalization Rate 6.85% 6.54% 10.00% 8.50% 7.80% 7.83%
+Overall Adjustment Upward Upward Downward Downward Upward Upward
+Overall Comparability Superior Superior Inferior Inferior Superior Superior
+Higher Than Higher Than Lower Than Lower Than Higher Than Higher Than
+Conclusion
+6.85% 6.54% 10.00% 8.50% 7.80% 7.83%
+File Reference: TOR240850 Page 43
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+COMPARABLE KEY
+COMP DISTANCE NAME ADDRESS [COMPANY]. [COMPANY] Building95-105 [CITY], Toronto, ON 100.0% - - $200
+No. 1 4.4 km [COMPANY] Building110 [PERSON], Toronto, ON 78.0% 5/31/2024 6.85% $179
+No. 2 16.8 km [COMPANY] 199 Four Valley Drive, [CITY], ON 100.0% 4/9/2024 6.54% $349
+No. 3 37.2 km [COMPANY] & 2695 [LOCATION], [PERSON] 9 2.9% 2/1/2024 10.00% $162
+No. 4 2.4 km The Atria Complex 2225, 2235, 2255 Sheppard Avenue East, To 80.0 % 7/23/2023 8.50% $179
+No. 5 36.6 km [COMPANY] Cen7070 [PERSON], Mississauga, ON 100.0% 5/1/2023 7.80% $296
+No. 6 9.3 km [COMPANY] 125 Commerce Valley Drive West, [CITY], 88.0% 3/2/2023 7.83% $256
+File Reference: TOR240850 Page 44
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] rates tend to vary between properties depending to some extent on such factors as location,
+size and type of development, quality and condition of improvements, and amenities provided. Combining
+all of these features with considerations of leasing history and trends, strength of tenancy and income
+security, the overall capitalization rate tends generally to reflect the perceived quality and durability of the
+property's income earning capacity.
+Properties with a strong rental history and stable tenancy with the perceived potential for increases in
+revenues tend to trade at comparatively low overall capitalization rates as compared to properties which
+have a history of vacancy, poor tenant covenants, physical and/or locational challenges, or other forms of
+perceived instability.
+Analysis of Comparable Sales
+The selected transactions pertain to activity that occurred between March 2023 and May 2024. The
+properties vary in size from 100,398 square feet to 921,834 square feet and were originally constructed
+between 1987 and 2008. These transactions represent capital investments that range from a low of
+$25,600,000 to a high of $165,000,000. The stabilized overall capitalization rates indicated by these
+transactions vary from a low of 6.54% to a high of 10.00%.
+The upper end of the range is set by [COMPANY] 3, at 10.00%. This was the sale of
+[COMPANY], a traditional office asset located in [CITY]. This transaction represents a two
+building office campus that was originally constructed in 1989. It is improved with a four-storey 101,338
+square foot office (2655 [PERSON]) and a two-storey 56,895 square foot office (2695 [PERSON]) building. This index is considered to reflect an inferior location when compared to the Subject Property
+and warrants a downward adjustment. At the time of sale 2655 N [PERSON] was reported to be 89%
+occupied and 2695 N. [PERSON] was 100% occupied. Prior to the date of sale, [COMPANY]
+was openly marketing the property for sale. For these reasons, the indicated overall capitalization rate for
+this transaction is deemed to be over-stated in relation to [COMPANY].
+The lower end of the range relates to [COMPANY]. 2 at 6.54%. This was the sale of a
+single-tenant office building located in [CITY]. The property consists of a design-built office building,
+specifically designed and built for Recipe Unlimited back in 2008. As such, it is considered that the
+improvement characteristics is superior to [COMPANY] and warrants an upward adjustment. As of
+the date of sale, the index property exhibited a WALE of approximately 4 Years and 8 Months, with the sole
+occupant set to expire in December 2028. Given the nature of the improvements, being a design build
+office, the rents are considered to be significantly above market. Review of the prevailing office market
+indicated market rent was approximately $20.00 per square foot, for a single-tenant office asset of a similar
+vintage and occupancy. [COMPANY] is significantly larger than the index and the investment size
+associated with acquiring the property would decrease the potential pool of purchasers. Consequently, this
+transaction is considered to provide an under-stated overall capitalization rate indication relative to the
+Subject Property.
+The remaining four transactions present a somewhat narrower range in overall capitalization rates of
+between 6.85% and 8.50% and are deemed to provide a better capitalization rate in relation to [COMPANY]. In selecting an appropriate capitalization rate for [COMPANY], the following factors were
+considered:
+• The Subject Property is well located within [COMPANY] community / Duncan Mills
+office node.
+File Reference: TOR240850 Page 45
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+• It is located within close proximity to Highway 401, and Don Valley Parkway and public
+transportation.
+• The Subject Property is considered to reflect good overall quality/condition as of the effective date.
+• As of the effective date [COMPANY] has a WALE of 2 Years 8 Months, which is not
+considered to be favourable given the reduce long term income security.
+• As of June 5, 2024, [COMPANY] for the first time since July 12, 2023, has lowered the
+overnight policy interest rate by 25 basis points down to 4.75%.
+Based on the foregoing analysis, it is our opinion that an appropriate overall capitalization rate applicable
+to the subject property is lower than Transaction No. 3 (10.00%) and Transaction No. 4 (8.50%); and higher
+than Transaction No. 1 (6.85%), Transaction No. 2 (6.54%), Transaction No. 5 (7.80%) and Transaction
+No. 6 (7.83%).
+File Reference: TOR240850 Page 46
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+On the basis of our Revenue and Expense Analysis, [COMPANY] for the
+forthcoming 12 months has previously been projected in the amount of $6,628,135.
+As summarized on the previous page, overall capitalization rates extracted from the comparable investment
+sales reviewed range between 6.54% and 10.00%. Taking into consideration the investment characteristics
+of the Subject Property including its location, size, building quality and security of income, and as measured
+against the back-drop of the current investment climate for properties such as [COMPANY], it is our
+opinion that an overall capitalization rate in the range between 7.75% and 8.25% would be appropriate.
+Applying such rates to the projected Year One net operating income results in the following estimated value
+range, adjusted for holding and lease up costs and capital expenses, if required.
+[COMPANY] MATRIX - DIRECT OVERALL CAPITALIZATION
+[COMPANY] VALUE(1)
+7.75% $6,628,135 $85,500,000
+8.00% $6,628,135 $82,850,000
+8.25% $6,628,135 $80,350,000
+(1) Rounded to nearest $50,000
+Summary
+Selecting the mid-point of the range, the foregoing analysis indicates an estimated value by way of [COMPANY] of $82,850,000 (rounded) as of the effective date of this valuation.
+The above value estimate is in conjunction with [COMPANY] stated within this
+appraisal. Of particular note are [COMPANY]
+outlined within [COMPANY] section, beginning on Page 9 herein.
+File Reference: TOR240850 Page 47
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Discounted Cash Flow
+The Discounted Cash Flow Technique models a property’s performance over a buyer’s investment horizon
+from the date of acquisition through the projected sale of the property at the end of the holding period. Net
+cash flows from property operations and the reversion are discounted at a rate reflective of the property’s
+economic and physical risk profile.
+Revenue / Expenses
+The revenues and expenses were discussed and set forth within the previous section. These revenues and
+expenses have been utilized within the forthcoming analysis.
+[PERSON]
+The Subject Property’s value has been analyzed using a 10 years-holding period from July 1, 2024.
+Growth Rates
+INFLATION ASSUMPTIONS
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Year 7 Year 8 Year 9 Year 10
+Year Ending Jun-25 Jun-26 [CITY] Jun-28 Jun-29 [PERSON]
+General 0.00% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50%
+Market Rent 0.00% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50%
+CPI 0.00% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50%
+[COMPANY] LOSS ASSUMPTIONS
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Year 7 Year 8 Year 9 Year 10
+Year Ending Jun-25 Jun-26 [CITY] Jun-28 Jun-29 [PERSON]
+Vacancy Loss 7.50% 7.50% 7.50% 7.50% 7.50% 7.50% 7.50% 7.50% 7.50% 7.50%
+[COMPANY] 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00% 0.00%
+Space Absorption
+There is currently no vacancy at the Subject Property
+Market Leasing Assumptions
+The general market leasing assumptions utilized, relating to market rental rates, renewal probability, lag
+vacancy, tenant improvements, free rent and leasing commissions, mirror those discussed and employed
+previously within [COMPANY]. For reference purposes, these items are re-
+iterated in the following table:
+MARKET LEASING ASSUMPTIONS As of [COMPANY]
+[PERSON] Mkt Rent Expense Lease Rnwl Downtime Tenant Improv Free Rent (Initial) Leasing Comm (1)
+Category ($/SF/Yr.) Structure (Years) [COMPANY] - $17.00 $17.00 Continue Prior 5.0 75% 6 months $20.00 $10.00 0 months 0 months ####### $6.00/SF
+(1) Leasing Commission
+Leasing commissions have been based upon discussions with brokers active in the marketplace.
+Market Leasing Forecast
+The following table outlines market leasing assumptions over the entire investment horizon, detailing
+changes, if any, to market rent growth, renewal probability and lag vacancy.
+File Reference: TOR240850 Page 48
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+MARKET LEASING FORECAST
+Year 1 Year 2 Year 3 Year 4 Year 5 Year 6 Year 7 Year 8 Year 9 Year 10
+Year Ending Jun-25 Jun-26 [CITY] Jun-28 Jun-29 [PERSON] - $17.00 $17.00 $17.43 $17.86 $18.31 $18.76 $19.23 $19.71 $20.21 $20.71 $21.23
+Market Rent Growth - 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50% 2.50%
+[COMPANY] 75% 75% 75% 75% 75% 75% 75% 75% 75% 75%
+Lag Vacancy (Mos.) 6 6 6 6 6 6 6 6 6 6
+Structural Allowance
+As was done in [COMPANY], a Contingency Allowance equal to 1.00% of
+[COMPANY] has been deducted within our Cash Flow Projections.
+Cash Flow Projections
+Based on the foregoing, the Cash Flow Projections for the property are presented on the following page.
+File Reference: TOR240850 Page 49
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+CASH FLOW
+95 & 105 Moatfield Drive, Toronto (Amounts in [COMPANY])
+Year 1 2 3 4 5 6 7 8 9 10 11
+For the Years Beginning Jul-24 Jul-25 Jul-26 Jul-27 [PERSON] Jul-30 Jul-31 Jul-32 [PERSON]
+For the Years Ending Jun-25 Jun-26 [CITY] Jun-28 Jun-29 [PERSON] Jun-34 Jun-35
+[COMPANY] $6,887,937 $7,043,355 $7,096,126 $7,136,314 $7,275,465 $7,390,394 $7,814,105 $7,959,726 $8,022,726 $8,191,047 $8,364,853
+[COMPANY] Vacancy $0 $0 ($32,744) ($157,441) ($313,028) ($35,262) ($475,803) ($37,047) ($178,131) ($365,221) $0
+SCHEDULED BASE RENT REVENUE $6,887,937 $7,043,355 $7,063,382 $6,978,872 $6,962,437 $7,355,132 $7,338,302 $7,922,679 $7,844,596 $7,825,826 $8,364,853
+Security $230,918 $236,691 $241,532 $243,499 $244,602 $260,104 $252,156 $273,272 $275,497 $276,381 $295,595
+[COMPANY] $1,399,039 $1,434,015 $1,463,345 $1,475,260 $1,481,942 $1,575,862 $1,527,707 $1,655,641 $1,669,121 $1,674,480 $1,790,888
+[COMPANY] $1,474,094 $1,510,947 $1,541,850 $1,554,404 $1,561,445 $1,660,404 $1,609,665 $1,744,462 $1,758,666 $1,764,312 $1,886,965
+[COMPANY] $179,988 $184,488 $188,261 $189,794 $190,654 $202,737 $196,541 $213,000 $214,734 $215,424 $230,400
+Building R&M $224,040 $229,641 $234,338 $236,246 $237,316 $252,356 $244,645 $265,132 $267,291 $268,149 $286,790
+Janitorial $327,274 $335,455 $342,316 $345,104 $346,667 $368,637 $357,373 $387,300 $390,453 $391,707 $418,938
+Waste Removal $24,850 $25,471 $25,992 $26,203 $26,322 $27,990 $27,135 $29,407 $29,647 $29,742 $31,810
+Elevator $54,960 $56,334 $57,486 $57,954 $58,217 $61,906 $60,015 $65,040 $65,570 $65,780 $70,353
+Office Expense $156,809 $160,729 $164,016 $165,352 $166,101 $176,628 $171,230 $185,569 $187,080 $187,681 $200,729
+[COMPANY] $48,000 $49,200 $50,206 $50,615 $50,844 $54,067 $52,415 $56,804 $57,266 $57,450 $61,444
+Insurance $120,845 $123,866 $126,399 $127,429 $128,006 $136,118 $131,959 $143,009 $144,174 $144,637 $154,692
+[COMPANY] $38,074 $39,025 $39,824 $40,148 $40,330 $42,886 $41,575 $45,057 $45,424 $45,569 $48,737
+[COMPANY] $197,131 $202,059 $206,192 $207,871 $208,813 $222,046 $215,261 $233,288 $235,187 $235,942 $252,345
+Admin Fee $578,226 $592,110 $596,921 $587,596 $574,770 $629,469 $584,748 $672,043 $662,375 $647,212 $716,923
+TOTAL REIMBURSEMENTS $5,054,248 $5,180,032 $5,278,680 $5,307,475 $5,316,028 $5,671,211 $5,472,424 $5,969,023 $6,002,485 $6,004,466 $6,446,609
+Other Revenue $31,044 $31,820 $32,616 $33,431 $34,267 $35,123 $36,002 $36,902 $37,824 $38,770 $39,739
+TOTAL GROSS REVENUE $11,973,228 $12,255,206 $12,374,678 $12,319,779 $12,312,732 $13,061,466 $12,846,728 $13,928,603 $13,884,904 $13,869,062 $14,851,200
+[COMPANY] ($408,703) ($413,015) ($383,052) ($318,102) ($333,795) ($415,992) ($426,442) ($427,857) ($355,873) ($362,599) ($512,746)
+EFFECTIVE GROSS REVENUE $11,564,525 $11,842,192 $11,991,626 $12,001,676 $11,978,937 $12,645,473 $12,420,286 $13,500,746 $13,529,031 $13,506,463 $14,338,455
+Security ($230,918) ($236,691) ($242,609) ($248,674) ($254,891) ($261,263) ($267,795) ($274,489) ($281,352) ($288,385) ($295,595)
+[COMPANY] ($1,399,039) ($1,434,015) ($1,469,866) ($1,506,612) ($1,544,278) ($1,582,884) ($1,622,457) ($1,663,018) ($1,704,593) ($1,747,208) ($1,790,888)
+[COMPANY] ($1,474,094) ($1,510,947) ($1,548,720) ($1,587,438) ($1,627,124) ($1,667,803) ($1,709,498) ($1,752,235) ($1,796,041) ($1,840,942) ($1,886,965)
+[COMPANY] ($179,988) ($184,488) ($189,100) ($193,827) ($198,673) ($203,640) ($208,731) ($213,949) ($219,298) ($224,780) ($230,400)
+Building R&M ($224,040) ($229,641) ($235,382) ($241,267) ($247,298) ($253,481) ($259,818) ($266,313) ($272,971) ($279,795) ($286,790)
+[PERSON] ($327,274) ($335,455) ($343,842) ($352,438) ($361,249) ($370,280) ($379,537) ($389,025) ($398,751) ($408,720) ($418,938)
+Waste Removal ($24,850) ($25,471) ($26,108) ($26,760) ($27,429) ($28,115) ($28,818) ($29,538) ($30,277) ($31,034) ($31,810)
+Elevator ($54,960) ($56,334) ($57,742) ($59,186) ($60,666) ($62,182) ($63,737) ($65,330) ($66,963) ($68,638) ($70,353)
+[COMPANY] ($346,936) ($355,266) ($359,749) ($360,050) ($359,368) ($379,364) ($372,609) ($405,022) ($405,871) ($405,194) ($430,154)
+Office Expense ($156,809) ($160,729) ($164,747) ($168,866) ($173,088) ($177,415) ($181,850) ($186,396) ($191,056) ($195,833) ($200,729)
+[COMPANY] ($48,000) ($49,200) ($50,430) ($51,691) ($52,983) ($54,308) ($55,665) ($57,057) ($58,483) ($59,945) ($61,444)
+Insurance ($120,845) ($123,866) ($126,963) ($130,137) ($133,390) ($136,725) ($140,143) ($143,646) ($147,238) ($150,919) ($154,692)
+[COMPANY] ($38,074) ($39,025) ($40,001) ($41,001) ($42,026) ($43,077) ($44,154) ($45,258) ($46,389) ($47,549) ($48,737)
+[COMPANY] ($197,131) ($202,059) ($207,111) ($212,289) ($217,596) ($223,036) ($228,612) ($234,327) ($240,185) ($246,190) ($252,345)
+TOTAL OPERATING EXPENSES ($4,822,957) ($4,943,188) ($5,062,369) ($5,180,236) ($5,300,058) ($5,443,572) ($5,563,421) ($5,725,605) ($5,859,469) ($5,995,132) ($6,159,840)
+NET OPERATING INCOME $6,741,568 $6,899,004 $6,929,257 $6,821,440 $6,678,878 $7,201,901 $6,856,864 $7,775,140 $7,669,563 $7,511,332 $8,178,615
+Structural Allowance ($115,645) ($118,422) ($119,916) ($120,017) ($119,789) ($126,455) ($124,203) ($135,007) ($135,290) ($135,065) ($143,385)
+Tenant Improvements $0 ($2,254,518) ($144,461) ($694,594) ($1,424,126) ($155,569) ($3,427,662) ($163,444) ($785,870) ($1,611,267) ($176,012)
+[COMPANY] $0 ($1,352,711) ($80,898) ($388,973) ($797,510) ($87,118) ($1,919,491) ($91,529) ($440,087) ($902,310) ($98,567)
+TOTAL LEASING AND CAPITAL COSTS ($115,645) ($3,725,651) ($345,275) ($1,203,584) ($2,341,425) ($369,142) ($5,471,356) ($389,981) ($1,361,247) ($2,648,642) ($417,963)
+CASH FLOW BEFORE DEBT SERVICE $6,625,922 $3,173,353 $6,583,982 $5,617,856 $4,337,453 $6,832,760 $1,385,508 $7,385,160 $6,308,315 $4,862,690 $7,760,652
+File Reference: TOR240850 Page 50
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] As discussed previously, in order to convert the cash flow
+projections into an expression of current value two rates must be
+selected for an application of the [CITY] process; a discount or
+internal rate of return and an overall capitalization rate used to
+determine the reversionary or terminal value.
+Discount Rate Having regard to the Subject property’s characteristics including its
+physical condition, location and leasing position, we have elected to
+use a discount rate of between 8.25% and 9.25%.
+Reversionary [PERSON] Taking into consideration the Subject property’s forecast income
+characteristics, its physical condition, locational characteristics and
+its anticipated future utility, a rate slightly above that used for the
+Overall Income Capitalization Approach is justified. In this regard,
+[COMPANY] projected for Year 11 will be capitalized
+using rates of between 7.75% and 8.75%.
+Outputs from [COMPANY], as produced by [COMPANY], are contained in the
+addendum, and are summarized as follows:
+PRICING MATRIX - Market Value As Is
+As of July 2024 - Includes Years Start Period: 1 through 11
+[COMPANY] ([COMPANY]) for Cash Flow
+Cap Rates 8.25% 8.50% 8.75% 9.00% 9.25%
+7.75% $83,043,040 $81,564,000 $80,118,927 $78,706,936 $77,327,166
+8.00% $81,550,421 $80,105,418 $78,693,532 $77,313,898 $75,965,679
+8.25% $80,148,263 $78,735,235 $77,354,523 $76,005,286 $74,686,706
+8.50% $78,828,586 $77,445,652 $76,094,281 $74,773,651 $73,482,967
+8.75% $77,584,318 $76,229,759 $74,906,052 $73,612,396 $72,348,012
+[COMPANY]
+8.25% 8.50% 8.75% 9.00% 9.25%
+Reversion
+Cost of Sale at Reversion: 0.00%
+Percent Residual: 55.39%
+Round to nearest $50,000 $77,350,000
+Summary
+Selecting the mid-point of the matrix, the foregoing analysis indicates an estimated value by way of
+Discounted Cash Flow Technique of $77,350,000 (rounded) as of the effective date of this valuation.
+The above value estimate is in conjunction with [COMPANY] stated within this
+appraisal. Of particular note are [COMPANY]
+outlined within [COMPANY] section, beginning on Page 9 herein.
+File Reference: TOR240850 Page 51
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Direct Comparison Approach
+[COMPANY] examines the cost of acquiring equally desirable and valuable substitute
+properties, indicated by transactions of comparable properties, within the market area. The characteristics
+of the sale properties are compared to the [PERSON] property on the basis of time and such features as
+location, size and quality of improvements, design features and income generating potential of the property.
+Given the investment nature of [COMPANY], the sale transactions presented within the Income
+Approach are considered to be reasonable for use under this method of valuation. It is noted that income
+producing properties such as the [LOCATION] are most relevantly valued through their income characteristics,
+and therefore the net operating income per square foot must also be given consideration within our analysis.
+The transactions summarized and analysed in the table on the following page are considered to be suitably
+comparable to the [PERSON] property with respect to the characteristics below and to therefore provide a
+reasonable and reliable indication of value.
+In valuing [COMPANY], each of the transactions has been compared to [COMPANY]. The basis
+for comparison included the consideration of the following:
+• Property Rights Conveyed
+• Financing Terms
+• Conditions of Sale
+• Market Conditions (Transaction Date and Status)
+[COMPANY]: TOR240850 Page 52
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+[COMPANY]Property Name Multi-Tenant Office Building Single-Tenant Office Sheridan Exchange The Atria Complex Multi-Tenant Office
+Building Centre
+110 Sheppard Avenue 2655 & 2695 North 2225, 2235, 2255 125 Commerce Valley
+Address 95-105 Moatfield Drive 199 Four Valley Drive 7070 Mississauga Road
+East Sheridan Way Sheppard Avenue East Drive West
+Toronto, [CITY], [CITY], [PERSON], [COMPANY], [PERSON], ON [CITY], [COMPANY] $29,000,000 $35,000,000 $25,600,000 $165,000,000 $72,350,000 $48,311,606
+Analysis Price $29,000,000 $30,900,000 $25,600,000 $165,000,000 $72,350,000 $48,311,606
+Analysis Price per SF $179 $308 $162 $179 $296 $256
+N.O.I. $6,628,135 $1,986,500 $2,021,312 $2,560,000 $14,025,000 $5,643,300 $3,783,491
+[COMPANY]Transaction Date 5/31/2024 4/9/2024 2/1/2024 7/23/2023 5/1/2023 3/2/2023
+Market Conditions Similar Similar Similar Superior Superior Superior
+Property Rights Conveyed Leased Fee Leased Fee Leased Fee Leased Fee Leased Fee Leased Fee
+Financing Loan from [PERSON] ([COMPANY]) Conventional All Cash Conventional Undisclosed Loan from [COMPANY] None None Downward Downward Downward
+Site Characteristics
+Site [PERSON] (SF) 285,835 50,050 419,047 484,517 611,059 740,128 195,584
+Site [PERSON] (Acre) 6.562 1.149 9.620 11.123 14.028 16.990 4.490
+[COMPANY]
+MO - [COMPANY] (76%) - Limited
+Zoning CR-3.0 E2-5 - Employment MO(5) - Industrial Office E2-1 - Employment
+Park Zone Employment Commercial
+Site Adjustment Downward Upward Upward Upward Upward Upward
+Improvement Characteristics
+[COMPANY] (95 Moatfield, 11 (105 Moatfield) 12 2 4 18 2 8
+Building Structure Concrete/Block Concrete Steel/Block Steel Steel/Frame Masonry/Frame Steel/Frame
+Design / Layout Good Superior Superior Superior Superior Superior Superior
+Quality Good Superior Superior Superior Superior Superior Superior
+Condition Good Superior Superior Superior Superior Superior Superior
+Class B B A B A B A
+Building Size ([CITY]) 413,268 162,267 100,398 158,233 921,834 244,128 189,045
+[COMPANY] 1.4 3.2 0.2 0.3 1.5 0.3 1.0
+Year Built 1982 1993 2008 1989 1991 1987 2001
+Improvement Adjustment Downward Downward Downward Upward Downward Downward
+Economic Characteristics
+In Place vs Market At Market At Market At Market At Market At Market At Market At Market
+Tenancy Strength Good Good Good Good Good Good Good
+NOI / SF $16.04 $12.24 $20.13 $16.18 $15.21 $23.12 $20.01
+Actual Occupancy 100% 78% 100% 93% 80% 100% 88%
+Economic Adjustment None None None None None None
+Overall Adjustment Upward Downward Upward Upward Downward Downward
+Overall Comparability Inferior Superior Inferior Inferior Superior Superior
+Higher Than Lower Than Higher Than Higher Than Lower Than Lower Than
+Conclusion
+$179/SF $308/SF $162/SF $179/SF $296/SF $256/SF
+File Reference: TOR240850 Page 53
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] Sales
+The selected transactions pertain to activity that occurred between March 2023 and May 2024. The
+properties vary in size from 100,398 square feet to 921,834 square feet and were originally constructed
+between 1987 and 2008. These transactions represent capital investments that range from a low of
+$25,600,000 to a high of $165,000,000. The unit prices per square foot indicated by these transactions vary
+from a low of $162 per SF per square foot to a high of $349 per [CITY].
+As the [PERSON] represents an investment property, and as additional support to the foregoing, we have also
+considered the relationship between net operating income per square foot and the indicated sale price per
+square foot of the comparables relative to that forecast for the [PERSON] property. The following chart
+summarizes this relationship between net operating income and price, on a per square foot basis, for each
+of the transactions analyzed. On an income adjusted basis, the range in unit values per square foot varies
+from a low of $161 per square foot to a high of $245 per square foot.
+INCOME ADJUSTED DIRECT COMPARISON
+SUBJECT INDEX 1 INDEX 2 INDEX 3 INDEX 4 INDEX 5 INDEX 6
+Unadjusted Price per SF - $179 $308 $162 $179 $296 $256
+NOI per SF $16.04 $12.24 $20.13 $16.18 $15.21 $23.12 $20.01
+[COMPANY] $235 $245 $161 $189 $205 $205
+Based on the preceding analysis, an appropriate unit value per square foot for the subject property, on a
+stabilized basis, should be lower than Transaction No. 2 ($308), Transaction No. 5 ($296), Transaction No.
+6 ($256); and higher than Transaction No. 1 ($179), Transaction No. 3 ($162), Transaction No. 4 ($179).
+In consideration of the sale indices reviewed and the accompanying analysis, we are of the professional
+opinion that an appropriate stabilized unit value range for the [PERSON] property would be between $185 per
+square foot and $205 per square foot. Applying such unit values to the total leasable area of the property
+results in a range in estimated stabilized values as summarized in the table below.
+[COMPANY] MATRIX - DIRECT COMPARISON
+SIZE $/SF VALUE(1)
+413,268 SF $185 $76,450,000
+413,268 SF $195 $80,600,000
+413,268 SF $205 $84,700,000
+(1) Round to nearest $50,000
+Summary
+Selecting the mid-point of the matrix, [COMPANY] indicates an estimated value of
+$80,600,000 (rounded) as of the effective date of this valuation.
+The above value estimate is in conjunction with [COMPANY] stated within this
+appraisal. Of particular note are [COMPANY]
+outlined within [COMPANY] section, beginning on Page 9 herein.
+File Reference: TOR240850 Page 54
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Reconciliation and Final Estimate of Value
+The Subject property is a 413,268 [CITY] office building located on a 6.56 acre site. The building represents
+good quality construction and was in good condition as of the effective date of the report.
+The approaches used in this valuation provide the following values:
+VALUATION SUMMARY
+CURRENT
+VALUATION INDICES MARKET VALUE
+AS-IS
+INTEREST APPRAISED LEASED FEE
+DATE OF VALUE JULY 3, 2024
+INCOME APPROACH
+Discounted Cash Flow $77,350,000
+DCF $/SF ([CITY]) $187/SF
+Holding Period 10 Years
+Terminal Capitalization Rate 8.25%
+[COMPANY] (Cash Flow) 8.75%
+Overall Income Capitalization $82,850,000
+Overall Income Capitalization $/SF $200/SF
+NOI $6,628,135
+NOI $/SF $16.04/SF
+Capitalization Rate 8.00%
+DIRECT COMPARISON APPROACH
+Direct Comparison $80,600,000
+Direct Comparison $/SF $195/SF
+FINAL VALUE CONCLUSION
+FINAL VALUE $80,100,000
+$/SF $194/SF
+Implied Capitalization Rate 8.27%
+For income producing properties such as the [COMPANY], potential purchasers would place considerable
+emphasis on the income earning potential of the property. In this regard, [COMPANY] would be
+the favoured method of valuation. In general, [COMPANY] method is favored over
+Discounted Cash Flow Analysis as it is less subjective. However, when valuing multi-tenant developments
+with varying rental rates, lease terms, etc., Discounted Cash Flow Analysis increases in significance,
+particularly when the net operating income is projected to change over the life of the investment.
+[COMPANY], which is primarily used with respect to the valuation of owner occupied
+buildings, is based on the price per square foot of similar property transactions. [COMPANY], in this case, is supportive of the indications of value in [COMPANY].
+Based on the foregoing, and with most weight applied to [COMPANY] it is our opinion that the current
+market value as is of the leased fee interest in the property, subject to the assumptions set forth, and as at
+July 3, 2024, was:
+File Reference: TOR240850 Page 55
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+VALUE TYPE INTEREST APPRAISED DATE OF VALUE VALUE
+Current Market Value As-Is Leased Fee July 3, 2024 $80,100,000
+The above value estimate is based on an exposure period of six months or less, assuming the basis of a
+transaction involving cash to the vendor, and is in conjunction with [COMPANY]
+stated within this appraisal. Of particular note are [COMPANY] outlined within [COMPANY] section, beginning on Page 9 herein.
+File Reference: TOR240850 Page 56
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]
+95-105 Moatfield Drive, Toronto, Ontario M3B 3L6
+(See Property Data Section for Legal Description)
+I, the undersigned appraiser, certify that, to the best of my knowledge and belief:
+• The statements of fact contained in this report are true and correct;
+• The reported analyses, opinions and conclusions are limited only by the reported Assumptions and
+Limiting conditions, and are my impartial and unbiased professional analyses, opinions and
+conclusions;
+• I have no past, present or prospective interest in the property that is the subject of this report and
+no personal and/or professional interest or conflict with respect to the parties involved with this
+assignment;
+• I have no bias with respect to the property that is the subject of this report or to the parties involved
+with this assignment;
+• My engagement in and compensation for this assignment were not contingent upon developing or
+reporting predetermined results, the amount of the value estimate, a conclusion favouring the client,
+or the occurrence of a subsequent event;
+• My analyses, opinions and conclusions were developed, and this report has been prepared, in
+conformity with [COMPANY] Professional Appraisal Practice (CUSPAP);
+• I have the knowledge and experience to complete this assignment competently, and where
+applicable this report is co-signed in compliance with CUSPAP;
+• Except as disclosed herein, no one has provided significant professional assistance to the person
+signing this report;
+• As of the date of this report the undersigned has fulfilled the requirements of [COMPANY]
+of [COMPANY];
+• I am a member in good standing of [COMPANY];
+• I am licensed to practice in [CITY].
+Information pertaining to inspection of the subject property is as follows:
+SUBJECT PROPERTY INSPECTION
+APPRAISER INSPECTED EXTENT DATE OF INSPECTION
+[PERSON], [COMPANY], [COMPANY] July 3, 2024
+File Reference: TOR240850 Page 57
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Final Estimate of Value
+Based upon the data, analyses and conclusions contained herein, the current market value as is of the
+Leased Fee interest in the property described herein, as at July 3, 2024, is estimated to be as follows:
+VALUE TYPE INTEREST APPRAISED DATE OF VALUE VALUE
+Current Market Value As-Is Leased Fee July 3, 2024 $80,100,000
+The above value estimate is based on an exposure period of six months or less, assuming the basis of a
+transaction involving cash to the vendor, and is subject to [COMPANY], Hypothetical
+Conditions and Extraordinary Limiting Conditions as detailed within [COMPANY] section of this
+report, in addition to [COMPANY] and [COMPANY] contained in the [PERSON]. Any
+alterations to either the information provided or the assumptions in this report may have a material impact
+on the value contained herein.
+Appraiser
+[PERSON], AACI, P.App
+Date: July 15, 2024
+[COMPANY]. 912419
+NOTE: For this appraisal to be valid, an
+original or a password protected digital
+signature is required.
+File Reference: TOR240850 Page 58
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendices
+Appendix A Ordinary Assumptions and [COMPANY]
+Appendix B Definitions
+Appendix C Market Overview
+Appendix D GeoWarehouse Report
+Appendix E Land Use Controls
+Appendix F Argus Enterprise Output
+Appendix G Comparable Sales
+File Reference: TOR240850 Page 59
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix A
+[COMPANY] and [COMPANY] TOR240850 Page 60
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Ordinary Assumptions and [COMPANY]
+The certification that appears in this appraisal report is subject to compliance with [COMPANY] (PIPEDA), Canadian Uniform Standards of Professional
+Appraisal Practice (“CUSPAP”), and the following conditions:
+1) This report has been prepared at the request of [PERSON] of [COMPANY] (the Authorized
+Client) for the purpose of providing an estimate of the market value of 95-105 Moatfield Drive,
+Toronto, Ontario (the [PERSON] property) and for the specific use referred to. It is not reasonable for any
+party other than the person or those to whom this report is addressed to rely upon this appraisal without
+first obtaining written authorization from the client and the author of this report. This report has been
+prepared on the assumption that no other party will rely on it for any other purpose. Liability is expressly
+denied to any person other than the client and those who obtain written consent and, accordingly, no
+responsibility is accepted for any damage suffered by any such person as a result of decisions made
+or actions based on this report. Diligence by all authorized users is assumed.
+2) This report has been prepared at the request of [PERSON] of [COMPANY] and for the
+exclusive (and confidential) use of the recipient as named and for the specific purpose and function as
+stated. Written consent from the authors must be obtained before any part of the appraisal report can
+be used for any use by anyone except the client and other authorized users identified in the report.
+Liability to any other party or for any other use is expressly denied regardless of who pays the appraisal
+fee.
+3) All copyright is reserved to the author and this report is considered confidential by the author and
+[PERSON] of [COMPANY] of this report, or a copy thereof, does not carry with
+it the right to reproduction or publication in any manner, in whole or in part, nor may it be disclosed,
+quoted from or referred to in any manner, in whole or in part, without the prior written consent and
+approval of the author as to the purpose, form and content of any such disclosure, quotation or
+reference. Without limiting the generality of the foregoing, neither all nor any part of the contents of this
+report shall be disseminated or otherwise conveyed to the public in any manner whatsoever or through
+any media whatsoever or disclosed, quoted from or referred to in any report, financial statement,
+prospectus, or offering memorandum of the client, or in any documents filed with any governmental
+agency without the prior written consent and approval of the author as to the purpose, form and content
+of such dissemination, disclosure, quotation or reference.
+4) The contents of this report are confidential and will not be disclosed by the author to any party except
+as provided for by the provisions of the CUSPAP and/or when properly entered into evidence of a duly
+qualified judicial or quasi-judicial body. The appraiser acknowledges that the information collected is
+personal and confidential and shall not use or disclose the contents of this report except as provided
+for in the provisions of the CUSPAP and in accordance with the appraiser's privacy policy. The client
+agrees that in accepting this report, it shall maintain the confidentiality and privacy of any personal
+information contained and shall comply in all material respects with the contents of the appraiser's
+privacy policy and in accordance with the PIPEDA.
+5) This appraisal report, its content and all attachments/addendums and their content are the property of
+the appraiser. The client, authorized users and any appraisal facilitator are prohibited, strictly forbidden
+and no permission is expressly or implicitly granted or deemed to be granted, to modify, alter, merge,
+publish (in whole or in part) screen scrape, database scrape, exploit, reproduce, decompile, reassemble
+or participate in any other activity intended to separate, collect, store, reorganize, scan, copy,
+File Reference: TOR240850 Page 61
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+manipulate electronically, digitally, manually or by any other means whatsoever this appraisal report,
+addendum, all attachments and the data contained within for any commercial, or other, use.
+6) The appraiser has agreed to enter into the assignment as requested by the client named in the report
+for the use specified by the client, which is stated in the report. The client has agreed that the
+performance of this appraisal and the report format are appropriate for the authorized use.
+7) This report is completed on the basis that testimony or appearance in court or at any administrative
+proceeding concerning this appraisal is not required unless specific arrangements to do so have been
+made beforehand. Such arrangements will include, but not necessarily be limited to, adequate time to
+review the appraisal report and data related thereto and for preparation and for any appearances that
+may be required, and the provision of appropriate additional compensation.
+8) The estimated market value of the real estate that is the Subject of this appraisal pertains to the value
+of the leased fee interest in the real property. The property rights appraised exclude mineral rights, if
+any.
+9) The concept of market value presumes reasonable exposure. The exposure period is the estimated
+length of time the asset being valued would have been offered on the market prior to the hypothetical
+consummation of a sale at market value on the effective date of valuation. The overall concept of
+reasonable exposure encompasses not only adequate, sufficient and reasonable time but also
+adequate, sufficient and reasonable effort. The reasonable exposure period is a function not only of
+time and effort but will depend on the type of asset being valued, the state of the market at the date of
+valuation and the level at which the asset is priced. (The estimated length of the exposure period
+needed to achieve the estimated market value is set forth in [COMPANY], prefacing this
+report).
+10) The analyses set out in this report relied on written and verbal information obtained from a variety of
+sources we considered reliable. However, these data are not guaranteed for accuracy. Unless
+otherwise stated, we did not verify client-supplied information, which we believed to be correct. Certain
+information has been accepted at face value, especially if there was no reason to doubt its accuracy.
+Other empirical data required interpretative analysis pursuant to the objective of this appraisal. Certain
+inquiries were outside the scope of this mandate.
+11) The appraiser will not be responsible for matters of a legal nature that affect either the property being
+appraised or the title to it. No title search has been performed, and the appraiser assumes that the title
+is good and marketable and free and clear of all value influencing encumbrances, encroachments,
+restrictions or covenants, including leases, unless otherwise noted in this report, and that there are no
+pledges, charges, liens or special assessments outstanding against the property other than as stated
+and described. The property is appraised on the basis of it being under responsible ownership. Matters
+of a legal nature, including confirming who holds legal title to the appraised property or any portion of
+the appraised property, are outside the scope of work and expertise of the appraiser. Any information
+regarding the identity of a property’s owner or identifying the property owned by the listed client and/or
+applicant provided by the appraiser is for informational purposes only and any reliance on such
+information is unreasonable. Any information provided by the appraiser does not constitute any title
+confirmation. Any information provided does not negate the need to retain a real estate lawyer, surveyor
+or other appropriate experts to verify matters of ownership and/or title.
+12) The property has been valued on the basis that there are no outstanding liabilities except as expressly
+noted, pursuant to any agreement with a municipal or other government authority, pursuant to any
+contract or agreement pertaining to the ownership and operation of the real estate or pursuant to any
+lease or agreement to lease, which may affect the stated value or saleability of the [PERSON] property or
+any portion thereof.
+File Reference: TOR240850 Page 62
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+13) The property has been valued on the basis that there is no action, suit, proceeding or investigation
+pending or threatened against the real estate or affecting the titular owners of the property, at law or in
+equity or before or by any federal, provincial or municipal department, commission, [COMPANY],
+agency or instrumentality which may adversely influence the value of the real estate appraised.
+14) The legal description of the property and the area of the site were obtained from the [COMPANY].
+No survey of the property has been made. Any plans and sketches contained in this report show
+approximate dimensions only and are included solely to aid the recipient in visualizing the location of
+the property, the configuration and boundaries of the site and the relative position of the improvements
+on the said lands. It is unreasonable to rely on this report as an alternative to a survey, and an
+accredited surveyor ought to be retained for such matters.
+15) The property has been valued on the basis that the real estate complies in all material respects with
+any restrictive covenants affecting the site and has been built and is occupied and being operated, in
+all material respects, in full compliance with all Government regulations and requirements of law,
+including all zoning, land use classification, building codes, planning, fire and health by-laws, rules,
+regulations, orders and codes of all federal, provincial, regional and municipal governmental authorities
+having jurisdiction with respect thereto, and that if it doesn’t comply, any such non-compliance may
+affect market value. (It is recognized there may be work orders or other notices of violation of law
+outstanding with respect to the real estate and that there may be certain requirements of law preventing
+occupancy of the real estate as described in this report. However, such circumstances have not been
+accounted for in the appraisal process).
+16) The term “inspection” refers to observation and reporting of the general material finishing and conditions
+seen for the purposes of a standard appraisal inspection. The inspection scope of work includes the
+identification of marketable characteristics/amenities offered for comparison and valuation purposes
+only, in accordance with the [COMPANY].
+17) The opinions of value and other conclusions contained assume satisfactory completion of any work
+remaining to be completed in a good and workmanlike manner. Further inspection may be required to
+confirm completion of such work. The appraiser has not confirmed that all mandatory building
+inspections have been completed to date, nor has the availability/issuance of an occupancy permit
+been confirmed. The appraiser has not evaluated the quality of construction, workmanship or materials.
+It should be clearly understood that this physical inspection does not imply compliance with any building
+code requirements as this is beyond the professional expertise of the appraiser.
+18) The author of this report is not qualified to comment on environmental issues (including, without
+limitation any chemical or biological issues) that may affect the market value of the property appraised,
+including but not limited to pollution or contamination of land, buildings, water, groundwater or air.
+Unless expressly stated, the property is assumed to be free and clear of pollutants and contaminants,
+including but not limited to moulds or mildews or the conditions that might give rise to either, and in
+compliance with all regulatory environmental requirements, government, or otherwise, and free of any
+environmental condition, past, present or future, that might affect the market value of the property
+appraised. If the party relying on this report requires information about environmental issues then that
+party is cautioned to retain an expert qualified in such issues. We expressly deny any legal liability
+relating to the effect of environmental issues on the market value of the property appraised.
+19) Unless otherwise stated in this report, the appraiser has no knowledge of any hidden or unapparent
+conditions of the property (including, but not limited to, its soils, physical structure, mechanical or other
+operating systems, its foundation, etc.) or adverse environmental conditions (on it or a neighbouring
+property, including the presence of hazardous wastes, toxic substances, etc.) that would make the
+property more or less valuable. It has been assumed that there are no such conditions unless they
+were observed at the time of inspection or became apparent during the normal research involved in
+File Reference: TOR240850 Page 63
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+completing the appraisal. This report should not be construed as an environmental audit or detailed
+property condition report, as such reporting is beyond the scope of this report and/or the qualifications
+of the appraiser. The author makes no guarantees or warranties, express or implied, regarding the
+condition of the property, and will not be responsible for any such conditions that do exist or for any
+engineering or testing that might be required to discover whether such conditions exist. The bearing
+capacity of the soil is assumed to be adequate.
+20) Investigations have been undertaken in respect of matters which regulate the use of land. However, no
+inquiries have been placed with the fire department, the building inspector, [COMPANY] or
+any other government regulatory agency with respect to the Subject property’s compliance with all
+applicable regulations, unless such investigations are expressly represented to have been made in this
+report. Assumptions have been made that the [PERSON] property is in compliance with all such
+regulations. The [PERSON] property must comply with such regulations and, if it does not comply, its non-
+compliance may affect the market value of this property. To be certain of such compliance, further
+investigations may be necessary. Any information provided by the appraiser does not negate the need
+to retain an appropriately qualified professional to determine government regulation compliance.
+21) The interpretation of any leases and other contractual agreements, pertaining to the operation and
+ownership of the property, as expressed, is solely the opinion of the author and should not be construed
+as a legal interpretation. Further, any summaries of such contractual agreements are presented for the
+sole purpose of giving the reader an overview of the salient facts thereof.
+22) The estimated market value of the property does not necessarily represent the value of the underlying
+shares of the entity owning the property, if the asset is so held, as the value of the shares could be
+affected by other considerations. Further, the estimated market value does not include consideration
+of any extraordinary financing, rental or income guarantees, special tax considerations or any other
+atypical benefits which may influence the ordinary market value of the property, unless the effects of
+such special conditions, and the extent of any special value that may arise therefrom, have been
+described and measured in this report.
+23) Should title to the real estate presently be held (or changed to a holding) by a partnership, in a joint
+venture, through a Co-tenancy arrangement or by any other form of divisional ownership, the value of
+any fractional interest associated therewith may be more or less than the percentage of ownership
+appearing in the contractual agreement pertaining to the structure of such divisional ownership. For the
+purposes of our valuation, we have not made any adjustment for the value of a fractional interest.
+24) In the event of syndication, the aggregate value of the limited partnership interests may be greater than
+the value of the freehold or fee simple interest in the real estate, by reason of the possible contributory
+value of non-realty interests or benefits such as provision for tax shelter, potential for capital
+appreciation, special investment privileges, particular occupancy and income guarantees, special
+financing or extraordinary agreements for management services.
+25) Unless otherwise noted, the estimated market value of the property referred to is predicated upon the
+condition that it would be sold on a cash basis to the vendor subject to any contractual agreements and
+encumbrances as noted in this report as-is and where-is, without any contingent agreements or
+caveats. Other financial arrangements, good or cumbersome, may affect the price at which this property
+might sell in the open market.
+26) Because market conditions, including economic, social and political factors, change rapidly and, on
+occasion, without notice or warning, the estimate of market value expressed, as of the effective date of
+this appraisal, cannot be relied upon as of any other date except with further advice from the appraiser
+and confirmed in writing.
+27) The value expressed is in Canadian dollars.
+File Reference: TOR240850 Page 64
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+28) This report is only valid if it bears the original or password secured digital signature(s) of the author(s).
+If transmitted electronically, this report will have been digitally signed and secured with personal
+passwords to lock the appraisal file. Due to the possibility of digital modification, only originally signed
+reports and those reports sent directly by the appraiser, can be relied upon without fault.
+29) These Ordinary Assumptions and [COMPANY] shall be read with all changes in number and
+gender as may be appropriate or required by the context or by the particulars of this mandate.
+30) Where the authorized use of this report is for financing or mortgage lending or mortgage insurance, it
+is a condition of reliance on this report that the authorized user has or will conduct lending underwriting
+and insurance underwriting and rigorous due diligence in accordance with the standards of a
+reasonable and prudent lender or insurer, including but not limited to ensuring the borrower’s
+demonstrated willingness and capacity to service his/her debt obligations on a timely basis, and to
+conduct loan underwriting or insuring due diligence similar to the standards set out by [COMPANY] (OSFI), even when not otherwise required by law. Liability is
+expressly denied to those that do not meet this condition. Any reliance on this report without satisfaction
+of this condition is unreasonable.
+File Reference: TOR240850 Page 65
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix B
+Definitions
+File Reference: TOR240850 Page 66
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Definitions
+Property Interests
+Fee Simple • Absolute ownership unencumbered by any other interest or estate, subject
+only to the limitations imposed by the governmental powers of taxation,
+expropriation, police power and escheat.
+Leased Fee Interest • The ownership interest held by the lessor, which includes the right to the
+contract rent specified in the lease plus the reversionary right when the lease
+expires.
+[COMPANY] The right held by the lessee to use and occupy real estate for a stated term
+and under the conditions specified in the lease.
+General Definitions
+Adjusted or [COMPANY] is usually derived from transactions with excessive
+vacancy levels or contract rents over/under market levels. In such cases, net operating income is
+“normalized” to market levels and the price adjusted to reflect expected costs required to achieve the
+projected net operating income.
+[COMPANY] is a method through which a value indication is derived for the fee simple estate by
+estimating the current cost to construct a reproduction of (or replacement for) the existing structure,
+including an entrepreneurial incentive or profit; deducting depreciation from the total cost; and adding the
+estimated land value. Adjustments may then be made to the indicated value of the fee simple estate in the
+Subject property to reflect the value of the property interest being appraised.
+Direct or Overall Capitalization refers to the process of converting a single year’s income with a rate or
+factor into an indication of value.
+[COMPANY] examines the cost of acquiring equally desirable and valuable
+substitute properties, indicated by transactions of comparable properties, within the market area. The
+characteristics of the sale properties are compared to the [PERSON] property on the basis of time and such
+features as location, size and quality of improvements, design features and income generating potential of
+the property.
+Discount Rate is a yield rate used to convert future payments or receipts into a present value.
+Discounted Cash Flow Technique offers an opportunity to account for the anticipated growth or decline
+in income over the term of a prescribed holding period. More particularly, the value of the property is
+equivalent to the discounted value of future benefits. These benefits represent the annual cash flows
+(positive or negative) over a given period of time, plus the net proceeds from the hypothetical sale at the
+end of the investment horizon.
+Two rates must be selected for an application of the [CITY] process:
+• the internal rate of return or discount rate used to discount the projected receivables;
+File Reference: TOR240850 Page 67
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+• an overall capitalization rate used in estimating reversionary value of the asset.
+The selection of the discount rate or the internal rate of return is based on comparing the Subject Property
+to other real estate opportunities as well as other forms of investments. Some of the more common bench
+marks in the selection of the discount rate are the current yields on long term bonds and mortgage interest
+rates.
+Effective Date - The Canadian Uniform Standards of Professional Appraisal Practice adopted by the
+[COMPANY] defines “Effective Date)” ([COMPANY], Canadian
+Uniform Standards of Professional Appraisal Practice, 2024 ed. Page 6) as:
+“The date at which the analyses, opinions, and conclusions in an Assignment apply. The
+[COMPANY] may be different from the Inspection date and/or the Report date.”
+Exposure Time - The Canadian Uniform Standards of Professional Appraisal Practice adopted by the
+[COMPANY] defines “Exposure Time” ([COMPANY], Canadian
+Uniform Standards of Professional Appraisal Practice, 2024 ed. Page 6) as:
+“The estimated length of time the property interest being appraised would have
+been offered on the market before the hypothetical consummation of a sale at the
+estimated value on [COMPANY] of the appraisal. Exposure time is backward-
+looking.”
+[COMPANY] (International Financial Reporting Standards) – IFRS 13 defines “Fair Value” as:
+“The price that would be received to sell an asset or paid to transfer a liability in an
+orderly transaction between market participants at the measurement date.”
+[COMPANY] and Best Use - The Canadian Uniform Standards of Professional Appraisal Practice adopted by
+[COMPANY] defines “Highest and Best Use” (The Appraisal Institute of Canada,
+Canadian Uniform Standards of Professional Appraisal Practice, 2024 ed. Page 8) as:
+“The reasonably probable use of [COMPANY], that is physically possible, legally
+permissible, financially feasible, and maximally productive, and that results in the
+highest value.”
+[COMPANY] is based on the premise that properties are purchased for their income producing
+potential. It considers both the annual return on the invested principal and the return of the invested
+principal. This valuation technique entails careful consideration of contract rents currently in place, projected
+market rents, other income sources, vacancy allowances, and projected expenses associated with the
+efficient operation and management of the property. The relationship of these income estimates to property
+value, either as a single stream or a series of projected streams, is the essence of the income approach.
+The two fundamental techniques utilized within the Income Approach include [COMPANY] and Discounted Cash Flow Techniques.
+[COMPANY] is the yield rate that is earned or expected over the period of ownership. It applies
+to all expected benefits including the proceeds of sale at the end of the holding period. The [COMPANY] is the [PERSON]
+of Discount that makes the net present value of an investment equal zero.
+File Reference: TOR240850 Page 68
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] Professional Appraisal Practice adopted by the
+[COMPANY] defines “Market Value” (The Appraisal of Real Estate, Fourth Canadian
+Edition, ed. [COMPANY], ([COMPANY], [COMPANY], 2023), p. 6.1-.4) as:
+“The most probable price, as of a specified date, in cash, or in terms equivalent to
+cash, or in other precisely revealed terms, for which the specified property rights
+should sell after reasonable exposure in a competitive market under all conditions
+requisite to a fair sale, with the buyer and the seller each acting prudently,
+knowledgeably, and for self-interest, and assuming that neither is under undue
+duress.”
+Marketing Time - The Canadian Uniform Standards of Professional Appraisal Practice adopted by the
+[COMPANY] defines “Marketing Time” ([COMPANY], Canadian
+Uniform Standards of Professional Appraisal Practice, 2024 ed. Page 10) as:
+“Marketing Time is an opinion on the amount of time it might take to sell a property
+interest in [COMPANY] at the concluded estimate of [COMPANY] during the period
+immediately after [COMPANY] of an appraisal. Marketing Time is forward-
+looking and predictive.”
+Net Operating Income is the actual or anticipated net income remaining after all operating expenses are
+deducted from effective gross income before debt service and depreciation. Net Operating Income is
+usually calculated for the current fiscal year or the forthcoming year.
+[COMPANY] is an income rate that reflects the relationship between a single year’s net
+operating income expectancy and the total property price. [COMPANY] converts net
+operating income into an indication of a property’s overall value.
+[COMPANY] analyzes the relationship of current projected stabilized
+net operating income to total property value. The stabilized net operating income is capitalized at a rate that
+implicitly considers expected growth in cash flow and growth in property value over a buyer’s investment
+horizon. The implied value may be adjusted to account for non-stabilized conditions or required capital
+expenditures to reflect an as is value.
+A Yield Rate is applied to a series of individual incomes to obtain a present value of each.
+File Reference: TOR240850 Page 69
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix C
+Market Overview
+File Reference: TOR240850 Page 70
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]Canada has the world’s 39th largest population and the world’s second largest land mass. The country’s
+population is dispersed among 10 provinces and 3 territories with nearly 90% of its people living within 160
+kilometers of [CITY] border. Canada consistently receives a top fifteen Human Development
+Index ranking and a top twenty ranking for GDP (nominal) per capita.
+Canada’s economy consistently receives a top twelve world ranking. International trade makes up a large
+part of Canada’s economy, with [CITY] as its largest trading partner followed by [COMPANY] and [CITY]. Key Canadian exports include petroleum, automobiles and auto parts, precious metals,
+machinery including computers, wood, electrical machinery, aircraft and spacecraft, pharmaceuticals and
+aluminum. More recently, Canada’s high knowledge industries of manufacturing, business services,
+engineering and computer and management services have received a top ten global knowledge economy
+ranking from [COMPANY].
+Following is a demographic summary for [COMPANY].
+Following is a summary of featured insights prepared by [COMPANY] in their June 2024
+Canada Economic Forecast.
+File Reference: TOR240850 Page 71
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Mild mid-year downturn before a tepid recovery emerges
+• In Q1 2024, GDP grew 0.4% q/q and while the below-potential growth pace was stronger than the
+0.1% rise we expected, it was weaker than the consensus view and [COMPANY]'s preliminary estimate.
+We still anticipate a shallow economic downturn in Q2 and Q3 before a tepid recovery emerges
+later this year. Accordingly, we nudged up our GDP growth forecast by 0.1ppt to 0.2% in 2024 and
+lowered our forecast by 0.1ppt to 1.9% in 2025.
+• The rise in Q1 GDP was broad-based, with strong consumer spending on services at the heart of
+the pickup. But we forecast a 0.5% drop in GDP from Q1 to Q3 as the lagged impact of past rate
+hikes hurt consumption, new-home building, and business capital outlays. Slowing inventory
+accumulation will also be a large drag, while net exports should provide a modest buffer amid the
+start of oil exports along [COMPANY], strong [CITY] demand, and a weaker loonie.
+• Headline CPI inflation dipped to 2.7% y/y in April from 2.9% y/y in March, a hair less than our
+forecast. Weaker April inflation, along with a downward revision to our global oil price forecast led
+us to reduce our 2024 inflation forecast by [COMPANY] to 2.6%. We still expect inflation will average
+2.2% in 2025 and foresee a return to the 2% target by mid-2025.
+• The unemployment rate rose 0.1ppt to 6.2% in May, as hiring slowed and strong population growth
+continued. We think modest job losses in the months ahead and continued rapid immigration-led
+labour supply growth will lift the unemployment rate to 7.5% by year-end.
+• [COMPANY]) made its first 25bp cut in the policy rate to 4.75% on June 5, citing
+continued evidence of easing underlying inflation as the main rationale. Importantly, Governor Tiff
+[PERSON] stressed that future rate decisions would be made “one meeting at a time.”
+• We expect the [COMPANY] will gradually lower the policy rate by 25bps every other meeting until it reaches
+2.25% in late 2026. But if the economy avoids the modest downturn we predict, labour markets
+remain resilient, or housing prices rebound too quickly, the [COMPANY] may delay easing and hold the
+policy rate higher for longer, with a small chance it resumes hiking this year.
+Forecast Overview
+Recent Developments
+• On a monthly basis, GDP by industry was unchanged in March following brief rebounds in February
+and January. This indicates that momentum slowed toward the end of Q1, leaving the economy on
+a weak footing heading into Q2. [COMPANY]'s early read points to a 0.3% m/m rise in April GDP. Still,
+preliminary monthly industry GDP figures are prone to sizeable revisions and have tended to
+overstate growth in quarterly GDP on an expenditure basis. We see downside risk to this estimate
+and think the economy will contract modestly during midyear.
+File Reference: TOR240850 Page 72
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+• Recent retail sales data point to slowing economic momentum as consumers appear to have pulled
+back on goods spending. Retail sales volumes fell 0.2% m/m in March, the second consecutive
+monthly decline, and have fallen 0.5% from the recent peak in January.
+• The unemployment rate rose 0.1ppt to 6.2% in May, up almost a full percentage point from a year
+ago, as the monthly pace of new hiring slowed to 26,700 from 90,400 in April, while strong
+population growth continued.
+• Job growth has certainly surprised to the upside so far this year, but when cutting through the noise
+of the monthly data, it is clear that the labour market is loosening. We think modest job losses in
+the months ahead and continued rapid immigration-led labour supply growth will lift the
+unemployment rate to 7.5% by late 2024. Even with continued modest job gains, stronger growth
+in labour supply will push up the unemployment rate to the 7% range by year-end.
+Short-Term Outlook
+• We expect GDP will downshift from a 0.4% q/q advance in Q1, and contract by about 0.2%
+q/q in both [PERSON] and [COMPANY]. This will lead to an overall 0.5% peak-to-trough decline in real
+output, little changed from last month. The downturn will be underpinned by reduced
+consumption during the middle of the year, as the enduring impact of mortgage renewals
+at higher interest rates and still-high price levels weigh on households. The lagged impact
+of past rate hikes will also hurt new residential construction and curb business capital
+outlays. A further slowing in the pace of inventory accumulation will likely place a
+substantial drag on GDP growth in Q2 and Q3.
+• Falling private-sector domestic demand will be cushioned by growing net exports and
+stronger government spending introduced in the 2024 federal and provincial budgets.
+Higher exports from the start of [COMPANY], strong [CITY] growth, and a
+weaker Canadian dollar should outweigh the impact from [COMPANY]'s auto assembly plant
+shutdown.
+• A tepid recovery will emerge in [CITY] as interest rates ease, sentiment improves, and
+government spending supports the economy. Consumption will slowly improve as hiring
+resumes and real incomes grow. Business investment is forecast to pick up as sales
+recover and profits improve. The drag from inventories should fade once stockbuilding
+File Reference: TOR240850 Page 73
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+slows to a more sustainable pace. A steady improvement in residential investment will take
+hold later this year as rates ease, resale activity picks up, and government efforts help
+boost homebuilding.
+[PERSON] of Our Short-Term Forecast
+• After cutting rates 25bps in June, the [COMPANY] is now taking it "one meeting at a time." As we
+long anticipated, [COMPANY]) saw sufficient evidence of easing underlying
+inflationary pressures and slowing economic momentum to deliver the first 25bp rate cut in
+June, bringing the policy rate down to 4.75%.
+[COMPANY], Governor [PERSON] stressed that future rate decisions would be made “one
+meeting at a time.” This means the [COMPANY] will remain data dependant and ready to pivot
+should underlying inflationary pressures reignite or the economy prove stronger than it
+expects.
+• We continue to expect the [COMPANY] will gradually lower the policy rate by 25bps every other
+meeting until it reaches 2.25% in late 2026. But, if the economy avoids the modest
+downturn we predict, labour markets remain resilient, wage growth fails to slow, or housing
+prices rebound too quickly, the [COMPANY] may delay easing and hold the policy rate higher for
+longer, or even resume hiking later this year.
+File Reference: TOR240850 Page 74
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+• Inflation will return to target in mid-2025. Headline CPI inflation dipped to 2.7% y/y in April
+from 2.9% in March. Key measures of underlying inflation continued to slow, as the three-
+month average for the monthly change in the [COMPANY] CPI excluding food and energy came in
+at a 1.9% annualized pace in April. This was up from 1.6% in March but still below the 2%
+target.
+• Slightly slower-than-expected inflation in April, along with the incorporation of a modest
+downward revision to our global oil price forecast led us to trim our annual average CPI
+inflation forecast by [COMPANY] to 2.6% in 2024.
+• Nevertheless, we think inflation will average 2.2% in 2025, unchanged from last month.
+Headline inflation is expected to return to the [COMPANY]'s 2% target in mid-2025, unchanged
+from last month's forecast.
+• Consumer spending to pull back as mortgage payment shock continues. Mortgage
+payments have surged since the [COMPANY] began hiking interest rates in early 2022. But even
+with our forecast for gradual rate cuts, we expect these payments will rise this year as
+mortgage holders continue to renew at higher rates. The mortgage payment shock will
+particularly squeeze low- to medium-income indebted households, causing them to cut
+discretionary spending and driving a pullback in aggregate consumption in the near term.
+File Reference: TOR240850 Page 75
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] – Ontario
+[CITY] is Canada’s most populous province and home to the nation’s capital, Ottawa, as
+well as the nation’s largest city, Toronto. Besides having 40% of Canada’s population, Ontario has the most
+culturally diverse population in Canada. The great majority of Ontario’s population and arable land is located
+in the south. In contrast, the larger, northern part of Ontario is sparsely populated.
+Ontario generates 39% of Canada’s GDP and forms Canada’s largest economy. The province’s economy
+is led by its service sector, manufacturing, agriculture, mining and forestry industries. Nearly 50% of
+Canada’s high tech, financial services and other knowledge intensive industries are employed in Ontario.
+Meanwhile, Ontario is Canada’s manufacturing powerhouse, shipping more than $258 billion of
+automobiles, information and communications technologies, biotech, pharmaceuticals and medical
+devices. In addition, the province’s mining industry is among the top 10 producers in the world for nickel
+and platinum and a significant producer of gold, copper, zinc, cobalt and silver.
+File Reference: TOR240850 Page 76
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] – Toronto
+Toronto is the most populous city in Canada, the provincial capital of Ontario, and forms the centre of the
+most populous metropolitan area in Canada. In addition, Toronto is located within one of [LOCATION]
+fastest growing regions, known as the Golden Horseshoe – Canada’s most important economic engine.
+[PERSON], Toronto is one the world’s most diverse cities and known as a prominent centre for music,
+theatre, and motion picture and television production. [COMPANY] consists of 24
+municipalities including [COMPANY], [CITY], [CITY] and [CITY] which are interconnected by an
+extensive road network.
+Toronto is Canada’s business and financial capital. The city is the second largest financial services centre
+in [LOCATION] after [CITY] and has one of the highest concentrations of financial services company
+headquarters in the [LOCATION]. Toronto is also the headquarters of many large Canadian and multinational
+corporations as well as a robust and critical concentration of top legal, accounting, consulting, academic
+and technology providers. The city’s other prominent industries include technology, design, financial
+services, life sciences, education, arts, fashion, business services, environment, [COMPANY], and
+tourism. Following is a demographic summary for [CITY].
+Following is a summary of featured insights prepared by [COMPANY] in their April 2024 Toronto
+Economic Forecast.
+File Reference: TOR240850 Page 77
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+• Toronto entered 2024 on a slow note; we estimate that GDP contracted in Q1, with more of the
+same expected in Q2. Although we forecast GDP growth to resume in the second half of this year,
+on an annual basis, Toronto will suffer the largest economic contraction of any major metro in 2024,
+declining 0.5% y/y. Declines in the finance & real estate and business services sectors are hitting
+Toronto particularly hard, as these sectors combined make up nearly half of the city's economy.
+And the ongoing housing market correction is also weighing heavily on the economy. However,
+Toronto's medium-term outlook is much stronger, in part driven by driven by high inward migration.
+• The housing market has a large influence on Toronto's economy. With incomes stagnating, housing
+unaffordability reached all-time highs in Toronto, and a housing correction started in the spring of
+2022. After a short rebound in early 2023, house prices have resumed their decline in recent
+quarters. We anticipate the recession, elevated interest rates, and near-record unaffordability will
+continue to push prices down through Q3 2024, for an overall peak-to-trough decline of 24% from
+Q1 2022.
+• Canada's population increased by a record 1.2 million in the year to July 2023, entirely driven by
+international arrivals. As a result, we estimate that Toronto's population grew by an unprecedented
+3.2% in 2023, the city's highest single-year rate in the 21st century. We expect the population to
+grow even faster in 2024, before migration trends begin to temper in the medium term. Toronto's
+labour market will be boosted by these newcomers, but the city's already-stretched housing stock
+will be further strained as well.
+• Despite some short-term challenges, Toronto will be one of the fastest-growing major metros in
+Canada in the period to 2028, in part due to its strong population growth. Canada's largest city has
+its weaknesses—particularly on the affordability front—but as one of [LOCATION] major hubs
+for business and culture, Toronto will continue to attract newcomers. The result will be robust GDP
+and employment growth sustained over the medium term. Thanks to all these factors, Toronto is
+the highest-scoring metro in our city index.
+File Reference: TOR240850 Page 78
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Colliers Q1 2024 Office Market Report
+File Reference: TOR240850 Page 79
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 80
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 81
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 82
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix D
+[COMPANY] TOR240850 Page 83
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 84
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 85
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 86
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 87
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 88
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 89
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 90
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 91
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 92
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix E
+Land Use Controls
+File Reference: TOR240850 Page 93
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 [PERSON] 94
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 95
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 96
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 97
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 98
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 99
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 100
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 101
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 102
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 103
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 104
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix F
+Argus Enterprise Output
+File Reference: TOR240850 Page 105
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] TOR240850 Page 106
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+RENT ROLL DETAIL As of [COMPANY]
+[COMPANY] Over Term Recovery Expiration MLA % Rent
+Ste Tenant SF Start End Yrs Date Annual (1) $/SF Start End CAGR (2) Method (3) Assumption (3) Category (3) Clause
+105-1003 [COMPANY] 7,000 11/22 12/30 8.0 11/22 $119,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1100 [COMPANY] 8,000 1/23 12/28 6.0 1/23 $136,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1101A Toronto eSchool 2,000 11/22 10/27 5.0 11/22 $35,000 $17.50 $17.50 $17.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+105-1104-1105 Apro Financial 11,000 1/23 12/26 4.0 1/23 $187,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+1-10 Fl [COMPANY] Transportation 219,953 9/20 9/25 5.0 9/20 $3,629,225 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Renew MLA - $17.00 No
+95-100 [COMPANY] 6,600 1/23 12/27 5.0 1/23 $112,200 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-101-102 The Captain's Boil 9,500 11/22 10/30 8.0 11/22 $161,500 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-104-105 Canada [COMPANY] 15,000 1/23 12/28 6.0 1/23 $255,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-201-203/405Lowell Academy 26,000 1/23 12/28 6.0 1/23 $429,000 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-203 [COMPANY] 10,429 1/23 12/28 6.0 1/23 $177,293 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-204-205 Toronto [COMPANY] 11,000 1/23 12/29 7.0 1/23 $187,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-301-303 [COMPANY] 18,000 12/22 11/27 5.0 12/22 $306,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-304-305 Eden College 12,500 11/22 11/28 6.0 11/22 $212,500 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-400-401 Heritage Innovation School 25,000 1/23 12/27 5.0 1/23 $425,000 $17.00 $17.00 $17.00 0.0% Net Standard Recovery Market MLA - $17.00 No
+95-500 [COMPANY] 31,286 1/23 12/28 6.0 1/23 $516,219 $16.50 $16.50 $16.50 0.0% Net Standard Recovery Market MLA - $17.00 No
+Low: 2,000 9/20 9/25 4.0 $16.50 $16.50 0.0%
+High: 219,953 1/23 12/30 8.0 $17.50 $17.50 0.0%
+Average: 27,551 10/22 9/28 5.9 $16.93 $16.93 0.0%
+(1) [COMPANY] indications above are presented relative to initial square footage of the tenant spaces.
+Presentations do not account for changes in the [CITY] of the Tenant Spaces over time.
+(2) Compound Annual Growth Rate.
+(3) As labeled in [COMPANY] file.
+* Rent details for this period are not available
+File Reference: TOR240850 Page 107
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Supporting Schedules
+File Reference: TOR240850 Page 108
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+CASH FLOW
+95 & 105 Moatfield Drive, Toronto (Amounts in [COMPANY])
+Year 1 2 3 4 5 6 7 8 9 10 11
+For the Years Beginning Jul-24 Jul-25 Jul-26 Jul-27 [PERSON] Jul-30 Jul-31 Jul-32 [PERSON]
+For the Years Ending Jun-25 Jun-26 [CITY] Jun-28 Jun-29 [PERSON] Jun-34 Jun-35
+[COMPANY] $6,887,937 $7,043,355 $7,096,126 $7,136,314 $7,275,465 $7,390,394 $7,814,105 $7,959,726 $8,022,726 $8,191,047 $8,364,853
+[COMPANY] Vacancy $0 $0 ($32,744) ($157,441) ($313,028) ($35,262) ($475,803) ($37,047) ($178,131) ($365,221) $0
+SCHEDULED BASE RENT REVENUE $6,887,937 $7,043,355 $7,063,382 $6,978,872 $6,962,437 $7,355,132 $7,338,302 $7,922,679 $7,844,596 $7,825,826 $8,364,853
+Security $230,918 $236,691 $241,532 $243,499 $244,602 $260,104 $252,156 $273,272 $275,497 $276,381 $295,595
+[COMPANY] $1,399,039 $1,434,015 $1,463,345 $1,475,260 $1,481,942 $1,575,862 $1,527,707 $1,655,641 $1,669,121 $1,674,480 $1,790,888
+[COMPANY] $1,474,094 $1,510,947 $1,541,850 $1,554,404 $1,561,445 $1,660,404 $1,609,665 $1,744,462 $1,758,666 $1,764,312 $1,886,965
+[COMPANY] $179,988 $184,488 $188,261 $189,794 $190,654 $202,737 $196,541 $213,000 $214,734 $215,424 $230,400
+Building R&M $224,040 $229,641 $234,338 $236,246 $237,316 $252,356 $244,645 $265,132 $267,291 $268,149 $286,790
+Janitorial $327,274 $335,455 $342,316 $345,104 $346,667 $368,637 $357,373 $387,300 $390,453 $391,707 $418,938
+Waste Removal $24,850 $25,471 $25,992 $26,203 $26,322 $27,990 $27,135 $29,407 $29,647 $29,742 $31,810
+Elevator $54,960 $56,334 $57,486 $57,954 $58,217 $61,906 $60,015 $65,040 $65,570 $65,780 $70,353
+Office Expense $156,809 $160,729 $164,016 $165,352 $166,101 $176,628 $171,230 $185,569 $187,080 $187,681 $200,729
+[COMPANY] $48,000 $49,200 $50,206 $50,615 $50,844 $54,067 $52,415 $56,804 $57,266 $57,450 $61,444
+Insurance $120,845 $123,866 $126,399 $127,429 $128,006 $136,118 $131,959 $143,009 $144,174 $144,637 $154,692
+[COMPANY] $38,074 $39,025 $39,824 $40,148 $40,330 $42,886 $41,575 $45,057 $45,424 $45,569 $48,737
+[COMPANY] $197,131 $202,059 $206,192 $207,871 $208,813 $222,046 $215,261 $233,288 $235,187 $235,942 $252,345
+Admin Fee $578,226 $592,110 $596,921 $587,596 $574,770 $629,469 $584,748 $672,043 $662,375 $647,212 $716,923
+TOTAL REIMBURSEMENTS $5,054,248 $5,180,032 $5,278,680 $5,307,475 $5,316,028 $5,671,211 $5,472,424 $5,969,023 $6,002,485 $6,004,466 $6,446,609
+Other Revenue $31,044 $31,820 $32,616 $33,431 $34,267 $35,123 $36,002 $36,902 $37,824 $38,770 $39,739
+TOTAL GROSS REVENUE $11,973,228 $12,255,206 $12,374,678 $12,319,779 $12,312,732 $13,061,466 $12,846,728 $13,928,603 $13,884,904 $13,869,062 $14,851,200
+[COMPANY] ($408,703) ($413,015) ($383,052) ($318,102) ($333,795) ($415,992) ($426,442) ($427,857) ($355,873) ($362,599) ($512,746)
+EFFECTIVE GROSS REVENUE $11,564,525 $11,842,192 $11,991,626 $12,001,676 $11,978,937 $12,645,473 $12,420,286 $13,500,746 $13,529,031 $13,506,463 $14,338,455
+Security ($230,918) ($236,691) ($242,609) ($248,674) ($254,891) ($261,263) ($267,795) ($274,489) ($281,352) ($288,385) ($295,595)
+[COMPANY] ($1,399,039) ($1,434,015) ($1,469,866) ($1,506,612) ($1,544,278) ($1,582,884) ($1,622,457) ($1,663,018) ($1,704,593) ($1,747,208) ($1,790,888)
+[COMPANY] ($1,474,094) ($1,510,947) ($1,548,720) ($1,587,438) ($1,627,124) ($1,667,803) ($1,709,498) ($1,752,235) ($1,796,041) ($1,840,942) ($1,886,965)
+[COMPANY] ($179,988) ($184,488) ($189,100) ($193,827) ($198,673) ($203,640) ($208,731) ($213,949) ($219,298) ($224,780) ($230,400)
+Building R&M ($224,040) ($229,641) ($235,382) ($241,267) ($247,298) ($253,481) ($259,818) ($266,313) ($272,971) ($279,795) ($286,790)
+[PERSON] ($327,274) ($335,455) ($343,842) ($352,438) ($361,249) ($370,280) ($379,537) ($389,025) ($398,751) ($408,720) ($418,938)
+Waste Removal ($24,850) ($25,471) ($26,108) ($26,760) ($27,429) ($28,115) ($28,818) ($29,538) ($30,277) ($31,034) ($31,810)
+Elevator ($54,960) ($56,334) ($57,742) ($59,186) ($60,666) ($62,182) ($63,737) ($65,330) ($66,963) ($68,638) ($70,353)
+[COMPANY] ($346,936) ($355,266) ($359,749) ($360,050) ($359,368) ($379,364) ($372,609) ($405,022) ($405,871) ($405,194) ($430,154)
+Office Expense ($156,809) ($160,729) ($164,747) ($168,866) ($173,088) ($177,415) ($181,850) ($186,396) ($191,056) ($195,833) ($200,729)
+[COMPANY] ($48,000) ($49,200) ($50,430) ($51,691) ($52,983) ($54,308) ($55,665) ($57,057) ($58,483) ($59,945) ($61,444)
+Insurance ($120,845) ($123,866) ($126,963) ($130,137) ($133,390) ($136,725) ($140,143) ($143,646) ($147,238) ($150,919) ($154,692)
+[COMPANY] ($38,074) ($39,025) ($40,001) ($41,001) ($42,026) ($43,077) ($44,154) ($45,258) ($46,389) ($47,549) ($48,737)
+[COMPANY] ($197,131) ($202,059) ($207,111) ($212,289) ($217,596) ($223,036) ($228,612) ($234,327) ($240,185) ($246,190) ($252,345)
+TOTAL OPERATING EXPENSES ($4,822,957) ($4,943,188) ($5,062,369) ($5,180,236) ($5,300,058) ($5,443,572) ($5,563,421) ($5,725,605) ($5,859,469) ($5,995,132) ($6,159,840)
+NET OPERATING INCOME $6,741,568 $6,899,004 $6,929,257 $6,821,440 $6,678,878 $7,201,901 $6,856,864 $7,775,140 $7,669,563 $7,511,332 $8,178,615
+Structural Allowance ($115,645) ($118,422) ($119,916) ($120,017) ($119,789) ($126,455) ($124,203) ($135,007) ($135,290) ($135,065) ($143,385)
+Tenant Improvements $0 ($2,254,518) ($144,461) ($694,594) ($1,424,126) ($155,569) ($3,427,662) ($163,444) ($785,870) ($1,611,267) ($176,012)
+[COMPANY] $0 ($1,352,711) ($80,898) ($388,973) ($797,510) ($87,118) ($1,919,491) ($91,529) ($440,087) ($902,310) ($98,567)
+TOTAL LEASING AND CAPITAL COSTS ($115,645) ($3,725,651) ($345,275) ($1,203,584) ($2,341,425) ($369,142) ($5,471,356) ($389,981) ($1,361,247) ($2,648,642) ($417,963)
+CASH FLOW BEFORE DEBT SERVICE $6,625,922 $3,173,353 $6,583,982 $5,617,856 $4,337,453 $6,832,760 $1,385,508 $7,385,160 $6,308,315 $4,862,690 $7,760,652
+File Reference: TOR240850 Page 109
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+Appendix G
+Comparable Sales
+File Reference: TOR240850 Page 110
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY]: [COMPANY]
+110 Sheppard Avenue East, Toronto, ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+Address 110 Sheppard Avenue East Purchaser 110 Sheppard East GP Inc
+City, [CITY], [COMPANY] legal exists [COMPANY] May 31, 2024
+Site [PERSON] (50,050 SF) Transaction Status Recorded
+Topography Level Transaction Price $29,000,000
+Location Good Analysis Price $29,000,000
+[COMPANY] Fee
+Exposure Good Financing Loan from [PERSON] ([COMPANY])
+[COMPANY] OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY]. of Floors 12 Vacancy & Credit Loss @ N/Av N/Av N/Av
+Building Structure Concrete Effective Gross Income N/Av N/Av
+Design / Layout Good Expenses N/Av N/Av
+Quality Good Contingency N/Av N/Av
+Condition Good Net Operating income $1,986,500 12.24
+Class B Occupancy at Sale 78.0%
+[COMPANY] ([CITY]) 162,267 Expenses % of [COMPANY] 3.2
+Year Built 1993 ANALYSIS INFORMATION
+Price Per SF $179
+[COMPANY] 6.85%
+REMARKS
+TheCityofTorontoOfficialPlandesignatesthepropertyMixedUseArea. TheZoningBy-lawclassifiesthepropertyCR-3.0,amixedcommercial
+andresidentialclassification.Thepropertyisimprovedwithone12storeyofficebuildingandwasoriginallyconstructedin1993.Thebuildinghas
+beenconstructedusingareinforcedconcreteframewithaprefinishedmetalandgranitecurtainwallandglazedwindows.Itwasnotedinterior
+finishes are of a very high quality and there are numerous amenities available. The building is serviced by four elevators and has both
+underground and surface parking.
+Atthetimeofsale,thepropertywasapproximately78%occupiedandreflectedaWALEof4.5years.Additionally,wasconsideredthatrents
+were within market levels. It was noted that the seller was an existing tenant of the building and will remain in the building upon closing of the sale.
+File Reference: TOR240850 Page 111
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+COMPARABLE 2: [COMPANY]
+199 Four Valley Drive, [CITY], ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+Address 199 Four Valley Drive Purchaser Coastone Investments Ltd.
+[COMPANY] and [COMPANY] [CITY], [COMPANY]
+Legal Description Long legal exists [COMPANY] April 9, 2024
+Site Size 9.6 Acres (419,047 SF) Transaction Status Recorded
+Topography Generally Level Transaction Price $35,000,000
+Location Average/Good Analysis Price $30,900,000
+Access Average/Good Rights Transferred Leased Fee
+Exposure Good Financing Conventional
+[PERSON] of Sale Arm's Length
+IMPROVEMENTS INFORMATION OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY] $3,130,568 31.18
+No. of [COMPANY] 0.0% $0 0.00
+[COMPANY] $3,130,568 31.18
+Design / Layout Good/Excellent Expenses ($1,109,256) (11.05)
+[COMPANY] income $2,021,312 20.13
+Class A Occupancy at Sale 100.0%
+[COMPANY] ([CITY]) 100,398 Expenses % of [COMPANY] / EGI 35% 35%
+[COMPANY]
+Year Built 2008 ANALYSIS INFORMATION
+Parking Ratio/1,000 SF 4 Price Per SF $349
+Capitalization Rate 6.54%
+REMARKS
+Theindexpropertyconsistsofasingle-tenantsuburbanofficebuilding,fullyoccupiedbyRecipe Unlimited(formerlyCaraFoods). Theindex
+propertyconsistsofadesign-builtofficebuilding,specificallydesignedandbuiltforRecipeUnlimited. [PERSON],theindexproperty
+exhibited a [COMPANY] of approximately 4 Years and 8 Months, with the sole occupant set to expire in December 2028.
+Giventhenatureoftheimprovements,beingadesignbuildoffice, therents areconsidered tobe significantlyabove market. Reviewofthe
+[CITY],forasingle-tenantofficeassetofasimilarvintageand
+occupancy. Whentheabovemarketrentsarecontemplated,theapproximatepricebasedonmarketcashflowsisapproximately$30,900,000,
+with the balance of the purchase price attributed to above market contractual rents until the end of the existing term.
+The asset was openly listed on the market by [COMPANY] prior to the above transaction.
+File Reference: TOR240850 Page 112
+[COMPANY], 95-105 Moatfield Drive, Toronto, Ontario
+COMPARABLE 3: [COMPANY]
+2655 & 2695 [LOCATION], [PERSON], ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+CR5 Sheridan Inc ([COMPANY] & 2695 North Sheridan Way Purchaser
+Partners)
+2655 & 2695 [LOCATION], [PERSON], [COMPANY] ([COMPANY])
+Legal Description Long legal exists [COMPANY] February 1, 2024
+Site Size 11.1 Acres (484,517 SF) Transaction Status Recorded
+Topography Generally Level Transaction Price $25,600,000
+Location Average/Good Analysis Price $25,600,000
+[COMPANY] Fee
+Exposure Good Financing All Cash
+Zoning E2-5 - Employment Conditions of Sale Arm's Length
+IMPROVEMENTS INFORMATION OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY]. of [COMPANY] income $2,560,000 16.18
+Class B Occupancy at Sale 92.9%
+[COMPANY] ([CITY]) 158,233 Expenses % of [COMPANY] 0.3
+Year Built 1989 [COMPANY] INFORMATION
+Parking Ratio/1,000 SF 4.4 Price Per SF $162
+[COMPANY] 10.00%
+REMARKS
+[PERSON],improvedwithafour-storey101,338square footoffice (2655N.
+SheridanWay)andatwo-storey56,895squarefootoffice(2695N.SheridanWay)building. [PERSON] NSheridanWaywas
+reported to be 89% occupied and 2695 N. [PERSON] was 100% occupied. The balance of the site features surface parking.
+Priortothedateofsale,BMOCapitalMarketswasopenlymarketingthepropertyforsale. [PERSON]
+going-in cap rate was 10% and did not represent any atypical considerations for capital expenditure or pending turnover.
+File Reference: TOR240850 Page 113
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] The Atria Complex
+2225, 2235, 2255 Sheppard Avenue East, Toronto, ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+[COMPANY] 2225, 2235, 2255 Sheppard Avenue East Purchaser (Complexe Atria Inc./Atria [COMPANY])
+Dorsay Investments Limited (Dorsay
+City, [CITY], [COMPANY]) &
+AIMCo ([COMPANY])
+Legal Description Long legal exists [COMPANY], 2023
+Site Size 14.0 Acres (611,059 SF) Transaction Status Recorded
+Topography Level Transaction Price $165,000,000
+Location Good Analysis Price $165,000,000
+Access Good Rights Transferred Leased Fee
+Exposure Good Financing Conventional
+[PERSON]) - Industrial Office Conditions of Sale Arm's Length
+IMPROVEMENTS INFORMATION OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY]. of Floors 18 Vacancy & Credit Loss @ N/Av N/Av N/Av
+Building Structure Steel/Frame Effective Gross Income N/Av N/Av
+Design / Layout Good Expenses N/Av N/Av
+Quality Good Contingency N/Av N/Av
+Condition Good Net Operating income $14,025,000 15.21
+Class A Occupancy at Sale 80.0%
+[COMPANY] ([CITY]) 921,834 Expenses % of [COMPANY] 1.5
+Year Built 1991 ANALYSIS INFORMATION
+Parking Ratio/1,000 SF 2.2 Price Per SF $179
+[COMPANY] 8.50%
+REMARKS
+TheCityofTorontoOfficialPlandesignatesthepropertyEmploymentArea.TheNorthYorkZoningBy-lawclassifiesthepropertyMO(5),an
+industrialofficeclassification.Thepropertyisimprovedwiththreemultitenantofficebuildingscontainingatotalnetrentableareaof921,834
+squarefeet. Thisincludesapproximately45,000squarefeetofretailspace.Overtheyears,theofficecomplexhasbeenrenovatedandawarded
+BOMA Best and [PERSON] Gold certifications.
+The complex is outlined as follows:
+- 2225 Sheppard Avenue East: 328,761 SF, 18 stories built in 1991
+- 2235 Sheppard Avenue East: 342,781 SF, 18 stories, built in 1988
+- 2255 Sheppard Avenue East: 250,292 [CITY], 5 stories, built in 1979
+Atthetimeofsalethebuildingswereapproximately80%occupiedwiththetenancycharacterizedbypredominantlynationalbusinesses. Some
+ofthebuildings'maintenantsincludeRogers,[COMPANY],[COMPANY],[COMPANY],BelairInsuranceandGoodLifeFitness.[COMPANY],
+[COMPANY],[COMPANY],[COMPANY],BelairInsuranceandGoodLifeFitnessrepresentalmost50%ofthespaceinthethreebuildingsthatcomprise
+Atria.Toourunderstanding,theaverageleasetermswasjustunder5yearsandin-placerentswereconsideredtobereasonableandin-linewith
+market levels.
+Prior to the date of sale, the office complex was openly marketed by [COMPANY] team.
+File Reference: TOR240850 Page 114
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] Crossroads Corporate Centre
+7070 Mississauga Road, [PERSON], ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+[COMPANY],
+Address 7070 Mississauga Road Purchaser
+Inc. ([COMPANY])
+[COMPANY] ([COMPANY], [PERSON], [COMPANY])
+Legal Description Long legal exists [COMPANY] May 1, 2023
+Site Size 17.0 Acres (740,128 SF) Transaction Status Recorded
+Topography Level Transaction Price $72,350,000
+Location Good Analysis Price $72,350,000
+Access Good Rights Transferred Leased Fee
+Exposure Good Financing Undisclosed
+[PERSON] of Sale Arm's Length
+IMPROVEMENTS INFORMATION OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY]. of [COMPANY] income $5,643,300 23.12
+Class B Occupancy at Sale 100.0%
+[COMPANY] ([CITY]) 244,128 Expenses % of [COMPANY] 0.3
+Year Built 1987 [COMPANY] INFORMATION
+Price Per SF $296
+Capitalization Rate 7.80%
+REMARKS
+Thistransactionpertainstoasingle-tenantofficebuilding,[PERSON].Thebuildingwas100%occupiedbyone
+(1)nationalbusiness,beingRoche'sCanadianPharmaceuticalsDivision.ThelistingbrokerindicatedaWALEof5.5yearsatthetimeofthe
+transaction.Thegoing-innetincomeatthetimeofthetransactionwasreportedbethelistingbrokertobeapproximately$5,643,300or$23.12
+persquarefoot,representingagoing-inyieldof7.80%.Atthetimeofthetransactionthecontractedrentalratewasconsideredtobealignedwith
+the obtainable market rates.
+File Reference: TOR240850 Page 115
+[COMPANY], 95-105 Moatfield Drive, Toronto, [COMPANY] 6: [COMPANY]
+125 Commerce Valley Drive West, [CITY], ON
+LOCATION / SITE INFORMATION SALE INFORMATION
+[COMPANY] (Soneil Vaughan
+Address 125 Commerce Valley Drive West Purchaser
+Inc.)
+iA [COMPANY] (Industrial
+City, [CITY] [CITY], [COMPANY] and [COMPANY] In
+Legal Description Long legal exists [COMPANY], 2023
+Site [PERSON] (195,584 SF) Transaction Status Recorded
+Topography Level Transaction Price $48,311,606
+Location Good Analysis Price $48,311,606
+Access Good Rights Transferred Leased Fee
+Exposure Good Financing Loan from [COMPANY] (76%) - Limited Commercial Conditions of Sale Arm's Length
+IMPROVEMENTS INFORMATION OPERATING INCOME
+[COMPANY] TOTAL PER SF
+[COMPANY] $7,163,199 37.89
+No. of Floors 8 Vacancy & Credit Loss @ 8.0% ($573,056) (3.03)
+[COMPANY] $6,590,143 34.86
+[COMPANY] ($2,806,652) (14.85)
+Quality Good Contingency N/Av N/Av
+Condition Good Net Operating income $3,783,491 20.01
+Class A Occupancy at Sale 88.0%
+[COMPANY] ([CITY]) 189,045 Expenses % of [COMPANY] / EGI 39% 43%
+[COMPANY] 1.0
+Year Built 2001 ANALYSIS INFORMATION
+Price Per SF $256
+[COMPANY] 7.83%
+REMARKS
+TheCityofMarkhamOfficialPlandesignatesthepropertyBusinessParkOfficePriorityEmploymentandGreenway.Thepropertyisimproved
+withaneightstorey,multitenantofficebuilding.Theproperty'sWALTbyleasedareawasapproximately4years.[CITY],theproperty
+was 88% occupied.
+File Reference: TOR240850 Page 116

@@ -1,0 +1,129 @@
+FIGURES | QUEBEC CITY INDUSTRIAL | Q3 2025
+FIGURES | QUEBEC CITY INDUSTRIAL | Q3 2025
+Vacancy beginning to decrease from record high
+set in Q1 2025
+7.0% 44K 0 $14.13
+[COMPANY]
+Note: Arrows indicate change from previous quarter.
+Overview Figure 1: GQA Supply & Demand
+Net Absorption & New Supply (000s SF) Availability Rate (%)
+800 8.0%
+‒ The [CITY] availability rate recorded a decrease of 20 basis points (bps) quarter-over-
+quarter, reaching 7.0% in Q3 2025. 600 6.0%
+‒ Net asking rents remain stable in the low $14.00 per sq. ft. range for the fifth consecutive 400 4.0%
+quarter.
+200 2.0%
+‒ Properties in the <18’ clear height range experienced the most significant rental rate change, 0 0.0%
+dropping by 5.9% quarter-over-quarter. The gap continues to widen between these
+-200 -2.0%
+properties and spaces that offer a >26’ clear height.
+-400 -4.0%
+‒ Q3 2025 recorded 44,415 sq. ft. of net absorption, a step in the right direction towards
+reducing the run-up that occurred in Q1 2025. -600 -6.0%
+Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 Q2 Q3 Q4 Q1 [PERSON]
+2020 2021 2022 2023 2024 2025
+[COMPANY], Q3 2025.
+1 CBRE RESEARCH © 2025 CBRE Limited
+FIGURES | QUEBEC CITY INDUSTRIAL | Q3 2025
+Stable net asking rents despite high vacancy
+FIGURE 2: Net Asking Rent by [PERSON] ($ PSF)
+$16.00 $14.92 $15.20
+Net asking rents remained relatively stable as Q3 2025 marked the fifth consecutive quarter $14.36
+$13.93
+of values hovering just above $14.00 per sq. ft. The Beauport submarket had the lowest net $14.00
+$11.82
+asking rent at $11.82 per sq. ft., while the asking rent for [PERSON] was significantly higher at
+$12.00
+$14.92. The price differential is attributed to [PERSON] having new construction availabilities,
+$10.00
+five of which offer clear heights above 25’.
+$8.00
+Spaces below 18’ clear have dropped in terms of competitive pricing, signaling that the
+$6.00
+larger spaces delivered within the last five years will continue to be more desired by users,
+$4.00
+until their pricing catches up with demand.
+$2.00
+From Q4 2024 to Q1 2025 availability climbed 220 bps to 7.3%. During this time, the Greater $0.00
+[COMPANY]Quebec City Area mirrored national trends as major Canadian markets saw an oversupply of
+de-Desmaures
+new construction, and revisions on large bay prices put downward pressure on rents. Since
+Q1 2025, the [COMPANY] has been slowly absorbing the shock with availability currently sitting at Source: [COMPANY], Q3 2025.
+7.0%. The lack of projects under construction will give the market time to adjust and absorb
+space, particularly in the 18’-26’ range. Quality supply remains tight and will help keep net FIGURE 3: Space Distribution by [PERSON] (000s SF)
+asking rent levels stable.
+15k > 1,113
+Small bay listings no longer dominate the market
+Although availabilities greaterthan15,000 sq. ft. represent 69.5% of all space on the market
+this quarter, the count of listings in more evenly spread across the size ranges. This quarter 10k-15k 205
+had 43 listings in the under 5,000 sq. ft. category. Despite [CITY] being known as a
+small bay market there were 36 listings in the over 15,000 sq. ft. category. Though the
+spread of listings still leans slightly in favour of properties under 10,000 sq. ft., the 5k-10k 185
+distribution is less stark than expected. As there is no size range that dominates the market
+this quarter, prospective tenants have a variety of options at various size ranges and clear
+heights.
+< 5k 99
+0 200 400 600 800 1,000 1,200
+Sources: [COMPANY], Q3 2025.
+2 CBRE RESEARCH © 2025 CBRE Limited
+FIGURES | QUEBEC CITY INDUSTRIAL | Q3 2025
+Flight-to-quality evident as reflected by available space
+FIGURE 5: Available Space for Lease by Clear Height (000s SF)
+1,400
+Available space decreased by 94,000 sq. ft. in the >26’ clear height category this quarter. In
+contrast, the below 18’ range had the largest proportional increase in available space as these 1,200
+properties saw less tenant demand. For listings with clear heights below 18’ there was a 15.6%
+1,000
+quarter-over-quarter increase in available space. Despite this, the 18’-26’ range still represents
+the lion’s share of availability, accounting for 82.5% of all available space. As construction has
+slowed down, the buildings delivered within the last five years have been absorbed swiftly. In 600
+turn, demand for outdated options has decreased.
+There is now 449,247 sq. ft. of available space for both sublet and direct in [CITY]-de- 200
+Desmaures. Over a quarter of this available space is derived from a singular sublet listing. Aside 0
+from this sublet, other listings added this quarter provide flight-to-quality options with net Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025
+asking rents at a premium. The high pricing is justified by recent construction year and clear
+Below 18' 18'-26' 26'+
+heights ranging from 20’-24’.
+Source: [COMPANY], Q3 2025.
+FIGURE 4: Industrial Statistical Summary
+FIGURE 6: Net Asking Rent by Clear Height ($PSF)
+$ 18.00
+METRIC Q4 2023 Q1 2024 Q2 2024 Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025
+Inventory (SF) 22,515,701 22,515,701 22,607,701 22,733,701 22,733,701 22,766,701 22,766,701 22,766,701
+$ 16.00 $ 16.03
+AvailabilityRate (%) 3.0% 3.2% 3.8% 4.7% 5.1% 7.3% 7.2% 7.0%
+$ 14.00 $ 14.03
+Sublet % of
+4.5% 7.5% 5.7% 5.7% 10.0% 6.0% 10.3% 15.3%
+AvailableSpace $ 13.05
+Net Absorption (SF) 47,182 -44,613 -36,253 -94,965 -84,036 -463,681 11,844 44,415 $ 12.00
+Q3 2024 Q4 2024 Q1 2025 Q2 2025 Q3 2025
+Avg. Net
+$15.17 $15.04 $14.79 $14.20 $14.29 $14.02 $14.13 $14.13 < 18' 18' - 26' > 26'
+AskingRent (PSF)
+Source: [COMPANY], Q3 2025. Source: [COMPANY], Q3 2025.
+3 CBRE RESEARCH © 2025 CBRE Limited
+FIGURES | QUEBEC CITY INDUSTRIAL | Q3 2025
+[COMPANY]’s market report analyses fully modern industrial buildings of 20,000+ sq. ft. across [COMPANY]. CBRE assembles all information through telephone conversations and listings received from owners and
+members of the commercial real estate brokerage community.
+[COMPANY] in [CITY] Québec
+Quebec City Montreal Downtown Montreal Suburban
+2600 [COMPANY] 400 [COMPANY],
+Suite 810 West, [PERSON] 2800 Suite 101
+Québec, QC G1V 4W2 Montreal, [CITY] H3B 4W8 [COMPANY] , QC H4N 3L4
+Contact
+Simone Cattana
+Alessandro [PERSON] Duplan
+Research Intern, Co-Author
+Research Manager, Co-Author Analyst, Research
++[PHONE]
++[PHONE] +[PHONE]
+[EMAIL]
+[EMAIL] [EMAIL]
+Isabella Bertone Salimata Diakite
+Intern, [COMPANY], Data
++[PHONE] +[PHONE]
+isabella,[EMAIL] [EMAIL]
+© Copyright 2025. All rights reserved. Disclaimer: Information contained herein, including projections, has been obtained from sources believed to be reliable. While we do not doubt its accuracy, we have not verified it and make no guarantee, warranty or representation about it. It is your
+responsibility to confirm independently its accuracy and completeness. This information is presented exclusively for use by [COMPANY] clients and professionals and all rights to the material are reserved and cannot be reproduced without prior written permission of [COMPANY].
+4 CBRE RESEARCH © 2025 CBRE Limited

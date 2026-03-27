@@ -1,0 +1,539 @@
+[COMPANY]
+109 George Street
+Toronto, ON
+$4,562,500
+[PERSON]
+Senior Vice-President
+Investments
+Lauren Goffe Arkend Hyseni
+Manager Analyst
+Asset Management Underwriting
+March 17, 2026
+Executive Summary
+Loan Terms 109 George Street, Toronto, [COMPANY] of a first mortgage The [COMPANY] is a 1920s-built Class B office
+$4,562,500
+[COMPANY] loan secured by a 3-storey brick- building located in Toronto, ON. Property is
+and-beam office building. 3-storeys, 7-units, with a total GLA of
+[COMPANY]. 3.0 years 1-Feb-29
+49,039 SF. The property is currently 73%
+Amortization IO -- Context: [PERSON] approached ACM vacant, down from 0% at funding.
+requesting refinancing. ACM is
+Servicing -- --
+supportive of expanding its relationship [CITY] will remain unchanged - Sun
+Net Pricing GoC + 250 bps ~5.35% with [COMPANY], Life (50% owner), [PERSON] and [PERSON]
+however a loan paydown is required for [COMPANY] (“Philren”) (collectively, 50%
+the financial metrics to meet owners). The borrowing group will comprise
+Processing Fee $15,000
+underwriting thresholds. [COMPANY] will [PERSON] and [PERSON], with 100% joint and
+be removed as a borrower while several recourse to both.
+retaining its 50% ownership in the
+property. In return, ACM will receive a
+[COMPANY] may prepay all of the 50% paydown of $4,562,500 from [COMPANY] prior to [COMPANY],
+Conditions subject to Yield Maintenance
+improving both [COMPANY] and [PERSON]
+DSCR.
+Deal Metrics Loan History
+Original Loan Renewal • No modifications occurred during the initial term of the loan.
+[PERSON]
+(Jan’22) (Jan’26) • All payments made on time and as agreed.
+[COMPANY] reporting received within required timeline per the CL
+OSB $9,125,000 $4,562,500 $4,562,500
+• OSB on 100 Broadview (other [COMPANY] loan) is $14.1M.
+Value / psf $18.0M / $379 $7.9M / $161 $8.3M / $170
+[COMPANY] psf 50.6% / $192 psf 57.8% / $93 psf 54.9% / $93 psf
+DSCR (In place / UW) 2.75x / 2.50x 0.00x / 2.13x 2.24x
+[COMPANY] Pricing 3.776% / 220bps ~5.35% / 250bps ~5.35% / 250bps
+Term / AM 4 yrs / IO 3 yrs / IO --
+MRR 9.02% 7.22% 7.81%
+[COMPANY] 80 70 --
+[COMPANY] ($) $9,125,000 $18,660,230 --
+Executive Summary: Loan History
+Property Performance Commentary 109 [PERSON], Toronto
+[COMPANY] performance has declined since funding, driven by a material increase in vacancy. This
+[PERSON]
+is primarily attributable to competitive market conditions, resulting in tenants vacating at lease
+[COMPANY]
+maturity. These changes have been appropriately reflected in the underwriting, resulting in a
+OSB $9,125,000 $9,125,000 $4,562,500
+lower value and [COMPANY].
+[COMPANY] psf $192 $192 $93
+• The property has undergone various renovations, and unit restructuring to try and maximize
+[COMPANY] $18,026,988 $13,308,013 $7,893,108
+demand for the property.
+Value psf $379 $280 $161
+• Currently occupancy stands at ~26% (12,789 sf) with [COMPANY] ([COMPANY]) and Moriyama
+[COMPANY] 50.6% 68.6% 57.8%
+& Teshima Architects as the two in-place tenants. [COMPANY] has signed a 5-year
+[PERSON] 4.75% 6.25% 6.50%
+lease commencing December 2026 at $20.00 psf for 4,622 sf, which will increase occupancy to
+36%. DSCR (In-Place) 2.75x 0.00x 0.00x
+DSCR (UW) 2.50x 2.43x 2.13x
+Site Tour Deal RRS 4.1 2.7 3.1
+• February4, 2026 withMr. [PERSON], Senior [COMPANY] at [COMPANY] By: [PERSON], [PERSON], and [PERSON] Occupancy 100.0% 21.3% 26.1%
+• The property is generally in good condition. The first and second floors have been fully renovated [COMPANY] 5.0% 15.0% 22.3%
+and are lease-ready, while the third floor requires completion of remaining renovation work. Since
+NOI (In-place) $942,982 -$279,399 -$245,911
+early 2025, approximately $900K has been invested in [COMPANY], including upgrades to the lobby,
+[COMPANY] (UW) $856,282 $831,751 $513,052
+flooring, elevators, basement, and washrooms. Approximately $573K is budgeted towards 2026
+CapEx, primarily for exterior building and landscaping enhancements, and repairing a corroded [PERSON]. In-place Rent /yr $19.44 $22.00 $21.74
+main water line. ~$218K, ~$399K, ~$235K are budgeted for 2027, 2028, and 2029, respectively. The Wtd avg. [COMPANY] /yr $19.44 $22.83 $18.74
+primary CapEx items during these years include building window replacements and roof
+Opex Ratio 47.0% 44.2% 58.5%
+replacement.
+• The basement unit is finished to a good standard however, demand for this space is more limited. Property [COMPANY] 3.2 2.4 2.4
+There may be an opportunity to lease the basement to less traditional office tenants such as a gym
+or golf simulation operator, at rents below market.
+[COMPANY] Commentary
+• Across the guarantor profiles of [PERSON] and Philren, credit metrics remain strong,
+with [PERSON] reporting a portfolio DSCR of 2.04x, and a combined [COMPANY] of 40.6%
+across both guarantors.
+[COMPANY] outlined in the [COMPANY]/Guarantor section.
+Executive Summary
+Risks & Mitigants
+Risk Mitigants
+Vacancy Risk: The property is currently 74% vacant, • Well-located on the eastside of downtown, less than a 10-min walk to Toronto’s financial core. The [COMPANY] is
+with occupancy steadily declining from 100% in easily accessible via streetcars and subway (0.75km from [COMPANY]).
+2022. • Broadview Software is a tenant who will lease the space at $20.00psf starting in December, showing some leasing
+traction
+• Since early 2025, approximately $900K has been invested in [COMPANY] to improve the current vacant space
+• The building has good ceiling heights, natural light and efficient floorplates/separate entrances to allow for
+multiple exclusive entryways.
+[PERSON] is a highly respected and experienced investor. [PERSON] currently owns/manages 35
+commercial/mixed-use properties in [COMPANY], maintaining an overall portfolio occupancy of ~92%, and brings
+extensive leasing expertise in the [LOCATION] submarket.
+Coverage Risk: Going-in In-Place DSCR: 0.00x due • The borrowing entities have strong financial profiles and are well positioned to withstand weaker near-term DSCR
+to high vacancy with a combined market value of ~$579M.
+• Despite the [COMPANY] generating negative cash flow for over a year, the [COMPANY] has remained current on all
+monthly Loan payments, demonstrating continued commitment to the [COMPANY]. While [COMPANY] will no longer be
+part of the borrowing entity, [PERSON] reports a portfolio DSCR of 2.04x, providing sufficient cash flow to cover
+property-level shortfalls and support the Loan until the [COMPANY] stabilizes. Annual [COMPANY] for [COMPANY],
+whereas the subject property has an annual debt service of $241K.
+[COMPANY] remains a 50% owner of the asset and would likely step in, if necessary, to prevent a default.
+Reduction in Parking Spots: By Fall 2026, the • During construction of the POPS, Alterra, owner/developer of the adjacent mixed-use building at 125 [PERSON],
+existing 25 outdoor parking spaces will be converted will provide 23 temporary parking spaces within 200 metres of [COMPANY] Thereafter, Alterra will provide 12
+into a POPS (public park). permanent underground spaces at 125 [PERSON] This arrangement is a result of the May 2022 sale of the air rights above 109 [PERSON] to facilitate the
+development of 125 [COMPANY] was aware of this structure at [COMPANY].
+[COMPANY] street parking is available on George Street.
+• This loss of parking has been incorporated into the underwriting, with the underwritten value reflecting the impact
+of this change.
+• 99/100/98 walk score, limiting the need for driving/parking
+109 George Street Valuation – Deal RRS – 3.1
+Underwriting Assumptions
+INCOME ANALYSIS CMF UW
+Valuation Methodology • Prepared a stabilized valuation by capitalizing underwritten
+market rents at normalized occupancy and deducted an
+Avg. Rent [PERSON]
+adjustment for the cost and timing of leasing the vacant space,
+resulting in a value of $7.96MM. This was cross-checked against [COMPANY] Revenue $21.74 $918,800
+a market-based approach at $7.89MM, which was adopted as a Recoveries $693,147
+more conservative value. Parking $32,313
+[PERSON] waived for renewal Total Gross Income $1,644,260
+[COMPANY] is based on a combination of in-place
+Vacancy Allowance 22.31% $366,883
+rents, and market rents applied to vacant units.
+• Market rents were estimated at $20 for office spaces (based on [COMPANY] $1,277,377
+recent lease signings) and $10 for the basement units. $ / SF
+• Lease comparables found were consistently ~$22. Operating Expenses $14.41 $706,776
+Management Fee 2.50% $41,107
+Vacancy • Vacancy allowance is based on the [COMPANY]’s stabilized vacancy
+[COMPANY] 1.00% $16,443
+rate,
+• A blended vacancy rate was applied to reflect the higher vacancy Total Expenses $764,325
+in the basement area, using an office vacancy rate of 14.5% and [PERSON] 58.5%
+a basement vacancy rate of 24.5%. [COMPANY] UW $513,052
+[COMPANY] $ / SF
+Expenses • Total expenses are estimated at $764K, based on the 2026
+budget provided. Valuation 6.50% $161 $7,893,108
+Valuation Driver • Valuation uses 6.50% cap rate, Market reports: [PERSON]
+Class B – 6.75% - 7.75% and [PERSON] Class B – 6.25% -
+7.50%.
+• Use of a lower cap rate is supported by value psf comparables
+($249 psf - $405 psf) vs UW at $161 psf.
+• Although sale comparables were limited, the UW value psf is
+lower than the comps primarily due to high vacancy, inferior
+quality in some of the units, and the anticipated loss of parking.
+Most Comparable Sale 1 – Property is similar quality and age, with comparable building
+characteristics; located ~3.5km west of the subject in a similar
+periphery node.
+March 17, 2026
+109 George Street Cash Flow
+Fiscal Year Ending - February, 2027 2028 2029
+FY1 FY2 FY3
+Base Rent
+Base Rental Revenue $ 918,800 $ 945,833 $ 973,006
+Recoveries
+Operating Expenses 2 23,885 2 31,721 2 39,831
+Property Taxes 3 09,994 3 20,844 3 32,073
+[COMPANY] 1 18,273 1 22,413 1 26,697
+Management Fee 40,995 42,430 43,915
+Other Income
+Parking 32,313 32,959 33,618
+Storage - - -
+Signage - - -
+Miscellaneous - - -
+Total Gross Revenue 1,644,260 1,696,200 1,749,141
+% of Gross Revenue 3 66,883 3 78,472 3 90,285
+Projected Vacancy 1,326,751 7 55,560 -
+General Vacancy Loss 1,326,751 7 55,560 3 90,285
+Effective Gross Revenue 3 17,509 9 40,640 1,358,856
+Expenses
+Operating Expenses 7 06,776 7 31,513 7 57,116
+Management Fee 7,938 23,516 33,971
+[COMPANY]Total Expenses 7 14,714 7 55,029 7 91,088
+Less: Capital Reserves 16,443 16,962 17,491
+Net Operating Income (413,647) 1 68,649 5 50,277
+NOI DSCR (1.71) 0.70 2.28
+March 17, 2026
+[COMPANY] and [COMPANY] – 4.7
+[COMPANY]
+At Funding Proposed
+• At funding, [PERSON] and [PERSON] were the only listed guarantors on the Loan, providing a
+25% joint and several guarantee ($2.28MM). While [COMPANY] was not named as a guarantor, [COMPANY] (50%), [COMPANY] (50%),
+Property Owner
+they were the owner on title and a borrowing entity, requiring recourse equivalent to its 50% [PERSON] (50%) [PERSON] (50%)
+ownership stake (confirmed by PM with [COMPANY]).
+[COMPANY] will pay 50% of the debt as a paydown, and are no longer considered a Borrowing Sun Life (50%),
+[PERSON] (100%)
+entity per the [COMPANY]. However, the [COMPANY]’s ownership structure will remain unchanged, with [PERSON] (50%)
+[COMPANY] retaining its 50% ownership interest, which is reflected on the title of the property
+• This provides ACM with additional comfort that despite no longer being a borrower, [COMPANY]
+will remain committed to the [COMPANY] and mitigate any issues that could expose the Guarantor [PERSON] (100% J&S)
+(J&S limited to $2,281,250 i.e. 25%)
+Property to legal or default-related risk.
+* See [COMPANY] section for detailed explanation
+[COMPANY] Performance Commentary
+Initial Funding Jan - 22 Loan Review Mar - 25 Current Mar - 26
+• Hullmark’s portfolio currently comprises 39 properties (35 IPP; 4 development) valued at
+Value $148,500,000 $649,313,563 $561,128,757
+$561MM, compared to 33 properties (27 IPP; 6 development) valued at $148.5MM at Initial
+Debt $49,005,000 $202,768,590 $233,044,730
+Funding. The [COMPANY] value was based on book value and understated, as portfolio-
+[COMPANY] 33.0% 31.2% 41.5%
+level details were not provided.
+DSCR 2.39x 1.61x 2.04x
+• The 2025 loan review reflects portfolio metrics as of December 2023 across 36 properties
+(31 IPP; 5 development). Despite [COMPANY] growth, value declined due to overall market
+[COMPANY]
+conditions and cap rate expansion. [PERSON] remains a strong sponsor, maintaining
+[COMPANY] Loan Review Mar - 25 Current Mar - 26
+relatively low leverage and solid underlying asset value.
+Value $14,000,000 $18,646,821 $18,384,079
+[COMPANY] disclosure for [PERSON] remains limited, with asset values derived from the
+Debt $2,240,000 $2,236,362 $2,238,638
+financial statements provided. Despite limited disclosure, comfort is derived from [COMPANY] 16.0% 12.0% 12.2%
+conservative leverage and partnership with [PERSON]. Due to lack of information, DSCR
+DSCR 1.00x 1.00x 1.00x
+was assumed at 1.00x for conservatism (consistent with funding).
+[COMPANY]
+[COMPANY] Current Mar - 26
+Value $162,500,000 $579,512,836
+Debt $51,245,000 $235,283,368
+[COMPANY] 32% 41%
+DSCR 2.39x 2.04x
+*Initial funding does not include [COMPANY] metrics
+*Metrics at funding including [COMPANY], [COMPANY] - 22%, DSCR - 6.80x
+March 17, 2026
+*DSCR reflects [PERSON] only; [COMPANY] data limited and contributes minimally to overall guarantee
+109 George Street Exit CMF
+Refinance Market Conditions Exit
+Period Q3-2025 Assumptions Downside Base Case
+Exit Strategy Conventional Refinancing Terminal Vacancy 24.5% 22.3%
+NOI $404,436 $540,520
+Terminal [PERSON] 6.50%
+[PERSON] 6.75% 6.50%
+Debt Service Coverage Ratio 1.30x
+Exit Assumptions Downside Base
+Loan-to-Value 70.0%
+[COMPANY] 65.0% 70.0%
+Interest Rate 5 Year GOC + 250 bps 5.55%
+DSCR 1.35x 1.30x
+Amortization 25 yrs
+Amortization 20 25
+Interest Rate 5.80% 5.55%
+[COMPANY] of the Loan is projected to not require an equity injection.
+In the down scenario however, an equity injection of [COMPANY] is Exit DSCR ([COMPANY]) 1.68x 2.24x
+required. This risk is mitigated by:
+[PERSON] (Market Terms) 1.05x 2.15x
+[COMPANY] exit metrics upon Property stabilization
+Exit LTV 76.2% 54.9%
+• The modest loan size relative to the [COMPANY]’s $344MM portfolio
+net equity, demonstrating the capacity to repay the balance, if [PERSON]* 2.85% 7.81%
+required
+Equity Injection* $1.0MM -
+*Required to achieve target exit DSCR
+March 17, 2026
+Approval on Mar 19th, 2026, subject to the satisfaction of documentation
+[PERSON], [COMPANY], VP – [COMPANY], CEO [PERSON], [COMPANY]
+[PERSON], [COMPANY]
+Index – Appendices
+1. Site Inspection Photos as of February 4, 2026
+2. Renderings of the Future POPS Space
+3. [COMPANY]
+4. Preliminary
+5. Valuation
+March 17, 2026
+Index – Appendices
+March 17, 2026
+Index – Appendices
+March 17, 2026
+Index – Appendices
+March 17, 2026
+Index – Appendices
+March 17, 2026
+[COMPANY] Risk Rating System Sunday, March 1, 2026
+Property: 109 [PERSON]: [COMPANY] (“Sun Life”) (as to a 50% interest) and HM PC (109 Geo
+Address: 109 [PERSON], [COMPANY]): [COMPANY] ($2.28mm) & Sun Life ($4.56mm)
+Description: Three-storey brick-and-beam office building [COMPANY]: [COMPANY]
+Originator: MP Fund: CMF
+Analyst: Arkend [PERSON] 1 2 3 4 5 Score
+Sponsor Profile
+Sponsor real estate experience X 4.0
+Similar geography/asset class to Property Only asset [COMPANY] $[PERSON]. 5.0
+< $10MM $255MM > $500MM
+Diversification (Geographic and/or Asset Class) X 3.0
+[COMPANY] More Diverse Very Diverse
+Sponsor Access to Capital (public markets/other lenders/etc) X 4.0
+Very Poor Poor Average Very Good Excellent
+Guarantor/Borrower Profile
+Market Value $[PERSON]. 5.0
+< $10MM $255MM > $500MM
+Portfolio LTV (market value) 40.6% Est. 5.0
+> 75.0% 65.0% < 55.0%
+Interest Coverage Ratio or DSCR DSCR 2.04 x Est. 5.0
+< 1.15x 1.45x > 1.75x
+People Complexity Adjustments
+Sponsor experience with [COMPANY]
+UW adjustment Enter reason 0.0
+[COMPANY] A 4.7
+PROPERTY Office Inputs / 1 2 3 4 5 Score
+Downtown periphery Adjustments
+Location
+Size of metropolitan area 7,106,379 5.0
+< 100,000 800,000 > 1,500,000
+Asset location X 4.0
+Very Poor Poor Average Very Good Excellent
+Tenant
+Percentage of national/gov't tenants (by sf) 9.4% 1.0
+< 25.0% 50.0% > 75.0%
+Tenant diversity 57.4% 1.8
+Largest tenant > 70.0% 40.0% Largest tenant < 10.0%
+Lease maturity profile X 2.0
+Very Poor Poor Average Very Good Excellent
+Market
+Vacancy of local market compared to national average 102.7% 2.9
+As at Q3 2025 > 125.0% 100.0% <= 75.0%
+Lease rate trend 3 X 3.0
+Very Poor Poor Average Very Good Excellent
+Asset class liquidity / investor expectations X 3.0
+Very Poor Poor Average Very Good Excellent
+Execution
+Property condition X 3.0
+Property functionality X 3.0
+Environmental concerns [PERSON]
+% lease up required to reach stabilization 44% 1.0
+[COMPANY] interest N
+Leasehold N/A
+Title complexity Y -0.2
+Niche or Land asset N
+Market adjustment N
+Active management N
+Zoning restrictions N
+UW adjustment Enter reason 0.0
+[COMPANY] CCC 2.4
+DEAL Inputs / 1 2 3 4 5 Score
+Adjustments
+[PERSON] level provided by an entity(ies) other than the secured asset 100% X 5.0
+(guarantee as percent of loan amount) Non-recourse ([COMPANY]) 25% 50% 75% 100%
+[PERSON] and Several Y
+Market Equity in recourse entity(ies) in relation to loan amount 75.4x 5.0
+< 1.0x or N/A 5.5x > 10.0x
+Debt service coverage ratio In-Place NOI
+Actual coverage -1.02 x 1.0
+Current Market 1.30x < 1.00x 1.30x > 1.90x
+As if using a 25 year Amortization Period -0.75 x 1.0
+Current Market 1.30x < 1.00x 1.30x > 1.90x
+If largest (by rent) tenant vacated 0.44 x 1.0
+Current Market 1.30x < 1.00x 1.30x > 1.90x
+Loan-to-Value 57.8% 4.2
+> 80.0% 70.0% < 50.0%
+Loan amount ([COMPANY]) as % of replacement cost $93 psf 21% 5.0
+$448 psf > 150.0% 100.0% < 50.0%
+Stress Testing
+Breakeven cap rate to reach 100% [COMPANY] (debt yield) 11.2% 5.0
+6.5% < 0 BPS 200 BPS > 400 BPS
+Breakeven vacancy to reach 1.0x [COMPANY] 38.8% 4.8
+< 10.0% 25.0% > 40.0%
+Remaining Loan Term 3.00 years 5.0
+>20 12.5 5
+[COMPANY] vs. [COMPANY] (OSB @ Maturity & DSCR @ Current Market)
+Using Current Year Net Operating Income 7.22% 2.3
+Current Market 5.55% < 5.5% 8.0% > 10.5%
+[COMPANY] 8.02% 3.0
+Current Market 5.55% < 5.5% 8.0% > 10.5%
+Deal Complexity Adjustments
+[COMPANY]
+Prime N -0.2
+[COMPANY] adjustment Enter reason 0.0
+Deal Sub-Total BB 3.1
+ESG
+People ESG Factors
+Experience, reputation, history X 5.0
+Decision making process X 5.0
+Organizational structure and succession plan X 5.0
+Transparency X 5.0
+Sponsor's [COMPANY] X 5.0
+Property ESG Factors
+Environmental assessment and building condition X 3.0
+Nature of tenant business x 3.0
+Community perception x 3.0
+[COMPANY] vs. [COMPANY] 3.0
+[COMPANY] ESG 3.0
+[COMPANY] score 98 5.0
+<50 >=90
+[COMPANY] A 4.1
+Total Score 70 [COMPANY] Sunday, March 1, 2026
+Property: 109 [COMPANY]: [COMPANY]: 109 [PERSON], Toronto Fund: CMF
+Description: Three-storey brick-and-beam office building
+[COMPANY]: [COMPANY] (“Sun Life”) (as to a 50% interest) and HM PC (109 George) Ltd. (“HM PC GP”) (as to a 50% interest), on a separate and several basis, without duplication, each as to a 50% interest.
+Guarantor(s): [COMPANY] ($2.28mm) & Sun Life ($4.56mm)
+[COMPANY] (sq.ft.) [COMPANY] by Current Year Base Rent
+35,000 $600,000
+64.5%
+30,000 55.5%
+$500,000
+25,000
+$400,000
+20,000
+15,000 $300,000 28.6%
+10,000 20.6% $200,000
+5,000 5.4% 9.4% $100,000 5.8% 10.1%
+Vacant 2026 2027 2028 2029 2030 2031 2032 2033 2034 2035 2036+ $0
+[COMPANY] > 10,000 Office < 10,000 Basement Broadview Software (Incoming Tenant) [COMPANY] Acrachnittects2026Office >2 1002,0700 20O2ff8ice < 102,000209 B2as0e3m0ent 20B3r1oadview2 S0o3ft2ware (In2c0om3i3ng Tena2n0t)34 2035 2036+
+Projected 2026
+[COMPANY] +/- 0.25%
+Loan-to-Value per
+Tenant Type Area (sf) Annual $ /sf % 6.25% 6.50% 6.75% 7.00% 7.25%
+[COMPANY] 10,120 20.6% $263,120 $26.00 28.6% $8,208,833 $7,893,108 $7,600,771 $7,329,315 $7,076,580
+Office > 10,000 0 0.0% $0 $0.00 0.0% 1st 2nd Total per sf $167 $161 $155 $149 $144
+Office < 10,000 2,669 5.4% $53,380 $20.00 5.8% $5,018,750 $0 $5,018,750 $102 61.1% 63.6% 66.0% 68.5% 70.9%
+Basement 0 0.0% $0 $0.00 0.0% $4,790,625 $0 $4,790,625 $98 58.4% 60.7% 63.0% 65.4% 67.7%
+[COMPANY] ([COMPANY] 4,622 9.4% $92,440 $20.00 10.1% $4,562,500 $0 $4,562,500 $93 55.6% 57.8% 60.0% 62.3% 64.5%
+0 0.0% $0 $0.00 0.0% $4,334,375 $0 $4,334,375 $88 52.8% 54.9% 57.0% 59.1% 61.2%
+0 0.0% $0 $0.00 0.0% $4,106,250 $0 $4,106,250 $84 50.0% 52.0% 54.0% 56.0% 58.0%
+0 0.0% $0 $0.00 0.0%
+Vacant 31,628 64.5% $509,860 $16.12 55.5% [COMPANY] 49,039 100.0% $918,800 $18.74 100.0% Loan-to-Value 6.25% 6.50% 6.75% 7.00% 7.25%
+at Maturity
+$8,804,436 $8,465,804 $8,152,255 $7,861,103 $7,590,031
+Recoveries & Other Revenue $725,460 $14.79 1st 2nd Total per sf $179.54 $173 $166 $160 $155
+Vacancy Allowance ( 22.3% ) $366,883 $7.48 $5,018,750 $0 $5,018,750 $102 57.0% 59.3% 61.6% 63.8% 66.1%
+Net Revenue $1,277,377 $26.05 $4,790,625 $0 $4,790,625 $98 54.4% 56.6% 58.8% 60.9% 63.1%
+Expenses $747,883 $15.25 $4,562,500 $0 $4,562,500 $93 51.8% 53.9% 56.0% 58.0% 60.1%
+[COMPANY] $0 $0.00 $4,334,375 $0 $4,334,375 $88 49.2% 51.2% 53.2% 55.1% 57.1%
+[COMPANY] ( 1.0% ) $16,443 $0.34 $4,106,250 $0 $4,106,250 $84 46.6% 48.5% 50.4% 52.2% 54.1%
+Net Operating Income $513,052 $10.46
+[COMPANY] (Vacancy as % of Gross Revenue)
+Loan Amount +/- 5% Income +/- 5% [CITY]
+Tenant Type Count Mix $ Amt Vacanc % y of [PERSON]. [PERSON] $5 1 ,0 s 1 t 8,750 2nd $0 $ T 5, o 0 t 1 a 8 l ,750 $538 2 ,7 .0 0 3 5 $513 1 ,0 .9 5 3 2 $487 1 ,3 .8 9 4 9 $461 1 ,7 .7 4 4 7 $436 1 ,0 .6 9 4 4 per s $ f 5.75 Vac 3 a 7 n .4 c % y
+[COMPANY] 1 21% - 0.0% National 26.5% $4,790,625 $0 $4,790,625 2.13 2.02 1.92 1.82 1.72 $5.50 38.1%
+Office > 10,000 1 25% 245,840 48.2% Regional 0.0% $4,562,500 $0 $4,562,500 2.23 2.13 2.02 1.91 1.81 $5.26 38.8%
+Office < 10,000 2 20% 141,320 27.7% Local 73.5% $4,334,375 $0 $4,334,375 2.35 2.24 2.13 2.01 1.90 $5.01 39.6%
+Basement 2 25% 122,700 24.1% $4,106,250 $0 $4,106,250 2.48 2.36 2.24 2.13 2.01 $4.76 40.3%
+[COMPANY] (Incom 1 9% - 0.0%
+0 0% - 0.0% Debt Service Coverage Ratio (Vacancy per Rent Roll)
+0 0% - 0.0% Loan Amount +/- 5% Income +/- 5%
+0 0% - 0.0% 1st 2nd Total -$469,157 -$446,816 -$424,475 -$402,134 -$379,793
+Total 7 100% 509,860 100.0% $5,018,750 $0 $5,018,750 -1.77 -1.68 -1.60 -1.51 -1.43
+$4,790,625 $0 $4,790,625 -1.85 -1.76 -1.68 -1.59 -1.50
+$4,562,500 $0 $4,562,500 -1.94 -1.85 -1.76 -1.67 -1.57
+Annual Debt $4,334,375 $0 $4,334,375 [COMPANY] -1.95 -1.85 -1.75 -1.66
+Mortgage Amount Term [PERSON]. [PERSON] I/O Only
+Service $4,106,250 $0 $4,106,250 -2.16 -2.06 -1.95 -1.85 -1.75
+CMF $4,562,500 $241,307 3 yrs Mar-29 I/O 2.50% 5.35% .0 yrs
+$0 $0 I/O 0.00% 0.00% .0 yrs
+Total $4,562,500 $241,307
+per sf $93 psf $5 psf
+MATURITY STRESS TEST MATURITY STRESS TEST
+Maturity Year NOI +/- 5%
+Loan-to-Value at Maturity DSCR at [COMPANY] to Meet 70% [COMPANY] +/- 0.50% Interest Rate +/- 0.50% [COMPANY] to Meet 1.3x DSCR
+% of Base Case $
+6.00% 6.50% 7.00% 7.50% 6.00% 6.50% 7.00% 7.50% 5.05% 5.55% 6.05% 6.55% 5.05% 5.55% 6.05% 6.55%
+$0 $0 $0 $0 55.3% 59.9% 64.5% 69.1% 90% $495,250 1.55 1.48 1.41 1.34 $0 $0 $0 $0
+$0 $0 $0 $0 52.4% 56.7% 61.1% 65.5% 95% $522,763 1.63 1.56 1.49 1.42 $0 $0 $0 $0
+$0 $0 $0 $0 49.7% 53.9% 58.0% 62.2% 100% $550,277 1.72 1.64 1.56 1.49 $0 $0 $0 $0
+$0 $0 $0 $0 47.4% 51.3% 55.3% 59.2% 105% $577,791 1.81 1.72 1.64 1.57 $0 $0 $0 $0
+$0 $0 $0 $0 45.2% 49.0% 52.8% 56.5% 110% $605,305 1.89 1.80 1.72 1.64 $0 $0 $0 $0
+Property: 109 [COMPANY]: [COMPANY]: 109 [PERSON], [COMPANY]: CMF
+Description: Three-storey brick-and-beam office building Year Built: 1920
+Borrower: [COMPANY] (“Sun Life”) (as to a 50% interest) and HM PC (109 George) Ltd. (“HM PC GP”) (as to a 50% Z oning: TBC
+Guarantor(s): [COMPANY] ($2.28mm) & Sun Life ($4.56mm) Broker: Direct - [PERSON]
+$ 1 ,140,625 $ 2,281,250 Originator: MP
+Analyst: Arkend Hyseni
+Assumptions: Renewal Downtime Market rent /Unit
+[PERSON] Type Space Use
+Probability (months) /sf /mo
+[COMPANY] 5 yrs [COMPANY] 75% 12 $23.00 - External Valuation: Value /sf Date Company
+Office > 10,000 10 yrs [COMPANY] 75% 21 $20.00 - Purchase Price: $18,250,000 $372 Nov-21 [COMPANY] < 10,000 5 yrs [COMPANY] 75% 18 $20.00 - Appraisal: $20,000,000 $408 Dec-21 CBRE
+Basement 5 yrs [COMPANY] 75% 21 $10.00 - Broker / Assessed:
+[COMPANY] ([PERSON]) 5 yrs [COMPANY] 75% 0 $20.00 -
+Rent Roll as of: December 31, 2025
+Current rent [COMPANY] Gross Potential Base Rent Actual
+Unit # [PERSON] Start Maturity Area (sf)
+/sf Date /sf Options Rights Other Annual /sf % In-Place
+100, 101 [COMPANY] 2,669 $ 2 0.00 Net $ 53,380 $ 20.00 5.8% Office $ 53,380
+102 [COMPANY] L MT 31-Jan-22 31-May-32 10,120 $ 2 3.00 31-May-26 $ 27.00 1 x 5 yrs [CITY] in 2030 wit Net $ 263,120 $ 26.00 28.6% Office $ 232,760
+201 Broadview Software (Incoming Dec'26) N BS 1-Mar-26 30-Nov-31 4,622 $ 2 0.00 1 x 5 yrs Net $ 92,440 $ 20.00 10.1% Office
+202 Vacant L SO 1-Mar-26 1-Mar-26 7,066 $ 2 0.00 1-Mar-26 $ 20.00 $ 141,320 $ 20.00 15.4% Office $ -
+301 [COMPANY] $ 2 0.00 1-Mar-26 $ 20.00 $ 245,840 $ 20.00 26.8% Office $ -
+B01 Vacant L B 1-Mar-26 1-Mar-26 1,582 $ 1 0.00 1-Mar-26 $ 10.00 $ 15,820 $ 10.00 1.7% Office $ -
+[COMPANY]-Mar-26 10,688 $ 1 0.00 1-Mar-26 $ 10.00 $ 106,880 $ 10.00 11.6% Office $ -
+- $ - $ - $ -
+- $ - $ - $ -
+- $ - $ - $ -
+Count : 7 49,039 $ 918,800 100.0% $ 286,140
+[PERSON] ($) 4,562,500 $ 2 1.74/sf ([PERSON]. in-place rent /yr - commercial) $ 1 8.74/sf
+1st Mortgage 16-Mar-26 Recoveries
+Provided by: [COMPANY] $4,562,500 $93 psf Operating Expenses $223,885 $4.57 $211,602
+Term Term GoC 3.0 yrs Property Taxes $309,994 $6.32
+Amortization (0 yrs for I/O) 2 2.73% .0 yrs [COMPANY] $118,273 $2.41
+Funding Date 3 2.85% 1-Mar-2026 Management Fee $40,995 $0.84
+[COMPANY] 4 2.94% 1-Mar-2029 GoC / Prime? Other Income
+GOC Bond Rate 5 3.05% 2.848% [COMPANY] stalls @ per month $32,313 $0.66 $9,300
+[COMPANY] 6 3.14% 2.500% [COMPANY] area (sf) per annum $0.00 $0
+All-In Coupon 7 3.24% 5.348% Signage $0.00 -
+# of [COMPANY] Interest Only 8 3.31% Miscellaneous $0.00 -
+9 3.38% Gross Revenue $1,644,260 $33.53 $507,042
+2nd Mortgage 10 3.46% Vacancy 22.3% of Gross Revenue : $366,883
+Provided by: Core 80.7% Per Rent Roll : $1,326,751 $366,883 $7.48
+Term Effective Gross Income $1,277,377 $26.05
+Amortization (0 yrs for I/O)
+Funding Date Expenses 2026 Budget
+Maturity Date GoC / Prime? a Operating Expenses $223,885 $4.57 $223,885
+GOC Bond Rate Property Taxes $309,994 $6.32 $309,994
+[COMPANY] $118,273 $2.41 $118,273
+All-In Coupon 0.000% Management Fee 2.50% $41,107 $0.84 $41,107
+# of Years Interest Only Miscellaneous $54,624 $1.11 $54,624
+Total Expenses $747,883 $15.25 58.5% $747,883
+[COMPANY] as at Q3 2025 Stab. [PERSON] 6.50% 6.50% [COMPANY] $0 $0.00 $0
+[COMPANY] 2.00% Capital Reserves Percent of Gross Revenue 1.00% $16,443 $0.34 $5,070
+Recoveries Growth 3.50% Net Operating Income $513,052 $10.46 -$245,911
+Expense Growth 3.50%
+Debt Service Coverage Ratio 1.30 x 1st Mortgage Annual Debt Service - CMF $241,307 $4.92 DSCR (1.02x)
+Loan-to-Value 70.0% [COMPANY] $0.00 Net CF -$487,217
+Interest Rate 5 Year GoC + 2.50% 5.55% Net Cash Flow $271,745 $5.54
+Amortization 25 yrs
+Fee Summary Metrics Summary Underwriting
+Amount Percentage ACM Underwritten Value $7,893,108 [COMPANY] /sf $161
+Processing Fee $0 Loan to ACM Value 57.8% Loan to Purchase Price 25.0%
+Commitment Fee $0 DSC on Underwritten NOI 2.13 x Loan to Appraisal 22.8%
+Risk Rating Score 70 [COMPANY] (Current Year NOI) 7.22%
+[PERSON] rate for 100% [COMPANY] 11.24% [COMPANY]Maturity Year NOI) 8.02%
+[COMPANY] $5.26 psf [COMPANY] @ Maturity 53.9%
+Amount ($) Breakeven Vacancy 39% [COMPANY] $4,562,500
+Term [COMPANY] 6.50% ACM OSB /sf @ Maturity $93
+Amortization (0 yrs for I/O) Year 3 [COMPANY] $550,277 Duration 2.6 yrs
+[COMPANY] Year 3 DSCR 2.28x Combined OSB @ Yr 3 1-Mar-29 $0
+Processing Fee ($) Value @ Year 0 [COMPANY] Current Cap $8,465,804 [COMPANY] @ Year 3 [COMPANY] 0.0%
+[CITY]
+HCUOT
+TONOD
