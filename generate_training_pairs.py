@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 
 # ---- Config ----
 load_dotenv()
-CLEANED_DIR  = Path("data/cleaned")
+CLEANED_DIR  = Path("data/anonymized")
 TRAINING_DIR = Path("data/training")
 TRAINING_DIR.mkdir(parents=True, exist_ok=True)
 
