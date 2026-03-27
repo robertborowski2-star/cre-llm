@@ -51,22 +51,31 @@ def scrape_renx():
 def scrape_storeys():
     articles = []
     try:
-        response = requests.get('https://storeys.com/category/commercial/', headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(response.content, 'html.parser')
-        cards = soup.find_all('article', limit=30)
-        for card in cards:
-            title_elem = card.find('h2') or card.find('h3')
-            if not title_elem:
+        response = requests.get('https://storeys.com/feed/', headers=HEADERS, timeout=15)
+        soup = BeautifulSoup(response.content, 'lxml-xml')
+        items = soup.find_all('item', limit=30)
+        for item in items:
+            title_elem = item.find('title')
+            link_elem  = item.find('link')
+            desc_elem  = item.find('description')
+            if not title_elem or not link_elem:
                 continue
-            link_elem = title_elem.find('a')
-            if not link_elem:
-                continue
-            title = title_elem.get_text(strip=True)
-            link  = link_elem.get('href', '')
-            if title and link:
-                articles.append({'title': title, 'url': link, 'source': 'Storeys'})
+            title = title_elem.text.strip()
+            link  = link_elem.text.strip()
+            # get content directly from RSS — no need to fetch URL
+            content = desc_elem.text.strip() if desc_elem else ""
+            # strip HTML tags from RSS content
+            content_soup = BeautifulSoup(content, 'html.parser')
+            clean_text = content_soup.get_text(separator=' ', strip=True)
+            if title and link and len(clean_text) > 200:
+                articles.append({
+                    'title':   title,
+                    'url':     link,
+                    'source':  'Storeys',
+                    'content': clean_text[:10000]  # pre-fetched content
+                })
     except Exception as e:
-        print(f"Storeys error: {e}")
+        print(f"Storeys RSS error: {e}")
     return articles
 
 def scrape_commercial_realestate_ca():
@@ -174,8 +183,8 @@ def run():
     for article in new_articles:
         print(f"\n{article['source']}: {article['title'][:60]}...")
 
-        # fetch full text
-        text = fetch_article_text(article['url'])
+        # use pre-fetched content if available (RSS), otherwise fetch
+        text = article.get('content') or fetch_article_text(article['url'])
         if not text or len(text) < 200:
             print("  ✗ Too short or failed to fetch")
             continue
