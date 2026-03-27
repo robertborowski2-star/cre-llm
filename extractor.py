@@ -121,7 +121,7 @@ def run():
         existing = []
         already_done = set()
 
-    files = list(RAW_DIR.iterdir())
+    files = list(RAW_DIR.rglob('*'))
     if not files:
         print("No files found in data/raw/")
         print("Drop some PDFs or Word docs in there and run again.")
